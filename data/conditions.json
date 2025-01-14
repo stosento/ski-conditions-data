@@ -1,36 +1,36 @@
 {
-  "timestamp": "2025-01-14T02:10:42.993Z",
+  "timestamp": "2025-01-14T14:30:45.445Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1736820000000,
-          "temp": 15,
-          "snowfall": 70,
-          "shortForecast": "Chance Snow Showers"
-        },
-        {
-          "name": "Tuesday",
-          "timestamp": 1736852400000,
+          "name": "Today",
+          "timestamp": 1736863200000,
           "temp": 20,
-          "snowfall": 70,
-          "shortForecast": "Chance Snow Showers"
+          "snowfall": 80,
+          "shortForecast": "Snow Showers"
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1736895600000,
           "temp": 14,
-          "snowfall": 30,
-          "shortForecast": "Scattered Snow Showers"
+          "snowfall": 0,
+          "shortForecast": "Isolated Snow Showers"
         },
         {
           "name": "Wednesday",
           "timestamp": 1736938800000,
-          "temp": 24,
+          "temp": 23,
           "snowfall": 0,
           "shortForecast": "Isolated Snow Showers then Partly Sunny"
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1736982000000,
+          "temp": 12,
+          "snowfall": 0,
+          "shortForecast": "Mostly Cloudy then Isolated Snow Showers"
         }
       ]
     },
@@ -38,24 +38,17 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1736820000000,
-          "temp": 15,
-          "snowfall": 90,
-          "shortForecast": "Snow Showers And Patchy Blowing Snow"
-        },
-        {
-          "name": "Tuesday",
-          "timestamp": 1736852400000,
+          "name": "Today",
+          "timestamp": 1736863200000,
           "temp": 24,
-          "snowfall": 80,
-          "shortForecast": "Snow Showers And Patchy Blowing Snow"
+          "snowfall": 60,
+          "shortForecast": "Chance Snow Showers"
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1736895600000,
-          "temp": 17,
-          "snowfall": 40,
+          "temp": 18,
+          "snowfall": 60,
           "shortForecast": "Chance Snow Showers"
         },
         {
@@ -64,6 +57,13 @@
           "temp": 25,
           "snowfall": 50,
           "shortForecast": "Chance Snow Showers"
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1736982000000,
+          "temp": 21,
+          "snowfall": 80,
+          "shortForecast": "Snow Showers"
         }
       ]
     }
@@ -75,16 +75,16 @@
     }
   },
   "nubsNob": {
-    "date": "1/13/25",
+    "date": "1/14/25",
     "liftsOpen": "5 Lifts and the Rope Tow",
-    "xcTrails": "Trails are covered in snow this morning. We plan to power till and groom all trails by the afternoon.",
+    "xcTrails": "Trails were power-tilled with a track set yesterday. We plan to groom again today.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM",
-    "comments": "BOOM! A surprise lake effect snow storm came in this morning and left us with 9\" of fresh snow! The Grooming Crew is doing a second groom this morning to make it possible to move around the ski area. Much of the fresh snow will be left untouched on the steep runs. The lifts will spin from 9 AM to 4:30 PM today. Make it a great POWDER DAY at Nub's Nob.",
+    "comments": "Today is another day where being on skis is the thing to do. Lake effect bands continued to fall on the ski area through last night, dropping another five inches of snow. Most beginner terrain was re-groomed first thing this morning, with 3-4\" of powder on top of most intermediate and advanced terrain. The lifts will spin from 9:00 AM to 9:00 PM today with an hour break beginning at 4:30 to prepare for the night session. Bahnhof Race League kicks off tonight on Birch Run. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "9\"",
-      "threeDays": "3 days: 11\"",
-      "sevenDays": "7 days: 11\"",
-      "ytd": "YTD: 54\""
+      "daily": "5\"",
+      "threeDays": "3 days: 16\"",
+      "sevenDays": "7 days: 16\"",
+      "ytd": "YTD: 59\""
     }
   }
 }
