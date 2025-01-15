@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-01-15T02:32:58.214Z",
+  "timestamp": "2025-01-15T02:48:57.908Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1736902800000,
+          "timestamp": 1736906400000,
           "temp": 14,
           "snowfall": 20,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1736902800000,
+          "timestamp": 1736906400000,
           "temp": 19,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. Low around 19, with temperatures rising to around 21 overnight. Northwest wind 10 to 15 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers likely. Mostly cloudy. Low around 19, with temperatures rising to around 21 overnight. Northwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Wednesday",
@@ -91,9 +91,16 @@
     }
   },
   "nubsNob": {
-    "snowfall24h": "",
-    "baseDepth": "",
-    "openRuns": "",
-    "surfaceConditions": ""
+    "date": "1/14/25",
+    "liftsOpen": "5 Lifts and the Rope Tow",
+    "xcTrails": "Trails were power-tilled with a track set yesterday. We plan to groom again today.",
+    "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM",
+    "comments": "Today is another day where being on skis is the thing to do. Lake effect bands continued to fall on the ski area through last night, dropping another five inches of snow. Most beginner terrain was re-groomed first thing this morning, with 3-4\" of powder on top of most intermediate and advanced terrain. The lifts will spin from 9:00 AM to 9:00 PM today with an hour break beginning at 4:30 to prepare for the night session. Bahnhof Race League kicks off tonight on Birch Run. Make it a great day at Nub's Nob.",
+    "snowData": {
+      "daily": "5\"",
+      "threeDays": "3 days: 16\"",
+      "sevenDays": "7 days: 16\"",
+      "ytd": "YTD: 59\""
+    }
   }
 }
