@@ -1,170 +1,344 @@
-// fetchData.js
-const axios = require('axios');
-const cheerio = require('cheerio');
-const { Octokit } = require('@octokit/rest');
+require("dotenv").config();
+const axios = require("axios");
+const cheerio = require("cheerio");
+const { Octokit } = require("@octokit/rest");
+
+// Verify required environment variables
+const requiredEnvVars = ["GITHUB_TOKEN", "GITHUB_OWNER", "GITHUB_REPO"];
+const missingEnvVars = requiredEnvVars.filter(
+  (varName) => !process.env[varName],
+);
+
+if (missingEnvVars.length > 0) {
+  console.error(
+    "Missing required environment variables:",
+    missingEnvVars.join(", "),
+  );
+  process.exit(1);
+}
 
 // Location coordinates for NWS API
 const LOCATIONS = {
-    shelbyTownship: {
-        gridId: 'DTX',
-        gridX: 65,
-        gridY: 49,
-        name: 'Shelby Township'
-    },
-    harborSprings: {
-        gridId: 'APX',
-        gridX: 108,
-        gridY: 77,
-        name: 'Harbor Springs'
-    }
+  shelbyTownship: {
+    lat: 42.6711,
+    lon: -83.0328,
+    name: "Shelby Township",
+  },
+  harborSprings: {
+    lat: 45.4319,
+    lon: -84.9928,
+    name: "Harbor Springs",
+  },
 };
+
+const dns = require("dns").promises;
+
+// Utility function for checking DNS resolution
+async function checkDns(hostname) {
+  try {
+    await dns.lookup(hostname);
+    return true;
+  } catch (error) {
+    console.error(`DNS lookup failed for ${hostname}:`, error.message);
+    return false;
+  }
+}
 
 // Utility function for retrying failed requests
 async function fetchWithRetry(fn, retries = 3) {
-    for (let i = 0; i < retries; i++) {
-        try {
-            return await fn();
-        } catch (err) {
-            if (i === retries - 1) throw err;
-            await new Promise(r => setTimeout(r, 1000 * Math.pow(2, i)));
-            console.log(`Retry ${i + 1}/${retries}`);
-        }
+  for (let i = 0; i < retries; i++) {
+    try {
+      return await fn();
+    } catch (err) {
+      if (i === retries - 1) throw err;
+      await new Promise((r) => setTimeout(r, 1000 * Math.pow(2, i)));
+      console.log(`Retry ${i + 1}/${retries}`);
     }
+  }
 }
 
 async function getWeatherData() {
-    const weatherData = {};
+  // Check if weather.gov is accessible
+  if (!(await checkDns("api.weather.gov"))) {
+    console.error(
+      "Cannot resolve api.weather.gov - check your internet connection",
+    );
+    return {};
+  }
 
-    for (const [locationKey, location] of Object.entries(LOCATIONS)) {
-        const response = await fetchWithRetry(() =>
-            axios.get(
-                `https://api.weather.gov/gridpoints/${location.gridId}/${location.gridX},${location.gridY}/forecast`,
-                {
-                    headers: {
-                        'User-Agent': '(ski-conditions-app, your-email@example.com)'
-                    }
-                }
-            )
-        );
+  const weatherData = {};
 
-        weatherData[locationKey] = {
-            name: location.name,
-            forecast: response.data.properties.periods
-                .slice(0, 4)
-                .map(period => ({
-                    name: period.name,
-                    timestamp: new Date(period.startTime).getTime(),
-                    temp: period.temperature,
-                    snowfall: period.probabilityOfPrecipitation.value || 0,
-                    shortForecast: period.shortForecast
-                }))
-        };
+  for (const [locationKey, location] of Object.entries(LOCATIONS)) {
+    try {
+      console.log(`Fetching weather for ${location.name}...`);
+
+      // First, verify the point
+      const pointResponse = await fetchWithRetry(() =>
+        axios.get(
+          `https://api.weather.gov/points/${location.lat},${location.lon}`,
+          {
+            headers: {
+              "User-Agent": "(ski-conditions-app, stephen.osentoski@gmail.com)",
+            },
+          },
+        ),
+      );
+
+      const forecastUrl = pointResponse.data.properties.forecast;
+      const hourlyForecastUrl = forecastUrl.replace(
+        "/forecast",
+        "/forecast/hourly",
+      );
+
+      console.log(
+        `Fetching forecasts from: ${forecastUrl} and ${hourlyForecastUrl}`,
+      );
+
+      // Get both regular forecast and hourly forecast for snow accumulation
+      const [forecastResponse, hourlyResponse] = await Promise.all([
+        fetchWithRetry(() =>
+          axios.get(forecastUrl, {
+            headers: {
+              "User-Agent": "(ski-conditions-app, stephen.osentoski@gmail.com)",
+            },
+          }),
+        ),
+        fetchWithRetry(() =>
+          axios.get(hourlyForecastUrl, {
+            headers: {
+              "User-Agent": "(ski-conditions-app, stephen.osentoski@gmail.com)",
+            },
+          }),
+        ),
+      ]);
+
+      // Process the regular forecast periods
+      const processedForecasts = forecastResponse.data.properties.periods
+        .slice(0, 4)
+        .map((period) => {
+          // Get the time range for this period
+          const startTime = new Date(period.startTime);
+
+          const snowString = "New snow accumulation";
+          // Check if the detailedForecast incluses snowString. If so, take the final sentence from the detailedForcast and store it within snowAmount
+          let snowAccumulation = "";
+
+          // If detailed forecast mentions snow accumulation, extract that information
+          if (period.detailedForecast.includes(snowString)) {
+            const sentences = period.detailedForecast.split(".");
+            const snowSentence = sentences.find((s) => s.includes(snowString));
+            if (snowSentence) {
+              snowAccumulation = snowSentence.trim();
+            }
+          }
+
+          // Return the processed forecast data
+          return {
+            name: period.name,
+            timestamp: startTime.getTime(),
+            temp: period.temperature,
+            snowfall: period.probabilityOfPrecipitation.value || 0,
+            snowAmount: snowAccumulation,
+            shortForecast: period.shortForecast,
+            detailedForecast: period.detailedForecast,
+          };
+        });
+
+      weatherData[locationKey] = {
+        name: location.name,
+        forecast: processedForecasts,
+      };
+    } catch (error) {
+      console.error(
+        `Error fetching weather for ${location.name}:`,
+        error.message,
+      );
+      if (error.response) {
+        console.error("Error response:", error.response.data);
+      }
+
+      // Add placeholder data for this location
+      weatherData[locationKey] = {
+        name: location.name,
+        forecast: [
+          {
+            name: "Unavailable",
+            timestamp: new Date().getTime(),
+            temp: null,
+            snowfall: null,
+            snowAmount: "0.0",
+            shortForecast: "Weather data temporarily unavailable",
+          },
+        ],
+      };
     }
+  }
 
-    return weatherData;
+  return weatherData;
 }
 
 async function getNordicSkiRacerConditions() {
-    const response = await fetchWithRetry(() =>
-        axios.get('https://nordicskiracer.com/ski-trail-conditions.asp?Region=13')
+  const response = await fetchWithRetry(() =>
+    axios.get("https://nordicskiracer.com/ski-trail-conditions.asp?Region=13"),
+  );
+  const $ = cheerio.load(response.data);
+
+  const relevantLocations = [
+    "Nubs Nob",
+    "Huron Meadows Metropark",
+    "Stoney Creek",
+  ];
+  const conditions = {};
+
+  // Find all h4 elements
+  $("h4").each((i, header) => {
+    const headerText = $(header).text().trim();
+    // Split on colon and look for location after it
+    const parts = headerText.split(":");
+    if (parts.length < 2) return;
+
+    const dateSection = parts[0].trim();
+    const locationSection = parts[1].trim();
+
+    const relevantLocation = relevantLocations.find((location) =>
+      locationSection.toLowerCase().includes(location.toLowerCase()),
     );
-    const $ = cheerio.load(response.data);
 
-    const relevantLocations = ['Nubs Nob', 'Huron Meadows Metropark'];
-    const conditions = {};
+    if (relevantLocation && !conditions[relevantLocation]) {
+      // Get the first paragraph after this h4
+      const reportText = $(header).nextAll("p").first().text().trim();
 
-    $('table tr').each((i, row) => {
-        const location = $(row).find('td:first-child').text().trim();
-        if (relevantLocations.includes(location)) {
-            conditions[location] = {
-                lastUpdated: $(row).find('td:nth-child(2)').text().trim(),
-                conditions: $(row).find('td:nth-child(3)').text().trim()
-            };
-        }
-    });
+      conditions[relevantLocation] = {
+        lastUpdated: dateSection,
+        conditions: reportText,
+      };
+    }
+  });
 
-    return conditions;
+  console.log("Parsed Nordic conditions:", conditions);
+  return conditions;
 }
 
 async function getNubsNobConditions() {
-    const response = await fetchWithRetry(() =>
-        axios.get('https://www.nubsnob.com/conditions-tables/')
-    );
-    const $ = cheerio.load(response.data);
+  const response = await fetchWithRetry(() =>
+    axios.get("https://www.nubsnob.com/conditions-tables/"),
+  );
+  const $ = cheerio.load(response.data);
 
-    const conditions = {
-        snowfall24h: $('.conditions-snow24').text().trim(),
-        baseDepth: $('.conditions-base').text().trim(),
-        openRuns: $('.conditions-runs-open').text().trim(),
-        surfaceConditions: $('.conditions-surface').text().trim()
+  // Helper function to find value for a given label
+  const getValueByLabel = (label) => {
+    const value = $(".glm-conditions-record.flex")
+      .filter((_, el) => {
+        const cells = $(el).find(".conditions-cell");
+        const firstCell = $(cells[0]).text().trim();
+        return firstCell === label;
+      })
+      .find(".conditions-cell")
+      .eq(1) // Get the second cell
+      .text()
+      .trim();
+    return value || "";
+  };
+
+  // Helper function for snow data which has multiple cells
+  const getSnowData = () => {
+    const snowRecord = $(".glm-conditions-record.flex").filter((_, el) => {
+      const cells = $(el).find(".conditions-cell");
+      const firstCell = $(cells[0]).text().trim();
+      return firstCell === "New Snow since yesterday:";
+    });
+
+    if (snowRecord.length) {
+      const cells = snowRecord.find(".conditions-cell");
+      return {
+        daily: $(cells[1]).text().trim(),
+        threeDays: $(cells[2]).text().trim(),
+        sevenDays: $(cells[3]).text().trim(),
+        ytd: $(cells[4]).text().trim(),
+      };
+    }
+    return {
+      daily: "",
+      threeDays: "",
+      sevenDays: "",
+      ytd: "",
     };
+  };
 
-    return conditions;
+  const conditions = {
+    date: getValueByLabel("Date:"),
+    liftsOpen: getValueByLabel("Lifts Open:"),
+    xcTrails: getValueByLabel("XC Trail System:"),
+    nightSkiing: getValueByLabel("Night Skiing:"),
+    comments: getValueByLabel("Comments:"),
+    snowData: getSnowData(),
+  };
+
+  return conditions;
 }
 
 async function updateGitHubData(data) {
-    const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-    const path = 'data/conditions.json';
+  const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+  const path = "data/conditions.json";
 
-    // Get the current file's SHA (needed for update)
-    let sha;
-    try {
-        const { data: fileData } = await octokit.repos.getContent({
-            owner: process.env.GITHUB_OWNER,
-            repo: process.env.GITHUB_REPO,
-            path: path,
-        });
-        sha = fileData.sha;
-    } catch (error) {
-        // File doesn't exist yet, that's OK
-        console.log('File does not exist yet, will create it');
-    }
-
-    // Update or create the file
-    await octokit.repos.createOrUpdateFileContents({
-        owner: process.env.GITHUB_OWNER,
-        repo: process.env.GITHUB_REPO,
-        path: path,
-        message: 'Update conditions data',
-        content: Buffer.from(JSON.stringify(data, null, 2)).toString('base64'),
-        sha: sha
+  // Get the current file's SHA (needed for update)
+  let sha;
+  try {
+    const { data: fileData } = await octokit.repos.getContent({
+      owner: process.env.GITHUB_OWNER,
+      repo: process.env.GITHUB_REPO,
+      path: path,
     });
+    sha = fileData.sha;
+  } catch (error) {
+    // File doesn't exist yet, that's OK
+    console.log("File does not exist yet, will create it");
+  }
+
+  // Update or create the file
+  await octokit.repos.createOrUpdateFileContents({
+    owner: process.env.GITHUB_OWNER,
+    repo: process.env.GITHUB_REPO,
+    path: path,
+    message: "Update conditions data",
+    content: Buffer.from(JSON.stringify(data, null, 2)).toString("base64"),
+    sha: sha,
+  });
 }
 
 async function notifyError(error) {
-    if (process.env.DISCORD_WEBHOOK) {
-        try {
-            await axios.post(process.env.DISCORD_WEBHOOK, {
-                content: `Error updating ski conditions: ${error.message}\n\`\`\`${error.stack}\`\`\``
-            });
-        } catch (notifyError) {
-            console.error('Failed to send error notification:', notifyError);
-        }
+  if (process.env.DISCORD_WEBHOOK) {
+    try {
+      await axios.post(process.env.DISCORD_WEBHOOK, {
+        content: `Error updating ski conditions: ${error.message}\n\`\`\`${error.stack}\`\`\``,
+      });
+    } catch (notifyError) {
+      console.error("Failed to send error notification:", notifyError);
     }
+  }
 }
 
 async function main() {
-    try {
-        console.log('Starting data fetch:', new Date().toLocaleString());
+  try {
+    console.log("Starting data fetch:", new Date().toLocaleString());
 
-        const data = {
-            timestamp: new Date().toISOString(),
-            weather: await getWeatherData(),
-            nordicConditions: await getNordicSkiRacerConditions(),
-            nubsNob: await getNubsNobConditions()
-        };
+    const data = {
+      timestamp: new Date().toISOString(),
+      weather: await getWeatherData(),
+      nordicConditions: await getNordicSkiRacerConditions(),
+      nubsNob: await getNubsNobConditions(),
+    };
 
-        await updateGitHubData(data);
-        console.log('Data updated successfully');
-
-    } catch (error) {
-        console.error('Error updating data:', error);
-        await notifyError(error);
-        process.exit(1);
-    }
+    await updateGitHubData(data);
+    console.log("Data updated successfully");
+  } catch (error) {
+    console.error("Error updating data:", error);
+    await notifyError(error);
+    process.exit(1);
+  }
 }
 
 // Run if called directly
 if (require.main === module) {
-    main();
+  main();
 }
