@@ -178,45 +178,89 @@ async function getWeatherData() {
 }
 
 async function getNordicSkiRacerConditions() {
-  const response = await fetchWithRetry(() =>
-    axios.get("https://nordicskiracer.com/ski-trail-conditions.asp?Region=13"),
-  );
-  const $ = cheerio.load(response.data);
-
+  // Define regions to fetch
+  const regions = [11, 13];
   const relevantLocations = [
     "Nubs Nob",
     "Huron Meadows Metropark",
-    "Stoney Creek",
+    "Stony Creek",
   ];
   const conditions = {};
 
-  // Find all h4 elements
-  $("h4").each((i, header) => {
-    const headerText = $(header).text().trim();
-    // Split on colon and look for location after it
-    const parts = headerText.split(":");
-    if (parts.length < 2) return;
+  // Fetch data from each region
+  await Promise.all(
+    regions.map(async (region) => {
+      try {
+        const response = await fetchWithRetry(() =>
+          axios.get(
+            `https://nordicskiracer.com/ski-trail-conditions.asp?Region=${region}`,
+          ),
+        );
+        const $ = cheerio.load(response.data);
 
-    const dateSection = parts[0].trim();
-    const locationSection = parts[1].trim();
+        // Find all h4 elements
+        $("h4").each((i, header) => {
+          const headerText = $(header).text().trim();
+          // Split on colon and look for location after it
+          const parts = headerText.split(":");
+          if (parts.length < 2) return;
 
-    const relevantLocation = relevantLocations.find((location) =>
-      locationSection.toLowerCase().includes(location.toLowerCase()),
-    );
+          const dateSection = parts[0].trim();
+          const locationSection = parts[1].trim();
 
-    if (relevantLocation && !conditions[relevantLocation]) {
-      // Get the first paragraph after this h4
-      const reportText = $(header).nextAll("p").first().text().trim();
+          const relevantLocation = relevantLocations.find((location) =>
+            locationSection.toLowerCase().includes(location.toLowerCase()),
+          );
 
-      conditions[relevantLocation] = {
-        lastUpdated: dateSection,
-        conditions: reportText,
-      };
-    }
+          // Only add if location is relevant and we haven't seen it before
+          // or if the current report is newer than what we have
+          if (relevantLocation) {
+            const reportText = $(header).nextAll("p").first().text().trim();
+            const currentDate = parseDateFromHeader(dateSection);
+
+            if (
+              !conditions[relevantLocation] ||
+              (currentDate &&
+                conditions[relevantLocation].date &&
+                currentDate > conditions[relevantLocation].date)
+            ) {
+              conditions[relevantLocation] = {
+                lastUpdated: dateSection,
+                conditions: reportText,
+                date: currentDate, // Store for comparison but don't return
+              };
+            }
+          }
+        });
+      } catch (error) {
+        console.error(`Error fetching region ${region}:`, error);
+      }
+    }),
+  );
+
+  // Remove the date property used for comparison
+  Object.values(conditions).forEach((condition) => {
+    delete condition.date;
   });
 
   console.log("Parsed Nordic conditions:", conditions);
   return conditions;
+}
+
+// Helper function to parse dates from the header text
+function parseDateFromHeader(dateText) {
+  try {
+    // Example format: "Tue, Jan 14"
+    const parts = dateText.split(", ");
+    if (parts.length !== 2) return null;
+
+    const datePart = parts[1]; // "Jan 14"
+    const currentYear = new Date().getFullYear();
+    return new Date(`${datePart}, ${currentYear}`);
+  } catch (error) {
+    console.error("Error parsing date:", dateText);
+    return null;
+  }
 }
 
 async function getNubsNobConditions() {
