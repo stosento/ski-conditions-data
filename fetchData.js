@@ -183,7 +183,7 @@ async function getNordicSkiRacerConditions() {
   const relevantLocations = [
     "Nubs Nob",
     "Huron Meadows Metropark",
-    "Stony Creek",
+    "Shelby Township",
   ];
   const conditions = {};
 
