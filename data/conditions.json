@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-17T05:00:42.525Z",
+  "timestamp": "2025-01-17T06:00:39.559Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737090000000,
+          "timestamp": 1737093600000,
           "temp": 21,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 21, with temperatures rising to around 24 overnight. West wind 5 to 8 mph."
+          "detailedForecast": "Partly cloudy. Low around 21, with temperatures rising to around 24 overnight. West wind around 7 mph."
         },
         {
           "name": "Friday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737090000000,
+          "timestamp": 1737093600000,
           "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 26. West wind 5 to 10 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 26. Southwest wind around 10 mph."
         },
         {
           "name": "Friday",
@@ -113,6 +113,10 @@
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 11",
+      "conditions": "Best conditions of the year on the upper Red and Blue loops ! Thank you Mother Nature , Nubs Nob , and John Baker . It was like skiing on butter ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 16",
       "conditions": "Perfect conditions for skating and classic on Bucks Run. Golf course is not groomed and no info on whether it will be before the weekend."
@@ -120,10 +124,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 11",
-      "conditions": "Best conditions of the year on the upper Red and Blue loops ! Thank you Mother Nature , Nubs Nob , and John Baker . It was like skiing on butter ."
     }
   },
   "nubsNob": {
