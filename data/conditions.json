@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-01-17T20:00:38.385Z",
+  "timestamp": "2025-01-17T21:00:50.527Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1737140400000,
-          "temp": 36,
+          "timestamp": 1737147600000,
+          "temp": 37,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 36. South wind around 17 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Partly sunny. High near 37, with temperatures falling to around 35 in the afternoon. South wind around 17 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1737154800000,
-          "temp": 29,
+          "temp": 30,
           "snowfall": 100,
-          "snowAmount": "New snow accumulation of around one inch possible",
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow between 11pm and 2am, then rain and snow between 2am and 3am, then rain and snow between 3am and 5am, then rain and snow. Mostly cloudy. Low around 29, with temperatures rising to around 34 overnight. South southwest wind 9 to 17 mph, with gusts as high as 31 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+          "detailedForecast": "A chance of snow between 11pm and 2am, then rain and snow between 2am and 4am, then rain and snow between 4am and 5am, then rain and snow. Mostly cloudy. Low around 30, with temperatures rising to around 35 overnight. South southwest wind 9 to 17 mph, with gusts as high as 31 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Saturday",
           "timestamp": 1737198000000,
-          "temp": 34,
+          "temp": 33,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Rain And Snow then Cloudy",
-          "detailedForecast": "Rain and snow before noon. Cloudy. High near 34, with temperatures falling to around 24 in the afternoon. West wind 8 to 15 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Rain and snow before noon. Cloudy. High near 33, with temperatures falling to around 24 in the afternoon. West wind 8 to 15 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Saturday Night",
@@ -37,8 +37,8 @@
           "temp": 11,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow after 1am. Mostly cloudy, with a low around 11. Northwest wind 5 to 13 mph, with gusts as high as 18 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 11. Northwest wind 5 to 13 mph, with gusts as high as 18 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1737140400000,
+          "timestamp": 1737147600000,
           "temp": 39,
           "snowfall": 40,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 4pm, then a chance of rain showers between 4pm and 5pm, then a chance of snow showers. Cloudy, with a high near 39. Southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 5pm, then a chance of snow showers. Cloudy, with a high near 39. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -75,11 +75,11 @@
         {
           "name": "Saturday Night",
           "timestamp": 1737241200000,
-          "temp": 8,
-          "snowfall": 50,
+          "temp": 9,
+          "snowfall": 40,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 8. Wind chill values as low as -1. Northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 9. Wind chill values as low as -4. Northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         }
       ]
     }
@@ -113,10 +113,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 11",
-      "conditions": "Best conditions of the year on the upper Red and Blue loops ! Thank you Mother Nature , Nubs Nob , and John Baker . It was like skiing on butter ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 16",
       "conditions": "Perfect conditions for skating and classic on Bucks Run. Golf course is not groomed and no info on whether it will be before the weekend."
@@ -124,6 +120,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Fri, Jan 17",
+      "conditions": "Friday am groomed upper and lower trails.   Plans are to groom Saturday and Sunday.  Hero snow, everybody smiling ."
     }
   },
   "nubsNob": {
