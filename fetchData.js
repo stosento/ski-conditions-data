@@ -178,18 +178,76 @@ async function getWeatherData() {
 }
 
 async function getMetroparkConditions() {
-  const site = "https://www.metroparks.com/park-closures/";
-
-  // Set up the various IDs for the website
+  const baseUrl = "https://www.metroparks.com/park-closures/";
 
   // Build a map with key (ID) and value (array of <p><strong> elements to pull)
   const parkMap = new Map();
+  parkMap.set("HuronMeadowsMetropark", [
+    "Bucks Run",
+    "Bucks Run Hours",
+    "Natural Snow Classic and Skate Ski Trails",
+  ]);
+  parkMap.set("StonyCreekMetropark", ["Stony Creek Cross Country"]);
 
-  // For each map key, do the following
-  // 1. Fetch the site
-  // 2. Leverage cheerio to load the response
-  // Grab the header text
-  // For each <p><strong> element, check if it's in the value of the map
+  const conditions = {};
+
+  // Process each park separately
+  await Promise.all(
+    Array.from(parkMap.entries()).map(async ([parkId, searchTerms]) => {
+      try {
+        const parkUrl = `${baseUrl}#${parkId}`;
+        console.log(`Fetching conditions for ${parkId} from ${parkUrl}`);
+
+        const response = await fetchWithRetry(() =>
+          axios.get(parkUrl, {
+            headers: {
+              "User-Agent": "(ski-conditions-app, stephen.osentoski@gmail.com)",
+            },
+          }),
+        );
+
+        const $ = cheerio.load(response.data);
+        conditions[parkId] = {
+          sections: [],
+        };
+
+        // Find the park's panel using the ID
+        const parkPanel = $(`.vc_tta-panel[id="${parkId}"]`);
+
+        if (parkPanel.length) {
+          const title = parkPanel.find(".vc_tta-title-text");
+          conditions[parkId].title = title.text().trim();
+
+          // Get all strong elements and their surrounding content
+          parkPanel.find("strong").each((_, element) => {
+            const strongText = $(element).text().trim();
+
+            // Check if this strong text matches any of our search terms
+            if (searchTerms.some((term) => strongText.includes(term))) {
+              // Get the parent paragraph text
+              const fullText = $(element).parent("p").text().trim();
+
+              conditions[parkId].sections.push({
+                header: strongText,
+                content: fullText.substring(strongText.length).trim(),
+              });
+            }
+          });
+        } else {
+          console.log(`No panel found for ${parkId}`);
+        }
+      } catch (error) {
+        console.error(`Error fetching conditions for ${parkId}:`, error);
+        conditions[parkId] = {
+          sections: [],
+          error: `Failed to fetch conditions: ${error.message}`,
+        };
+      }
+    }),
+  );
+
+  console.log("Parsed Metropark conditions:", conditions);
+  return conditions;
 }
 
 async function getNordicSkiRacerConditions() {
@@ -384,6 +442,7 @@ async function main() {
     const data = {
       timestamp: new Date().toISOString(),
       weather: await getWeatherData(),
+      metroparkConditions: await getMetroparkConditions(),
       nordicConditions: await getNordicSkiRacerConditions(),
       nubsNob: await getNubsNobConditions(),
     };
