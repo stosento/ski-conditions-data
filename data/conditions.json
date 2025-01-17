@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-17T14:00:35.691Z",
+  "timestamp": "2025-01-17T15:00:43.986Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737122400000,
+          "timestamp": 1737126000000,
           "temp": 36,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 36. South southwest wind 8 to 17 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Partly sunny, with a high near 36. South wind 9 to 17 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737122400000,
-          "temp": 38,
+          "timestamp": 1737126000000,
+          "temp": 39,
           "snowfall": 40,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers between 10am and 4pm, then a chance of rain showers. Cloudy, with a high near 38. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of snow showers before 4pm, then a chance of rain showers. Cloudy, with a high near 39. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -113,6 +113,10 @@
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 11",
+      "conditions": "Best conditions of the year on the upper Red and Blue loops ! Thank you Mother Nature , Nubs Nob , and John Baker . It was like skiing on butter ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 16",
       "conditions": "Perfect conditions for skating and classic on Bucks Run. Golf course is not groomed and no info on whether it will be before the weekend."
@@ -120,10 +124,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 11",
-      "conditions": "Best conditions of the year on the upper Red and Blue loops ! Thank you Mother Nature , Nubs Nob , and John Baker . It was like skiing on butter ."
     }
   },
   "nubsNob": {
