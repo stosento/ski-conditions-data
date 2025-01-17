@@ -1,6 +1,89 @@
 {
-  "timestamp": "2025-01-17T03:31:55.347Z",
-  "weather": {},
+  "timestamp": "2025-01-17T03:33:52.232Z",
+  "weather": {
+    "shelbyTownship": {
+      "name": "Shelby Township",
+      "forecast": [
+        {
+          "name": "Tonight",
+          "timestamp": 1737082800000,
+          "temp": 21,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy. Low around 21, with temperatures rising to around 24 overnight. West wind 5 to 9 mph."
+        },
+        {
+          "name": "Friday",
+          "timestamp": 1737111600000,
+          "temp": 35,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 35, with temperatures falling to around 33 in the afternoon. South southwest wind 5 to 17 mph, with gusts as high as 30 mph."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1737154800000,
+          "temp": 31,
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Mostly Cloudy then Rain And Snow",
+          "detailedForecast": "Rain and snow after 1am. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. South southwest wind 8 to 17 mph, with gusts as high as 32 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1737198000000,
+          "temp": 34,
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Rain And Snow",
+          "detailedForecast": "Rain and snow before 1pm. Cloudy, with a high near 34. West wind 7 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
+        }
+      ]
+    },
+    "harborSprings": {
+      "name": "Harbor Springs",
+      "forecast": [
+        {
+          "name": "Tonight",
+          "timestamp": 1737082800000,
+          "temp": 26,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy, with a low around 26. West wind 5 to 15 mph."
+        },
+        {
+          "name": "Friday",
+          "timestamp": 1737111600000,
+          "temp": 38,
+          "snowfall": 40,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "A chance of snow showers and patchy blowing snow between 10am and 4pm, then a chance of rain showers. Cloudy, with a high near 38. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1737154800000,
+          "temp": 22,
+          "snowfall": 50,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain And Snow Showers",
+          "detailedForecast": "A chance of rain showers before 7pm, then a chance of rain and snow showers. Cloudy. Low around 22, with temperatures rising to around 28 overnight. West wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1737198000000,
+          "temp": 25,
+          "snowfall": 40,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 25. Northwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+        }
+      ]
+    }
+  },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 16",
