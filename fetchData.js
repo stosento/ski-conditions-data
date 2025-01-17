@@ -177,6 +177,21 @@ async function getWeatherData() {
   return weatherData;
 }
 
+async function getMetroparkConditions() {
+  const site = "https://www.metroparks.com/park-closures/";
+
+  // Set up the various IDs for the website
+
+  // Build a map with key (ID) and value (array of <p><strong> elements to pull)
+  const parkMap = new Map();
+
+  // For each map key, do the following
+  // 1. Fetch the site
+  // 2. Leverage cheerio to load the response
+  // Grab the header text
+  // For each <p><strong> element, check if it's in the value of the map
+}
+
 async function getNordicSkiRacerConditions() {
   // Define regions to fetch
   const regions = [11, 13];
@@ -219,12 +234,12 @@ async function getNordicSkiRacerConditions() {
             const currentDate = parseDateFromHeader(dateSection);
 
             if (
-              !conditions[relevantLocation] ||
+              !conditions[locationSection] ||
               (currentDate &&
-                conditions[relevantLocation].date &&
-                currentDate > conditions[relevantLocation].date)
+                conditions[locationSection].date &&
+                currentDate > conditions[locationSection].date)
             ) {
-              conditions[relevantLocation] = {
+              conditions[locationSection] = {
                 lastUpdated: dateSection,
                 conditions: reportText,
                 date: currentDate, // Store for comparison but don't return
