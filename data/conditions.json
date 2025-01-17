@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-17T15:00:43.986Z",
+  "timestamp": "2025-01-17T16:00:52.659Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737126000000,
+          "timestamp": 1737129600000,
           "temp": 36,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 36. South wind 9 to 17 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Partly sunny, with a high near 36. South wind 12 to 17 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737126000000,
+          "timestamp": 1737129600000,
           "temp": 39,
           "snowfall": 40,
           "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 4pm, then a chance of rain showers. Cloudy, with a high near 39. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "A chance of snow showers and patchy blowing snow before 4pm, then a chance of rain showers. Cloudy, with a high near 39. South wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -85,15 +85,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -110,13 +101,18 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 11",
-      "conditions": "Best conditions of the year on the upper Red and Blue loops ! Thank you Mother Nature , Nubs Nob , and John Baker . It was like skiing on butter ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 16",
       "conditions": "Perfect conditions for skating and classic on Bucks Run. Golf course is not groomed and no info on whether it will be before the weekend."
@@ -124,6 +120,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 11",
+      "conditions": "Best conditions of the year on the upper Red and Blue loops ! Thank you Mother Nature , Nubs Nob , and John Baker . It was like skiing on butter ."
     }
   },
   "nubsNob": {
