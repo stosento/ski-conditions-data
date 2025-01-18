@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-18T11:00:31.941Z",
+  "timestamp": "2025-01-18T12:00:46.930Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737198000000,
+          "timestamp": 1737201600000,
           "temp": 36,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of around one inch possible",
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow then Mostly Cloudy",
-          "detailedForecast": "Rain and snow before noon. Mostly cloudy. High near 36, with temperatures falling to around 26 in the afternoon. West northwest wind 7 to 16 mph, with gusts as high as 26 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Rain and snow before noon. Mostly cloudy. High near 36, with temperatures falling to around 26 in the afternoon. Northwest wind 7 to 16 mph, with gusts as high as 26 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737198000000,
+          "timestamp": 1737201600000,
           "temp": 25,
           "snowfall": 40,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. High near 25, with temperatures falling to around 19 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. High near 25, with temperatures falling to around 19 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -85,6 +85,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -101,15 +110,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
