@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-18T08:00:35.765Z",
+  "timestamp": "2025-01-18T09:00:46.879Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737187200000,
+          "timestamp": 1737190800000,
           "temp": 30,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain and snow. Cloudy. Low around 30, with temperatures rising to around 36 overnight. South southwest wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Rain and snow. Cloudy. Low around 30, with temperatures rising to around 36 overnight. South southwest wind around 9 mph, with gusts as high as 22 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Saturday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737187200000,
+          "timestamp": 1737190800000,
           "temp": 20,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -75,25 +75,16 @@
         {
           "name": "Sunday",
           "timestamp": 1737284400000,
-          "temp": 13,
-          "snowfall": 80,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 13. Wind chill values as low as -4. Northwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "temp": 14,
+          "snowfall": 60,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 14. Wind chill values as low as -4. Northwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -110,9 +101,22 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Fri, Jan 17",
+      "conditions": "Friday am groomed upper and lower trails.   Plans are to groom Saturday and Sunday.  Hero snow, everybody smiling ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 16",
       "conditions": "Perfect conditions for skating and classic on Bucks Run. Golf course is not groomed and no info on whether it will be before the weekend."
@@ -120,10 +124,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Jan 17",
-      "conditions": "Friday am groomed upper and lower trails.   Plans are to groom Saturday and Sunday.  Hero snow, everybody smiling ."
     }
   },
   "nubsNob": {
