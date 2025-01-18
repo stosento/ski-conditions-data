@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-18T05:00:27.522Z",
+  "timestamp": "2025-01-18T06:00:38.518Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1737172800000,
+          "name": "Overnight",
+          "timestamp": 1737180000000,
           "temp": 30,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 2am, then rain and snow between 2am and 4am, then rain and snow between 4am and 5am, then rain and snow. Cloudy. Low around 30, with temperatures rising to around 35 overnight. South southwest wind 9 to 14 mph, with gusts as high as 28 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow before 2am, then rain and snow between 2am and 4am, then rain and snow between 4am and 5am, then rain and snow. Cloudy. Low around 30, with temperatures rising to around 35 overnight. South southwest wind 9 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Saturday",
@@ -46,13 +46,13 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1737172800000,
+          "name": "Overnight",
+          "timestamp": 1737180000000,
           "temp": 23,
-          "snowfall": 70,
+          "snowfall": 40,
           "snowAmount": "",
-          "shortForecast": "Light Rain Likely then Rain And Snow Likely",
-          "detailedForecast": "Rain likely before midnight, then rain and snow likely. Cloudy. Low around 23, with temperatures rising to around 27 overnight. Northwest wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow. Cloudy. Low around 23, with temperatures rising to around 27 overnight. Northwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Saturday",
@@ -85,15 +85,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -110,6 +101,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
