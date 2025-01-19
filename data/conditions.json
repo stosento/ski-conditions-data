@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-19T11:00:42.733Z",
+  "timestamp": "2025-01-19T12:00:46.075Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737284400000,
+          "timestamp": 1737288000000,
           "temp": 19,
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 7am. Cloudy. High near 19, with temperatures falling to around 17 in the afternoon. Northwest wind 6 to 9 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of snow showers. Cloudy. High near 19, with temperatures falling to around 17 in the afternoon. Northwest wind around 9 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -85,6 +85,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -101,18 +110,13 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 18",
+      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Jan 18",
       "conditions": "Trail was not groomed due to rain and warm temperatures.Was just a little icy at 9:00.Now at 12:00 with falling temperatures it is very icy for either skate or classic.Connector is a sheet of ice.Lots of leaves and debris with wind."
@@ -120,10 +124,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 18",
-      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
     }
   },
   "nubsNob": {
