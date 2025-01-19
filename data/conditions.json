@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-01-19T12:00:46.075Z",
+  "timestamp": "2025-01-19T13:02:53.495Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737288000000,
+          "timestamp": 1737291600000,
           "temp": 19,
           "snowfall": 30,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737284400000,
+          "timestamp": 1737291600000,
           "temp": 15,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy, with a high near 15. Wind chill values as low as -4. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 15. Wind chill values as low as 0. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -85,15 +85,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -110,13 +101,18 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 18",
-      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Jan 18",
       "conditions": "Trail was not groomed due to rain and warm temperatures.Was just a little icy at 9:00.Now at 12:00 with falling temperatures it is very icy for either skate or classic.Connector is a sheet of ice.Lots of leaves and debris with wind."
@@ -124,18 +120,22 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 18",
+      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
     }
   },
   "nubsNob": {
-    "date": "1/18/25",
+    "date": "1/19/25",
     "liftsOpen": "All 8 Lifts, Space Worm and the Rope Tow",
-    "xcTrails": "Trails are open and in great shape. Trails will be groomed and tracked again this morning.",
+    "xcTrails": "Trails are open and in great shape. Trails will be packed this morning.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM. Extra night session Sunday, January 19 from 5:30 to 9:00 PM as well.",
-    "comments": "It should be a great ski day at Nub's Nob. The wind is up this morning but is forecast to lay down as the day goes on. Last night we received a little rain that froze on the snow. The dedicated Grooming Crew power-tilled the slopes two times last night to get the best possible surface for skiing and riding. NASTAR racing is open to the public today from 12:30 to 2:30 PM on Birch Run, please sign-up at the Front Desk. Pete Kehoe will be playing at 3:30 PM. The lifts spin from 9:00 AM to 9:00 PM today with an hour break beginning at 4:30 to prepare for the night session. Make it a great day at Nub's Nob.",
+    "comments": "It's a cold day with a high around 12 degrees predicted. Despite the temperature the wind is light and this is the kind of cold you can dress for and still have a great day on the slopes. The snow surface is in excellent shape. Expect a firm base that has great grip for carving turns. A little fresh snow landed this morning which will further improve the ski conditions. Fresh cold snow can often make skis feel slow, stop by the Tune Center for a quick wax job for those ski and board bases. NASTAR racing is open to the public today from 12:30 to 2:30 PM on Birch Run, please sign-up at the Front Desk. The Tweed Tones will be playing at 3:30 PM in the Nub's Pub. The lifts spin from 9:00 AM to 9:00 PM today with an hour break beginning at 4:30 to prepare for the night session. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 5\"",
-      "sevenDays": "7 days: 21\"",
+      "daily": "Dusting",
+      "threeDays": "3 days: 4\"",
+      "sevenDays": "7 days: 19\"",
       "ytd": "YTD: 73\""
     }
   }
