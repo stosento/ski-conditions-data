@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-01-19T10:00:55.328Z",
+  "timestamp": "2025-01-19T11:00:42.733Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1737280800000,
-          "temp": 14,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 14, with temperatures rising to around 17 overnight. North northwest wind around 6 mph."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1737284400000,
           "temp": 19,
           "snowfall": 30,
@@ -23,7 +14,7 @@
           "detailedForecast": "A chance of snow showers after 7am. Cloudy. High near 19, with temperatures falling to around 17 in the afternoon. Northwest wind 6 to 9 mph. Chance of precipitation is 30%."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1737327600000,
           "temp": 4,
           "snowfall": 30,
@@ -39,6 +30,15 @@
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of snow showers after 7am. Partly sunny, with a high near 10. Wind chill values as low as -10. West wind around 12 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1737414000000,
+          "temp": 0,
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 0. Wind chill values as low as -10. West southwest wind around 9 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -46,25 +46,16 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1737280800000,
-          "temp": 10,
-          "snowfall": 40,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 10, with temperatures rising to around 14 overnight. Wind chill values as low as 0. Northwest wind around 15 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1737284400000,
           "temp": 15,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy, with a high near 15. Wind chill values as low as -3. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers likely. Cloudy, with a high near 15. Wind chill values as low as -4. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1737327600000,
           "temp": 6,
           "snowfall": 70,
@@ -80,6 +71,15 @@
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Snow Showers",
           "detailedForecast": "Snow showers. Mostly cloudy, with a high near 10. Wind chill values as low as -8. Northwest wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1737414000000,
+          "temp": 1,
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 1. Wind chill values as low as -12. Northwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 3 to 5 inches possible."
         }
       ]
     }
