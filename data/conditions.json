@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-19T17:00:45.178Z",
+  "timestamp": "2025-01-19T18:00:40.407Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1737302400000,
+          "name": "This Afternoon",
+          "timestamp": 1737306000000,
           "temp": 19,
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. High near 19, with temperatures falling to around 17 in the afternoon. Northwest wind around 9 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 19, with temperatures falling to around 17 in the afternoon. Northwest wind around 9 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -46,40 +46,40 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1737302400000,
+          "name": "This Afternoon",
+          "timestamp": 1737306000000,
           "temp": 15,
-          "snowfall": 70,
+          "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy, with a high near 15. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Snow showers likely before 1pm, then snow showers and patchy blowing snow. Cloudy, with a high near 15. Northwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1737327600000,
           "temp": 6,
-          "snowfall": 70,
+          "snowfall": 80,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. Low around 6, with temperatures rising to around 8 overnight. Wind chill values as low as -5. Northwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of 2 to 4 inches possible."
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Snow showers and patchy blowing snow. Cloudy. Low around 6, with temperatures rising to around 9 overnight. Wind chill values as low as -4. Northwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "M.L. King Jr. Day",
           "timestamp": 1737370800000,
-          "temp": 10,
+          "temp": 11,
           "snowfall": 90,
-          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 10. Wind chill values as low as -8. Northwest wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Snow showers and patchy blowing snow. Cloudy, with a high near 11. Wind chill values as low as -8. Northwest wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1737414000000,
           "temp": 1,
           "snowfall": 80,
-          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 1. Wind chill values as low as -12. Northwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 3 to 5 inches possible."
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Snow showers and patchy blowing snow. Mostly cloudy, with a low around 1. Wind chill values as low as -12. Northwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible."
         }
       ]
     }
@@ -113,6 +113,10 @@
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 18",
+      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Jan 18",
       "conditions": "Trail was not groomed due to rain and warm temperatures.Was just a little icy at 9:00.Now at 12:00 with falling temperatures it is very icy for either skate or classic.Connector is a sheet of ice.Lots of leaves and debris with wind."
@@ -120,10 +124,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 18",
-      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
     }
   },
   "nubsNob": {
