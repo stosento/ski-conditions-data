@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-20T05:00:38.046Z",
+  "timestamp": "2025-01-20T06:00:43.005Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1737345600000,
+          "name": "Overnight",
+          "timestamp": 1737352800000,
           "temp": 4,
-          "snowfall": 20,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers before 1am. Partly cloudy. Low around 4, with temperatures rising to around 6 overnight. Wind chill values as low as -10. West northwest wind around 12 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy. Low around 4, with temperatures rising to around 6 overnight. Wind chill values as low as -10. West northwest wind around 12 mph, with gusts as high as 20 mph."
         },
         {
           "name": "M.L. King Jr. Day",
@@ -46,13 +46,13 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1737345600000,
+          "name": "Overnight",
+          "timestamp": 1737352800000,
           "temp": 5,
           "snowfall": 80,
-          "snowAmount": "New snow accumulation of around one inch possible",
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. Low around 5, with temperatures rising to around 8 overnight. Wind chill values as low as -9. Northwest wind around 15 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Snow showers. Cloudy. Low around 5, with temperatures rising to around 8 overnight. Wind chill values as low as -9. Northwest wind around 15 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "M.L. King Jr. Day",
@@ -85,6 +85,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -101,15 +110,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
