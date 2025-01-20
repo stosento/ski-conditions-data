@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-01-20T11:00:38.727Z",
+  "timestamp": "2025-01-20T12:00:49.253Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1737367200000,
-          "temp": 4,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 4. Wind chill values as low as -8. West wind around 8 mph, with gusts as high as 18 mph."
-        },
-        {
           "name": "M.L. King Jr. Day",
-          "timestamp": 1737370800000,
+          "timestamp": 1737374400000,
           "temp": 10,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely after 7am. Partly sunny, with a high near 10. Wind chill values as low as -10. West wind 8 to 17 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow showers likely. Partly sunny, with a high near 10. Wind chill values as low as -10. West wind 9 to 17 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1737414000000,
           "temp": 0,
           "snowfall": 60,
@@ -38,7 +29,16 @@
           "snowfall": 0,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers then Partly Sunny",
-          "detailedForecast": "A slight chance of snow showers before 7am. Partly sunny, with a high near 8. Wind chill values as low as -13. West southwest wind 7 to 10 mph. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers before 7am. Partly sunny. High near 8, with temperatures falling to around 6 in the afternoon. Wind chill values as low as -13. West southwest wind 7 to 10 mph. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1737500400000,
+          "temp": -4,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around -4. Wind chill values as low as -15. West southwest wind around 7 mph."
         }
       ]
     },
@@ -46,25 +46,16 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1737367200000,
-          "temp": 6,
-          "snowfall": 80,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. Low around 6, with temperatures rising to around 9 overnight. Wind chill values as low as -7. West wind around 15 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
-        },
-        {
           "name": "M.L. King Jr. Day",
-          "timestamp": 1737370800000,
+          "timestamp": 1737374400000,
           "temp": 11,
           "snowfall": 90,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a high near 11. Wind chill values as low as -8. West wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers. Cloudy, with a high near 11. Wind chill values as low as -5. West wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1737414000000,
           "temp": 3,
           "snowfall": 80,
@@ -80,6 +71,15 @@
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow Showers",
           "detailedForecast": "Snow showers. Mostly cloudy, with a high near 10. Wind chill values as low as -11. West wind 10 to 15 mph. Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1737500400000,
+          "temp": 4,
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 4. Wind chill values as low as -10. Southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible."
         }
       ]
     }
