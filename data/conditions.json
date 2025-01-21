@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-21T18:00:46.556Z",
+  "timestamp": "2025-01-21T19:00:40.412Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1737478800000,
+          "timestamp": 1737486000000,
           "temp": 8,
           "snowfall": 20,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "snowAmount": "",
           "shortForecast": "Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow before 5pm. Partly sunny, with a high near 8. Wind chill values as low as -7. West southwest wind around 12 mph, with gusts as high as 18 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow before 5pm. Partly sunny, with a high near 8. Wind chill values as low as -6. West wind around 12 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -47,39 +47,39 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1737478800000,
+          "timestamp": 1737486000000,
           "temp": 9,
           "snowfall": 80,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers and patchy blowing snow. Mostly cloudy, with a high near 9. Wind chill values as low as -10. West wind around 15 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers and patchy blowing snow. Mostly cloudy, with a high near 9. Wind chill values as low as -11. West wind around 15 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1737500400000,
           "temp": 6,
           "snowfall": 80,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers and patchy blowing snow before 1am, then patchy blowing snow and scattered snow showers. Mostly cloudy. Low around 6, with temperatures rising to around 10 overnight. Wind chill values as low as -10. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers and patchy blowing snow. Mostly cloudy. Low around 6, with temperatures rising to around 11 overnight. Wind chill values as low as -10. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Wednesday",
           "timestamp": 1737543600000,
-          "temp": 22,
-          "snowfall": 90,
+          "temp": 24,
+          "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Patchy Blowing Snow then Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and scattered snow showers before 7am, then snow showers and patchy blowing snow. Cloudy, with a high near 22. Wind chill values as low as -8. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Scattered snow showers before 7am, then snow showers and patchy blowing snow. Cloudy. High near 24, with temperatures falling to around 22 in the afternoon. Wind chill values as low as -6. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1737586800000,
-          "temp": 12,
-          "snowfall": 90,
+          "temp": 14,
+          "snowfall": 80,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 12. West wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
+          "detailedForecast": "Snow showers. Cloudy, with a low around 14. West wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of 3 to 5 inches possible."
         }
       ]
     }
@@ -113,10 +113,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 18",
-      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Jan 20",
       "conditions": "Very nice grooming on Buck’s Run. Classic tracks were deep and firm, although the wind had blown in some debris (oak leaves, pine needles, a few twigs). Still, great gliding on VR30 and some other prior waxes. Tracks were fast despite the extreme cold temps. The skating lane looked nice, it’s wide with just a slight ridge."
@@ -124,6 +120,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 15",
       "conditions": "They've finally got enough accumulation to make the golf course skiable. Used waxless rock skis and had a very nice time. Skied some in the woods, flats are doable but wouldn't try any hills, not enough snow yet."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 18",
+      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
     }
   },
   "nubsNob": {
