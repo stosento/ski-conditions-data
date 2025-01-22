@@ -1,16 +1,44 @@
 {
-  "timestamp": "2025-01-22T13:04:43.422Z",
+  "timestamp": "2025-01-22T14:00:48.492Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1737551086638,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Today",
+          "timestamp": 1737554400000,
+          "temp": 15,
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+          "detailedForecast": "A slight chance of snow after 4pm. Mostly cloudy. High near 15, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -18. South wind 10 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1737586800000,
+          "temp": 12,
+          "snowfall": 60,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely. Cloudy. Low around 12, with temperatures rising to around 16 overnight. Wind chill values as low as -1. South southwest wind 8 to 13 mph, with gusts as high as 22 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1737630000000,
+          "temp": 26,
+          "snowfall": 60,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely. Mostly cloudy. High near 26, with temperatures falling to around 23 in the afternoon. West southwest wind around 9 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1737673200000,
+          "temp": 8,
+          "snowfall": 0,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Slight Chance Light Snow then Partly Cloudy",
+          "detailedForecast": "A slight chance of snow before 7pm. Partly cloudy, with a low around 8. West northwest wind 3 to 7 mph. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -18,12 +46,40 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1737551089728,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Today",
+          "timestamp": 1737554400000,
+          "temp": 24,
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Patchy Blowing Snow",
+          "detailedForecast": "Patchy blowing snow and scattered snow showers before 1pm, then snow showers and areas of blowing snow. Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. Wind chill values as low as -9. Southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1737586800000,
+          "temp": 17,
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Snow showers and patchy blowing snow. Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 3 to 5 inches possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1737630000000,
+          "temp": 22,
+          "snowfall": 50,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 22, with temperatures falling to around 20 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1737673200000,
+          "temp": 12,
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers then Mostly Cloudy",
+          "detailedForecast": "A chance of snow showers before 7pm. Mostly cloudy, with a low around 12. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         }
       ]
     }
@@ -33,7 +89,7 @@
       "sections": [
         {
           "header": "Bucks Run-",
-          "content": "Bucks Run 2.5 km ski trail is groomed for skate and classic skiing today, January 21, 2025. There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
+          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, January 22, 2025. There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
         },
         {
           "header": "Bucks Run Hours:",
@@ -57,13 +113,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 18",
-      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Tue, Jan 21",
       "conditions": "Another good day out skating.  Skate lane and tracks in good condition.  A little slower due to frigid temperatures.   Sounds like skiing on styrofoam.   Tracks blown in on connector, but good in the woods."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 18",
+      "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
     }
   },
   "nubsNob": {
