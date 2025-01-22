@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-01-22T09:00:39.213Z",
+  "timestamp": "2025-01-22T10:00:40.407Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737536400000,
+          "timestamp": 1737540000000,
           "temp": -4,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737536400000,
+          "timestamp": 1737540000000,
           "temp": 2,
           "snowfall": 40,
-          "snowAmount": "",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and scattered snow showers. Cloudy. Low around 2, with temperatures rising to around 10 overnight. Wind chill values as low as -11. South wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%."
+          "detailedForecast": "Patchy blowing snow and scattered snow showers. Cloudy. Low around 2, with temperatures rising to around 7 overnight. Wind chill values as low as -13. South wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -61,7 +61,7 @@
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and scattered snow showers before 1pm, then snow showers and areas of blowing snow. Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. Wind chill values as low as -11. Southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Patchy blowing snow and scattered snow showers before 1pm, then snow showers and areas of blowing snow. Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. Wind chill values as low as -12. Southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Wednesday Night",
@@ -85,15 +85,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -110,16 +101,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Tue, Jan 21",
-      "conditions": "Another good day out skating.  Skate lane and tracks in good condition.  A little slower due to frigid temperatures.   Sounds like skiing on styrofoam.   Tracks blown in on connector, but good in the woods."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Sat, Jan 18",
       "conditions": "Plenty of lake effect , combined with low 20 degree temps, plus the full big groom this morning , makes Nubs Knob red and blue trails as nice as it gets !"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Tue, Jan 21",
+      "conditions": "Another good day out skating.  Skate lane and tracks in good condition.  A little slower due to frigid temperatures.   Sounds like skiing on styrofoam.   Tracks blown in on connector, but good in the woods."
     }
   },
   "nubsNob": {
