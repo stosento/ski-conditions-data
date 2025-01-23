@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-01-23T11:00:31.439Z",
+  "timestamp": "2025-01-23T12:00:45.886Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1737626400000,
-          "temp": 12,
-          "snowfall": 90,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Cloudy. Low around 12, with temperatures rising to around 16 overnight. South southwest wind around 8 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
-        },
-        {
-          "name": "Thursday",
-          "timestamp": 1737630000000,
+          "name": "Today",
+          "timestamp": 1737633600000,
           "temp": 27,
-          "snowfall": 90,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Cloudy. High near 27, with temperatures falling to around 24 in the afternoon. West southwest wind around 9 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
+          "snowfall": 50,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow. Cloudy. High near 27, with temperatures falling to around 24 in the afternoon. West southwest wind around 9 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1737673200000,
           "temp": 8,
           "snowfall": 30,
@@ -38,7 +29,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 22. Wind chill values as low as 0. West southwest wind around 7 mph."
+          "detailedForecast": "Partly sunny. High near 22, with temperatures falling to around 19 in the afternoon. Wind chill values as low as 0. West southwest wind around 7 mph."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1737759600000,
+          "temp": 10,
+          "snowfall": 0,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 10. South southwest wind around 7 mph. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -46,25 +46,16 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1737626400000,
-          "temp": 17,
-          "snowfall": 70,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. Northwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
-        },
-        {
-          "name": "Thursday",
-          "timestamp": 1737630000000,
+          "name": "Today",
+          "timestamp": 1737633600000,
           "temp": 23,
-          "snowfall": 70,
-          "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 23, with temperatures falling to around 20 in the afternoon. North wind 10 to 15 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 23, with temperatures falling to around 20 in the afternoon. North wind 10 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1737673200000,
           "temp": 12,
           "snowfall": 30,
@@ -79,12 +70,30 @@
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 1pm. Mostly cloudy, with a high near 24. West wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers before 1pm. Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. West wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1737759600000,
+          "temp": 14,
+          "snowfall": 40,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 1am. Mostly cloudy, with a low around 14. Wind chill values as low as 0. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -101,15 +110,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 18th and 19th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -123,16 +123,16 @@
     }
   },
   "nubsNob": {
-    "date": "1/22/25",
+    "date": "1/23/25",
     "liftsOpen": "5 Lifts and the Rope Tow",
-    "xcTrails": "Trails are open and in great shape. Trails will be packed this morning.",
+    "xcTrails": "Trails are open and in great shape. Trails will be power-tilled this morning. Conditions will be soft with all the new snow.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "It's a cold start to the morning, but a Southerly wind should bring the temperature up to around 20 degrees by the afternoon. The snow is in great shape today. We received 3 inches of snow yesterday and all that new snow is now groomed into the base. Expect a slower snow with exceptional grip today. The lifts will spin from 9 AM to 9 PM today with an hour break at 430 PM to prepare for night skiing. Make it a great day at Nub's Nob.",
+    "comments": "Seven more inches of high quality lake effect snow landed at Nub's Nob last night. This is very light and perfect skiing snow. Some of this fresh snow is laying on top of the steep groomed runs. We are doing a second groom this morning on the majority of the green circle runs along with our race hill, Birch Run. This continues to be an amazing winter for skiers and riders, we now have 90\" of snow for the season and it's not even February. The snowshoe trails and XC trails are also in very good condition. We are proud to host our friends at the 70+ ski club today for their NASTAR race. The lifts will spin from 9 AM to 9 PM today with an hour break at 4:30 PM to prepare for night skiing. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "3\"",
-      "threeDays": "3 days: 10\"",
-      "sevenDays": "7 days: 14\"",
-      "ytd": "YTD: 83\""
+      "daily": "7\"",
+      "threeDays": "3 days: 17\"",
+      "sevenDays": "7 days: 21\"",
+      "ytd": "YTD: 90\""
     }
   }
 }
