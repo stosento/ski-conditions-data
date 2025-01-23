@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-23T16:00:40.640Z",
+  "timestamp": "2025-01-23T17:00:50.296Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1737644400000,
+          "name": "This Afternoon",
+          "timestamp": 1737651600000,
           "temp": 27,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. High near 27, with temperatures falling to around 24 in the afternoon. West southwest wind around 9 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Snow showers. Mostly cloudy. High near 27, with temperatures falling to around 24 in the afternoon. West wind around 9 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tonight",
@@ -46,31 +46,31 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1737644400000,
+          "name": "This Afternoon",
+          "timestamp": 1737651600000,
           "temp": 23,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 23, with temperatures falling to around 20 in the afternoon. North wind 10 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Partly sunny. High near 23, with temperatures falling to around 20 in the afternoon. North wind 10 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1737673200000,
-          "temp": 12,
+          "temp": 11,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 12, with temperatures rising to around 14 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 11, with temperatures rising to around 15 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
           "timestamp": 1737716400000,
-          "temp": 24,
+          "temp": 22,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 1pm. Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. West wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers before 1pm. Mostly cloudy, with a high near 22. Southwest wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Friday Night",
@@ -85,15 +85,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -110,6 +101,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
