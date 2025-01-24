@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-23T23:00:35.379Z",
+  "timestamp": "2025-01-24T00:00:45.547Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1737673200000,
+          "timestamp": 1737676800000,
           "temp": 11,
-          "snowfall": 50,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Light Snow then Mostly Cloudy",
-          "detailedForecast": "A chance of snow before 10pm. Mostly cloudy, with a low around 11. West northwest wind 5 to 8 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
+          "detailedForecast": "A slight chance of snow before 10pm. Mostly cloudy, with a low around 11. West northwest wind 5 to 8 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Friday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1737673200000,
+          "timestamp": 1737676800000,
           "temp": 11,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 11, with temperatures rising to around 15 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 11, with temperatures rising to around 15 overnight. Wind chill values as low as 0. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
@@ -85,15 +85,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -110,16 +101,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Jan 23",
-      "conditions": "The upper Red Loop is as good as it gets . The Blue Loop has a minor high class issue with too much snow : but that was offset by an untouched thin layer of fresh over a well established under groom - delightful !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Jan 22",
       "conditions": "Excellent day out classic skiing on skins.  Tracks very good and fast most of the way around in the woods except for a few shallow spots but not down to the dirt.  Tracks blown in on connector with the wind.  Snow gun was running today also."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Jan 23",
+      "conditions": "The upper Red Loop is as good as it gets . The Blue Loop has a minor high class issue with too much snow : but that was offset by an untouched thin layer of fresh over a well established under groom - delightful !"
     }
   },
   "nubsNob": {
