@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-01-24T22:00:42.525Z",
+  "timestamp": "2025-01-24T23:00:44.642Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1737752400000,
-          "temp": 21,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Cloudy, with a high near 21. Southwest wind around 7 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1737759600000,
@@ -38,7 +29,16 @@
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a low around 21. West southwest wind 8 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 21, with temperatures rising to around 23 overnight. West southwest wind 8 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1737889200000,
+          "temp": 27,
+          "snowfall": 50,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers then Partly Sunny",
+          "detailedForecast": "Scattered snow showers before 7am. Partly sunny, with a high near 27. West wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Harbor Springs",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1737756000000,
-          "temp": 21,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 21. South wind around 15 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1737759600000,
           "temp": 13,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Mostly Cloudy then Snow Showers Likely",
-          "detailedForecast": "Snow showers likely after 1am. Mostly cloudy. Low around 13, with temperatures rising to around 21 overnight. Wind chill values as low as -1. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers likely after 1am. Mostly cloudy. Low around 13, with temperatures rising to around 21 overnight. Wind chill values as low as -1. South wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Saturday",
@@ -79,7 +70,16 @@
           "snowfall": 60,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers Likely And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers likely and patchy blowing snow. Cloudy, with a low around 19. West wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers likely and patchy blowing snow. Cloudy. Low around 19, with temperatures rising to around 23 overnight. West wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 3 inches possible."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1737889200000,
+          "temp": 28,
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Chance Snow Showers then Patchy Blowing Snow",
+          "detailedForecast": "A chance of snow showers before 7am, then patchy blowing snow. Mostly cloudy, with a high near 28. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
         }
       ]
     }
