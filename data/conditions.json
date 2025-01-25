@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-25T12:00:45.108Z",
+  "timestamp": "2025-01-25T13:02:35.181Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737806400000,
+          "timestamp": 1737810000000,
           "temp": 30,
-          "snowfall": 30,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Chance Light Snow then Partly Sunny",
-          "detailedForecast": "A chance of snow before 10am. Partly sunny, with a high near 30. South southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
+          "shortForecast": "Slight Chance Light Snow then Partly Sunny",
+          "detailedForecast": "A slight chance of snow before 10am. Partly sunny, with a high near 30. Southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -38,7 +38,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 18. West southwest wind 8 to 13 mph, with gusts as high as 25 mph."
+          "detailedForecast": "Partly cloudy, with a low around 18. West southwest wind 8 to 13 mph, with gusts as high as 29 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737806400000,
+          "timestamp": 1737810000000,
           "temp": 29,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1737806400000,
+          "timestamp": 1737810000000,
           "temp": 29,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -126,6 +126,23 @@
     }
   },
   "metroparkConditions": {
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, January 25, 2025. There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
+        },
+        {
+          "header": "Bucks Run Hours:",
+          "content": "Please adhere to posted hours."
+        },
+        {
+          "header": "Natural Snow Classic and Skate Ski Trails",
+          "content": "– Golf course trails, Hawk Hills and Coyote Run, were rolled on January 24, 2025.  When skiing the golf course trails please ski on designated marked trails only.  All other trails have not been groomed due to very limited snowfall."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
+    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -134,23 +151,6 @@
         }
       ],
       "title": "Stony Creek Metropark"
-    },
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, January 24, 2025. There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
-        },
-        {
-          "header": "Bucks Run Hours:",
-          "content": "Please adhere to posted hours."
-        },
-        {
-          "header": "Natural Snow Classic and Skate Ski Trails",
-          "content": "– Coyote Run and Hawks Hills ski trails have been rolled. The trails have not been groomed due to very limited snowfall."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
@@ -164,16 +164,16 @@
     }
   },
   "nubsNob": {
-    "date": "1/24/25",
-    "liftsOpen": "7 lifts, Rope Tow, and Space Worm",
-    "xcTrails": "Trails are open and in great shape. Trails will be packed this morning. Expect snow surface to be a little soft given all the recent snowfall.",
+    "date": "1/25/25",
+    "liftsOpen": "All 8 lifts, Rope Tow, and Space Worm",
+    "xcTrails": "Trails are open and in great shape. Trails will be groomed and tracked this morning.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "It's another mid-winter ski day at Nub's Nob with beautiful conditions. We only received a dusting of natural snow last night, but more snow is in the air this morning. The ski surface is so good right now. The Marker/Dalbello/Volkl Speed Series is tonight at 7 PM. Please sign up for this rest online prior to 3 PM. Make it a great day at Nub's Nob.",
+    "comments": "It's snowing at Nub's Nob this morning. The snow is falling on the beautiful corduroy our Grooming Crew put out last night. Conditions continue to be mid-winter excellent. Scarface is open to USSS racers only today. NASTAR racing is open to the public from 12:30 to 2:30 PM on Birch Run. Eric Jaqua will play the Nub's Pub at 3:30 P.M. The Lifts will spin from 9:00 AM to 9:00 PM with an hour break at 4:30 PM to groom for night skiing. Make it a great day at Nub's Nob.",
     "snowData": {
       "daily": "1\"",
-      "threeDays": "3 days: 11\"",
-      "sevenDays": "7 days: 18\"",
-      "ytd": "YTD: 91\""
+      "threeDays": "3 days: 9\"",
+      "sevenDays": "7 days: 19\"",
+      "ytd": "YTD: 92\""
     }
   }
 }
