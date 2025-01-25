@@ -24,10 +24,15 @@ const LOCATIONS = {
     lon: -83.0328,
     name: "Shelby Township",
   },
-  harborSprings: {
-    lat: 45.4319,
-    lon: -84.9928,
-    name: "Harbor Springs",
+  nubsNob: {
+    lat: 45.47,
+    lon: -84.903,
+    name: "Nubs Nob",
+  },
+  otsegoResort: {
+    lat: 45.032644409325755,
+    lon: -84.65170507777471,
+    name: "Otsego Resort",
   },
 };
 
