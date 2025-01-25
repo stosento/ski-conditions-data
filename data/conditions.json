@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-01-25T22:00:47.212Z",
+  "timestamp": "2025-01-25T23:00:34.418Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1737842400000,
-          "temp": 34,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 34, with temperatures falling to around 32 in the afternoon. Southwest wind around 9 mph, with gusts as high as 20 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1737846000000,
           "temp": 20,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 7pm. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. West southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
+          "snowfall": 40,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers between 8pm and 1am. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. West southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -28,8 +19,8 @@
           "temp": 27,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers then Partly Sunny",
-          "detailedForecast": "Isolated snow showers before 7am. Partly sunny. High near 27, with temperatures falling to around 24 in the afternoon. West wind 8 to 12 mph, with gusts as high as 21 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 27, with temperatures falling to around 24 in the afternoon. West wind 8 to 12 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Sunday Night",
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 18. West southwest wind 7 to 10 mph, with gusts as high as 22 mph."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1737975600000,
+          "temp": 35,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 35. Southwest wind 12 to 17 mph, with gusts as high as 38 mph."
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1737842400000,
-          "temp": 30,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Snow Showers Likely And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers likely and patchy blowing snow. Cloudy, with a high near 30. Southwest wind around 15 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1737846000000,
           "temp": 15,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Snow Showers Likely And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers likely and patchy blowing snow before 4am, then patchy blowing snow and a slight chance of snow showers. Mostly cloudy. Low around 15, with temperatures rising to around 18 overnight. West wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Snow showers and patchy blowing snow before 4am, then patchy blowing snow and a slight chance of snow showers. Mostly cloudy. Low around 15, with temperatures rising to around 18 overnight. West wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Sunday",
@@ -79,7 +70,16 @@
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "A slight chance of snow showers between 7pm and 8pm, then patchy blowing snow and a slight chance of snow showers. Mostly cloudy, with a low around 22. Southwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers between 7pm and 8pm, then patchy blowing snow and a slight chance of snow showers. Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. Southwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1737975600000,
+          "temp": 32,
+          "snowfall": 70,
+          "snowAmount": "New snow accumulation of around one inch possible",
+          "shortForecast": "Patchy Blowing Snow then Snow Showers Likely And Patchy Blowing Snow",
+          "detailedForecast": "Patchy blowing snow before 7am, then snow showers likely and patchy blowing snow. Mostly cloudy, with a high near 32. West wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
         }
       ]
     },
@@ -87,22 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1737842400000,
-          "temp": 31,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers Likely And Areas Of Blowing Snow",
-          "detailedForecast": "Snow showers likely and areas of blowing snow. Cloudy. High near 31, with temperatures falling to around 28 in the afternoon. West wind around 15 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1737846000000,
           "temp": 15,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
-          "shortForecast": "Snow Showers Likely And Areas Of Blowing Snow",
-          "detailedForecast": "Snow showers likely and areas of blowing snow before 7pm, then areas of blowing snow and a chance of snow showers between 7pm and 9pm, then snow showers likely and patchy blowing snow. Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. West wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New snow accumulation of 2 to 4 inches possible."
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
+          "shortForecast": "Snow Showers And Areas Of Blowing Snow",
+          "detailedForecast": "Snow showers and areas of blowing snow before 7pm, then areas of blowing snow and a chance of snow showers between 7pm and 9pm, then snow showers likely and patchy blowing snow. Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. West wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
         },
         {
           "name": "Sunday",
@@ -120,7 +111,16 @@
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers then Patchy Blowing Snow",
-          "detailedForecast": "A slight chance of snow showers between 7pm and 10pm, then patchy blowing snow. Mostly cloudy, with a low around 16. Southwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow showers between 7pm and 10pm, then patchy blowing snow. Mostly cloudy. Low around 16, with temperatures rising to around 21 overnight. Southwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1737975600000,
+          "temp": 30,
+          "snowfall": 70,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Patchy Blowing Snow then Snow Showers Likely And Patchy Blowing Snow",
+          "detailedForecast": "Patchy blowing snow before 7am, then snow showers likely and patchy blowing snow. Partly sunny, with a high near 30. West wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         }
       ]
     }
@@ -154,13 +154,13 @@
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Fri, Jan 24",
-      "conditions": "The golf course is ROLLED, baby!! It’s thin, but it’s golf course skiing, for which I am grateful. The Metroparks did a very nice job given the lack of snowfall. I skied the gully on the south end by the entrance, but I would super definitely very much not ski it again until we get more snow. Parking lot was PACKED at 2pm on a Friday. Should be a good weekend out here."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Sat, Jan 25",
       "conditions": "The Nubs upper loops are in great  shape with a fresh big groom this morning. LF 7 was the perfect wax of today ."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Fri, Jan 24",
+      "conditions": "The golf course is ROLLED, baby!! It’s thin, but it’s golf course skiing, for which I am grateful. The Metroparks did a very nice job given the lack of snowfall. I skied the gully on the south end by the entrance, but I would super definitely very much not ski it again until we get more snow. Parking lot was PACKED at 2pm on a Friday. Should be a good weekend out here."
     }
   },
   "nubsNob": {
