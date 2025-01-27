@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-27T02:21:38.276Z",
+  "timestamp": "2025-01-27T03:02:25.565Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1737943200000,
+          "timestamp": 1737946800000,
           "temp": 19,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 19, with temperatures rising to around 21 overnight. West southwest wind around 12 mph, with gusts as high as 24 mph."
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear. Low around 19, with temperatures rising to around 21 overnight. West southwest wind around 12 mph, with gusts as high as 24 mph."
         },
         {
           "name": "Monday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1737943200000,
+          "timestamp": 1737946800000,
           "temp": 22,
-          "snowfall": 30,
+          "snowfall": 0,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers and patchy blowing snow. Partly cloudy. Low around 22, with temperatures rising to around 24 overnight. Southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Patchy Blowing Snow",
+          "detailedForecast": "Patchy blowing snow. Mostly cloudy. Low around 22, with temperatures rising to around 24 overnight. Southwest wind around 20 mph, with gusts as high as 35 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1737943200000,
+          "timestamp": 1737946800000,
           "temp": 17,
-          "snowfall": 70,
+          "snowfall": 20,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers Likely then Patchy Blowing Snow",
-          "detailedForecast": "Snow showers likely before 1am, then patchy blowing snow. Partly cloudy. Low around 17, with temperatures rising to around 20 overnight. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Slight Chance Snow Showers then Patchy Blowing Snow",
+          "detailedForecast": "A slight chance of snow showers before 1am, then patchy blowing snow. Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 25",
-      "conditions": "The Nubs upper loops are in great  shape with a fresh big groom this morning. LF 7 was the perfect wax of today ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Jan 26",
       "conditions": "Skied south of Hamel road ungroomed trails.  It had everything!  Snow, scenery, sticks, leaves, and hikers footprints.  Overall though, very skiable this morning while still cold, just don't use your fancy skis.  The snow is compacted so the footprints didn't bother *too* much.  Beautiful day and great to see so many people enjoying the snow.  Buck's run is in great shape, double tracks around most of it.Skied back via Cedar Trace (by the lake).  Do not ski down the first hill (on the left from the parking lot) as there is a large gravel patch."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 25",
+      "conditions": "The Nubs upper loops are in great  shape with a fresh big groom this morning. LF 7 was the perfect wax of today ."
     }
   },
   "nubsNob": {
