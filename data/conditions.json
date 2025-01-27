@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-01-27T09:00:36.275Z",
+  "timestamp": "2025-01-27T10:00:47.962Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737968400000,
+          "timestamp": 1737972000000,
           "temp": 19,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737968400000,
+          "timestamp": 1737972000000,
           "temp": 22,
           "snowfall": 0,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1737968400000,
+          "timestamp": 1737972000000,
           "temp": 17,
           "snowfall": 0,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow. Mostly cloudy. Low around 17, with temperatures rising to around 22 overnight. Southwest wind around 20 mph, with gusts as high as 30 mph. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Patchy blowing snow. Partly cloudy. Low around 17, with temperatures rising to around 24 overnight. Southwest wind around 15 mph, with gusts as high as 30 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
