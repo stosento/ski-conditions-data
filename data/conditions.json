@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-01-28T10:00:40.352Z",
+  "timestamp": "2025-01-28T11:00:41.062Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1738058400000,
-          "temp": 20,
-          "snowfall": 40,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 20, with temperatures rising to around 25 overnight. Northwest wind around 9 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
-        },
-        {
-          "name": "Tuesday",
+          "name": "Today",
           "timestamp": 1738062000000,
           "temp": 34,
           "snowfall": 50,
@@ -23,7 +14,7 @@
           "detailedForecast": "Scattered snow showers before 7am, then a chance of snow. Cloudy, with a high near 34. West wind 3 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1738105200000,
           "temp": 29,
           "snowfall": 50,
@@ -38,7 +29,16 @@
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Partly sunny, with a high near 32. West northwest wind 15 to 20 mph, with gusts as high as 38 mph. Chance of precipitation is 30%."
+          "detailedForecast": "Scattered snow showers. Partly sunny. High near 32, with temperatures falling to around 28 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 38 mph. Chance of precipitation is 30%."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1738191600000,
+          "temp": 18,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Isolated Snow Showers then Partly Cloudy",
+          "detailedForecast": "Isolated snow showers before 7pm. Partly cloudy, with a low around 18. West southwest wind 2 to 13 mph, with gusts as high as 23 mph."
         }
       ]
     },
@@ -46,25 +46,16 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1738058400000,
-          "temp": 6,
-          "snowfall": 40,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 6, with temperatures rising to around 8 overnight. Wind chill values as low as -1. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
-        },
-        {
-          "name": "Tuesday",
+          "name": "Today",
           "timestamp": 1738062000000,
           "temp": 32,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 4 to 8 inches possible",
           "shortForecast": "Scattered Snow Showers then Heavy Snow",
-          "detailedForecast": "Scattered snow showers before 7am, then snow. Mostly cloudy. High near 32, with temperatures falling to around 28 in the afternoon. Wind chill values as low as -2. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible."
+          "detailedForecast": "Scattered snow showers before 7am, then snow. Mostly cloudy. High near 32, with temperatures falling to around 28 in the afternoon. Wind chill values as low as -1. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible."
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1738105200000,
           "temp": 17,
           "snowfall": 70,
@@ -79,7 +70,16 @@
           "snowfall": 50,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 23. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 23, with temperatures falling to around 18 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1738191600000,
+          "temp": 12,
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers then Mostly Cloudy",
+          "detailedForecast": "A chance of snow showers before 7pm. Mostly cloudy, with a low around 12. West wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -87,16 +87,7 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1738058400000,
-          "temp": 4,
-          "snowfall": 50,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 4, with temperatures rising to around 8 overnight. Wind chill values as low as -1. West wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
-        },
-        {
-          "name": "Tuesday",
+          "name": "Today",
           "timestamp": 1738062000000,
           "temp": 31,
           "snowfall": 100,
@@ -105,7 +96,7 @@
           "detailedForecast": "Scattered snow showers before 7am, then snow. Cloudy. High near 31, with temperatures falling to around 28 in the afternoon. Wind chill values as low as -2. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1738105200000,
           "temp": 18,
           "snowfall": 80,
@@ -120,12 +111,30 @@
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 23. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy. High near 23, with temperatures falling to around 19 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1738191600000,
+          "temp": 10,
+          "snowfall": 50,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 10. West wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Jan 25",
-      "conditions": "The Nubs upper loops are in great  shape with a fresh big groom this morning. LF 7 was the perfect wax of today ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Jan 27",
       "conditions": "Classic skied golf course trails from 1-2:30pm.  They were holding up surprisingly well. Rolling it recently has helped if stay solid.  A few spots where you may want to detour off the trails but generally good coverage, but thin.  Even some decent skier tracks to follow for a good portion.  Tomorrow morning should be some decent crust skiing."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Jan 25",
+      "conditions": "The Nubs upper loops are in great  shape with a fresh big groom this morning. LF 7 was the perfect wax of today ."
     }
   },
   "nubsNob": {
