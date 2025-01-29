@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-29T16:00:43.102Z",
+  "timestamp": "2025-01-29T17:00:49.128Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1738162800000,
+          "name": "This Afternoon",
+          "timestamp": 1738170000000,
           "temp": 35,
-          "snowfall": 30,
+          "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Partly sunny. High near 35, with temperatures falling to around 29 in the afternoon. West northwest wind 14 to 20 mph, with gusts as high as 33 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Slight Chance Light Snow",
+          "detailedForecast": "A slight chance of snow. Partly sunny. High near 35, with temperatures falling to around 29 in the afternoon. West northwest wind 14 to 20 mph, with gusts as high as 32 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1738162800000,
+          "name": "This Afternoon",
+          "timestamp": 1738170000000,
           "temp": 22,
-          "snowfall": 60,
+          "snowfall": 40,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers and patchy blowing snow. Cloudy. High near 22, with temperatures falling to around 18 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Cloudy. High near 22, with temperatures falling to around 18 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -70,7 +70,7 @@
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers then Mostly Sunny",
-          "detailedForecast": "Isolated snow showers before 7am. Mostly sunny, with a high near 37. Southwest wind 5 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers before 7am. Mostly sunny, with a high near 37. Southwest wind 5 to 15 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Thursday Night",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1738162800000,
+          "name": "This Afternoon",
+          "timestamp": 1738170000000,
           "temp": 21,
-          "snowfall": 70,
+          "snowfall": 60,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers and patchy blowing snow. Cloudy. High near 21, with temperatures falling to around 18 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Cloudy. High near 21, with temperatures falling to around 18 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -111,7 +111,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 37. Southwest wind 5 to 20 mph, with gusts as high as 35 mph."
+          "detailedForecast": "Mostly sunny, with a high near 37. Southwest wind 5 to 20 mph."
         },
         {
           "name": "Thursday Night",
@@ -120,12 +120,21 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 19. West wind 5 to 15 mph, with gusts as high as 25 mph."
+          "detailedForecast": "Partly cloudy, with a low around 19. West wind 5 to 15 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Tue, Jan 28",
-      "conditions": "If you’re looking for a sign that you should get out here before bucks opens this is it.  Variable conditions, rolled trail is harder packed and very thin south of clubhouse. North side is better coverage.  Some good crust on fairways.  Worth it for classic at least."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Jan 28",
       "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Tue, Jan 28",
+      "conditions": "If you’re looking for a sign that you should get out here before bucks opens this is it.  Variable conditions, rolled trail is harder packed and very thin south of clubhouse. North side is better coverage.  Some good crust on fairways.  Worth it for classic at least."
     }
   },
   "nubsNob": {
