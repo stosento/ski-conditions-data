@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-29T12:00:45.855Z",
+  "timestamp": "2025-01-29T13:04:42.852Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738152000000,
+          "timestamp": 1738155600000,
           "temp": 35,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Partly sunny. High near 35, with temperatures falling to around 29 in the afternoon. West northwest wind 14 to 20 mph, with gusts as high as 36 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow. Partly sunny. High near 35, with temperatures falling to around 29 in the afternoon. West northwest wind 14 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738152000000,
+          "timestamp": 1738155600000,
           "temp": 22,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738152000000,
+          "timestamp": 1738155600000,
           "temp": 21,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -126,20 +126,11 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
           "header": "Bucks Run-",
-          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, January 28, 2025. There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
+          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, January 29, 2025. There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
         },
         {
           "header": "Bucks Run Hours:",
@@ -151,29 +142,38 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Tue, Jan 28",
-      "conditions": "If you’re looking for a sign that you should get out here before bucks opens this is it.  Variable conditions, rolled trail is harder packed and very thin south of clubhouse. North side is better coverage.  Some good crust on fairways.  Worth it for classic at least."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Jan 28",
       "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Tue, Jan 28",
+      "conditions": "If you’re looking for a sign that you should get out here before bucks opens this is it.  Variable conditions, rolled trail is harder packed and very thin south of clubhouse. North side is better coverage.  Some good crust on fairways.  Worth it for classic at least."
     }
   },
   "nubsNob": {
-    "date": "1/28/25",
-    "liftsOpen": "6 lifts and the rope tow",
-    "xcTrails": "Trails are open. We are recovering from the windstorm yesterday by picking sticks off the trail and grooming. Trails should be in pretty good shape by this afternoon.",
+    "date": "1/29/25",
+    "liftsOpen": "At least 5 lifts and the rope tow",
+    "xcTrails": "Trails are open and will be groomed and tracked this morning.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "It's a calm start to the morning with a very light breeze. Three inches of snow landed at Nub's Nob last night and conditions continue to be mid-winter excellent. The forecast is predicting a few more inches of snow this afternoon. The snow total for the season has just exceeded the amount of snow we received all of last winter and it's not even February. The lifts will spin from 9:00 AM to 9:00 PM today with an hour break at 4:30 PM so we can prepare for night skiing. Make it a great day at Nub's Nob!",
+    "comments": "It just keeps snowing at Nub's Nob. Three more inches of snow fell on the slopes yesterday afternoon. The new snow was tilled into the base and conditions should be great for skiing and riding today. The wind is up from the Northwest this morning and should calm down considerably by the afternoon. The lifts will spin from 9:00 AM to 9:00 PM today with an hour break at 4:30 PM so we can prepare for night skiing. Make it a great day at Nub's Nob!",
     "snowData": {
       "daily": "3\"",
-      "threeDays": "3 days: 5\"",
-      "sevenDays": "7 days: 17\"",
-      "ytd": "YTD: 97\""
+      "threeDays": "3 days: 8\"",
+      "sevenDays": "7 days: 20\"",
+      "ytd": "YTD: 100\""
     }
   }
 }
