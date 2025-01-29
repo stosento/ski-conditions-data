@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-01-29T04:00:39.854Z",
+  "timestamp": "2025-01-29T05:00:40.311Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1738123200000,
+          "name": "Overnight",
+          "timestamp": 1738126800000,
           "temp": 29,
           "snowfall": 30,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1738119600000,
+          "timestamp": 1738123200000,
           "temp": 17,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -59,9 +59,9 @@
           "timestamp": 1738148400000,
           "temp": 20,
           "snowfall": 40,
-          "snowAmount": "New snow accumulation of around one inch possible",
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 20, with temperatures falling to around 17 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 20, with temperatures falling to around 17 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Wednesday Night",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1738119600000,
+          "timestamp": 1738123200000,
           "temp": 18,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -100,18 +100,18 @@
           "timestamp": 1738148400000,
           "temp": 21,
           "snowfall": 70,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Scattered snow showers before 7am, then a chance of snow showers and patchy blowing snow. Mostly cloudy. High near 21, with temperatures falling to around 18 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Scattered snow showers before 7am, then a chance of snow showers and patchy blowing snow. Mostly cloudy. High near 21, with temperatures falling to around 18 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1738191600000,
           "temp": 10,
           "snowfall": 50,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers before 1am. Mostly cloudy. Low around 10, with temperatures rising to around 14 overnight. West wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers before 1am. Mostly cloudy. Low around 10, with temperatures rising to around 14 overnight. West wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Thursday",
@@ -154,13 +154,13 @@
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Tue, Jan 28",
-      "conditions": "If you’re looking for a sign that you should get out here before bucks opens this is it.  Variable conditions, rolled trail is harder packed and very thin south of clubhouse. North side is better coverage.  Some good crust on fairways.  Worth it for classic at least."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Jan 28",
       "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Tue, Jan 28",
+      "conditions": "If you’re looking for a sign that you should get out here before bucks opens this is it.  Variable conditions, rolled trail is harder packed and very thin south of clubhouse. North side is better coverage.  Some good crust on fairways.  Worth it for classic at least."
     }
   },
   "nubsNob": {
