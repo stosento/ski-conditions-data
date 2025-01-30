@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-01-30T19:00:42.717Z",
+  "timestamp": "2025-01-30T20:00:40.982Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1738260000000,
+          "timestamp": 1738263600000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1738260000000,
-          "temp": 36,
+          "timestamp": 1738267200000,
+          "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 36, with temperatures falling to around 34 in the afternoon. Southwest wind 5 to 10 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 38, with temperatures falling to around 34 in the afternoon. Southwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1738260000000,
+          "timestamp": 1738263600000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 38, with temperatures falling to around 35 in the afternoon. Southwest wind around 10 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 38, with temperatures falling to around 35 in the afternoon. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Weather permitting, ski center open Saturdays, Sundays and holidays.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Weather permitting, ski center open Saturdays, Sundays and holidays.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Jan 29",
-      "conditions": "Team NordicSkiRacer instructors were out in force this evening, teaching kids to \"duck walk\" (herringbone) and ski like a pizza slice (snowplow)! Snow conditions were great with a firm skate surface and deep tracks with a little loose snow on them to make classic skiing pretty good."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Jan 28",
       "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Jan 29",
+      "conditions": "Team NordicSkiRacer instructors were out in force this evening, teaching kids to \"duck walk\" (herringbone) and ski like a pizza slice (snowplow)! Snow conditions were great with a firm skate surface and deep tracks with a little loose snow on them to make classic skiing pretty good."
     }
   },
   "nubsNob": {
