@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-01-30T17:00:42.735Z",
+  "timestamp": "2025-01-30T18:00:48.668Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1738256400000,
+          "timestamp": 1738260000000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
@@ -46,22 +46,22 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1738252800000,
-          "temp": 38,
+          "name": "This Afternoon",
+          "timestamp": 1738260000000,
+          "temp": 36,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 38, with temperatures falling to around 35 in the afternoon. Southwest wind around 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 36, with temperatures falling to around 34 in the afternoon. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1738278000000,
-          "temp": 19,
+          "temp": 18,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 19, with temperatures rising to around 21 overnight. West wind 5 to 10 mph."
+          "detailedForecast": "Partly cloudy. Low around 18, with temperatures rising to around 21 overnight. Northwest wind 0 to 10 mph."
         },
         {
           "name": "Friday",
@@ -87,22 +87,22 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1738252800000,
+          "name": "This Afternoon",
+          "timestamp": 1738260000000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 38, with temperatures falling to around 36 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Mostly sunny. High near 38, with temperatures falling to around 35 in the afternoon. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1738278000000,
-          "temp": 19,
+          "temp": 18,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 19, with temperatures rising to around 21 overnight. West wind 5 to 10 mph."
+          "detailedForecast": "Partly cloudy. Low around 18, with temperatures rising to around 21 overnight. Northwest wind 0 to 10 mph."
         },
         {
           "name": "Friday",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Weather permitting, ski center open Saturdays, Sundays and holidays.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Weather permitting, ski center open Saturdays, Sundays and holidays.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
