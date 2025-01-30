@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-30T12:00:43.291Z",
+  "timestamp": "2025-01-30T13:04:03.425Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738238400000,
+          "timestamp": 1738242000000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 42, with temperatures falling to around 40 in the afternoon. South wind 3 to 9 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Mostly sunny. High near 42, with temperatures falling to around 40 in the afternoon. South wind 5 to 9 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738238400000,
+          "timestamp": 1738242000000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Chance Very Light Snow then Partly Sunny",
-          "detailedForecast": "A chance of snow before 10am. Partly sunny. High near 38, with temperatures falling to around 35 in the afternoon. Southwest wind 5 to 10 mph."
+          "detailedForecast": "A chance of snow before 10am. Partly sunny. High near 38, with temperatures falling to around 35 in the afternoon. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738238400000,
+          "timestamp": 1738242000000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Chance Very Light Snow then Partly Sunny",
-          "detailedForecast": "A chance of snow before 10am. Partly sunny. High near 38, with temperatures falling to around 36 in the afternoon. Southwest wind 5 to 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "A chance of snow before 10am. Partly sunny. High near 38, with temperatures falling to around 36 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Open this weekend January 25th and 26th from 10 a.m. until 5 p.m. (final rental at 4 p.m.) Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing.  Trails will not be groomed at this time."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -164,16 +164,16 @@
     }
   },
   "nubsNob": {
-    "date": "1/29/25",
+    "date": "1/30/25",
     "liftsOpen": "At least 5 lifts and the rope tow",
-    "xcTrails": "Trails are open and will be groomed and tracked this morning.",
+    "xcTrails": "Trails are open and will be packed this morning.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "It just keeps snowing at Nub's Nob. Three more inches of snow fell on the slopes yesterday afternoon. The new snow was tilled into the base and conditions should be great for skiing and riding today. The wind is up from the Northwest this morning and should calm down considerably by the afternoon. The lifts will spin from 9:00 AM to 9:00 PM today with an hour break at 4:30 PM so we can prepare for night skiing. Make it a great day at Nub's Nob!",
+    "comments": "It's a great ski day at Nub's Nob with excellent grooming. The temperature should rise to nearly 40 degrees this afternoon. The lifts will spin from 9 AM to 9 PM. Make it a great day at Nub's Nob!",
     "snowData": {
-      "daily": "3\"",
-      "threeDays": "3 days: 8\"",
-      "sevenDays": "7 days: 20\"",
-      "ytd": "YTD: 100\""
+      "daily": "1\"",
+      "threeDays": "3 days: 7\"",
+      "sevenDays": "7 days: 11\"",
+      "ytd": "YTD: 101\""
     }
   }
 }
