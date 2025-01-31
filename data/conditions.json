@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-31T16:00:49.722Z",
+  "timestamp": "2025-01-31T17:00:39.191Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1738339200000,
+          "name": "This Afternoon",
+          "timestamp": 1738342800000,
           "temp": 37,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Rain then Rain And Snow Likely",
-          "detailedForecast": "Rain and areas of fog before 4pm, then rain and snow likely. Cloudy. High near 37, with temperatures falling to around 34 in the afternoon. North northeast wind 7 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Rain And Snow Likely",
+          "detailedForecast": "Rain and areas of fog before 4pm, then rain and snow likely. Cloudy. High near 37, with temperatures falling to around 34 in the afternoon. North northeast wind 8 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1738339200000,
+          "name": "This Afternoon",
+          "timestamp": 1738342800000,
           "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 30, with temperatures falling to around 26 in the afternoon. Northeast wind 5 to 10 mph."
+          "detailedForecast": "Mostly sunny. High near 30, with temperatures falling to around 26 in the afternoon. Northeast wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1738339200000,
+          "name": "This Afternoon",
+          "timestamp": 1738342800000,
           "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Thu, Jan 30",
-      "conditions": "Bucks was in good shape from 12:30-1:30, given the warm up. Full coverage on the connector, two sets of tracks in the woods. Skate deck was getting soft when I finished up, but that's to be expected when it'd 44 degrees and full sun. Not sure what it will be like for the after-work crowd, but it should firm up real nice after the warm up. Two HUGE piles of snow should keep us skiing for a while."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Jan 28",
       "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Thu, Jan 30",
+      "conditions": "Bucks was in good shape from 12:30-1:30, given the warm up. Full coverage on the connector, two sets of tracks in the woods. Skate deck was getting soft when I finished up, but that's to be expected when it'd 44 degrees and full sun. Not sure what it will be like for the after-work crowd, but it should firm up real nice after the warm up. Two HUGE piles of snow should keep us skiing for a while."
     }
   },
   "nubsNob": {
