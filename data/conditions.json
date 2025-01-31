@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-31T19:00:33.413Z",
+  "timestamp": "2025-01-31T20:00:41.728Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1738350000000,
+          "timestamp": 1738353600000,
           "temp": 37,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow Likely",
-          "detailedForecast": "Rain before 4pm, then rain and snow likely. Cloudy. High near 37, with temperatures falling to around 34 in the afternoon. North northeast wind 10 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain before 4pm, then rain and snow likely. Cloudy. High near 37, with temperatures falling to around 34 in the afternoon. North northeast wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1738350000000,
-          "temp": 30,
+          "timestamp": 1738353600000,
+          "temp": 33,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. North wind 5 to 10 mph."
+          "detailedForecast": "Mostly cloudy. High near 33, with temperatures falling to around 27 in the afternoon. North wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,19 +126,10 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
-          "header": "Bucks Run-",
+          "header": "Bucks Run- Due to the weather Bucks Run will be closed today, January 31, 2025.",
           "content": "Bucks Run 2.5 km ski trail will not be groomed today, January 31, 2025 due to warm temperatures. The trail was last groomed on January, 30, 2025.  There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
         },
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
