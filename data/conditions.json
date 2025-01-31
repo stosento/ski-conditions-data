@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-01-30T23:00:55.326Z",
+  "timestamp": "2025-01-31T00:00:49.013Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1738278000000,
+          "timestamp": 1738281600000,
           "temp": 34,
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Cloudy then Chance Light Rain",
-          "detailedForecast": "A chance of rain after 2am. Cloudy, with a low around 34. South southwest wind 2 to 8 mph, with gusts as high as 18 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain after 2am. Cloudy, with a low around 34. Southwest wind 2 to 8 mph, with gusts as high as 18 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1738278000000,
+          "timestamp": 1738281600000,
           "temp": 20,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1738278000000,
+          "timestamp": 1738281600000,
           "temp": 19,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,41 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, January 30, 2025. There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
-        },
-        {
-          "header": "Bucks Run Hours:",
-          "content": "Please adhere to posted hours."
-        },
-        {
-          "header": "Natural Snow Classic and Skate Ski Trails",
-          "content": "– Trails have not been groomed due to very limited snowfall."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Weather permitting, ski center open Saturdays, Sundays and holidays.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
+      "sections": [],
+      "error": "Failed to fetch conditions: Request failed with status code 404"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "error": "Failed to fetch conditions: Request failed with status code 404"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Jan 28",
-      "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 30",
       "conditions": "Bucks was in good shape from 12:30-1:30, given the warm up. Full coverage on the connector, two sets of tracks in the woods. Skate deck was getting soft when I finished up, but that's to be expected when it'd 44 degrees and full sun. Not sure what it will be like for the after-work crowd, but it should firm up real nice after the warm up. Two HUGE piles of snow should keep us skiing for a while."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Jan 28",
+      "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
     }
   },
   "nubsNob": {
