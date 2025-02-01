@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-01T13:02:27.794Z",
+  "timestamp": "2025-02-01T14:00:33.436Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738414800000,
+          "timestamp": 1738418400000,
           "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 26. Northeast wind 6 to 9 mph."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 26. East northeast wind 6 to 9 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738414800000,
+          "timestamp": 1738418400000,
           "temp": 15,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 15. Wind chill values as low as -9. East wind around 5 mph."
+          "detailedForecast": "Mostly sunny, with a high near 15. Wind chill values as low as -8. East wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738414800000,
+          "timestamp": 1738418400000,
           "temp": 17,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 17, with temperatures falling to around 15 in the afternoon. Wind chill values as low as -6. East wind around 5 mph."
+          "detailedForecast": "Mostly sunny. High near 17, with temperatures falling to around 15 in the afternoon. Wind chill values as low as 0. East wind 0 to 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,23 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Bucks Run 2.5 km ski trail will not be groomed today, January 31, 2025 due to warm temperatures. The trail was last groomed on January, 30, 2025.  There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
-        },
-        {
-          "header": "Bucks Run Hours:",
-          "content": "Please adhere to posted hours."
-        },
-        {
-          "header": "Natural Snow Classic and Skate Ski Trails",
-          "content": "– Golf course trails, Hawk Hills and Coyote Run, were rolled on January 24, 2025.  When skiing the golf course trails please ski on designated marked trails only.  All other trails have not been groomed due to very limited snowfall."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -151,6 +134,23 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Bucks Run 2.5 km ski trail has been groomed for skate and classic skiing today, February 1, 2025 . There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
+        },
+        {
+          "header": "Bucks Run Hours:",
+          "content": "Please adhere to posted hours."
+        },
+        {
+          "header": "Natural Snow Classic and Skate Ski Trails",
+          "content": "– Due to limited snowfall trails are unable to be groomed at this time.  When skiing the golf course trails please ski on designated marked trails only."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
