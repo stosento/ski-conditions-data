@@ -1,26 +1,26 @@
 {
-  "timestamp": "2025-02-02T14:00:33.467Z",
+  "timestamp": "2025-02-02T15:00:34.312Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738501200000,
-          "temp": 34,
-          "snowfall": 50,
+          "timestamp": 1738508400000,
+          "temp": 29,
+          "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 4pm, then a slight chance of freezing rain between 4pm and 5pm, then a slight chance of rain. Cloudy, with a high near 34. South southeast wind around 7 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely before 4pm, then a chance of freezing drizzle. Cloudy, with a high near 29. South southeast wind around 7 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
           "timestamp": 1738537200000,
-          "temp": 30,
+          "temp": 29,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Freezing Rain then Cloudy",
-          "detailedForecast": "A slight chance of freezing rain before 7pm. Cloudy. Low around 30, with temperatures rising to around 34 overnight. South southwest wind around 3 mph. Little or no ice accumulation expected."
+          "shortForecast": "Slight Chance Freezing Drizzle then Cloudy",
+          "detailedForecast": "A slight chance of freezing drizzle before 7pm. Cloudy. Low around 29, with temperatures rising to around 34 overnight. South southwest wind around 3 mph. Little or no ice accumulation expected."
         },
         {
           "name": "Monday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738501200000,
+          "timestamp": 1738508400000,
           "temp": 31,
-          "snowfall": 90,
+          "snowfall": 30,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. South wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. South wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738501200000,
+          "timestamp": 1738508400000,
           "temp": 29,
-          "snowfall": 90,
+          "snowfall": 50,
           "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Light Snow",
-          "detailedForecast": "Snow before 4pm. Cloudy, with a high near 29. South wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of around one inch possible."
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow before 4pm. Cloudy, with a high near 29. South wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
