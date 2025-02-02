@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-02T15:00:34.312Z",
+  "timestamp": "2025-02-02T16:00:33.806Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738508400000,
+          "timestamp": 1738512000000,
           "temp": 29,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738508400000,
+          "timestamp": 1738512000000,
           "temp": 31,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738508400000,
+          "timestamp": 1738512000000,
           "temp": 29,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of around one inch possible",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Feb 1",
-      "conditions": "Bucks Run survived! (thank you thermodynamics) Tracks are hard and fast."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Jan 28",
       "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Feb 1",
+      "conditions": "Bucks Run survived! (thank you thermodynamics) Tracks are hard and fast."
     }
   },
   "nubsNob": {
