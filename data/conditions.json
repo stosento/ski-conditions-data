@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-02T11:00:30.669Z",
+  "timestamp": "2025-02-02T12:00:42.687Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738494000000,
+          "timestamp": 1738497600000,
           "temp": 34,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow between 7am and 4pm, then a slight chance of freezing rain between 4pm and 5pm, then a slight chance of rain. Cloudy, with a high near 34. South southeast wind around 7 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "A chance of snow before 4pm, then a slight chance of freezing rain between 4pm and 5pm, then a slight chance of rain. Cloudy, with a high near 34. South southeast wind around 7 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738494000000,
+          "timestamp": 1738497600000,
           "temp": 31,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738494000000,
+          "timestamp": 1738497600000,
           "temp": 29,
           "snowfall": 90,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow before 4pm. Cloudy, with a high near 29. Wind chill values as low as 0. South wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow before 4pm. Cloudy, with a high near 29. South wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Feb 1",
-      "conditions": "Bucks Run survived! (thank you thermodynamics) Tracks are hard and fast."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Jan 28",
       "conditions": "The red & blue trails were groomed up nicely after yesterday's snowfall. We skate skied both this morning while the current round of snow was falling which slowed things down a lot."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Feb 1",
+      "conditions": "Bucks Run survived! (thank you thermodynamics) Tracks are hard and fast."
     }
   },
   "nubsNob": {
