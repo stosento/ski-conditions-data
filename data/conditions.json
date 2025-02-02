@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-02T12:00:42.687Z",
+  "timestamp": "2025-02-02T13:02:33.949Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738497600000,
+          "timestamp": 1738501200000,
           "temp": 34,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738497600000,
+          "timestamp": 1738501200000,
           "temp": 31,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. Southeast wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. South wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738497600000,
+          "timestamp": 1738501200000,
           "temp": 29,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of around one inch possible",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -164,14 +164,14 @@
     }
   },
   "nubsNob": {
-    "date": "2/1/25",
+    "date": "2/2/25",
     "liftsOpen": "All 8 lifts, Space Worm and the rope tow",
-    "xcTrails": "Trails are open and will be groomed this morning with a track set.",
+    "xcTrails": "Trails continue to be in very good condition and will be packed again this morning.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "It's a cold, clear and beautiful morning at Nub's. We had a small warm-up the last few days, but the snow did not get wet and the ski surface remains in exceptional shape. We should see some sunshine this morning, remember to bring your shades. NASTAR racing is open to the public from 12:30 to 2:30 PM. Pintail Peak lodge is open with a deli and espresso bar. Owen James will play the Nub's Pub at 3:30 PM. The Lifts will spin from 9:00 AM to 9:00 PM with an hour break at 4:30 PM to groom for night skiing. Bundle up and make it a great day at Nub's Nob!",
+    "comments": "Welcome to an ideal Northern Michigan ski day. The temperature should climb to around 32 degrees with light wind. A dusting of snow landed on the corduroy this morning and a few more inches are forecast today. Snow surface and grooming are top-notch. Birch Run and JB Arena are closed for the Nordica Winter Rally junior club race. The lifts will spin from 9:00 AM to 4:30 PM. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 4\"",
+      "daily": "Dusting",
+      "threeDays": "3 days: 1\"",
       "sevenDays": "7 days: 9\"",
       "ytd": "YTD: 101\""
     }
