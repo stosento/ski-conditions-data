@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-03T09:00:47.317Z",
+  "timestamp": "2025-02-03T10:00:36.710Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1738573200000,
+          "timestamp": 1738576800000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1738573200000,
+          "timestamp": 1738576800000,
           "temp": 25,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy. Low around 25, with temperatures rising to around 32 overnight. West wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow. Cloudy. Low around 25, with temperatures rising to around 32 overnight. West wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1738573200000,
+          "timestamp": 1738576800000,
           "temp": 24,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy. Low around 24, with temperatures rising to around 30 overnight. West wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow. Cloudy. Low around 24, with temperatures rising to around 30 overnight. West wind around 5 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
