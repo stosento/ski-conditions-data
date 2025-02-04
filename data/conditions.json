@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-04T14:00:52.994Z",
+  "timestamp": "2025-02-04T15:00:52.303Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738674000000,
+          "timestamp": 1738681200000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 25 in the afternoon. Northwest wind 6 to 10 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 25 in the afternoon. North northwest wind 6 to 10 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738674000000,
+          "timestamp": 1738681200000,
           "temp": 18,
           "snowfall": 0,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 18, with temperatures falling to around 16 in the afternoon. Wind chill values as low as -1. Northwest wind around 10 mph. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Mostly cloudy. High near 18, with temperatures falling to around 16 in the afternoon. Northwest wind around 10 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738674000000,
+          "timestamp": 1738681200000,
           "temp": 17,
           "snowfall": 20,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Mon, Feb 3",
-      "conditions": "Skating was actually really good from 12 to 3 today.  A few areas started to get slushy but overall was good.  Classic tracks looked good in the woods.  Still a double track for most of the trail."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Feb 3",
       "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Mon, Feb 3",
+      "conditions": "Skating was actually really good from 12 to 3 today.  A few areas started to get slushy but overall was good.  Classic tracks looked good in the woods.  Still a double track for most of the trail."
     }
   },
   "nubsNob": {
