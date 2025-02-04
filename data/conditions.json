@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-04T15:00:52.303Z",
+  "timestamp": "2025-02-04T16:00:43.740Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 3",
-      "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Feb 3",
       "conditions": "Skating was actually really good from 12 to 3 today.  A few areas started to get slushy but overall was good.  Classic tracks looked good in the woods.  Still a double track for most of the trail."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 3",
+      "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
     }
   },
   "nubsNob": {
