@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-05T13:04:57.644Z",
+  "timestamp": "2025-02-05T14:00:43.015Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738760400000,
+          "timestamp": 1738764000000,
           "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 26. East northeast wind 3 to 7 mph."
+          "detailedForecast": "Mostly cloudy, with a high near 26. East wind around 7 mph."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738760400000,
+          "timestamp": 1738764000000,
           "temp": 22,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738760400000,
+          "timestamp": 1738764000000,
           "temp": 23,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers then Partly Sunny",
-          "detailedForecast": "A chance of snow showers before 10am. Partly sunny. High near 23, with temperatures falling to around 21 in the afternoon. Wind chill values as low as -4. Southwest wind around 5 mph."
+          "detailedForecast": "A chance of snow showers before 10am. Partly sunny. High near 23, with temperatures falling to around 21 in the afternoon. South wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -117,20 +117,29 @@
           "name": "Thursday Night",
           "timestamp": 1738882800000,
           "temp": 10,
-          "snowfall": 50,
+          "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 10. Wind chill values as low as -6. West wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 3 inches possible."
+          "shortForecast": "Snow Showers And Areas Of Blowing Snow",
+          "detailedForecast": "A chance of snow showers before 7pm, then snow showers and areas of blowing snow. Mostly cloudy, with a low around 10. Wind chill values as low as -6. West wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
           "header": "Bucks Run-",
-          "content": "Bucks Run 2.5 km ski trail has been groomed for skate and classic skiing today, February 4, 2025 . There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
+          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, February 5, 2025 . There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails."
         },
         {
           "header": "Bucks Run Hours:",
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
