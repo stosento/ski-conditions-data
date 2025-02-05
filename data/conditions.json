@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-05T12:00:57.238Z",
+  "timestamp": "2025-02-05T13:04:57.644Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738756800000,
+          "timestamp": 1738760400000,
           "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738756800000,
+          "timestamp": 1738760400000,
           "temp": 22,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of snow showers before 10am. Mostly cloudy. High near 22, with temperatures falling to around 20 in the afternoon. Wind chill values as low as 0. Southwest wind around 5 mph."
+          "detailedForecast": "A chance of snow showers before 10am. Mostly cloudy. High near 22, with temperatures falling to around 20 in the afternoon. Southwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738756800000,
+          "timestamp": 1738760400000,
           "temp": 23,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers then Partly Sunny",
-          "detailedForecast": "A chance of snow showers before 10am. Partly sunny. High near 23, with temperatures falling to around 21 in the afternoon. Wind chill values as low as -6. Southwest wind around 5 mph."
+          "detailedForecast": "A chance of snow showers before 10am. Partly sunny. High near 23, with temperatures falling to around 21 in the afternoon. Wind chill values as low as -4. Southwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -170,7 +170,7 @@
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
     "comments": "It's another great day to be on skis at Nub's Nob. Thanks to continuous temperatures below freezing along with the work of our Grooming Crew the snow surface continues to be top-notch. Today the temperature should reach 25 degrees with very light wind. The lifts will spin from 9:00 AM to 9:00 PM with an hour break at 4:30 to prepare for the night session. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "Dusting",
+      "daily": "0\"",
       "threeDays": "3 days: 3\"",
       "sevenDays": "7 days: 9\"",
       "ytd": "YTD: 104\""
