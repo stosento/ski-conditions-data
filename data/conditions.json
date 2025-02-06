@@ -1,16 +1,16 @@
 {
-  "timestamp": "2025-02-06T04:00:38.161Z",
+  "timestamp": "2025-02-06T05:00:44.520Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1738814400000,
+          "name": "Overnight",
+          "timestamp": 1738818000000,
           "temp": 24,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Cloudy then Light Snow Likely",
+          "shortForecast": "Light Snow Likely",
           "detailedForecast": "Snow between 1am and 2am, then sleet and freezing rain between 2am and 4am, then snow likely and sleet likely and freezing rain likely. Cloudy, with a low around 24. East southeast wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         },
         {
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1738814400000,
+          "name": "Overnight",
+          "timestamp": 1738818000000,
           "temp": 16,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -61,7 +61,7 @@
           "snowfall": 70,
           "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "A chance of snow before 7am, then snow likely and a slight chance of freezing drizzle between 7am and 8am, then snow likely and freezing rain likely. Cloudy. High near 29, with temperatures falling to around 25 in the afternoon. Southwest wind 5 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow likely before noon, then snow likely and patchy blowing snow. Cloudy. High near 29, with temperatures falling to around 25 in the afternoon. Southwest wind 5 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Thursday Night",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1738814400000,
+          "name": "Overnight",
+          "timestamp": 1738818000000,
           "temp": 15,
-          "snowfall": 40,
+          "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Cloudy. Low around 15, with temperatures rising to around 19 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 40%."
+          "detailedForecast": "A chance of snow. Cloudy. Low around 15, with temperatures rising to around 19 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 50%."
         },
         {
           "name": "Thursday",
@@ -102,7 +102,7 @@
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "A chance of snow before 7am, then snow likely and a slight chance of freezing drizzle between 7am and 8am, then snow likely and freezing rain likely between 8am and 4pm. Cloudy. High near 29, with temperatures falling to around 25 in the afternoon. Southwest wind 5 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow likely before noon, then a chance of snow and patchy blowing snow between noon and 4pm. Cloudy. High near 29, with temperatures falling to around 25 in the afternoon. Southwest wind 5 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Thursday Night",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/1 and 2/2.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 3",
-      "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Feb 5",
       "conditions": "Fast machine groomed. Good deep double tracked for classic. Red Toko worked better than my skins. Skating also was fast and easy."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 3",
+      "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
     }
   },
   "nubsNob": {
