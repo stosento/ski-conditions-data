@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-07T11:00:27.190Z",
+  "timestamp": "2025-02-07T12:00:42.288Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738926000000,
+          "timestamp": 1738929600000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 28. West wind 8 to 14 mph, with gusts as high as 26 mph."
+          "detailedForecast": "Mostly sunny, with a high near 28. West wind 8 to 13 mph, with gusts as high as 24 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738926000000,
+          "timestamp": 1738929600000,
           "temp": 21,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Patchy Blowing Snow then Mostly Cloudy",
-          "detailedForecast": "Patchy blowing snow before 7am. Mostly cloudy, with a high near 21. Wind chill values as low as -3. West wind 15 to 20 mph, with gusts as high as 35 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 21. Wind chill values as low as -2. West wind 15 to 20 mph, with gusts as high as 35 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738926000000,
+          "timestamp": 1738929600000,
           "temp": 19,
-          "snowfall": 30,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and scattered snow showers. Cloudy, with a high near 19. Wind chill values as low as -5. West wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
+          "shortForecast": "Isolated Snow Showers",
+          "detailedForecast": "Isolated snow showers. Cloudy, with a high near 19. Wind chill values as low as -4. West wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Feb 5",
-      "conditions": "Fast machine groomed. Good deep double tracked for classic. Red Toko worked better than my skins. Skating also was fast and easy."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Feb 3",
       "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Feb 5",
+      "conditions": "Fast machine groomed. Good deep double tracked for classic. Red Toko worked better than my skins. Skating also was fast and easy."
     }
   },
   "nubsNob": {
