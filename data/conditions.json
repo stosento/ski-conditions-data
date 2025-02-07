@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-07T12:00:42.288Z",
+  "timestamp": "2025-02-07T13:04:09.505Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738929600000,
+          "timestamp": 1738933200000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 28. West wind 8 to 13 mph, with gusts as high as 24 mph."
+          "detailedForecast": "Mostly sunny, with a high near 28. West wind 8 to 12 mph, with gusts as high as 22 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738929600000,
+          "timestamp": 1738933200000,
           "temp": 21,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 21. Wind chill values as low as -2. West wind 15 to 20 mph, with gusts as high as 35 mph."
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy, with a high near 21. Wind chill values as low as -1. West wind around 15 mph, with gusts as high as 35 mph."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1738929600000,
+          "timestamp": 1738933200000,
           "temp": 19,
           "snowfall": 20,
           "snowAmount": "",
@@ -154,25 +154,25 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 3",
-      "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Feb 5",
       "conditions": "Fast machine groomed. Good deep double tracked for classic. Red Toko worked better than my skins. Skating also was fast and easy."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 3",
+      "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
     }
   },
   "nubsNob": {
-    "date": "2/6/25",
+    "date": "2/7/25",
     "liftsOpen": "6 lifts, Space Worm and the rope tow",
-    "xcTrails": "Trails were power-tilled and tracked on Monday morning, and are in great shape.",
+    "xcTrails": "Trails are open. We are picking up sticks on the trails today following yesterday's windstorm",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "Update: Due to high wind speeds affecting lift safety, Nub’s Nob terrain and league racing activities are canceled for the evening session of February 6, 2025.",
+    "comments": "The strong wind from last night has passed. The wind is around 15 mph this morning and will continue to drop to a light wind by the afternoon. Snow conditions are very good with no thaw in sight. The M/D/V Speed Series race is tonight on Smokey. Please register for this race by 3 p.m. today online. Pintail Peak lodge is open with a deli and an espresso bar. The lifts will spin from 9:00 AM to 9:00 PM with an hour break at 4:30 to groom for night skiing. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 3\"",
-      "sevenDays": "7 days: 3\"",
+      "daily": "1\"",
+      "threeDays": "3 days: 1\"",
+      "sevenDays": "7 days: 4\"",
       "ytd": "YTD: 104\""
     }
   }
