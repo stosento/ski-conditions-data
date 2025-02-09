@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-09T07:00:42.286Z",
+  "timestamp": "2025-02-09T08:00:55.814Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739084400000,
+          "timestamp": 1739088000000,
           "temp": 23,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739084400000,
+          "timestamp": 1739088000000,
           "temp": 15,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 15, with temperatures rising to around 19 overnight. Northwest wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 15, with temperatures rising to around 19 overnight. Northwest wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -78,8 +78,8 @@
           "temp": 21,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow showers before 7am. Mostly cloudy, with a high near 21. West wind 5 to 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Slight Chance Snow Showers then Partly Sunny",
+          "detailedForecast": "A slight chance of snow showers before 7am. Partly sunny, with a high near 21. West wind 5 to 15 mph. Chance of precipitation is 20%."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739084400000,
+          "timestamp": 1739088000000,
           "temp": 14,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -120,21 +120,12 @@
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 20. Wind chill values as low as 0. West wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 20. Wind chill values as low as 0. West wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
