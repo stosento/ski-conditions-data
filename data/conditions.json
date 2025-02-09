@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-09T21:00:37.805Z",
+  "timestamp": "2025-02-09T22:00:43.908Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739134800000,
+          "timestamp": 1739138400000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. High near 32, with temperatures falling to around 27 in the afternoon. West northwest wind around 7 mph."
+          "detailedForecast": "Snow showers. Mostly cloudy. High near 32, with temperatures falling to around 27 in the afternoon. West wind around 6 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739134800000,
+          "timestamp": 1739138400000,
           "temp": 20,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Cloudy. High near 20, with temperatures falling to around 18 in the afternoon. West wind around 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers. Cloudy. High near 20, with temperatures falling to around 17 in the afternoon. West wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739134800000,
+          "timestamp": 1739138400000,
           "temp": 20,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Cloudy. High near 20, with temperatures falling to around 17 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Cloudy. High near 20, with temperatures falling to around 15 in the afternoon. West wind around 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -102,7 +102,7 @@
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Cloudy. Low around 10, with temperatures rising to around 12 overnight. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers. Cloudy. Low around 10, with temperatures rising to around 12 overnight. West wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Fri, Feb 7",
-      "conditions": "Bucks has been good but likely groomed close to ski hours without time to set up,  so it’s turned to deep sugar after ski traffic. On the bright side, it is more work (challenging) and a good change from the rocket fast and effortless ball bearings as is typical. Wax is still insignificant…everything is fast. Still great to be skiing close to home and there seems to be a lot of daily XC traffic at HM."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Feb 3",
       "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Fri, Feb 7",
+      "conditions": "Bucks has been good but likely groomed close to ski hours without time to set up,  so it’s turned to deep sugar after ski traffic. On the bright side, it is more work (challenging) and a good change from the rocket fast and effortless ball bearings as is typical. Wax is still insignificant…everything is fast. Still great to be skiing close to home and there seems to be a lot of daily XC traffic at HM."
     }
   },
   "nubsNob": {
