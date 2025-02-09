@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-02-09T20:00:37.966Z",
+  "timestamp": "2025-02-09T21:00:37.805Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739131200000,
-          "temp": 31,
+          "timestamp": 1739134800000,
+          "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 5pm. Mostly cloudy. High near 31, with temperatures falling to around 26 in the afternoon. West northwest wind around 8 mph."
+          "detailedForecast": "Snow showers. Cloudy. High near 32, with temperatures falling to around 27 in the afternoon. West northwest wind around 7 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1739142000000,
-          "temp": 13,
+          "temp": 14,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 13. West northwest wind around 5 mph."
+          "shortForecast": "Snow Showers then Partly Cloudy",
+          "detailedForecast": "Snow showers before 7pm. Partly cloudy, with a low around 14. West northwest wind around 5 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1739185200000,
-          "temp": 31,
+          "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 31, with temperatures falling to around 29 in the afternoon. West wind 2 to 8 mph."
+          "detailedForecast": "Mostly sunny, with a high near 30. West southwest wind 2 to 8 mph."
         },
         {
           "name": "Monday Night",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739131200000,
+          "timestamp": 1739134800000,
           "temp": 20,
           "snowfall": 20,
           "snowAmount": "",
@@ -58,28 +58,28 @@
           "name": "Tonight",
           "timestamp": 1739142000000,
           "temp": 12,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Mostly cloudy, with a low around 12. West wind 5 to 10 mph. Chance of precipitation is 20%."
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a low around 12. West wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
           "timestamp": 1739185200000,
           "temp": 21,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers before 1pm. Mostly cloudy, with a high near 21. West wind 5 to 15 mph. Chance of precipitation is 20%."
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 21. West wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1739228400000,
-          "temp": 6,
-          "snowfall": 30,
+          "temp": 7,
+          "snowfall": 20,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 7pm. Mostly cloudy, with a low around 6. Wind chill values as low as -4. West wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Isolated Snow Showers then Mostly Cloudy",
+          "detailedForecast": "Isolated snow showers before 7pm. Mostly cloudy, with a low around 7. Wind chill values as low as -3. West wind around 10 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739131200000,
+          "timestamp": 1739134800000,
           "temp": 20,
-          "snowfall": 50,
+          "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Cloudy. High near 20, with temperatures falling to around 17 in the afternoon. West wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Cloudy. High near 20, with temperatures falling to around 17 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -108,24 +108,33 @@
           "name": "Monday",
           "timestamp": 1739185200000,
           "temp": 20,
-          "snowfall": 40,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "snowfall": 50,
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 20, with temperatures falling to around 18 in the afternoon. Wind chill values as low as 0. West wind 5 to 15 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 20, with temperatures falling to around 18 in the afternoon. West wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1739228400000,
-          "temp": 5,
+          "temp": 4,
           "snowfall": 40,
-          "snowAmount": "New snow accumulation of around one inch possible",
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 5. Wind chill values as low as -3. West wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of around one inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 4. Wind chill values as low as -4. West wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 3",
-      "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Feb 7",
       "conditions": "Bucks has been good but likely groomed close to ski hours without time to set up,  so it’s turned to deep sugar after ski traffic. On the bright side, it is more work (challenging) and a good change from the rocket fast and effortless ball bearings as is typical. Wax is still insignificant…everything is fast. Still great to be skiing close to home and there seems to be a lot of daily XC traffic at HM."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 3",
+      "conditions": "This morning’s  snow  was the icing on the cake over a well layered and constructed base . Beautiful groom - well done Nubs crew ! LF 7"
     }
   },
   "nubsNob": {
