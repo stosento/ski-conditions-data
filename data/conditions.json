@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-10T12:00:39.794Z",
+  "timestamp": "2025-02-10T13:04:48.615Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739188800000,
+          "timestamp": 1739192400000,
           "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 30. West southwest wind 2 to 8 mph."
+          "detailedForecast": "Mostly sunny, with a high near 30. West southwest wind 3 to 8 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739188800000,
+          "timestamp": 1739192400000,
           "temp": 22,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 22, with temperatures falling to around 20 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 22, with temperatures falling to around 20 in the afternoon. West wind around 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739188800000,
+          "timestamp": 1739192400000,
           "temp": 20,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 20. West wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 20. West wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -160,16 +160,16 @@
     }
   },
   "nubsNob": {
-    "date": "2/9/25",
-    "liftsOpen": "7 lifts, Space Worm and the Rope Tow",
-    "xcTrails": "Trails are open and will be power-tilled and tracked this morning.",
+    "date": "2/10/25",
+    "liftsOpen": "6 lifts and the Rope Tow",
+    "xcTrails": "Trails are open and in great shape. Trails were power-tilled and tracked on Sunday.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "Three inches of fresh snow landed on the slopes last night and this morning. The new snow is mostly groomed into the base and will further improve the already great skiing. NASTAR Racing is today from 12:30 to 2:30 PM on Birch Run, sign up to race at the front desk. Pintail Peak lodge is open with a deli and espresso bar. The slopes, parks and trails are in premium condition. Make it a great day at Nub's Nob.",
+    "comments": "It's a beautiful mid-winter ski day at Nub's Nob. An inch of fresh snow fell yesterday and the grooming looks spectacular this morning. We are hosting a middle school meet on Birch Run this afternoon. The lifts will spin from 9:00 AM to 4:30 PM today. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "3\"",
+      "daily": "1\"",
       "threeDays": "3 days: 5\"",
-      "sevenDays": "7 days: 8\"",
-      "ytd": "YTD: 109\""
+      "sevenDays": "7 days: 9\"",
+      "ytd": "YTD: 110\""
     }
   }
 }
