@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-11T09:00:40.520Z",
+  "timestamp": "2025-02-11T10:00:46.803Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739264400000,
+          "timestamp": 1739268000000,
           "temp": 18,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a low around 18. West wind around 2 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 18. West southwest wind around 2 mph."
         },
         {
           "name": "Tuesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739264400000,
+          "timestamp": 1739268000000,
           "temp": 7,
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. Low around 7, with temperatures rising to around 12 overnight. Wind chill values as low as -1. Northwest wind around 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. Low around 7, with temperatures rising to around 10 overnight. Wind chill values as low as -3. Northwest wind around 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tuesday",
@@ -61,7 +61,7 @@
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers before 1pm. Partly sunny. High near 15, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -3. Northwest wind 0 to 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers before 1pm. Partly sunny. High near 15, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -4. Northwest wind 0 to 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tuesday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739264400000,
+          "timestamp": 1739268000000,
           "temp": 7,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 7, with temperatures rising to around 12 overnight. Northwest wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 7, with temperatures rising to around 10 overnight. Wind chill values as low as -1. Northwest wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tuesday",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Mon, Feb 10",
-      "conditions": "Bucks run. It was fabulous today. World-class grooming 2 deep tracks, hard skate deck, beautiful."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Feb 10",
       "conditions": "Nubs Red and Blue loops have deep base snow , great layered grooming , and a nice skiff of new snow on top . Excellent skiing today with LF Blue"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Mon, Feb 10",
+      "conditions": "Bucks run. It was fabulous today. World-class grooming 2 deep tracks, hard skate deck, beautiful."
     }
   },
   "nubsNob": {
