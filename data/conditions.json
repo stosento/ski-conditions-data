@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-12T18:00:51.859Z",
+  "timestamp": "2025-02-12T19:00:39.957Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739383200000,
+          "timestamp": 1739386800000,
           "temp": 29,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739383200000,
+          "timestamp": 1739386800000,
           "temp": 21,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely before 4pm, then snow. Cloudy, with a high near 21. East wind around 5 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers likely before 4pm, then snow. Cloudy, with a high near 21. East wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739383200000,
+          "timestamp": 1739386800000,
           "temp": 21,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 4pm, then snow. Cloudy, with a high near 21. East wind around 5 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers before 4pm, then snow. Cloudy, with a high near 21. East wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 10",
-      "conditions": "Nubs Red and Blue loops have deep base snow , great layered grooming , and a nice skiff of new snow on top . Excellent skiing today with LF Blue"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Tue, Feb 11",
       "conditions": "Bucks Run was in great shape this afternoon....skate deck was wide, firm and fast and there were two or three tracks around the entire loop.  Hats off and a big thank you to the grooming team!   Hopefully Bucks Run will be complemented by the snow storm tomorrow and the other trails on the golf course are skiable as well."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 10",
+      "conditions": "Nubs Red and Blue loops have deep base snow , great layered grooming , and a nice skiff of new snow on top . Excellent skiing today with LF Blue"
     }
   },
   "nubsNob": {
