@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-12T04:00:41.765Z",
+  "timestamp": "2025-02-12T05:00:31.251Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1739329200000,
-          "temp": 16,
+          "name": "Overnight",
+          "timestamp": 1739336400000,
+          "temp": 14,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 16. Northeast wind around 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 14, with temperatures rising to around 17 overnight. Northeast wind around 5 mph."
         },
         {
           "name": "Wednesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1739329200000,
+          "timestamp": 1739332800000,
           "temp": -6,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around -6, with temperatures rising to around -2 overnight. Wind chill values as low as -10. East wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around -6, with temperatures rising to around -2 overnight. Wind chill values as low as -10. East wind around 5 mph."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1739329200000,
+          "timestamp": 1739332800000,
           "temp": -7,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around -7, with temperatures rising to around -3 overnight. Wind chill values as low as -3. East wind around 0 mph."
+          "detailedForecast": "Mostly cloudy. Low around -7, with temperatures rising to around -3 overnight. Wind chill values as low as -3. Southeast wind around 0 mph."
         },
         {
           "name": "Wednesday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
