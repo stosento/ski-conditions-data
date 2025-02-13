@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-13T05:00:30.774Z",
+  "timestamp": "2025-02-13T06:00:35.346Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1739419200000,
+          "name": "Overnight",
+          "timestamp": 1739426400000,
           "temp": 23,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 3 to 7 inches possible",
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow before 2am, then snow and a slight chance of freezing rain. Cloudy. Low around 23, with temperatures rising to around 26 overnight. North northwest wind around 7 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
+          "detailedForecast": "Snow before 2am, then snow and a slight chance of freezing rain. Cloudy. Low around 23, with temperatures rising to around 26 overnight. Northwest wind around 8 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Thursday",
@@ -20,7 +20,7 @@
           "snowfall": 60,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. West northwest wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow likely. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. West northwest wind 9 to 15 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Thursday Night",
@@ -29,7 +29,7 @@
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow then Partly Cloudy",
-          "detailedForecast": "A chance of snow before 7pm. Partly cloudy. Low around 11, with temperatures rising to around 13 overnight. West wind 7 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow before 7pm. Partly cloudy. Low around 11, with temperatures rising to around 13 overnight. West wind 8 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
@@ -38,7 +38,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 24. Southwest wind around 6 mph."
+          "detailedForecast": "Partly sunny, with a high near 24. Southwest wind around 7 mph."
         }
       ]
     },
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1739419200000,
+          "name": "Overnight",
+          "timestamp": 1739426400000,
           "temp": 12,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy. Low around 12, with temperatures rising to around 14 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Light Snow",
+          "detailedForecast": "Snow. Cloudy. Low around 12, with temperatures rising to around 14 overnight. Northeast wind 5 to 15 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Thursday",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1739419200000,
+          "name": "Overnight",
+          "timestamp": 1739426400000,
           "temp": 11,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy. Low around 11, with temperatures rising to around 15 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Light Snow",
+          "detailedForecast": "Snow. Cloudy. Low around 11, with temperatures rising to around 15 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Thursday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be closed 2/8 and 2/9.   Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
