@@ -189,7 +189,6 @@ async function getMetroparkConditions() {
   const parkMap = new Map();
   parkMap.set("HuronMeadowsMetropark", [
     "Bucks Run",
-    "Bucks Run Hours",
     "Natural Snow Classic and Skate Ski Trails",
   ]);
   parkMap.set("StonyCreekMetropark", ["Stony Creek Cross Country"]);
