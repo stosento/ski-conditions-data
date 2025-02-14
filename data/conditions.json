@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-02-14T20:00:51.255Z",
+  "timestamp": "2025-02-14T21:00:32.051Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739563200000,
+          "timestamp": 1739566800000,
           "temp": 24,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. South wind around 7 mph."
+          "detailedForecast": "Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. South southwest wind around 7 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1739574000000,
           "temp": 18,
-          "snowfall": 70,
-          "snowAmount": "",
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Mostly Cloudy then Snow",
-          "detailedForecast": "Snow after 1am. Mostly cloudy. Low around 18, with temperatures rising to around 22 overnight. South southeast wind around 7 mph. Chance of precipitation is 70%."
+          "detailedForecast": "Snow after 1am. Mostly cloudy. Low around 18, with temperatures rising to around 22 overnight. South southeast wind around 7 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday",
           "timestamp": 1739617200000,
           "temp": 33,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Snow",
-          "detailedForecast": "Snow before 1pm, then snow and a slight chance of freezing drizzle between 1pm and 2pm, then snow and a slight chance of sleet and a slight chance of freezing drizzle and a slight chance of drizzle. Cloudy, with a high near 33. East southeast wind around 7 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
+          "shortForecast": "Heavy Snow",
+          "detailedForecast": "Snow before 1pm, then snow and sleet. Cloudy, with a high near 33. East wind around 7 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1739660400000,
           "temp": 26,
           "snowfall": 100,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Freezing Rain",
-          "detailedForecast": "Snow and a slight chance of freezing drizzle before 7pm, then freezing rain and rain and snow between 7pm and 10pm, then snow and freezing rain. Cloudy, with a low around 26. Northeast wind 5 to 9 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
+          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
+          "shortForecast": "Snow",
+          "detailedForecast": "Snow before 8pm, then snow and a slight chance of freezing rain between 8pm and 11pm, then freezing rain and a slight chance of sleet and rain and snow between 11pm and 1am, then freezing rain and a slight chance of snow between 1am and 3am, then snow and freezing rain. Cloudy, with a low around 26. Northeast wind 6 to 9 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739563200000,
+          "timestamp": 1739566800000,
           "temp": 21,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a high near 21. Southwest wind around 10 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Cloudy. High near 21, with temperatures falling to around 19 in the afternoon. Southwest wind 5 to 10 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739563200000,
+          "timestamp": 1739566800000,
           "temp": 21,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 21. Southwest wind 5 to 10 mph."
+          "detailedForecast": "Mostly cloudy. High near 21, with temperatures falling to around 19 in the afternoon. Southwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
