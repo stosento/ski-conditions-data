@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-14T05:00:34.436Z",
+  "timestamp": "2025-02-14T06:00:37.299Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739509200000,
+          "timestamp": 1739512800000,
           "temp": 12,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 12. West wind 7 to 12 mph, with gusts as high as 23 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 12. West wind 7 to 10 mph, with gusts as high as 23 mph."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739509200000,
+          "timestamp": 1739512800000,
           "temp": 4,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 4, with temperatures rising to around 7 overnight. Wind chill values as low as -5. West wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+          "snowfall": 50,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 4, with temperatures rising to around 7 overnight. Wind chill values as low as -5. West wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
@@ -154,13 +154,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 12",
-      "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Feb 13",
       "conditions": "Buck's run is in great shape. deep classic tracks. golf course has been rolled but still soft but skiable. conditions should firm up and provide great skiing this weekend. enjoy!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 12",
+      "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
     }
   },
   "nubsNob": {
