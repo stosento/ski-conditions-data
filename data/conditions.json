@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-14T21:00:32.051Z",
+  "timestamp": "2025-02-14T22:00:35.735Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739566800000,
+          "timestamp": 1739570400000,
           "temp": 24,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. South southwest wind around 7 mph."
+          "detailedForecast": "Mostly cloudy. High near 24, with temperatures falling to around 22 in the afternoon. South wind around 7 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739566800000,
+          "timestamp": 1739570400000,
           "temp": 21,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy. High near 21, with temperatures falling to around 19 in the afternoon. Southwest wind 5 to 10 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Cloudy, with a high near 21. South wind around 10 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739566800000,
+          "timestamp": 1739570400000,
           "temp": 21,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 21, with temperatures falling to around 19 in the afternoon. Southwest wind around 5 mph."
+          "detailedForecast": "Mostly cloudy, with a high near 21. South wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 12",
-      "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Feb 14",
       "conditions": "Skated the golf course this morning.  Skating was great, a little soft in spots, some grassy stubble, but no complaints!  Groomer was setting classic tracks on Coyote while I was there, they looked very grassy, so would not recommend classic (except on Buck's) unless you like skiing in the skate lane.  Cedar trace was also rolled.  Hawk's (south golf course) was pretty great for skate, but I skipped the \"grotto of tears\" which looked too hairy for me."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 12",
+      "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
     }
   },
   "nubsNob": {
