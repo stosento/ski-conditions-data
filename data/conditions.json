@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-16T17:00:44.327Z",
+  "timestamp": "2025-02-16T18:00:48.065Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739725200000,
+          "timestamp": 1739728800000,
           "temp": 30,
           "snowfall": 40,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Cloudy. High near 30, with temperatures falling to around 27 in the afternoon. Northwest wind around 17 mph, with gusts as high as 29 mph. Chance of precipitation is 40%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. Northwest wind around 17 mph, with gusts as high as 29 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739725200000,
+          "timestamp": 1739728800000,
           "temp": 19,
           "snowfall": 80,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Cloudy. High near 19, with temperatures falling to around 15 in the afternoon. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow. Cloudy. High near 19, with temperatures falling to around 15 in the afternoon. North wind 10 to 15 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -61,7 +61,7 @@
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Light Snow then Chance Snow Showers",
-          "detailedForecast": "Snow before 7pm, then a chance of snow showers. Cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -8. Northwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow before 7pm, then a chance of snow showers. Cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -8. Northwest wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Washington's Birthday",
@@ -70,7 +70,7 @@
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 10, with temperatures falling to around 8 in the afternoon. Wind chill values as low as -11. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 10, with temperatures falling to around 8 in the afternoon. Wind chill values as low as -11. Northwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1739725200000,
+          "timestamp": 1739728800000,
           "temp": 20,
           "snowfall": 80,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Cloudy. High near 20, with temperatures falling to around 15 in the afternoon. North wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow. Cloudy. High near 20, with temperatures falling to around 15 in the afternoon. North wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -111,7 +111,7 @@
           "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. High near 9, with temperatures falling to around 7 in the afternoon. Wind chill values as low as -13. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers likely. Mostly cloudy. High near 9, with temperatures falling to around 7 in the afternoon. Wind chill values as low as -13. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Monday Night",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
