@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-16T12:00:41.669Z",
+  "timestamp": "2025-02-16T13:03:16.010Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739707200000,
+          "timestamp": 1739710800000,
           "temp": 30,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy. High near 30, with temperatures falling to around 27 in the afternoon. North northwest wind 10 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow. Cloudy. High near 30, with temperatures falling to around 27 in the afternoon. North northwest wind 13 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739707200000,
+          "timestamp": 1739710800000,
           "temp": 19,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739707200000,
+          "timestamp": 1739710800000,
           "temp": 20,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,29 +142,38 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Fri, Feb 14",
-      "conditions": "Skated the golf course this morning.  Skating was great, a little soft in spots, some grassy stubble, but no complaints!  Groomer was setting classic tracks on Coyote while I was there, they looked very grassy, so would not recommend classic (except on Buck's) unless you like skiing in the skate lane.  Cedar trace was also rolled.  Hawk's (south golf course) was pretty great for skate, but I skipped the \"grotto of tears\" which looked too hairy for me."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Feb 12",
       "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Fri, Feb 14",
+      "conditions": "Skated the golf course this morning.  Skating was great, a little soft in spots, some grassy stubble, but no complaints!  Groomer was setting classic tracks on Coyote while I was there, they looked very grassy, so would not recommend classic (except on Buck's) unless you like skiing in the skate lane.  Cedar trace was also rolled.  Hawk's (south golf course) was pretty great for skate, but I skipped the \"grotto of tears\" which looked too hairy for me."
     }
   },
   "nubsNob": {
-    "date": "2/15/25",
+    "date": "2/16/25",
     "liftsOpen": "All 8 lifts, Rope Tow, and the Space Worm",
     "xcTrails": "Trails are open and in great shape. All trails will be groomed and tracked this morning.",
-    "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM. Special night skiing session on this Sunday from 5:30 to 9:00 PM.",
-    "comments": "It's an awesome day to ski or ride at Nub's Nob. Snow began to fall early this morning. Over an inch of very fine and light snow has already accumulated on top of the grooming. We plan to do a second grooming of the green circle runs this morning to improve conditions for new skiers. A few more inches of snow are forecast to land throughout the day. There is no NASTAR racing this weekend due to the holiday. The lifts will spin from 9:00 AM to 9:00 PM today with an hour break at 4:30 PM to groom for night skiing. Pete Kehoe will play the Nub's Pub today at 3:30 PM. Pintail Peak Lodge is open with a deli and espresso bar until 3:30 PM. Make it a great day at Nub's Nob!",
+    "nightSkiing": "Special Night skiing session from 5:30 to 9:00 PM tonight!",
+    "comments": "It's a great day to ski or ride at Nub's Nob. Over four inches of snow fell on the slopes yesterday and last night. The majority of that fresh snow has now been groomed into the base further improving conditions. The slopes, XC trails, and the snowshoe trail are all in mid-winter condition. Chairlifts will be spinning from 9 AM to 9 PM today with an hour break at 4:30 PM to groom for night skiing. Eric Jaqua will play the Nub's Pub at 3:30 PM. Pintail Peak Lodge is open with a deli and an espresso bar until 3:30 PM. Bundle up and make it a great day at Nub's Nob!",
     "snowData": {
-      "daily": "1\"",
-      "threeDays": "3 days: 6\"",
-      "sevenDays": "7 days: 11\"",
-      "ytd": "YTD: 117\""
+      "daily": "4\"",
+      "threeDays": "3 days: 7\"",
+      "sevenDays": "7 days: 12\"",
+      "ytd": "YTD: 121\""
     }
   }
 }
