@@ -1,16 +1,44 @@
 {
-  "timestamp": "2025-02-17T00:00:58.295Z",
+  "timestamp": "2025-02-17T01:27:44.173Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1739750461645,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Tonight",
+          "timestamp": 1739754000000,
+          "temp": 12,
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 12, with temperatures rising to around 14 overnight. West northwest wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 30%."
+        },
+        {
+          "name": "Washington's Birthday",
+          "timestamp": 1739790000000,
+          "temp": 18,
+          "snowfall": 0,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Partly sunny. High near 18, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -1. West wind 10 to 14 mph, with gusts as high as 25 mph. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1739833200000,
+          "temp": 2,
+          "snowfall": 0,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Slight Chance Snow Showers then Partly Cloudy",
+          "detailedForecast": "A slight chance of snow showers before 7pm. Partly cloudy, with a low around 2. Wind chill values as low as -8. West northwest wind 6 to 10 mph, with gusts as high as 21 mph. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1739876400000,
+          "temp": 17,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 17. Wind chill values as low as -9. West northwest wind 6 to 9 mph."
         }
       ]
     },
@@ -19,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1739750400000,
+          "timestamp": 1739754000000,
           "temp": 1,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -60,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1739750400000,
+          "timestamp": 1739754000000,
           "temp": 1,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers and patchy blowing snow. Mostly cloudy, with a low around 1. Wind chill values as low as -11. Northwest wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 1. Wind chill values as low as -11. Northwest wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Washington's Birthday",
@@ -98,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -114,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
