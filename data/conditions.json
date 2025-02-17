@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-17T19:00:39.079Z",
+  "timestamp": "2025-02-17T20:00:54.174Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Washington's Birthday",
-          "timestamp": 1739818800000,
+          "timestamp": 1739822400000,
           "temp": 18,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -66,20 +66,20 @@
         {
           "name": "Tuesday",
           "timestamp": 1739876400000,
-          "temp": 12,
+          "temp": 13,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly sunny, with a high near 12. Wind chill values as low as -15. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly sunny. High near 13, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -15. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tuesday Night",
           "timestamp": 1739919600000,
-          "temp": 0,
+          "temp": 2,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow showers before 7pm. Mostly cloudy, with a low around 0. Wind chill values as low as -7. Northwest wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 2. Wind chill values as low as -7. Northwest wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -119,8 +119,8 @@
           "temp": -2,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around -2. Wind chill values as low as -8. Northwest wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a low around -2. Wind chill values as low as -8. Northwest wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         }
       ]
     }
@@ -154,13 +154,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 12",
-      "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Feb 16",
       "conditions": "Good snow coverage but strong north winds making it a little cool out on the open trails. Nice in the wood protected area. Classic tracks and skating lines were in good shape where protected from the wind. Kudos to the ski centre staff for doing such a great job with rentals, snack bar and general advice on a fairly busy day. Huron Meadows deserves a lot of credit for keeping cross country skiing going in the Metro Detroit area."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 12",
+      "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
     }
   },
   "nubsNob": {
