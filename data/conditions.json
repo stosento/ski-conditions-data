@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-17T17:00:33.973Z",
+  "timestamp": "2025-02-17T18:00:36.649Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Washington's Birthday",
-          "timestamp": 1739811600000,
+          "timestamp": 1739815200000,
           "temp": 18,
           "snowfall": 30,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow and a chance of snow showers. Mostly cloudy. High near 18, with temperatures falling to around 14 in the afternoon. Wind chill values as low as 0. West wind around 15 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow. Mostly cloudy. High near 18, with temperatures falling to around 14 in the afternoon. Wind chill values as low as 0. West wind around 15 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 12",
-      "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Feb 16",
       "conditions": "Good snow coverage but strong north winds making it a little cool out on the open trails. Nice in the wood protected area. Classic tracks and skating lines were in good shape where protected from the wind. Kudos to the ski centre staff for doing such a great job with rentals, snack bar and general advice on a fairly busy day. Huron Meadows deserves a lot of credit for keeping cross country skiing going in the Metro Detroit area."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 12",
+      "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
     }
   },
   "nubsNob": {
