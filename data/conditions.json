@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-17T16:00:40.089Z",
+  "timestamp": "2025-02-17T17:00:33.973Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Washington's Birthday",
-          "timestamp": 1739808000000,
+          "timestamp": 1739811600000,
           "temp": 18,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Washington's Birthday",
-          "timestamp": 1739804400000,
+          "timestamp": 1739811600000,
           "temp": 11,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Washington's Birthday",
-          "timestamp": 1739804400000,
+          "timestamp": 1739811600000,
           "temp": 10,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
