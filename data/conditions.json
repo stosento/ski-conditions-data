@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-18T08:00:39.131Z",
+  "timestamp": "2025-02-18T09:00:40.673Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1739865600000,
+          "timestamp": 1739869200000,
           "temp": 2,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 2. Wind chill values as low as -11. West wind around 8 mph."
+          "detailedForecast": "Mostly clear, with a low around 2. Wind chill values as low as -10. West wind around 7 mph."
         },
         {
           "name": "Tuesday",
@@ -20,25 +20,25 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 16. Wind chill values as low as -10. West northwest wind 7 to 12 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Mostly sunny. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -13. West northwest wind 7 to 12 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Tuesday Night",
           "timestamp": 1739919600000,
-          "temp": 4,
+          "temp": 3,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 4. Wind chill values as low as -4. West northwest wind 6 to 9 mph."
+          "detailedForecast": "Partly cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -7. West northwest wind around 7 mph."
         },
         {
           "name": "Wednesday",
           "timestamp": 1739962800000,
-          "temp": 21,
+          "temp": 20,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 21. Wind chill values as low as -5. West northwest wind around 6 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 20. Wind chill values as low as -8. West northwest wind around 7 mph."
         }
       ]
     },
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sun, Feb 16",
-      "conditions": "Good snow coverage but strong north winds making it a little cool out on the open trails. Nice in the wood protected area. Classic tracks and skating lines were in good shape where protected from the wind. Kudos to the ski centre staff for doing such a great job with rentals, snack bar and general advice on a fairly busy day. Huron Meadows deserves a lot of credit for keeping cross country skiing going in the Metro Detroit area."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Feb 12",
       "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sun, Feb 16",
+      "conditions": "Good snow coverage but strong north winds making it a little cool out on the open trails. Nice in the wood protected area. Classic tracks and skating lines were in good shape where protected from the wind. Kudos to the ski centre staff for doing such a great job with rentals, snack bar and general advice on a fairly busy day. Huron Meadows deserves a lot of credit for keeping cross country skiing going in the Metro Detroit area."
     }
   },
   "nubsNob": {
