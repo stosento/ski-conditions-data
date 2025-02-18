@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-02-18T10:00:22.175Z",
+  "timestamp": "2025-02-18T11:00:39.298Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1739872800000,
-          "temp": 2,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 2. Wind chill values as low as -10. West wind around 7 mph."
-        },
-        {
-          "name": "Tuesday",
+          "name": "Today",
           "timestamp": 1739876400000,
           "temp": 16,
           "snowfall": 0,
@@ -23,7 +14,7 @@
           "detailedForecast": "Mostly sunny. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -13. West northwest wind 7 to 12 mph, with gusts as high as 21 mph."
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1739919600000,
           "temp": 3,
           "snowfall": 0,
@@ -38,7 +29,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 20. Wind chill values as low as -8. West northwest wind around 7 mph."
+          "detailedForecast": "Partly sunny. High near 20, with temperatures falling to around 18 in the afternoon. Wind chill values as low as -8. West northwest wind around 7 mph."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1740006000000,
+          "temp": 12,
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow after 7pm. Cloudy, with a low around 12. Northwest wind around 5 mph. Chance of precipitation is 30%."
         }
       ]
     },
@@ -46,25 +46,16 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1739872800000,
-          "temp": -4,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. Low around -4, with temperatures rising to around 6 overnight. Wind chill values as low as -11. Northwest wind around 15 mph. Chance of precipitation is 20%."
-        },
-        {
-          "name": "Tuesday",
+          "name": "Today",
           "timestamp": 1739876400000,
           "temp": 13,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers before 8am, then a chance of snow showers and patchy blowing snow. Partly sunny, with a high near 13. Wind chill values as low as -12. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers before 8am, then a chance of snow showers and patchy blowing snow. Partly sunny, with a high near 13. Wind chill values as low as -14. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1739919600000,
           "temp": -1,
           "snowfall": 30,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers",
           "detailedForecast": "A slight chance of snow showers. Mostly cloudy, with a high near 14. Wind chill values as low as -5. Northwest wind around 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1740006000000,
+          "temp": 7,
+          "snowfall": 50,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Cloudy, with a low around 7. Wind chill values as low as -2. North wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1739872800000,
-          "temp": -6,
-          "snowfall": 30,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around -6, with temperatures rising to around 3 overnight. Wind chill values as low as -12. Northwest wind around 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
-        },
-        {
-          "name": "Tuesday",
+          "name": "Today",
           "timestamp": 1739876400000,
           "temp": 12,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers before 8am, then a chance of snow showers and patchy blowing snow. Mostly cloudy, with a high near 12. Wind chill values as low as -15. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers before 8am, then a chance of snow showers and patchy blowing snow. Mostly cloudy, with a high near 12. Wind chill values as low as -16. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1739919600000,
           "temp": -5,
           "snowfall": 40,
@@ -121,20 +112,20 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers",
           "detailedForecast": "A slight chance of snow showers. Mostly cloudy, with a high near 14. Wind chill values as low as -8. Northwest wind around 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1740006000000,
+          "temp": 4,
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 4. Wind chill values as low as -4. Northwest wind 0 to 5 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
