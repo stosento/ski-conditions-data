@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-18T14:00:45.135Z",
+  "timestamp": "2025-02-18T15:00:44.089Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739887200000,
+          "timestamp": 1739890800000,
           "temp": 16,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -9. West northwest wind around 12 mph, with gusts as high as 21 mph."
+          "detailedForecast": "Mostly sunny. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -7. West northwest wind around 12 mph."
         },
         {
           "name": "Tonight",
@@ -20,7 +20,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -7. West northwest wind around 7 mph."
+          "detailedForecast": "Partly cloudy, with a low around 3. Wind chill values as low as -7. West wind around 7 mph."
         },
         {
           "name": "Wednesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739887200000,
+          "timestamp": 1739890800000,
           "temp": 13,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers and patchy blowing snow. Mostly cloudy, with a high near 13. Wind chill values as low as -8. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers and patchy blowing snow. Mostly cloudy, with a high near 13. Wind chill values as low as -9. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1739887200000,
+          "timestamp": 1739890800000,
           "temp": 12,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers and patchy blowing snow. Mostly cloudy, with a high near 12. Wind chill values as low as -9. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers and patchy blowing snow. Mostly cloudy, with a high near 12. Wind chill values as low as -7. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/15 and 2/16.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sun, Feb 16",
-      "conditions": "Good snow coverage but strong north winds making it a little cool out on the open trails. Nice in the wood protected area. Classic tracks and skating lines were in good shape where protected from the wind. Kudos to the ski centre staff for doing such a great job with rentals, snack bar and general advice on a fairly busy day. Huron Meadows deserves a lot of credit for keeping cross country skiing going in the Metro Detroit area."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Feb 12",
       "conditions": "Being the very first on the groom today , I am biased : but boy oh boy it is nice at Nubs Nob ! LF 6"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sun, Feb 16",
+      "conditions": "Good snow coverage but strong north winds making it a little cool out on the open trails. Nice in the wood protected area. Classic tracks and skating lines were in good shape where protected from the wind. Kudos to the ski centre staff for doing such a great job with rentals, snack bar and general advice on a fairly busy day. Huron Meadows deserves a lot of credit for keeping cross country skiing going in the Metro Detroit area."
     }
   },
   "nubsNob": {
