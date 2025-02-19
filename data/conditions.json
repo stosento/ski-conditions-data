@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-02-19T22:00:37.578Z",
+  "timestamp": "2025-02-19T23:00:38.873Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1740002400000,
-          "temp": 20,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a high near 20. Northwest wind around 6 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1740006000000,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 12. Northwest wind around 8 mph."
+        },
+        {
+          "name": "Friday",
+          "timestamp": 1740135600000,
+          "temp": 28,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 28. West northwest wind around 7 mph."
         }
       ]
     },
@@ -52,7 +52,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 15, with temperatures falling to around 13 in the afternoon. North wind around 5 mph."
+          "detailedForecast": "Partly sunny, with a high near 15. North wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -93,7 +93,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 16, with temperatures falling to around 14 in the afternoon. Northwest wind around 5 mph."
+          "detailedForecast": "Mostly cloudy. High near 16, with temperatures falling to around 13 in the afternoon. Northwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Feb 18",
-      "conditions": "Winter has arrived at the top of Nubs Nob : but inspite of the wind and the low temps , the skiing was mostly sheltered and pleasant , especially on the Blue loop . The groom and snow conditions are very good. My LF6 was acceptable on the cold snow ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Feb 19",
       "conditions": "Skated golf course loops.   Good conditions all around.  Classic tracks also looked niceGet skiing while snow is here!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Feb 18",
+      "conditions": "Winter has arrived at the top of Nubs Nob : but inspite of the wind and the low temps , the skiing was mostly sheltered and pleasant , especially on the Blue loop . The groom and snow conditions are very good. My LF6 was acceptable on the cold snow ."
     }
   },
   "nubsNob": {
