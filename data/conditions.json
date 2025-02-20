@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-20T17:00:41.717Z",
+  "timestamp": "2025-02-20T18:00:42.825Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740070800000,
+          "timestamp": 1740074400000,
           "temp": 23,
-          "snowfall": 40,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy, with a high near 23. Northwest wind around 10 mph, with gusts as high as 18 mph. Chance of precipitation is 40%."
+          "shortForecast": "Slight Chance Light Snow",
+          "detailedForecast": "A slight chance of snow. Mostly cloudy, with a high near 23. Northwest wind around 10 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
