@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-20T12:00:45.055Z",
+  "timestamp": "2025-02-20T13:05:22.749Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740052800000,
+          "timestamp": 1740056400000,
           "temp": 23,
           "snowfall": 40,
           "snowAmount": "",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 1pm. Cloudy, with a high near 23. Northwest wind 6 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 40%."
+          "detailedForecast": "A chance of snow before 1pm. Mostly cloudy, with a high near 23. Northwest wind 6 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740052800000,
+          "timestamp": 1740056400000,
           "temp": 19,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow showers before 10am. Mostly cloudy, with a high near 19. Wind chill values as low as 0. North wind 5 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow showers before 10am. Mostly cloudy, with a high near 19. North wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740052800000,
+          "timestamp": 1740056400000,
           "temp": 18,
           "snowfall": 20,
           "snowAmount": "",
@@ -126,23 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, February 19, 2025 . There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails. No trails on the golf course."
-        },
-        {
-          "header": "Bucks Run Hours:",
-          "content": "Please adhere to posted hours."
-        },
-        {
-          "header": "Natural Snow Classic and Skate Ski Trails",
-          "content": "–  For today, February 19, 2025 grooming for classic ski and skate ski will take place on Coyote Run and Hawks Hill while Cedar Trace will be rolled only."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -151,6 +134,23 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Bucks Run 2.5 km ski trail will be groomed for skate and classic skiing today, February 20, 2025 . There is an additional $5 daily trail fee for the use of Bucks Run or annual permits are available for $125.  Dogs and walkers are not permitted on our groomed trails. No trails on the golf course."
+        },
+        {
+          "header": "Bucks Run Hours:",
+          "content": "Please adhere to posted hours."
+        },
+        {
+          "header": "Natural Snow Classic and Skate Ski Trails",
+          "content": "–  For today, February 20, 2025 grooming for classic ski and skate ski will take place on Coyote Run and Hawks Hill while Cedar Trace will be groomed for classic skiing."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
@@ -164,16 +164,16 @@
     }
   },
   "nubsNob": {
-    "date": "2/19/25",
-    "liftsOpen": "5 lifts, Rope Tow, and the Space Worm",
+    "date": "2/20/25",
+    "liftsOpen": "At least 5 lifts, Rope Tow, and the Space Worm",
     "xcTrails": "Trails are open and in great shape. Trails will be power-tilled with a track set again this morning.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "It is another cold and gorgeous day at Nub's Nob. The high is forecast to be around 15 degrees, though the breeze is expected to be calm. Layering up should make for a comfortable day of skiing. The Grooming Crew continues their pursuit of excellence, and the conditions show it. The lifts will spin from 9:00 AM to 9:00 PM with an hour break at 4:30 PM to prepare for night skiing. Make it a great day at Nub's Nob.",
+    "comments": "It is a perfect mid-winter ski day with over an inch of fresh snow this morning. The snow continues to fall lightly and is sitting on top of the corduroy. Conditions continue to be extremely good. The temperature will also make its way into the 20's today which should feel warm after the cold snap we have been experiencing. The lifts will spin from 9 AM to 9 PM today with an hour break at 4:30 PM to prepare for night skiing. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 9\"",
-      "sevenDays": "7 days: 16\"",
-      "ytd": "YTD: 126\""
+      "daily": "1\"",
+      "threeDays": "3 days: 3\"",
+      "sevenDays": "7 days: 13\"",
+      "ytd": "YTD: 127\""
     }
   }
 }
