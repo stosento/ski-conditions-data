@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-20T06:00:37.011Z",
+  "timestamp": "2025-02-20T07:00:33.360Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740031200000,
+          "timestamp": 1740034800000,
           "temp": 12,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740031200000,
-          "temp": 7,
+          "timestamp": 1740034800000,
+          "temp": 5,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 7, with temperatures rising to around 13 overnight. North wind 0 to 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 5, with temperatures rising to around 13 overnight. Wind chill values as low as -4. North wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thursday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740031200000,
-          "temp": 7,
+          "timestamp": 1740034800000,
+          "temp": 2,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy. Low around 7, with temperatures rising to around 10 overnight. Northwest wind 0 to 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow showers likely. Cloudy. Low around 2, with temperatures rising to around 10 overnight. Wind chill values as low as -4. Northwest wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thursday",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Feb 18",
-      "conditions": "Winter has arrived at the top of Nubs Nob : but inspite of the wind and the low temps , the skiing was mostly sheltered and pleasant , especially on the Blue loop . The groom and snow conditions are very good. My LF6 was acceptable on the cold snow ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Feb 19",
       "conditions": "Skated golf course loops.   Good conditions all around.  Classic tracks also looked niceGet skiing while snow is here!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Feb 18",
+      "conditions": "Winter has arrived at the top of Nubs Nob : but inspite of the wind and the low temps , the skiing was mostly sheltered and pleasant , especially on the Blue loop . The groom and snow conditions are very good. My LF6 was acceptable on the cold snow ."
     }
   },
   "nubsNob": {
