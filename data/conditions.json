@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-20T11:00:37.571Z",
+  "timestamp": "2025-02-20T12:00:45.055Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740049200000,
+          "timestamp": 1740052800000,
           "temp": 23,
-          "snowfall": 70,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely before 1pm. Cloudy, with a high near 23. Northwest wind 6 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+          "snowfall": 40,
+          "snowAmount": "",
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow before 1pm. Cloudy, with a high near 23. Northwest wind 6 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740049200000,
+          "timestamp": 1740052800000,
           "temp": 19,
-          "snowfall": 30,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of snow showers before 10am. Mostly cloudy, with a high near 19. Wind chill values as low as 0. North wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
+          "detailedForecast": "A slight chance of snow showers before 10am. Mostly cloudy, with a high near 19. Wind chill values as low as 0. North wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740049200000,
+          "timestamp": 1740052800000,
           "temp": 18,
-          "snowfall": 50,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 1pm. Mostly cloudy, with a high near 18. Wind chill values as low as -4. Northwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers before 1pm. Mostly cloudy, with a high near 18. Wind chill values as low as -1. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
