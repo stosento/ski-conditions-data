@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-21T20:00:38.394Z",
+  "timestamp": "2025-02-21T21:00:37.017Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740168000000,
+          "timestamp": 1740171600000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 26 in the afternoon. West wind around 7 mph."
+          "detailedForecast": "Partly sunny, with a high near 28. West wind around 7 mph."
         },
         {
           "name": "Tonight",
@@ -20,7 +20,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 15. Southwest wind around 7 mph."
+          "detailedForecast": "Mostly cloudy. Low around 15, with temperatures rising to around 18 overnight. Southwest wind around 7 mph."
         },
         {
           "name": "Saturday",
@@ -29,7 +29,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 31. Southwest wind 8 to 14 mph, with gusts as high as 24 mph."
+          "detailedForecast": "Partly sunny. High near 31, with temperatures falling to around 29 in the afternoon. Southwest wind 8 to 14 mph, with gusts as high as 24 mph."
         },
         {
           "name": "Saturday Night",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740168000000,
+          "timestamp": 1740171600000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 26 in the afternoon. Southwest wind 5 to 10 mph."
+          "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 25 in the afternoon. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740168000000,
+          "timestamp": 1740171600000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 25 in the afternoon. West wind around 10 mph."
+          "detailedForecast": "Partly sunny. High near 28, with temperatures falling to around 25 in the afternoon. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
