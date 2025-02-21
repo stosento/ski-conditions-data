@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-21T13:04:53.923Z",
+  "timestamp": "2025-02-21T14:00:44.907Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Feb 20",
-      "conditions": "World class conditions persist. Entire system was powertilled and tracked again this AM. Huge thanks to the crew at Nubs!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Feb 20",
       "conditions": "Skated on Coyote Run this afternoon. I stayed on the loop behind Buck’s Run, which was near perfect and, unlike the golf course, the trails were not wind blown because it’s in the woods. Classic tracks looked great also. OK to use A skis. Big thanks to the HM staff for keeping us skiing!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Feb 20",
+      "conditions": "World class conditions persist. Entire system was powertilled and tracked again this AM. Huge thanks to the crew at Nubs!"
     }
   },
   "nubsNob": {
