@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-21T02:23:01.015Z",
+  "timestamp": "2025-02-21T03:04:47.864Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740103200000,
+          "timestamp": 1740106800000,
           "temp": 13,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740103200000,
+          "timestamp": 1740106800000,
           "temp": 11,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow showers before 10pm. Mostly cloudy. Low around 11, with temperatures rising to around 16 overnight. Northwest wind 0 to 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers before 4am. Mostly cloudy. Low around 11, with temperatures rising to around 16 overnight. Northwest wind 0 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740103200000,
+          "timestamp": 1740106800000,
           "temp": 10,
-          "snowfall": 40,
+          "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 10, with temperatures rising to around 14 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 40%."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 10, with temperatures rising to around 14 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Friday",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Feb 20",
-      "conditions": "World class conditions persist. Entire system was powertilled and tracked again this AM. Huge thanks to the crew at Nubs!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Feb 20",
       "conditions": "Skated on Coyote Run this afternoon. I stayed on the loop behind Buck’s Run, which was near perfect and, unlike the golf course, the trails were not wind blown because it’s in the woods. Classic tracks looked great also. OK to use A skis. Big thanks to the HM staff for keeping us skiing!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Feb 20",
+      "conditions": "World class conditions persist. Entire system was powertilled and tracked again this AM. Huge thanks to the crew at Nubs!"
     }
   },
   "nubsNob": {
