@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-22T15:00:32.188Z",
+  "timestamp": "2025-02-22T16:00:35.610Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740236400000,
+          "timestamp": 1740240000000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740236400000,
+          "timestamp": 1740240000000,
           "temp": 28,
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740236400000,
+          "timestamp": 1740240000000,
           "temp": 26,
           "snowfall": 0,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,18 +151,13 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Stoney Creek Metropark (Shelby Township)": {
+      "lastUpdated": "Sat, Feb 22",
+      "conditions": "Skied Stony Creek late in the afternoon on Friday 2/21.  The Golf Course trails to the East of the parking lot was rolled and classic tracks groomed.  They generally groom early on Saturdays for weekend visitors.  Snow was equal to the best you will see in SE lower MI.  Did not ski the trails in the woods West of the parking lot.The park closes at 8:00 PM, so it might be possible to get in some night skiing.  Warmer temps and rain are coming.  Enjoy Stony Creek NOW>"
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Feb 21",
       "conditions": "Coyote was groomed for both skate and classic - good conditions - a few spots where dirt was dug up in the tracks but it’s avoidable. Hawks was skate combed which dug up dirt in spots and wiped out the inside classic track. The outside classic track was still blown in from yesterday - maybe someone will ski in the outside track. In any case, the bright sun will make the dirt spots bigger. We’ll see if Hawks survives. Coyote should still be good tomorrow. Cedar Trace hasn’t been touched since the 19th."
