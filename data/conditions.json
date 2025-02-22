@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-22T14:00:31.222Z",
+  "timestamp": "2025-02-22T15:00:32.188Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740232800000,
+          "timestamp": 1740236400000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740232800000,
+          "timestamp": 1740236400000,
           "temp": 28,
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Cloudy. High near 28, with temperatures falling to around 25 in the afternoon. Southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Cloudy then Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers after 4pm. Cloudy. High near 28, with temperatures falling to around 25 in the afternoon. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740232800000,
+          "timestamp": 1740236400000,
           "temp": 26,
-          "snowfall": 20,
+          "snowfall": 0,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Slight Chance Snow Showers then Cloudy",
-          "detailedForecast": "A slight chance of snow showers before 10am. Cloudy. High near 26, with temperatures falling to around 24 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy. High near 26, with temperatures falling to around 24 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Feb 21",
-      "conditions": "Nubs trails are firm and fast , beautifully groomed and ready for a premium weekend . LF 7 today ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Feb 21",
       "conditions": "Coyote was groomed for both skate and classic - good conditions - a few spots where dirt was dug up in the tracks but it’s avoidable. Hawks was skate combed which dug up dirt in spots and wiped out the inside classic track. The outside classic track was still blown in from yesterday - maybe someone will ski in the outside track. In any case, the bright sun will make the dirt spots bigger. We’ll see if Hawks survives. Coyote should still be good tomorrow. Cedar Trace hasn’t been touched since the 19th."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Fri, Feb 21",
+      "conditions": "Nubs trails are firm and fast , beautifully groomed and ready for a premium weekend . LF 7 today ."
     }
   },
   "nubsNob": {
