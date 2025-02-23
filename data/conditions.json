@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-02-23T20:00:36.327Z",
+  "timestamp": "2025-02-23T21:00:39.141Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740340800000,
+          "timestamp": 1740344400000,
           "temp": 36,
-          "snowfall": 0,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy. High near 36, with temperatures falling to around 34 in the afternoon. South southwest wind around 6 mph."
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow. Mostly cloudy, with a high near 36. South southwest wind around 6 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
           "timestamp": 1740351600000,
-          "temp": 29,
-          "snowfall": 0,
+          "temp": 27,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 29, with temperatures rising to around 32 overnight. South southwest wind 5 to 8 mph."
+          "shortForecast": "Chance Light Snow then Mostly Cloudy",
+          "detailedForecast": "A chance of snow before 7pm. Mostly cloudy. Low around 27, with temperatures rising to around 31 overnight. South southwest wind 5 to 9 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Monday",
           "timestamp": 1740394800000,
-          "temp": 46,
+          "temp": 43,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 46. Southwest wind 9 to 16 mph, with gusts as high as 28 mph."
+          "detailedForecast": "Mostly cloudy, with a high near 43. Southwest wind 10 to 15 mph, with gusts as high as 26 mph."
         },
         {
           "name": "Monday Night",
           "timestamp": 1740438000000,
-          "temp": 35,
+          "temp": 34,
           "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Cloudy then Chance Light Rain",
-          "detailedForecast": "A chance of rain after 1am. Cloudy, with a low around 35. West southwest wind 5 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Cloudy then Chance Light Rain",
+          "detailedForecast": "A chance of rain after 1am. Mostly cloudy, with a low around 34. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
         }
       ]
     },
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,22 +151,9 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Feb 21",
-      "conditions": "Nubs trails are firm and fast , beautifully groomed and ready for a premium weekend . LF 7 today ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "The HM website is not correct.  They did groom the entire golf course including hawk hills for skating.  The tracks also look decent with a few grass spots here and there.  It’s great conditions on the skate deck.  I skied from 9-10am"
@@ -165,6 +161,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "Skied Stony Creek late in the afternoon on Friday 2/21.  The Golf Course trails to the East of the parking lot was rolled and classic tracks groomed.  They generally groom early on Saturdays for weekend visitors.  Snow was equal to the best you will see in SE lower MI.  Did not ski the trails in the woods West of the parking lot.The park closes at 8:00 PM, so it might be possible to get in some night skiing.  Warmer temps and rain are coming.  Enjoy Stony Creek NOW>"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Fri, Feb 21",
+      "conditions": "Nubs trails are firm and fast , beautifully groomed and ready for a premium weekend . LF 7 today ."
     }
   },
   "nubsNob": {
