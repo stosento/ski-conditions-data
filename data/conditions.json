@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-23T19:00:30.885Z",
+  "timestamp": "2025-02-23T20:00:36.327Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740337200000,
+          "timestamp": 1740340800000,
           "temp": 36,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740337200000,
+          "timestamp": 1740340800000,
           "temp": 33,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -58,19 +58,19 @@
           "name": "Tonight",
           "timestamp": 1740351600000,
           "temp": 28,
-          "snowfall": 30,
+          "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Cloudy then Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 4am. Cloudy. Low around 28, with temperatures rising to around 34 overnight. South wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Cloudy then Slight Chance Light Rain",
+          "detailedForecast": "A slight chance of rain after 4am. Cloudy. Low around 28, with temperatures rising to around 34 overnight. South wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
           "timestamp": 1740394800000,
           "temp": 38,
-          "snowfall": 50,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Scattered Snow Showers then Chance Rain Showers",
-          "detailedForecast": "Scattered snow showers before 7am, then a chance of rain showers between 7am and 1pm. Mostly cloudy. High near 38, with temperatures falling to around 36 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%."
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A chance of rain between 7am and 1pm. Mostly cloudy. High near 38, with temperatures falling to around 36 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Monday Night",
@@ -88,30 +88,30 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740337200000,
+          "timestamp": 1740340800000,
           "temp": 34,
-          "snowfall": 50,
+          "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. South wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. South wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1740351600000,
           "temp": 27,
-          "snowfall": 0,
+          "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow before 7pm. Mostly cloudy. Low around 27, with temperatures rising to around 33 overnight. South wind 5 to 15 mph, with gusts as high as 30 mph. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Slight Chance Light Snow then Slight Chance Light Rain",
+          "detailedForecast": "A slight chance of snow before 7pm, then a slight chance of rain. Mostly cloudy. Low around 27, with temperatures rising to around 33 overnight. South wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
           "timestamp": 1740394800000,
           "temp": 39,
-          "snowfall": 30,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers between 7am and 1pm. Partly sunny. High near 39, with temperatures falling to around 36 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
+          "shortForecast": "Slight Chance Light Rain",
+          "detailedForecast": "A slight chance of rain between 10am and 1pm. Partly sunny. High near 39, with temperatures falling to around 36 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday Night",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,9 +142,22 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Fri, Feb 21",
+      "conditions": "Nubs trails are firm and fast , beautifully groomed and ready for a premium weekend . LF 7 today ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "The HM website is not correct.  They did groom the entire golf course including hawk hills for skating.  The tracks also look decent with a few grass spots here and there.  It’s great conditions on the skate deck.  I skied from 9-10am"
@@ -161,10 +165,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "Skied Stony Creek late in the afternoon on Friday 2/21.  The Golf Course trails to the East of the parking lot was rolled and classic tracks groomed.  They generally groom early on Saturdays for weekend visitors.  Snow was equal to the best you will see in SE lower MI.  Did not ski the trails in the woods West of the parking lot.The park closes at 8:00 PM, so it might be possible to get in some night skiing.  Warmer temps and rain are coming.  Enjoy Stony Creek NOW>"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Feb 21",
-      "conditions": "Nubs trails are firm and fast , beautifully groomed and ready for a premium weekend . LF 7 today ."
     }
   },
   "nubsNob": {
