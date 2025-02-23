@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-22T23:00:34.541Z",
+  "timestamp": "2025-02-23T00:00:57.963Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740265200000,
+          "timestamp": 1740268800000,
           "temp": 18,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 18. Southwest wind 5 to 9 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Partly cloudy, with a low around 18. Southwest wind 5 to 8 mph."
         },
         {
           "name": "Sunday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740265200000,
+          "timestamp": 1740268800000,
           "temp": 21,
           "snowfall": 60,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Snow Showers then Light Snow Likely",
-          "detailedForecast": "A chance of snow showers before 7pm, then snow likely between 7pm and 1am. Cloudy. Low around 21, with temperatures rising to around 23 overnight. West wind 5 to 15 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely before 1am. Cloudy. Low around 21, with temperatures rising to around 23 overnight. West wind 5 to 15 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740265200000,
+          "timestamp": 1740268800000,
           "temp": 19,
           "snowfall": 40,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers then Chance Light Snow",
-          "detailedForecast": "A chance of snow showers before 7pm, then a chance of snow between 7pm and 1am. Cloudy. Low around 19, with temperatures rising to around 22 overnight. West wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "snowAmount": "",
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow before 1am. Cloudy. Low around 19, with temperatures rising to around 22 overnight. West wind 5 to 10 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Sunday",
@@ -154,6 +154,10 @@
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Fri, Feb 21",
+      "conditions": "Nubs trails are firm and fast , beautifully groomed and ready for a premium weekend . LF 7 today ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "The HM website is not correct.  They did groom the entire golf course including hawk hills for skating.  The tracks also look decent with a few grass spots here and there.  It’s great conditions on the skate deck.  I skied from 9-10am"
@@ -161,10 +165,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "Skied Stony Creek late in the afternoon on Friday 2/21.  The Golf Course trails to the East of the parking lot was rolled and classic tracks groomed.  They generally groom early on Saturdays for weekend visitors.  Snow was equal to the best you will see in SE lower MI.  Did not ski the trails in the woods West of the parking lot.The park closes at 8:00 PM, so it might be possible to get in some night skiing.  Warmer temps and rain are coming.  Enjoy Stony Creek NOW>"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Feb 21",
-      "conditions": "Nubs trails are firm and fast , beautifully groomed and ready for a premium weekend . LF 7 today ."
     }
   },
   "nubsNob": {
