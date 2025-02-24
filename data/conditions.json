@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-02-24T22:00:36.024Z",
+  "timestamp": "2025-02-24T23:00:42.242Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1740434400000,
-          "temp": 48,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 48, with temperatures falling to around 46 in the afternoon. West southwest wind around 10 mph, with gusts as high as 22 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1740438000000,
           "temp": 36,
-          "snowfall": 0,
+          "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 1am. Mostly cloudy, with a low around 36. West southwest wind 3 to 10 mph, with gusts as high as 20 mph."
+          "detailedForecast": "A slight chance of rain showers after 1am. Mostly cloudy, with a low around 36. West southwest wind 3 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday",
@@ -38,22 +29,22 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 29. West wind around 3 mph."
+          "detailedForecast": "Mostly cloudy. Low around 29, with temperatures rising to around 31 overnight. West wind around 3 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1740567600000,
+          "temp": 41,
+          "snowfall": 70,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Light Snow then Rain And Snow Likely",
+          "detailedForecast": "A slight chance of snow between 7am and 10am, then rain and snow likely. Mostly cloudy, with a high near 41. South wind 2 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1740434400000,
-          "temp": 47,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 47, with temperatures falling to around 39 in the afternoon. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1740438000000,
@@ -70,7 +61,7 @@
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow showers and a slight chance of drizzle before 7am, then patchy fog and a slight chance of snow showers and a slight chance of drizzle between 7am and 10am. Mostly cloudy. High near 36, with temperatures falling to around 34 in the afternoon. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow showers and a slight chance of drizzle before 7am, then patchy fog and a slight chance of snow showers and a slight chance of drizzle between 7am and 10am. Mostly cloudy. High near 36, with temperatures falling to around 34 in the afternoon. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday Night",
@@ -79,22 +70,22 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 22. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. Southwest wind 0 to 5 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1740567600000,
+          "temp": 38,
+          "snowfall": 60,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers between 7am and 1pm, then rain and snow showers likely. Cloudy, with a high near 38. Southeast wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1740434400000,
-          "temp": 47,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 47, with temperatures falling to around 39 in the afternoon. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1740438000000,
@@ -120,7 +111,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 19. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 19, with temperatures rising to around 23 overnight. Southwest wind 0 to 5 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1740567600000,
+          "temp": 36,
+          "snowfall": 70,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely between 7am and 4pm, then rain and snow showers likely. Cloudy, with a high near 36. South wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         }
       ]
     }
@@ -155,8 +155,8 @@
   },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Feb 22",
-      "conditions": "The HM website is not correct.  They did groom the entire golf course including hawk hills for skating.  The tracks also look decent with a few grass spots here and there.  It’s great conditions on the skate deck.  I skied from 9-10am"
+      "lastUpdated": "Mon, Feb 24",
+      "conditions": "Good conditions on bucks in the woods for skating.  Connector out to trail is soft.  But trail in the woods is good. Several skaters out and a few classic skiers.Thanks for keeping us going."
     },
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Sat, Feb 22",
