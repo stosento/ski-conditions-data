@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-25T05:00:37.267Z",
+  "timestamp": "2025-02-25T06:00:38.565Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1740456000000,
+          "name": "Overnight",
+          "timestamp": 1740463200000,
           "temp": 36,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Cloudy then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 1am. Cloudy. Low around 36, with temperatures rising to around 38 overnight. West southwest wind around 6 mph. Chance of precipitation is 20%."
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers. Cloudy. Low around 36, with temperatures rising to around 38 overnight. West southwest wind around 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday",
@@ -46,12 +46,12 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1740456000000,
+          "name": "Overnight",
+          "timestamp": 1740459600000,
           "temp": 32,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Cloudy then Slight Chance Snow Showers",
+          "shortForecast": "Slight Chance Snow Showers",
           "detailedForecast": "A slight chance of snow showers after 4am. Cloudy, with a low around 32. West wind around 5 mph. Chance of precipitation is 20%."
         },
         {
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1740456000000,
+          "name": "Overnight",
+          "timestamp": 1740459600000,
           "temp": 32,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Cloudy then Patchy Fog",
-          "detailedForecast": "Patchy fog and a slight chance of freezing drizzle and a slight chance of drizzle between 4am and 5am, then patchy fog and a slight chance of snow showers and a slight chance of freezing drizzle and a slight chance of drizzle. Cloudy, with a low around 32. West wind around 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog and a slight chance of freezing drizzle and a slight chance of drizzle between 4am and 5am, then patchy fog and a slight chance of snow showers and a slight chance of freezing drizzle and a slight chance of drizzle. Cloudy, with a low around 32. West wind 0 to 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Ski center will be open on 2/22 and 2/23.  Golf course and Shelden Trails are currently groomed.  Ski rentals can be booked ahead https://www.metroparks.com/stony-creek-metropark/#cross-country_skiing."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
