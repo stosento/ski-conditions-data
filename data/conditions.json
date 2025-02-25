@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-02-25T21:00:48.553Z",
+  "timestamp": "2025-02-25T22:00:35.444Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740517200000,
-          "temp": 50,
+          "timestamp": 1740520800000,
+          "temp": 52,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 50. Northwest wind around 9 mph."
+          "detailedForecast": "Mostly sunny. High near 52, with temperatures falling to around 50 in the afternoon. Northwest wind around 8 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1740524400000,
-          "temp": 29,
+          "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 29, with temperatures rising to around 32 overnight. Northwest wind 2 to 6 mph."
+          "detailedForecast": "Partly cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind 2 to 6 mph."
         },
         {
           "name": "Wednesday",
           "timestamp": 1740567600000,
-          "temp": 39,
-          "snowfall": 70,
-          "snowAmount": "",
+          "temp": 40,
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "A chance of rain between 10am and 11am, then rain and snow. Cloudy, with a high near 39. South southeast wind 2 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A chance of rain between 10am and 11am, then rain and snow. Cloudy. High near 40, with temperatures falling to around 38 in the afternoon. South southeast wind 2 to 7 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1740610800000,
           "temp": 35,
-          "snowfall": 70,
+          "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Rain And Snow",
-          "detailedForecast": "Rain likely before 7pm, then a chance of rain and snow between 7pm and 4am, then a chance of rain and snow. Cloudy, with a low around 35. Southwest wind around 7 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain likely before 7pm, then a chance of rain and snow between 7pm and 4am, then a chance of rain and snow. Cloudy, with a low around 35. Southwest wind around 7 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740513600000,
+          "timestamp": 1740520800000,
           "temp": 39,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 39, with temperatures falling to around 36 in the afternoon. West wind around 5 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 39, with temperatures falling to around 37 in the afternoon. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740513600000,
+          "timestamp": 1740520800000,
           "temp": 40,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 40, with temperatures falling to around 37 in the afternoon. Northwest wind around 5 mph."
+          "detailedForecast": "Partly sunny. High near 40, with temperatures falling to around 38 in the afternoon. Northwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
