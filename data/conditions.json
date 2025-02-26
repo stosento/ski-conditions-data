@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-02-26T12:00:43.879Z",
+  "timestamp": "2025-02-26T13:05:33.336Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740571200000,
+          "timestamp": 1740574800000,
           "temp": 39,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740571200000,
+          "timestamp": 1740574800000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 38. South wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy, with a high near 38. Southeast wind 0 to 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740571200000,
+          "timestamp": 1740574800000,
           "temp": 39,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,22 +151,9 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 24",
-      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Feb 24",
       "conditions": "Wanted to ski at Kensington because the site said they groomed the skate lanes today. I appreciate the staff doing this, but after the sun and temps today it was a slush bucket this afternoon. Ended up on Buck’s which matched the earlier comment. Still in great shape but a bit soft in spots. Enjoy it while you can!"
@@ -165,17 +161,21 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "Skied Stony Creek late in the afternoon on Friday 2/21.  The Golf Course trails to the East of the parking lot was rolled and classic tracks groomed.  They generally groom early on Saturdays for weekend visitors.  Snow was equal to the best you will see in SE lower MI.  Did not ski the trails in the woods West of the parking lot.The park closes at 8:00 PM, so it might be possible to get in some night skiing.  Warmer temps and rain are coming.  Enjoy Stony Creek NOW>"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 24",
+      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
     }
   },
   "nubsNob": {
-    "date": "2/25/25",
+    "date": "2/26/25",
     "liftsOpen": "5 lifts and the Rope Tow",
-    "xcTrails": "All trails were groomed and tracked on Sunday. Expect softer snow conditions today.",
+    "xcTrails": "Trails will be firm and fast this morning. Expect softer snow in the afternoon. The best skiing should be around late morning.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "It's a very comfortable ski day at Nub's with a high temperature expected to reach near 40 degrees. The snow never froze last night so a loose softer snow is to be expected today. Conditions are still very good. Pintail Peak Lodge is open with a deli and an espresso bar until 3:30 PM. The lifts will spin from 9:00 AM to 9:00 PM with an hour break at 4:30 PM to groom for night skiing. Make it a great day at Nub's Nob.",
+    "comments": "The snow this morning is machine groomed and it is firm and fast. As the temperature rises the snow will soften. We continue to have excellent coverage and a deep base on all of our snowmaking runs. Pintail Peak Lodge is open until 3:30 PM with a deli and an espresso bar. The lifts will spin from 9:00 AM to 9:00 PM. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 1\"",
+      "daily": "Trace",
+      "threeDays": "3 days: Trace",
       "sevenDays": "7 days: 7\"",
       "ytd": "YTD: 128\""
     }
