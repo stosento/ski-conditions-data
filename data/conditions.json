@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-02-27T15:00:41.140Z",
+  "timestamp": "2025-02-27T16:00:44.237Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740668400000,
+          "timestamp": 1740672000000,
           "temp": 42,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Rain And Snow Showers",
-          "detailedForecast": "A chance of rain and snow showers. Mostly cloudy. High near 42, with temperatures falling to around 40 in the afternoon. West wind 9 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Rain Showers then Scattered Rain And Snow Showers",
+          "detailedForecast": "A chance of rain showers before 1pm, then scattered rain and snow showers. Mostly cloudy. High near 42, with temperatures falling to around 40 in the afternoon. West wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
