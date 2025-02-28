@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-02-28T09:00:38.701Z",
+  "timestamp": "2025-02-28T10:00:48.687Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740729600000,
+          "timestamp": 1740736800000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. West southwest wind around 6 mph."
+          "detailedForecast": "Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. Southwest wind around 5 mph."
         },
         {
           "name": "Friday",
           "timestamp": 1740740400000,
           "temp": 52,
-          "snowfall": 30,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers between 8am and 1pm. Mostly cloudy, with a high near 52. Southwest wind 6 to 17 mph, with gusts as high as 37 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain And Snow",
+          "detailedForecast": "A slight chance of rain and snow between 11am and 1pm. Mostly cloudy, with a high near 52. South southwest wind 5 to 21 mph, with gusts as high as 43 mph."
         },
         {
           "name": "Friday Night",
           "timestamp": 1740783600000,
-          "temp": 23,
+          "temp": 20,
           "snowfall": 30,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Rain And Snow Showers",
-          "detailedForecast": "A chance of rain showers between 7pm and 10pm, then a chance of rain and snow showers. Mostly cloudy. Low around 23, with temperatures rising to around 27 overnight. West northwest wind 10 to 14 mph, with gusts as high as 32 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "snowAmount": "",
+          "shortForecast": "Chance Light Rain then Slight Chance Light Snow",
+          "detailedForecast": "A chance of rain between 7pm and 10pm, then a slight chance of snow between 1am and 4am. Mostly cloudy. Low around 20, with temperatures rising to around 24 overnight. West northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Saturday",
           "timestamp": 1740826800000,
-          "temp": 26,
-          "snowfall": 30,
+          "temp": 25,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Chance Snow Showers then Partly Sunny",
-          "detailedForecast": "A chance of snow showers before 7am. Partly sunny, with a high near 26. Northwest wind 9 to 14 mph, with gusts as high as 29 mph. Chance of precipitation is 30%."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 25. Northwest wind 13 to 17 mph, with gusts as high as 30 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740729600000,
-          "temp": 22,
+          "timestamp": 1740736800000,
+          "temp": 20,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow. Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. South wind around 5 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow. Cloudy. Low around 20, with temperatures rising to around 23 overnight. Southeast wind around 5 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740729600000,
-          "temp": 20,
+          "timestamp": 1740736800000,
+          "temp": 18,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely after 5am. Mostly cloudy. Low around 20, with temperatures rising to around 23 overnight. Southwest wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow likely. Cloudy. Low around 18, with temperatures rising to around 20 overnight. South wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
@@ -154,10 +154,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 24",
-      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Feb 27",
       "conditions": "Bucks run still going strong. I recommend. Slushy and slow but holding up. The far lobe is deteriorating quickest but still full coverage as of 1:50 today. I say get it while you can!"
@@ -165,6 +161,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "Skied Stony Creek late in the afternoon on Friday 2/21.  The Golf Course trails to the East of the parking lot was rolled and classic tracks groomed.  They generally groom early on Saturdays for weekend visitors.  Snow was equal to the best you will see in SE lower MI.  Did not ski the trails in the woods West of the parking lot.The park closes at 8:00 PM, so it might be possible to get in some night skiing.  Warmer temps and rain are coming.  Enjoy Stony Creek NOW>"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 24",
+      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
     }
   },
   "nubsNob": {
