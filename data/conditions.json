@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-01T00:01:00.955Z",
+  "timestamp": "2025-03-01T01:28:02.357Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740787200000,
+          "timestamp": 1740790800000,
           "temp": 20,
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Slight Chance Snow Showers",
-          "detailedForecast": "A chance of rain showers before 10pm, then a slight chance of snow showers between 1am and 4am. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. West wind 12 to 16 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 10pm, then a slight chance of snow showers between 1am and 4am. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. West wind 13 to 16 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740783600000,
+          "timestamp": 1740790800000,
           "temp": 4,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740783600000,
+          "timestamp": 1740790800000,
           "temp": 3,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,20 +142,29 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 24",
-      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
-    },
     "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Thu, Feb 27",
-      "conditions": "Bucks run still going strong. I recommend. Slushy and slow but holding up. The far lobe is deteriorating quickest but still full coverage as of 1:50 today. I say get it while you can!"
+      "lastUpdated": "Fri, Feb 28",
+      "conditions": "Good skiing on bucks today 12 to 2 till warm weather hit.  Still plenty of snow on trail.  Can still ski from clubhouse and into woods.  Double track on most of the trail  Should be good for next few days with colder weather."
     },
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Sat, Feb 22",
       "conditions": "Skied Stony Creek late in the afternoon on Friday 2/21.  The Golf Course trails to the East of the parking lot was rolled and classic tracks groomed.  They generally groom early on Saturdays for weekend visitors.  Snow was equal to the best you will see in SE lower MI.  Did not ski the trails in the woods West of the parking lot.The park closes at 8:00 PM, so it might be possible to get in some night skiing.  Warmer temps and rain are coming.  Enjoy Stony Creek NOW>"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 24",
+      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
     }
   },
   "nubsNob": {
