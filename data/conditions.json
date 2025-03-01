@@ -1,16 +1,16 @@
 {
-  "timestamp": "2025-03-01T04:00:35.145Z",
+  "timestamp": "2025-03-01T05:00:43.218Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1740801600000,
+          "name": "Overnight",
+          "timestamp": 1740805200000,
           "temp": 20,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
+          "shortForecast": "Slight Chance Snow Showers",
           "detailedForecast": "A slight chance of snow showers between 1am and 4am. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. West northwest wind around 16 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1740801600000,
+          "name": "Overnight",
+          "timestamp": 1740805200000,
           "temp": 4,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1740801600000,
+          "name": "Overnight",
+          "timestamp": 1740805200000,
           "temp": 3,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Areas Of Blowing Snow",
-          "detailedForecast": "Areas of blowing snow and a chance of snow before 1am, then a chance of snow and patchy blowing snow between 1am and 4am, then a chance of snow showers. Mostly cloudy. Low around 3, with temperatures rising to around 6 overnight. Wind chill values as low as -13. Northwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Areas of blowing snow and a chance of snow before 1am, then a chance of snow and patchy blowing snow between 1am and 4am, then a chance of snow showers. Mostly cloudy. Low around 3, with temperatures rising to around 6 overnight. Wind chill values as low as -13. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Saturday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
