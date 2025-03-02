@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-02T19:00:34.382Z",
+  "timestamp": "2025-03-02T20:00:36.100Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740938400000,
+          "timestamp": 1740945600000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 32. West northwest wind 6 to 9 mph."
+          "detailedForecast": "Partly sunny, with a high near 32. West northwest wind around 7 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740938400000,
+          "timestamp": 1740945600000,
           "temp": 24,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers before 4pm. Mostly cloudy, with a high near 24. West wind 5 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers before 4pm. Mostly cloudy, with a high near 24. West wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -61,7 +61,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 12, with temperatures rising to around 18 overnight. Southwest wind 5 to 10 mph."
+          "detailedForecast": "Mostly cloudy. Low around 12, with temperatures rising to around 17 overnight. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Monday",
@@ -69,8 +69,8 @@
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 38. Southwest wind around 10 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 38, with temperatures falling to around 36 in the afternoon. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Monday Night",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1740938400000,
+          "timestamp": 1740945600000,
           "temp": 23,
           "snowfall": 30,
           "snowAmount": "",
@@ -98,20 +98,20 @@
         {
           "name": "Tonight",
           "timestamp": 1740956400000,
-          "temp": 8,
+          "temp": 9,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers then Mostly Cloudy",
-          "detailedForecast": "Isolated snow showers before 7pm. Mostly cloudy. Low around 8, with temperatures rising to around 14 overnight. Wind chill values as low as -2. Southwest wind 0 to 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers before 7pm. Mostly cloudy. Low around 9, with temperatures rising to around 14 overnight. Southwest wind around 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday",
           "timestamp": 1740999600000,
-          "temp": 38,
+          "temp": 37,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 38. Southwest wind 5 to 10 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 37, with temperatures falling to around 35 in the afternoon. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Monday Night",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Mar 1",
-      "conditions": "Well groomed, pretty hard packed and FAST from the rain & warm weather causing it to re-freeze. Good coverage"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Feb 24",
       "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Mar 1",
+      "conditions": "Well groomed, pretty hard packed and FAST from the rain & warm weather causing it to re-freeze. Good coverage"
     }
   },
   "nubsNob": {
