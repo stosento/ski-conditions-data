@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-02T00:00:44.385Z",
+  "timestamp": "2025-03-02T01:27:54.567Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740873600000,
+          "timestamp": 1740877200000,
           "temp": 15,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 15, with temperatures rising to around 18 overnight. Northwest wind 7 to 12 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Partly cloudy. Low around 15, with temperatures rising to around 18 overnight. Northwest wind 7 to 10 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Sunday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740873600000,
+          "timestamp": 1740877200000,
           "temp": 7,
           "snowfall": 20,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740873600000,
+          "timestamp": 1740877200000,
           "temp": 6,
           "snowfall": 30,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
