@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-02T12:00:43.747Z",
+  "timestamp": "2025-03-02T13:03:24.786Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740913200000,
+          "timestamp": 1740920400000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740913200000,
+          "timestamp": 1740920400000,
           "temp": 24,
-          "snowfall": 30,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers before 4pm. Mostly cloudy, with a high near 24. Northwest wind 5 to 10 mph. Chance of precipitation is 30%."
+          "shortForecast": "Mostly Cloudy then Isolated Snow Showers",
+          "detailedForecast": "Isolated snow showers between 1pm and 4pm. Mostly cloudy, with a high near 24. West wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740913200000,
+          "timestamp": 1740920400000,
           "temp": 23,
-          "snowfall": 50,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "snowfall": 40,
+          "snowAmount": "",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 23. West wind 0 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 23. West wind 5 to 10 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,35 +151,26 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 24",
-      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Mar 1",
       "conditions": "Well groomed, pretty hard packed and FAST from the rain & warm weather causing it to re-freeze. Good coverage"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 24",
+      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
     }
   },
   "nubsNob": {
-    "date": "3/1/25",
-    "liftsOpen": "All 8 lifts, the Space Worm, and the Rope Tow",
-    "xcTrails": "Trails will be groomed today. We are clearing sticks and trees this morning following the wind from last night.",
+    "date": "3/2/25",
+    "liftsOpen": "At least 6 lifts, the Space Worm, and the Rope Tow",
+    "xcTrails": "Trails were groomed and tracked on Saturday. Conditions are very good.",
     "nightSkiing": "Tuesday through Saturday from 5:30 to 9:00 PM.",
-    "comments": "It's a cold start to the day, but the sun is out. The wind from last night is calming down and it should continue to lay down as the day goes on. The snow is in very good shape thanks to some extra effort and attention from our Grooming Crew last night and this morning. NASTAR Racing is today from 12:30 to 2:30 PM. There is no NASTAR tomorrow due to the HEAD-2-HEAD race. Pintail Peak Lodge is open with a deli and Espresso Bar until 3:30 PM. Rob Yates will play the Nub's Pub today at 3:30 PM. The lifts will spin from 9:00 AM to 9:00 PM with an hour break at 4:30 PM to groom for night skiing. Make it a great day at Nub's Nob.",
+    "comments": "Welcome to a beautiful ski day. The temperature is forecast to reach the mid-20's and sunshine is predicted in the afternoon. The snow surface is machine groomed and continues to be in good shape even after the freeze and thaw cycle. The HEAD-2-HEAD race is on JB Arena at 10 AM this morning. The knock-out bracket round begins at noon and will feature some thrilling dual paneled slalom racing that is great for spectators. No NASTAR racing today due to the HEAD-2-HEAD race. Pintail Peak Lodge is open with a deli and an espresso bar. The lifts will spin from 9 AM to 4:30 PM today. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "1\"",
+      "daily": "Trace",
       "threeDays": "3 days: 2\"",
       "sevenDays": "7 days: 2\"",
       "ytd": "YTD: 130\""
