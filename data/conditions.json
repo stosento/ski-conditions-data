@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-02T09:00:43.722Z",
+  "timestamp": "2025-03-02T10:00:38.046Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740906000000,
+          "timestamp": 1740909600000,
           "temp": 15,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 15, with temperatures rising to around 18 overnight. West northwest wind around 7 mph."
+          "detailedForecast": "Partly cloudy. Low around 15, with temperatures rising to around 17 overnight. West northwest wind around 6 mph."
         },
         {
           "name": "Sunday",
@@ -19,8 +19,8 @@
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 30 in the afternoon. West northwest wind 6 to 9 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 32. West northwest wind 6 to 9 mph."
         },
         {
           "name": "Sunday Night",
@@ -29,16 +29,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 19, with temperatures rising to around 21 overnight. West wind around 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 19. West wind around 5 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1740999600000,
-          "temp": 40,
+          "temp": 41,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 40. South southwest wind 2 to 9 mph."
+          "detailedForecast": "Mostly sunny, with a high near 41. South southwest wind 2 to 9 mph."
         }
       ]
     },
@@ -47,21 +47,21 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740906000000,
+          "timestamp": 1740909600000,
           "temp": 7,
-          "snowfall": 20,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Mostly cloudy. Low around 7, with temperatures rising to around 10 overnight. Wind chill values as low as -1. Northwest wind around 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Cloudy. Low around 7, with temperatures rising to around 10 overnight. Wind chill values as low as 0. Northwest wind around 5 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Sunday",
           "timestamp": 1740913200000,
           "temp": 24,
-          "snowfall": 20,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers before 4pm. Mostly cloudy, with a high near 24. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers before 4pm. Mostly cloudy, with a high near 24. Northwest wind 5 to 10 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Sunday Night",
@@ -88,21 +88,21 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1740906000000,
+          "timestamp": 1740909600000,
           "temp": 6,
-          "snowfall": 30,
+          "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 6, with temperatures rising to around 10 overnight. Wind chill values as low as -2. West wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Cloudy. Low around 6, with temperatures rising to around 10 overnight. West wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
           "timestamp": 1740913200000,
           "temp": 23,
-          "snowfall": 30,
+          "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 23. West wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 23. West wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday Night",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 24",
-      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Mar 1",
       "conditions": "Well groomed, pretty hard packed and FAST from the rain & warm weather causing it to re-freeze. Good coverage"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Feb 24",
+      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
     }
   },
   "nubsNob": {
