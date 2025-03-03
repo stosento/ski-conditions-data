@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-03T00:00:50.876Z",
+  "timestamp": "2025-03-03T01:27:43.536Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740960000000,
+          "timestamp": 1740963600000,
           "temp": 18,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 18. West wind around 3 mph."
+          "detailedForecast": "Partly cloudy, with a low around 18. West southwest wind around 3 mph."
         },
         {
           "name": "Monday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740960000000,
+          "timestamp": 1740963600000,
           "temp": 12,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1740960000000,
+          "timestamp": 1740963600000,
           "temp": 9,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sun, Mar 2",
+      "conditions": "Red and Blue loops are hard packed and fast with a light skiff of new . There is some wind debris: but no more than minor agility training . LF 7"
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Mar 2",
       "conditions": "Was skiing classical with waxless (fish scale) skis.  Tracks where in surprisingly good shape.  Tracks were set for the entire length of Buck's Run  including connector.  Quite a few skaters out---seemed like they were going a little slower than usual.    Many Kudos to the groomers!"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Feb 24",
-      "conditions": "Lovely blue sky Spring skiing on the Red and Blue loops today . Surprisingly little wind debris . The trail and groom is holding well.  The skate had a bit of suck : but I had rilled and LF 8 worked well."
     }
   },
   "nubsNob": {
