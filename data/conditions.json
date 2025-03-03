@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-03T11:00:31.595Z",
+  "timestamp": "2025-03-03T12:00:45.401Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740999600000,
+          "timestamp": 1741003200000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 42. South southwest wind 2 to 12 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Partly sunny, with a high near 42. South southwest wind 3 to 12 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740999600000,
+          "timestamp": 1741003200000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 38. Southwest wind around 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 38. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1740999600000,
+          "timestamp": 1741003200000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,25 +151,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sun, Mar 2",
-      "conditions": "Was skiing classical with waxless (fish scale) skis.  Tracks where in surprisingly good shape.  Tracks were set for the entire length of Buck's Run  including connector.  Quite a few skaters out---seemed like they were going a little slower than usual.    Many Kudos to the groomers!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Sun, Mar 2",
       "conditions": "Red and Blue loops are hard packed and fast with a light skiff of new . There is some wind debris: but no more than minor agility training . LF 7"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sun, Mar 2",
+      "conditions": "Was skiing classical with waxless (fish scale) skis.  Tracks where in surprisingly good shape.  Tracks were set for the entire length of Buck's Run  including connector.  Quite a few skaters out---seemed like they were going a little slower than usual.    Many Kudos to the groomers!"
     }
   },
   "nubsNob": {
