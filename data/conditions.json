@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-04T06:00:33.494Z",
+  "timestamp": "2025-03-04T07:00:46.816Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741068000000,
+          "timestamp": 1741071600000,
           "temp": 34,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Rain",
-          "detailedForecast": "A slight chance of rain after 5am. Mostly cloudy, with a low around 34. South wind around 6 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain after 5am. Mostly cloudy, with a low around 34. South wind around 7 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday",
@@ -20,7 +20,7 @@
           "snowfall": 60,
           "snowAmount": "",
           "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely. Mostly cloudy, with a high near 48. South wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain likely. Mostly cloudy, with a high near 48. South wind around 9 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tuesday Night",
@@ -29,7 +29,7 @@
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain. Cloudy. Low around 42, with temperatures rising to around 46 overnight. Southeast wind 6 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+          "detailedForecast": "Rain. Cloudy. Low around 42, with temperatures rising to around 46 overnight. Southeast wind 8 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -38,7 +38,7 @@
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain. Mostly cloudy, with a high near 59. South wind 9 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Rain. Mostly cloudy, with a high near 59. South wind 10 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741068000000,
+          "timestamp": 1741071600000,
           "temp": 29,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 5am. Cloudy. Low around 29, with temperatures rising to around 34 overnight. Southwest wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain showers after 5am. Cloudy. Low around 29, with temperatures rising to around 34 overnight. South wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741068000000,
+          "timestamp": 1741071600000,
           "temp": 30,
           "snowfall": 20,
           "snowAmount": "",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Mon, Mar 3",
-      "conditions": "Some of the best skating of the season.  Hard skate deck, freshly groomed, fast but plenty of control.  Single classic track from building and into woods.  The last loop is not tracked, but there is a cutoff straight to the small hill that is tracked.  Lots of leaves with wind, especially in the tracks on the connector.Thanks HM for keeping us going this season."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Sun, Mar 2",
       "conditions": "Red and Blue loops are hard packed and fast with a light skiff of new . There is some wind debris: but no more than minor agility training . LF 7"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Mon, Mar 3",
+      "conditions": "Some of the best skating of the season.  Hard skate deck, freshly groomed, fast but plenty of control.  Single classic track from building and into woods.  The last loop is not tracked, but there is a cutoff straight to the small hill that is tracked.  Lots of leaves with wind, especially in the tracks on the connector.Thanks HM for keeping us going this season."
     }
   },
   "nubsNob": {
