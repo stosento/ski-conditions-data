@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-04T17:00:52.952Z",
+  "timestamp": "2025-03-04T18:00:29.679Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741107600000,
+          "timestamp": 1741111200000,
           "temp": 49,
-          "snowfall": 50,
+          "snowfall": 40,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Cloudy. High near 49, with temperatures falling to around 47 in the afternoon. South wind around 9 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A chance of rain showers. Cloudy. High near 49, with temperatures falling to around 47 in the afternoon. South wind around 9 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,6 +142,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
