@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-05T21:00:37.159Z",
+  "timestamp": "2025-03-05T22:00:40.605Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741208400000,
+          "timestamp": 1741212000000,
           "temp": 59,
           "snowfall": 70,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South southwest wind around 12 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers likely. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. South southwest wind around 10 mph, with gusts as high as 26 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741208400000,
+          "timestamp": 1741212000000,
           "temp": 44,
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy, with a high near 44. Northeast wind around 5 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers. Cloudy. High near 44, with temperatures falling to around 41 in the afternoon. Northeast wind around 5 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741208400000,
+          "timestamp": 1741212000000,
           "temp": 46,
           "snowfall": 70,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Cloudy. High near 46, with temperatures falling to around 43 in the afternoon. South wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A chance of rain showers. Cloudy. High near 46, with temperatures falling to around 44 in the afternoon. South wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sun, Mar 2",
-      "conditions": "Red and Blue loops are hard packed and fast with a light skiff of new . There is some wind debris: but no more than minor agility training . LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Mar 3",
       "conditions": "Some of the best skating of the season.  Hard skate deck, freshly groomed, fast but plenty of control.  Single classic track from building and into woods.  The last loop is not tracked, but there is a cutoff straight to the small hill that is tracked.  Lots of leaves with wind, especially in the tracks on the connector.Thanks HM for keeping us going this season."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sun, Mar 2",
+      "conditions": "Red and Blue loops are hard packed and fast with a light skiff of new . There is some wind debris: but no more than minor agility training . LF 7"
     }
   },
   "nubsNob": {
