@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-06T11:00:41.932Z",
+  "timestamp": "2025-03-06T12:00:57.098Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741258800000,
+          "timestamp": 1741262400000,
           "temp": 37,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Snow Showers Likely then Mostly Cloudy",
-          "detailedForecast": "Snow showers likely before 7am, then a slight chance of snow between 7am and 10am. Mostly cloudy, with a high near 37. West northwest wind 16 to 21 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
+          "detailedForecast": "A slight chance of snow before 10am. Mostly cloudy, with a high near 37. West northwest wind 16 to 21 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741258800000,
+          "timestamp": 1741262400000,
           "temp": 29,
-          "snowfall": 50,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and scattered snow showers before 1pm. Mostly cloudy, with a high near 29. Northwest wind around 15 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Isolated Snow Showers",
+          "detailedForecast": "Isolated snow showers between 10am and 1pm. Mostly cloudy, with a high near 29. Northwest wind around 15 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741258800000,
+          "timestamp": 1741262400000,
           "temp": 28,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers and patchy blowing snow before 1pm. Mostly cloudy, with a high near 28. Wind chill values as low as 0. Northwest wind 15 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Isolated Snow Showers",
+          "detailedForecast": "Isolated snow showers before 1pm. Mostly cloudy, with a high near 28. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -151,16 +142,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Mon, Mar 3",
-      "conditions": "Some of the best skating of the season.  Hard skate deck, freshly groomed, fast but plenty of control.  Single classic track from building and into woods.  The last loop is not tracked, but there is a cutoff straight to the small hill that is tracked.  Lots of leaves with wind, especially in the tracks on the connector.Thanks HM for keeping us going this season."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Sun, Mar 2",
       "conditions": "Red and Blue loops are hard packed and fast with a light skiff of new . There is some wind debris: but no more than minor agility training . LF 7"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Mon, Mar 3",
+      "conditions": "Some of the best skating of the season.  Hard skate deck, freshly groomed, fast but plenty of control.  Single classic track from building and into woods.  The last loop is not tracked, but there is a cutoff straight to the small hill that is tracked.  Lots of leaves with wind, especially in the tracks on the connector.Thanks HM for keeping us going this season."
     }
   },
   "nubsNob": {
