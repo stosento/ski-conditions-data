@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-03-06T22:00:34.068Z",
+  "timestamp": "2025-03-06T23:00:39.445Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1741298400000,
-          "temp": 37,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 37. West northwest wind around 15 mph, with gusts as high as 30 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1741302000000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Snow then Partly Cloudy",
           "detailedForecast": "A slight chance of snow before 11pm. Partly cloudy, with a low around 23. Northwest wind around 8 mph."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1741431600000,
+          "temp": 39,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 39. Northwest wind around 8 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1741298400000,
-          "temp": 30,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 30. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1741302000000,
@@ -79,22 +70,22 @@
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers between 7pm and 1am. Partly cloudy, with a low around 14. Northwest wind around 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers between 7pm and 1am. Partly cloudy. Low around 14, with temperatures rising to around 16 overnight. Northwest wind around 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1741431600000,
+          "temp": 29,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 29. West wind 5 to 10 mph."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1741298400000,
-          "temp": 29,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 29, with temperatures falling to around 27 in the afternoon. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1741302000000,
@@ -121,11 +112,29 @@
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of snow showers between 7pm and 1am. Mostly cloudy, with a low around 11. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1741431600000,
+          "temp": 29,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 29. West wind 5 to 10 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,25 +147,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Mar 6",
+      "conditions": "The Nubs Knob upper loops had a buttery fresh groom of light new snow on top of a firm flat deck : SWEET ! LF7Tomorrow should be just as great ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Mar 6",
       "conditions": "Connecter in tact but hard pack. Soft and inconsistent but good enough for skating. Track set for classic. Lots of debris due to high wind event but avoidable. North loop not groomed and block ice. It really gives you an appreciation of how effective and needed grooming is. Get it while you can, announced closing is Sunday. Thank you HM crew!"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Mar 6",
-      "conditions": "Upper loops.  Wide power tilled and track set this am on 2 inches fresh. Rare twigs and 2 grey spots on blue loop. Deep snow in woods.  Very good skating conditions."
     }
   },
   "nubsNob": {
