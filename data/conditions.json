@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-06T01:27:46.124Z",
+  "timestamp": "2025-03-06T02:25:12.643Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741222800000,
+          "timestamp": 1741226400000,
           "temp": 26,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741222800000,
+          "timestamp": 1741226400000,
           "temp": 19,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Rain showers and patchy fog before 9pm, then snow showers and sleet and freezing rain and patchy fog. Cloudy, with a low around 19. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow showers and sleet and freezing rain and patchy fog. Cloudy, with a low around 19. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Thursday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741222800000,
+          "timestamp": 1741226400000,
           "temp": 20,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Rain showers before 10pm, then patchy fog and rain and snow showers. Cloudy, with a low around 20. Northwest wind 5 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Rain showers before 10pm, then patchy fog and rain and snow showers. Cloudy, with a low around 20. Northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Thursday",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -142,15 +151,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
