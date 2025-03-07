@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-07T11:00:44.624Z",
+  "timestamp": "2025-03-07T12:00:40.455Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741345200000,
+          "timestamp": 1741348800000,
           "temp": 39,
           "snowfall": 30,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741345200000,
-          "temp": 29,
+          "timestamp": 1741348800000,
+          "temp": 33,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Mostly Sunny then Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 4pm. Mostly sunny. High near 29, with temperatures falling to around 26 in the afternoon. West wind 10 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Partly Sunny then Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers after 4pm. Partly sunny, with a high near 33. West wind 10 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741345200000,
-          "temp": 30,
+          "timestamp": 1741348800000,
+          "temp": 32,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny then Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers after 4pm. Mostly sunny. High near 30, with temperatures falling to around 28 in the afternoon. West wind 5 to 15 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers after 4pm. Mostly sunny. High near 32, with temperatures falling to around 30 in the afternoon. West wind 5 to 15 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,25 +147,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Thu, Mar 6",
-      "conditions": "Connecter in tact but hard pack. Soft and inconsistent but good enough for skating. Track set for classic. Lots of debris due to high wind event but avoidable. North loop not groomed and block ice. It really gives you an appreciation of how effective and needed grooming is. Get it while you can, announced closing is Sunday. Thank you HM crew!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Thu, Mar 6",
       "conditions": "The Nubs Knob upper loops had a buttery fresh groom of light new snow on top of a firm flat deck : SWEET ! LF7Tomorrow should be just as great ."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Thu, Mar 6",
+      "conditions": "Connecter in tact but hard pack. Soft and inconsistent but good enough for skating. Track set for classic. Lots of debris due to high wind event but avoidable. North loop not groomed and block ice. It really gives you an appreciation of how effective and needed grooming is. Get it while you can, announced closing is Sunday. Thank you HM crew!"
     }
   },
   "nubsNob": {
