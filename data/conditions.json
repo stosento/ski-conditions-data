@@ -1,26 +1,26 @@
 {
-  "timestamp": "2025-03-07T20:00:36.813Z",
+  "timestamp": "2025-03-07T21:00:37.282Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741377600000,
+          "timestamp": 1741381200000,
           "temp": 39,
-          "snowfall": 30,
+          "snowfall": 60,
           "snowAmount": "",
-          "shortForecast": "Chance Rain And Snow",
-          "detailedForecast": "A chance of rain and snow. Mostly cloudy. High near 39, with temperatures falling to around 37 in the afternoon. West wind around 10 mph, with gusts as high as 18 mph. Chance of precipitation is 30%."
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Rain likely before 5pm, then snow likely. Mostly cloudy. High near 39, with temperatures falling to around 37 in the afternoon. West wind around 10 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1741388400000,
           "temp": 24,
-          "snowfall": 30,
+          "snowfall": 60,
           "snowAmount": "",
-          "shortForecast": "Chance Light Snow then Mostly Cloudy",
-          "detailedForecast": "A chance of snow before 8pm. Mostly cloudy, with a low around 24. West northwest wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
+          "shortForecast": "Light Snow Likely then Mostly Cloudy",
+          "detailedForecast": "Snow likely before 9pm. Mostly cloudy, with a low around 24. West northwest wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741377600000,
-          "temp": 33,
+          "timestamp": 1741381200000,
+          "temp": 34,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 4pm. Mostly cloudy, with a high near 33. West wind around 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 34. Northwest wind around 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741377600000,
+          "timestamp": 1741381200000,
           "temp": 34,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers after 4pm. Partly sunny, with a high near 34. West wind 10 to 15 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers. Partly sunny, with a high near 34. West wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -150,13 +150,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Mar 7",
-      "conditions": "Repeating the great conditions of yesterday , a light overnight snow groomed over the hard flat deck made for perfect skating on Nubs upper blue and red loops ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Mar 6",
       "conditions": "The last day of the trail opening was listed as Sunday March 9. The last loop was not groomed only front portion. Trail was icy in spots both skate and traditional was usable."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Fri, Mar 7",
+      "conditions": "Repeating the great conditions of yesterday , a light overnight snow groomed over the hard flat deck made for perfect skating on Nubs upper blue and red loops ."
     }
   },
   "nubsNob": {
