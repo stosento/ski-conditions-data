@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-07T12:00:40.455Z",
+  "timestamp": "2025-03-07T13:05:22.128Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741348800000,
+          "timestamp": 1741352400000,
           "temp": 39,
           "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny then Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow between 1pm and 2pm, then a chance of rain and snow. Partly sunny. High near 39, with temperatures falling to around 37 in the afternoon. West wind 6 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 30%."
+          "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+          "detailedForecast": "A slight chance of snow between 1pm and 2pm, then a chance of rain and snow. Mostly cloudy. High near 39, with temperatures falling to around 37 in the afternoon. West wind 7 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741348800000,
+          "timestamp": 1741352400000,
           "temp": 33,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741348800000,
+          "timestamp": 1741352400000,
           "temp": 32,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny then Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers after 4pm. Mostly sunny. High near 32, with temperatures falling to around 30 in the afternoon. West wind 5 to 15 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers after 4pm. Mostly sunny. High near 32, with temperatures falling to around 30 in the afternoon. West wind 10 to 15 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,19 @@
     }
   },
   "metroparkConditions": {
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Bucks Run ski trail will be groomed today, March 7, 2025.  The north loop of the trail is completely unusable at this time.  The current trail is approximately .5 km.  There is an additional $5 daily trail fee for the use of Bucks Run. Dogs and walkers are not permitted on our groomed trails."
+        },
+        {
+          "header": "Bucks Run Hours:",
+          "content": "Please adhere to posted hours. Buck’s Run last day is Sunday, March 9, 2025."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
+    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -134,42 +147,29 @@
         }
       ],
       "title": "Stony Creek Metropark"
-    },
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Bucks Run 2.5 km ski trail will be groomed today, March 6, 2025. There is an additional $5 daily trail fee for the use of Bucks Run. Dogs and walkers are not permitted on our groomed trails."
-        },
-        {
-          "header": "Bucks Run Hours:",
-          "content": "Please adhere to posted hours. Buck’s Run last day is Sunday, March 9, 2025."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Mar 6",
-      "conditions": "The Nubs Knob upper loops had a buttery fresh groom of light new snow on top of a firm flat deck : SWEET ! LF7Tomorrow should be just as great ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Mar 6",
       "conditions": "Connecter in tact but hard pack. Soft and inconsistent but good enough for skating. Track set for classic. Lots of debris due to high wind event but avoidable. North loop not groomed and block ice. It really gives you an appreciation of how effective and needed grooming is. Get it while you can, announced closing is Sunday. Thank you HM crew!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Mar 6",
+      "conditions": "The Nubs Knob upper loops had a buttery fresh groom of light new snow on top of a firm flat deck : SWEET ! LF7Tomorrow should be just as great ."
     }
   },
   "nubsNob": {
-    "date": "3/6/25",
-    "liftsOpen": "5 lifts",
+    "date": "3/7/25",
+    "liftsOpen": "6 lifts, Rope Tow and Space Worm",
     "xcTrails": "Trails will be groomed and tracked this morning.",
     "nightSkiing": "Daily through this Saturday from 5:30 to 9:00 PM.",
-    "comments": "Nicer conditions return to Nub's Nob today following a couple inches of fresh snow and cooler overnight temperatures. The ski surface is a variable mix of granular snow and windblown powder, and the grooming turned out pretty well last night. The forecast is calling for a high just below freezing with wind out of the west. The lifts will spin from 9:00 AM to 9:00 PM. Make it a great day at Nub's Nob.",
+    "comments": "It's a beautiful day at Nub's Nob. The sun is out this morning and thanks to some fresh snow overnight the conditions are very good. The corduroy feels like it is back to mid-winter type of snow. Pintail Peak Lodge is open with a deli and espresso bar. The M/D/V Speed Series concludes tonight with a GS on Scarface. The lifts will spin from 9:00 AM to 9:00 PM. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "2\"",
-      "threeDays": "3 days: 2\"",
+      "daily": "1\"",
+      "threeDays": "3 days: 3\"",
       "sevenDays": "7 days: 3\"",
-      "ytd": "YTD: 132\""
+      "ytd": "YTD: 133\""
     }
   }
 }
