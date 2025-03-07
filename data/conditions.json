@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-07T00:00:46.130Z",
+  "timestamp": "2025-03-07T01:27:57.681Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741305600000,
+          "timestamp": 1741309200000,
           "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 26. West wind 7 to 12 mph, with gusts as high as 25 mph."
+          "detailedForecast": "Partly cloudy, with a low around 26. West wind 7 to 12 mph, with gusts as high as 24 mph."
         },
         {
           "name": "Friday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741305600000,
+          "timestamp": 1741309200000,
           "temp": 19,
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741305600000,
+          "timestamp": 1741309200000,
           "temp": 17,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -147,16 +138,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Mar 6",
-      "conditions": "The Nubs Knob upper loops had a buttery fresh groom of light new snow on top of a firm flat deck : SWEET ! LF7Tomorrow should be just as great ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Mar 6",
       "conditions": "Connecter in tact but hard pack. Soft and inconsistent but good enough for skating. Track set for classic. Lots of debris due to high wind event but avoidable. North loop not groomed and block ice. It really gives you an appreciation of how effective and needed grooming is. Get it while you can, announced closing is Sunday. Thank you HM crew!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Mar 6",
+      "conditions": "The Nubs Knob upper loops had a buttery fresh groom of light new snow on top of a firm flat deck : SWEET ! LF7Tomorrow should be just as great ."
     }
   },
   "nubsNob": {
