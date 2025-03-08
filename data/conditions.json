@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-08T07:00:32.519Z",
+  "timestamp": "2025-03-08T08:00:34.432Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741417200000,
+          "timestamp": 1741420800000,
           "temp": 24,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers between 3am and 5am. Partly cloudy, with a low around 24. North northwest wind around 9 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow showers before 5am. Partly cloudy, with a low around 24. North northwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Saturday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741417200000,
+          "timestamp": 1741420800000,
           "temp": 14,
           "snowfall": 0,
           "snowAmount": "",
@@ -75,11 +75,11 @@
         {
           "name": "Sunday",
           "timestamp": 1741514400000,
-          "temp": 40,
+          "temp": 43,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 40. West wind around 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 43. West wind 10 to 15 mph, with gusts as high as 30 mph."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741417200000,
+          "timestamp": 1741420800000,
           "temp": 11,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 11, with temperatures rising to around 13 overnight. Northwest wind 5 to 10 mph."
+          "detailedForecast": "Partly cloudy. Low around 11, with temperatures rising to around 13 overnight. Northwest wind around 5 mph."
         },
         {
           "name": "Saturday",
@@ -116,16 +116,25 @@
         {
           "name": "Sunday",
           "timestamp": 1741514400000,
-          "temp": 40,
+          "temp": 44,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 40. West wind around 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 44. West wind 10 to 15 mph, with gusts as high as 30 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,25 +147,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Fri, Mar 7",
-      "conditions": "Skated Buck’s late this afternoon. Connector still intact but classic trails are in woods only. Soft and slow but not yet slushy. Forest dust throughout and a few spots with dirty snow. B skis are recommended if possible. This is the last weekend so enjoy it while you can!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Fri, Mar 7",
       "conditions": "Repeating the great conditions of yesterday , a light overnight snow groomed over the hard flat deck made for perfect skating on Nubs upper blue and red loops ."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Fri, Mar 7",
+      "conditions": "Skated Buck’s late this afternoon. Connector still intact but classic trails are in woods only. Soft and slow but not yet slushy. Forest dust throughout and a few spots with dirty snow. B skis are recommended if possible. This is the last weekend so enjoy it while you can!"
     }
   },
   "nubsNob": {
