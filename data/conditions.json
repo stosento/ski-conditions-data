@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-08T09:00:30.579Z",
+  "timestamp": "2025-03-08T10:00:37.595Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741424400000,
-          "temp": 24,
-          "snowfall": 20,
+          "timestamp": 1741428000000,
+          "temp": 23,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers before 5am. Mostly clear, with a low around 24. North northwest wind around 9 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear. Low around 23, with temperatures rising to around 26 overnight. North northwest wind around 12 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Saturday",
@@ -20,16 +20,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 38. West northwest wind around 9 mph."
+          "detailedForecast": "Sunny, with a high near 38. West northwest wind 8 to 12 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1741474800000,
           "temp": 31,
           "snowfall": 0,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "snowAmount": "",
           "shortForecast": "Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow between 7pm and 1am. Partly cloudy. Low around 31, with temperatures rising to around 33 overnight. West southwest wind around 7 mph. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow between 7pm and 1am. Mostly cloudy, with a low around 31. West southwest wind 6 to 9 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Sunday",
@@ -37,8 +37,8 @@
           "temp": 50,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 50. West wind 6 to 10 mph, with gusts as high as 18 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 50. West wind 7 to 12 mph, with gusts as high as 20 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741424400000,
+          "timestamp": 1741428000000,
           "temp": 14,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 14. West wind around 5 mph."
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a low around 14. West wind around 5 mph."
         },
         {
           "name": "Saturday",
@@ -60,8 +60,8 @@
           "temp": 30,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy. High near 30, with temperatures falling to around 28 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 28 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Saturday Night",
@@ -88,30 +88,30 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741424400000,
+          "timestamp": 1741428000000,
           "temp": 11,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 11. Northwest wind around 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 11. West wind around 5 mph."
         },
         {
           "name": "Saturday",
           "timestamp": 1741431600000,
           "temp": 33,
           "snowfall": 70,
-          "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Partly Sunny then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 3pm. Partly sunny. High near 33, with temperatures falling to around 31 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy. High near 33, with temperatures falling to around 31 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1741474800000,
           "temp": 22,
           "snowfall": 60,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of snow showers before 10pm. Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. West wind 5 to 15 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow showers before 10pm. Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. West wind 5 to 15 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Sunday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -147,6 +138,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
