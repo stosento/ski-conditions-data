@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-08T06:00:42.542Z",
+  "timestamp": "2025-03-08T07:00:32.519Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741413600000,
+          "timestamp": 1741417200000,
           "temp": 24,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers between 3am and 5am. Partly cloudy, with a low around 24. Northwest wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow showers between 3am and 5am. Partly cloudy, with a low around 24. North northwest wind around 9 mph, with gusts as high as 20 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Saturday",
@@ -47,39 +47,39 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741413600000,
+          "timestamp": 1741417200000,
           "temp": 14,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 14, with temperatures rising to around 16 overnight. Northwest wind 5 to 10 mph."
+          "detailedForecast": "Partly cloudy. Low around 14, with temperatures rising to around 16 overnight. Northwest wind around 5 mph."
         },
         {
           "name": "Saturday",
           "timestamp": 1741431600000,
           "temp": 30,
-          "snowfall": 60,
+          "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 1pm. Mostly cloudy, with a high near 30. West wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy. High near 30, with temperatures falling to around 28 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1741474800000,
-          "temp": 24,
+          "temp": 23,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 24, with temperatures rising to around 26 overnight. West wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
+          "shortForecast": "Chance Snow Showers then Mostly Cloudy",
+          "detailedForecast": "A chance of snow showers before 10pm. Mostly cloudy. Low around 23, with temperatures rising to around 26 overnight. West wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Sunday",
           "timestamp": 1741514400000,
           "temp": 40,
-          "snowfall": 20,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers then Partly Sunny",
-          "detailedForecast": "A slight chance of snow showers before 8am. Partly sunny, with a high near 40. West wind around 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 40. West wind around 10 mph."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741413600000,
+          "timestamp": 1741417200000,
           "temp": 11,
           "snowfall": 0,
           "snowAmount": "",
@@ -100,41 +100,32 @@
           "timestamp": 1741431600000,
           "temp": 33,
           "snowfall": 70,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Partly Sunny then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 1pm. Partly sunny, with a high near 33. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers after 3pm. Partly sunny. High near 33, with temperatures falling to around 31 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1741474800000,
-          "temp": 23,
-          "snowfall": 70,
-          "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 23, with temperatures rising to around 25 overnight. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+          "temp": 22,
+          "snowfall": 60,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Chance Snow Showers then Mostly Cloudy",
+          "detailedForecast": "A chance of snow showers before 10pm. Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. West wind 5 to 15 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Sunday",
           "timestamp": 1741514400000,
           "temp": 40,
-          "snowfall": 30,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers then Partly Sunny",
-          "detailedForecast": "A chance of snow showers before 8am. Partly sunny, with a high near 40. West wind around 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 40. West wind around 10 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -147,16 +138,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Mar 7",
-      "conditions": "Repeating the great conditions of yesterday , a light overnight snow groomed over the hard flat deck made for perfect skating on Nubs upper blue and red loops ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Mar 7",
       "conditions": "Skated Buck’s late this afternoon. Connector still intact but classic trails are in woods only. Soft and slow but not yet slushy. Forest dust throughout and a few spots with dirty snow. B skis are recommended if possible. This is the last weekend so enjoy it while you can!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Fri, Mar 7",
+      "conditions": "Repeating the great conditions of yesterday , a light overnight snow groomed over the hard flat deck made for perfect skating on Nubs upper blue and red loops ."
     }
   },
   "nubsNob": {
