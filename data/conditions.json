@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-08T10:00:37.595Z",
+  "timestamp": "2025-03-08T11:00:36.632Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1741428000000,
-          "temp": 11,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 11. West wind around 5 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1741431600000,
           "temp": 33,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy. High near 33, with temperatures falling to around 31 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 33, with temperatures falling to around 31 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1741474800000,
           "temp": 22,
           "snowfall": 60,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 44. West wind 10 to 15 mph, with gusts as high as 30 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1741557600000,
+          "temp": 29,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 29. West wind 5 to 15 mph, with gusts as high as 30 mph."
         }
       ]
     }
