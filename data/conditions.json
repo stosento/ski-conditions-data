@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-08T16:00:37.697Z",
+  "timestamp": "2025-03-08T17:00:36.032Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1741449600000,
+          "name": "This Afternoon",
+          "timestamp": 1741453200000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
@@ -46,12 +46,12 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1741449600000,
+          "name": "This Afternoon",
+          "timestamp": 1741453200000,
           "temp": 30,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
+          "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy, with a high near 30. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1741449600000,
+          "name": "This Afternoon",
+          "timestamp": 1741453200000,
           "temp": 32,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. West wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -147,16 +138,25 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Fri, Mar 7",
-      "conditions": "Skated Buck’s late this afternoon. Connector still intact but classic trails are in woods only. Soft and slow but not yet slushy. Forest dust throughout and a few spots with dirty snow. B skis are recommended if possible. This is the last weekend so enjoy it while you can!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Fri, Mar 7",
       "conditions": "Repeating the great conditions of yesterday , a light overnight snow groomed over the hard flat deck made for perfect skating on Nubs upper blue and red loops ."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Fri, Mar 7",
+      "conditions": "Skated Buck’s late this afternoon. Connector still intact but classic trails are in woods only. Soft and slow but not yet slushy. Forest dust throughout and a few spots with dirty snow. B skis are recommended if possible. This is the last weekend so enjoy it while you can!"
     }
   },
   "nubsNob": {
