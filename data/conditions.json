@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-08T19:00:50.313Z",
+  "timestamp": "2025-03-08T20:00:36.052Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741456800000,
+          "timestamp": 1741460400000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 38. West wind 8 to 12 mph."
+          "detailedForecast": "Sunny, with a high near 38. West wind around 12 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741456800000,
-          "temp": 30,
+          "timestamp": 1741464000000,
+          "temp": 31,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy, with a high near 30. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers after 4pm. Cloudy, with a high near 31. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1741456800000,
+          "timestamp": 1741464000000,
           "temp": 32,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 3pm. Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers after 4pm. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,25 +147,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Mar 8",
+      "conditions": "Three Cheers for Nubs Nob Groomers ! And one more for Mother Nature.  Today the upper loops made you want to ski all day !"
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Mar 7",
       "conditions": "Skated Buck’s late this afternoon. Connector still intact but classic trails are in woods only. Soft and slow but not yet slushy. Forest dust throughout and a few spots with dirty snow. B skis are recommended if possible. This is the last weekend so enjoy it while you can!"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Mar 7",
-      "conditions": "Repeating the great conditions of yesterday , a light overnight snow groomed over the hard flat deck made for perfect skating on Nubs upper blue and red loops ."
     }
   },
   "nubsNob": {
