@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-10T04:00:38.024Z",
+  "timestamp": "2025-03-10T05:00:36.577Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741579200000,
+          "timestamp": 1741582800000,
           "temp": 35,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 35, with temperatures rising to around 38 overnight. West southwest wind 7 to 10 mph, with gusts as high as 22 mph."
+          "detailedForecast": "Mostly clear. Low around 35, with temperatures rising to around 38 overnight. West southwest wind 7 to 10 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Monday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741579200000,
+          "timestamp": 1741582800000,
           "temp": 22,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741579200000,
+          "timestamp": 1741582800000,
           "temp": 24,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,15 +147,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
