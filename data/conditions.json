@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-10T11:00:34.475Z",
+  "timestamp": "2025-03-10T12:00:44.410Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741604400000,
+          "timestamp": 1741608000000,
           "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741604400000,
+          "timestamp": 1741608000000,
           "temp": 55,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 55. Southwest wind 0 to 10 mph."
+          "detailedForecast": "Mostly sunny, with a high near 55. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741604400000,
+          "timestamp": 1741608000000,
           "temp": 61,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 61, with temperatures falling to around 59 in the afternoon. Southwest wind 0 to 10 mph."
+          "detailedForecast": "Sunny. High near 61, with temperatures falling to around 59 in the afternoon. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -147,26 +138,35 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Mar 8",
-      "conditions": "Skated Bucks today 10:30 AM - 1:45 PM. Lots of fun. Fast and controllable. The connector was groomed but hard and icy under the groom.  Still very usable. Very little forest debris.  Much less than up north last weekend. No dirt spots even when a few turns started to soften in the sun around 12:30.  Soft turns later in the morning were not that slow. Watch out for some small ice balls that sometimes end up in the skate lanes.  Very avoidable. The hills and turn through the pines in the back is still part of the trail.  Very nice!  Used A skis. Should be great tomorrow morning after the groom.  Thank you Huron Meadows crew. Great job!  Came over from Lansing today thanks to your efforts.Check out XC Ski Headquarters up north at Higgins Lake tomorrow.  You don’t have to be on the official team to participate in the Michigan cup relays. And the trails up there have been very good the last couple mornings. Thanks for 50 years of family service and winter fun XC HQ team!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Sun, Mar 9",
       "conditions": "Nubs upper red and blue loops have good depth, coverage and grooming . The afternoon temperatures cause some minor sucking : but overall , still great skiing .  LF 8 with rill."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Mar 8",
+      "conditions": "Skated Bucks today 10:30 AM - 1:45 PM. Lots of fun. Fast and controllable. The connector was groomed but hard and icy under the groom.  Still very usable. Very little forest debris.  Much less than up north last weekend. No dirt spots even when a few turns started to soften in the sun around 12:30.  Soft turns later in the morning were not that slow. Watch out for some small ice balls that sometimes end up in the skate lanes.  Very avoidable. The hills and turn through the pines in the back is still part of the trail.  Very nice!  Used A skis. Should be great tomorrow morning after the groom.  Thank you Huron Meadows crew. Great job!  Came over from Lansing today thanks to your efforts.Check out XC Ski Headquarters up north at Higgins Lake tomorrow.  You don’t have to be on the official team to participate in the Michigan cup relays. And the trails up there have been very good the last couple mornings. Thanks for 50 years of family service and winter fun XC HQ team!"
     }
   },
   "nubsNob": {
-    "date": "3/9/25",
-    "liftsOpen": "At least 6 lifts, Rope Tow and Space Worm",
-    "xcTrails": "Trails were groomed and tracked on Saturday. Conditions are good.",
+    "date": "3/10/25- Delayed Opening",
+    "liftsOpen": "5 Lifts",
+    "xcTrails": "Trails were groomed and tracked on Saturday.",
     "nightSkiing": "Done for the season.",
-    "comments": "Spring skiing has arrived with the time change today. Expect loose granular snow this morning that will transition to a wetter snow this afternoon as the temperature climbs above freezing. The Bartlett Cup Super G race is on Sno Pro this morning. The Bahnhof Slopestlye Jam takes place in the Terrain Park at 11:00 AM. NASTAR racing from 12:30 to 2:00 PM on Birch Run. Pintail Peak Lodge is open with a deli and espresso bar. The lifts will spin from 9:00 AM to 4:30 PM.  Make it a great day at Nub's Nob.",
+    "comments": "Delayed opening today. The lifts will open by 10:00 AM this morning instead of 9:00 AM. The groomed wet snow has set-up and created very firm conditions this morning. We do expect some great skiing today as the hard snow loosens up by late morning. The sun is forecast to be out with a high temperature over 50 degrees. The lifts will spin from 10:00 AM to 4:30 PM today. Make it a great spring ski day at Nub's Nob.",
     "snowData": {
-      "daily": "Trace",
+      "daily": "0\"",
       "threeDays": "3 days: 3\"",
       "sevenDays": "7 days: 5\"",
       "ytd": "YTD: 135\""
