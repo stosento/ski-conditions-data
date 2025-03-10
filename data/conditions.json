@@ -1,26 +1,26 @@
 {
-  "timestamp": "2025-03-10T07:00:54.042Z",
+  "timestamp": "2025-03-10T08:00:30.513Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741590000000,
+          "timestamp": 1741593600000,
           "temp": 35,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 35, with temperatures rising to around 38 overnight. West wind around 9 mph."
+          "detailedForecast": "Mostly clear. Low around 35, with temperatures rising to around 38 overnight. West wind around 8 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1741600800000,
-          "temp": 60,
+          "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 60. Southwest wind 3 to 10 mph."
+          "detailedForecast": "Sunny, with a high near 62. Southwest wind 3 to 10 mph."
         },
         {
           "name": "Monday Night",
@@ -34,11 +34,11 @@
         {
           "name": "Tuesday",
           "timestamp": 1741687200000,
-          "temp": 57,
+          "temp": 53,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 57. West wind around 13 mph, with gusts as high as 22 mph."
+          "detailedForecast": "Mostly sunny, with a high near 53. West wind around 13 mph, with gusts as high as 22 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741590000000,
+          "timestamp": 1741593600000,
           "temp": 22,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 22. West wind 0 to 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 22. Southwest wind 0 to 5 mph."
         },
         {
           "name": "Monday",
@@ -66,20 +66,20 @@
         {
           "name": "Monday Night",
           "timestamp": 1741644000000,
-          "temp": 28,
+          "temp": 27,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 28, with temperatures rising to around 38 overnight. Southwest wind 10 to 20 mph, with gusts as high as 35 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 39 overnight. Southwest wind 10 to 15 mph, with gusts as high as 35 mph."
         },
         {
           "name": "Tuesday",
           "timestamp": 1741687200000,
-          "temp": 32,
-          "snowfall": 0,
+          "temp": 30,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 32. Northwest wind 15 to 20 mph, with gusts as high as 40 mph."
+          "shortForecast": "Slight Chance Snow Showers then Partly Sunny",
+          "detailedForecast": "A slight chance of snow showers between 8am and 11am. Partly sunny, with a high near 30. Northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741590000000,
+          "timestamp": 1741593600000,
           "temp": 24,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 24. West wind 0 to 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 24. Southwest wind around 0 mph."
         },
         {
           "name": "Monday",
@@ -111,30 +111,21 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 29, with temperatures rising to around 41 overnight. Southwest wind 10 to 20 mph, with gusts as high as 35 mph."
+          "detailedForecast": "Partly cloudy. Low around 29, with temperatures rising to around 43 overnight. Southwest wind 10 to 15 mph, with gusts as high as 35 mph."
         },
         {
           "name": "Tuesday",
           "timestamp": 1741687200000,
-          "temp": 35,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 35. Northwest wind 15 to 20 mph, with gusts as high as 40 mph."
+          "temp": 32,
+          "snowfall": 20,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers between 8am and 2pm. Partly sunny, with a high near 32. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -147,6 +138,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
