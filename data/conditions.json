@@ -1,16 +1,44 @@
 {
-  "timestamp": "2025-03-11T01:27:49.826Z",
+  "timestamp": "2025-03-11T02:25:25.311Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1741656473251,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Tonight",
+          "timestamp": 1741658400000,
+          "temp": 44,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear. Low around 44, with temperatures rising to around 46 overnight. Southwest wind 8 to 12 mph, with gusts as high as 23 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1741687200000,
+          "temp": 54,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 48 in the afternoon. West northwest wind 9 to 13 mph, with gusts as high as 22 mph."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1741730400000,
+          "temp": 27,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 27. Northeast wind 6 to 10 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1741773600000,
+          "temp": 45,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 45. East wind around 8 mph."
         }
       ]
     },
@@ -18,12 +46,40 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1741656476610,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Tonight",
+          "timestamp": 1741658400000,
+          "temp": 27,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 39 overnight. West wind around 15 mph, with gusts as high as 30 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1741687200000,
+          "temp": 30,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 30, with temperatures falling to around 26 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 35 mph."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1741730400000,
+          "temp": 20,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. Northeast wind 0 to 10 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1741773600000,
+          "temp": 41,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 41. East wind 5 to 10 mph."
         }
       ]
     },
@@ -31,17 +87,54 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1741656479943,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Tonight",
+          "timestamp": 1741658400000,
+          "temp": 29,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy. Low around 29, with temperatures rising to around 43 overnight. Southwest wind 10 to 15 mph, with gusts as high as 35 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1741687200000,
+          "temp": 32,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 28 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 35 mph."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1741730400000,
+          "temp": 19,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 19. North wind 0 to 10 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1741773600000,
+          "temp": 42,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 42. Southeast wind 5 to 10 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -54,25 +147,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Mar 10",
-      "conditions": "Nubs has plenty of coverage , depth , and groom on the upper loops. The sweet spot between hard and soft was 10:30 to 1:00. A little bit of wind debris , but not an issue . LF 8 rilled"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Mar 8",
       "conditions": "Skated Bucks today 10:30 AM - 1:45 PM. Lots of fun. Fast and controllable. The connector was groomed but hard and icy under the groom.  Still very usable. Very little forest debris.  Much less than up north last weekend. No dirt spots even when a few turns started to soften in the sun around 12:30.  Soft turns later in the morning were not that slow. Watch out for some small ice balls that sometimes end up in the skate lanes.  Very avoidable. The hills and turn through the pines in the back is still part of the trail.  Very nice!  Used A skis. Should be great tomorrow morning after the groom.  Thank you Huron Meadows crew. Great job!  Came over from Lansing today thanks to your efforts.Check out XC Ski Headquarters up north at Higgins Lake tomorrow.  You don’t have to be on the official team to participate in the Michigan cup relays. And the trails up there have been very good the last couple mornings. Thanks for 50 years of family service and winter fun XC HQ team!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Mar 10",
+      "conditions": "Nubs has plenty of coverage , depth , and groom on the upper loops. The sweet spot between hard and soft was 10:30 to 1:00. A little bit of wind debris , but not an issue . LF 8 rilled"
     }
   },
   "nubsNob": {
