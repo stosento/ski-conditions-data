@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-11T10:00:41.193Z",
+  "timestamp": "2025-03-11T11:00:41.735Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741687200000,
+          "timestamp": 1741690800000,
           "temp": 54,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 48 in the afternoon. West northwest wind 9 to 13 mph, with gusts as high as 22 mph."
+          "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 48 in the afternoon. West northwest wind 9 to 13 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741687200000,
+          "timestamp": 1741690800000,
           "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741687200000,
+          "timestamp": 1741690800000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,37 +147,28 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Mar 8",
-      "conditions": "Skated Bucks today 10:30 AM - 1:45 PM. Lots of fun. Fast and controllable. The connector was groomed but hard and icy under the groom.  Still very usable. Very little forest debris.  Much less than up north last weekend. No dirt spots even when a few turns started to soften in the sun around 12:30.  Soft turns later in the morning were not that slow. Watch out for some small ice balls that sometimes end up in the skate lanes.  Very avoidable. The hills and turn through the pines in the back is still part of the trail.  Very nice!  Used A skis. Should be great tomorrow morning after the groom.  Thank you Huron Meadows crew. Great job!  Came over from Lansing today thanks to your efforts.Check out XC Ski Headquarters up north at Higgins Lake tomorrow.  You don’t have to be on the official team to participate in the Michigan cup relays. And the trails up there have been very good the last couple mornings. Thanks for 50 years of family service and winter fun XC HQ team!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Mar 10",
       "conditions": "Nubs has plenty of coverage , depth , and groom on the upper loops. The sweet spot between hard and soft was 10:30 to 1:00. A little bit of wind debris , but not an issue . LF 8 rilled"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Mar 8",
+      "conditions": "Skated Bucks today 10:30 AM - 1:45 PM. Lots of fun. Fast and controllable. The connector was groomed but hard and icy under the groom.  Still very usable. Very little forest debris.  Much less than up north last weekend. No dirt spots even when a few turns started to soften in the sun around 12:30.  Soft turns later in the morning were not that slow. Watch out for some small ice balls that sometimes end up in the skate lanes.  Very avoidable. The hills and turn through the pines in the back is still part of the trail.  Very nice!  Used A skis. Should be great tomorrow morning after the groom.  Thank you Huron Meadows crew. Great job!  Came over from Lansing today thanks to your efforts.Check out XC Ski Headquarters up north at Higgins Lake tomorrow.  You don’t have to be on the official team to participate in the Michigan cup relays. And the trails up there have been very good the last couple mornings. Thanks for 50 years of family service and winter fun XC HQ team!"
     }
   },
   "nubsNob": {
-    "date": "3/10/25- Delayed Opening",
+    "date": "3/11/25",
     "liftsOpen": "5 Lifts",
-    "xcTrails": "Trails were groomed and tracked on Saturday.",
+    "xcTrails": "Trails were groomed and tracked on Saturday. Expect firm conditions on the trails today.",
     "nightSkiing": "Done for the season.",
-    "comments": "Delayed opening today. The lifts will open by 10:00 AM this morning instead of 9:00 AM. The groomed wet snow has set-up and created very firm conditions this morning. We do expect some great skiing today as the hard snow loosens up by late morning. The sun is forecast to be out with a high temperature over 50 degrees. The lifts will spin from 10:00 AM to 4:30 PM today. Make it a great spring ski day at Nub's Nob.",
+    "comments": "Spring skiing has arrived at Nub's Nob. Last night the temperature stayed above freezing, but it's dropping below freezing this morning. The Nub's Nob Grooming Crew held off on grooming the slopes until early this morning to leave the best snow surface possible given the thaw to freeze conditions. Please note that areas of icy conditions might be encountered today if you venture off the groomed terrain. The lifts will spin from 9 AM to 4:30 PM today. Make it a great day at Nub's Nob.",
     "snowData": {
       "daily": "0\"",
-      "threeDays": "3 days: 3\"",
-      "sevenDays": "7 days: 5\"",
+      "threeDays": "3 days: 1\"",
+      "sevenDays": "7 days: 3\"",
       "ytd": "YTD: 135\""
     }
   }
