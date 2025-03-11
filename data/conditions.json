@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-03-11T21:00:29.485Z",
+  "timestamp": "2025-03-11T22:00:32.633Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1741726800000,
-          "temp": 54,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 54. North wind around 13 mph, with gusts as high as 18 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1741730400000,
@@ -38,7 +29,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 28. East wind 2 to 6 mph."
+          "detailedForecast": "Partly cloudy. Low around 28, with temperatures rising to around 30 overnight. East wind 2 to 6 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1741860000000,
+          "temp": 52,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 52. East northeast wind around 5 mph."
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1741726800000,
-          "temp": 30,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 30. Northwest wind around 10 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1741730400000,
           "temp": 20,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. Northeast wind around 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. Northeast wind 5 to 10 mph."
         },
         {
           "name": "Wednesday",
@@ -79,7 +70,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 25. Southeast wind around 5 mph."
+          "detailedForecast": "Partly cloudy. Low around 25, with temperatures rising to around 27 overnight. Southeast wind around 5 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1741860000000,
+          "temp": 51,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 51. South wind 0 to 5 mph."
         }
       ]
     },
@@ -87,22 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1741726800000,
-          "temp": 32,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 28 in the afternoon. Northwest wind around 10 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1741730400000,
           "temp": 19,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 19, with temperatures rising to around 21 overnight. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 19, with temperatures rising to around 21 overnight. Northeast wind 0 to 10 mph."
         },
         {
           "name": "Wednesday",
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 24. South wind around 5 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1741860000000,
+          "temp": 54,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 54. South wind 0 to 5 mph."
         }
       ]
     }
