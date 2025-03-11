@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-11T15:00:40.132Z",
+  "timestamp": "2025-03-11T16:00:43.691Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1741705200000,
+          "name": "This Afternoon",
+          "timestamp": 1741708800000,
           "temp": 54,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 49 in the afternoon. North wind 12 to 18 mph."
+          "detailedForecast": "Mostly sunny. High near 54, with temperatures falling to around 49 in the afternoon. North wind 13 to 17 mph, with gusts as high as 23 mph."
         },
         {
           "name": "Tonight",
@@ -20,7 +20,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 26. Northeast wind 6 to 12 mph."
+          "detailedForecast": "Partly cloudy, with a low around 26. Northeast wind 6 to 13 mph."
         },
         {
           "name": "Wednesday",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1741705200000,
+          "name": "This Afternoon",
+          "timestamp": 1741708800000,
           "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 30, with temperatures falling to around 28 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 30 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 30, with temperatures falling to around 28 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1741705200000,
+          "name": "This Afternoon",
+          "timestamp": 1741708800000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,27 +147,9 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
-  "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Mar 8",
-      "conditions": "Skated Bucks today 10:30 AM - 1:45 PM. Lots of fun. Fast and controllable. The connector was groomed but hard and icy under the groom.  Still very usable. Very little forest debris.  Much less than up north last weekend. No dirt spots even when a few turns started to soften in the sun around 12:30.  Soft turns later in the morning were not that slow. Watch out for some small ice balls that sometimes end up in the skate lanes.  Very avoidable. The hills and turn through the pines in the back is still part of the trail.  Very nice!  Used A skis. Should be great tomorrow morning after the groom.  Thank you Huron Meadows crew. Great job!  Came over from Lansing today thanks to your efforts.Check out XC Ski Headquarters up north at Higgins Lake tomorrow.  You don’t have to be on the official team to participate in the Michigan cup relays. And the trails up there have been very good the last couple mornings. Thanks for 50 years of family service and winter fun XC HQ team!"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Mar 10",
-      "conditions": "Nubs has plenty of coverage , depth , and groom on the upper loops. The sweet spot between hard and soft was 10:30 to 1:00. A little bit of wind debris , but not an issue . LF 8 rilled"
-    }
-  },
+  "nordicConditions": {},
   "nubsNob": {
     "date": "3/11/25",
     "liftsOpen": "5 Lifts",
