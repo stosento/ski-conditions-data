@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-12T12:01:00.456Z",
+  "timestamp": "2025-03-12T13:06:18.528Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741780800000,
+          "timestamp": 1741784400000,
           "temp": 40,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1741780800000,
+          "timestamp": 1741784400000,
           "temp": 40,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,15 +147,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
