@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-12T23:00:36.913Z",
+  "timestamp": "2025-03-13T00:00:54.074Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741816800000,
+          "timestamp": 1741824000000,
           "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 26. East northeast wind 2 to 10 mph."
+          "detailedForecast": "Mostly clear, with a low around 26. East northeast wind 2 to 6 mph."
         },
         {
           "name": "Thursday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741820400000,
+          "timestamp": 1741824000000,
           "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 26, with temperatures rising to around 28 overnight. South wind 5 to 10 mph."
+          "detailedForecast": "Partly cloudy. Low around 26, with temperatures rising to around 28 overnight. South wind around 5 mph."
         },
         {
           "name": "Thursday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741820400000,
+          "timestamp": 1741824000000,
           "temp": 24,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -147,6 +138,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
