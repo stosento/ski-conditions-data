@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-03-14T07:00:37.214Z",
+  "timestamp": "2025-03-14T08:00:40.982Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1741899600000,
-          "temp": 54,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 54. East southeast wind around 3 mph."
-        },
-        {
-          "name": "Tonight",
-          "timestamp": 1741903200000,
+          "name": "Overnight",
+          "timestamp": 1741939200000,
           "temp": 34,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 34. East southeast wind around 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 34. East wind around 5 mph."
         },
         {
           "name": "Friday",
@@ -29,16 +20,25 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 67. Southeast wind 5 to 13 mph, with gusts as high as 21 mph."
+          "detailedForecast": "Partly sunny, with a high near 67. Southeast wind 5 to 12 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Friday Night",
           "timestamp": 1741989600000,
-          "temp": 53,
-          "snowfall": 70,
+          "temp": 54,
+          "snowfall": 80,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Showers And Thunderstorms Likely",
-          "detailedForecast": "Rain showers likely between 3am and 5am, then showers and thunderstorms likely. Mostly cloudy, with a low around 53. South southeast wind 10 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Mostly Cloudy then Light Rain",
+          "detailedForecast": "Rain likely between 3am and 5am, then rain and a slight chance of thunderstorms. Mostly cloudy, with a low around 54. South southeast wind 10 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1742032800000,
+          "temp": 71,
+          "snowfall": 80,
+          "snowAmount": "",
+          "shortForecast": "Light Rain",
+          "detailedForecast": "Rain and a slight chance of thunderstorms before 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 71. South wind 14 to 22 mph, with gusts as high as 44 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741935600000,
+          "timestamp": 1741939200000,
           "temp": 35,
           "snowfall": 0,
           "snowAmount": "",
@@ -75,11 +75,11 @@
         {
           "name": "Saturday",
           "timestamp": 1742032800000,
-          "temp": 65,
+          "temp": 64,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms. Partly sunny, with a high near 65. South wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%."
+          "detailedForecast": "Showers and thunderstorms. Partly sunny, with a high near 64. South wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1741935600000,
+          "timestamp": 1741939200000,
           "temp": 33,
           "snowfall": 0,
           "snowAmount": "",
@@ -116,11 +116,11 @@
         {
           "name": "Saturday",
           "timestamp": 1742032800000,
-          "temp": 67,
+          "temp": 65,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms. Partly sunny, with a high near 67. South wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%."
+          "detailedForecast": "Showers and thunderstorms before 5pm, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 65. South wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%."
         }
       ]
     }
