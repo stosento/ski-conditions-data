@@ -1,9 +1,18 @@
 {
-  "timestamp": "2025-03-15T22:00:40.496Z",
+  "timestamp": "2025-03-15T23:00:39.288Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
+        {
+          "name": "This Afternoon",
+          "timestamp": 1742072400000,
+          "temp": 71,
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 71. South wind around 21 mph, with gusts as high as 37 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+        },
         {
           "name": "Tonight",
           "timestamp": 1742076000000,
@@ -30,15 +39,6 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
           "detailedForecast": "A slight chance of rain before 8pm. Mostly cloudy, with a low around 27. Northwest wind 9 to 14 mph, with gusts as high as 23 mph. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
-          "name": "Monday",
-          "timestamp": 1742205600000,
-          "temp": 47,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 47. West southwest wind 5 to 8 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742065200000,
+          "timestamp": 1742068800000,
           "temp": 66,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Haze",
-          "detailedForecast": "Haze. Mostly sunny. High near 66, with temperatures falling to around 63 in the afternoon. South wind 20 to 25 mph, with gusts as high as 45 mph."
+          "detailedForecast": "Haze. Mostly sunny. High near 66, with temperatures falling to around 63 in the afternoon. Southwest wind 20 to 25 mph, with gusts as high as 45 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1742076000000,
+          "timestamp": 1742079600000,
           "temp": 29,
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "Haze before 8pm, then rain showers. Mostly cloudy. Low around 29, with temperatures rising to around 39 overnight. West wind 5 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Haze before 8pm, then rain showers. Mostly cloudy. Low around 29, with temperatures rising to around 39 overnight. West wind 5 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Sunday",
