@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-15T17:00:32.268Z",
+  "timestamp": "2025-03-15T18:00:37.498Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742058000000,
+          "timestamp": 1742061600000,
           "temp": 70,
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A slight chance of rain before 2pm, then a chance of rain and a slight chance of thunderstorms between 2pm and 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 70. South wind 16 to 21 mph, with gusts as high as 46 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain and a slight chance of thunderstorms before 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 70. South wind around 21 mph, with gusts as high as 46 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742058000000,
+          "timestamp": 1742061600000,
           "temp": 66,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742058000000,
+          "timestamp": 1742061600000,
           "temp": 68,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,19 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Bucks Run ski trail was groomed today, March 9, 2025. Grass has started to show and the north loop of the trail is completely unusable at this time.  The current trail is approximately .5 km.  There is an additional $5 daily trail fee for the use of Bucks Run. Dogs and walkers are not permitted on our groomed trails."
-        },
-        {
-          "header": "Bucks Run Hours:",
-          "content": "Please adhere to posted hours. Buck’s Run last day is Sunday, March 9, 2025."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -147,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
