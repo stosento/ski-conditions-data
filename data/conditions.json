@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-15T14:00:37.532Z",
+  "timestamp": "2025-03-15T15:00:28.539Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742047200000,
+          "timestamp": 1742050800000,
           "temp": 70,
-          "snowfall": 40,
+          "snowfall": 50,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Light Rain then Chance T-storms",
-          "detailedForecast": "A slight chance of rain before 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 70. South wind 17 to 21 mph, with gusts as high as 46 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A slight chance of rain before 2pm, then a chance of rain and a slight chance of thunderstorms between 2pm and 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 70. South wind 13 to 21 mph, with gusts as high as 46 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -19,8 +19,8 @@
           "temp": 48,
           "snowfall": 90,
           "snowAmount": "",
-          "shortForecast": "Chance T-storms then Rain",
-          "detailedForecast": "A chance of thunderstorms and a chance of rain before 8pm, then rain and a slight chance of thunderstorms. Cloudy. Low around 48, with temperatures rising to around 54 overnight. South wind 10 to 18 mph, with gusts as high as 38 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Rain",
+          "detailedForecast": "Rain and a chance of thunderstorms. Cloudy. Low around 48, with temperatures rising to around 54 overnight. South wind 10 to 18 mph, with gusts as high as 38 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Sunday",
@@ -29,7 +29,7 @@
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Light Rain",
-          "detailedForecast": "Rain. Mostly cloudy. High near 55, with temperatures falling to around 43 in the afternoon. Southwest wind 13 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain. Mostly cloudy. High near 55, with temperatures falling to around 43 in the afternoon. Southwest wind 13 to 16 mph, with gusts as high as 29 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Sunday Night",
@@ -38,7 +38,7 @@
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Light Rain then Mostly Cloudy",
-          "detailedForecast": "A chance of rain before 8pm. Mostly cloudy, with a low around 27. West northwest wind 8 to 14 mph, with gusts as high as 23 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain before 8pm. Mostly cloudy, with a low around 27. West northwest wind 8 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742047200000,
+          "timestamp": 1742050800000,
           "temp": 66,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 66, with temperatures falling to around 63 in the afternoon. South wind 15 to 25 mph, with gusts as high as 45 mph."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze before 5pm. Partly sunny. High near 66, with temperatures falling to around 63 in the afternoon. South wind 15 to 25 mph, with gusts as high as 45 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742047200000,
+          "timestamp": 1742050800000,
           "temp": 68,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 68, with temperatures falling to around 64 in the afternoon. South wind 15 to 25 mph, with gusts as high as 50 mph. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze before 5pm. Partly sunny. High near 68, with temperatures falling to around 64 in the afternoon. South wind 20 to 25 mph, with gusts as high as 50 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,15 +147,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
