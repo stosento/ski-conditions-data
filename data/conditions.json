@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-03-15T01:27:40.244Z",
+  "timestamp": "2025-03-15T02:24:09.732Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1741986000000,
-          "temp": 65,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 65. Southeast wind around 12 mph."
-        },
-        {
           "name": "Tonight",
-          "timestamp": 1741989600000,
+          "timestamp": 1742004000000,
           "temp": 52,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Light Rain",
-          "detailedForecast": "Rain after 3am. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. Southeast wind 7 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain after 3am. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. South southeast wind 7 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -38,7 +29,16 @@
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy, with a low around 48. South wind 9 to 18 mph, with gusts as high as 36 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+          "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy. Low around 48, with temperatures rising to around 53 overnight. South wind 9 to 18 mph, with gusts as high as 36 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1742119200000,
+          "temp": 52,
+          "snowfall": 90,
+          "snowAmount": "",
+          "shortForecast": "Rain",
+          "detailedForecast": "Rain. Mostly cloudy, with a high near 52. West southwest wind 8 to 14 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741993200000,
+          "timestamp": 1742004000000,
           "temp": 56,
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms after 5am. Mostly cloudy, with a low around 56. Southeast wind 10 to 15 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Showers and thunderstorms after 5am. Mostly cloudy, with a low around 56. Southeast wind around 15 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Saturday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1741993200000,
+          "timestamp": 1742004000000,
           "temp": 54,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms after 5am. Mostly cloudy. Low around 54, with temperatures rising to around 56 overnight. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Showers and thunderstorms after 5am. Mostly cloudy. Low around 54, with temperatures rising to around 56 overnight. South wind around 15 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Saturday",
@@ -150,13 +150,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Mar 10",
-      "conditions": "Nubs has plenty of coverage , depth , and groom on the upper loops. The sweet spot between hard and soft was 10:30 to 1:00. A little bit of wind debris , but not an issue . LF 8 rilled"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Mar 8",
       "conditions": "Skated Bucks today 10:30 AM - 1:45 PM. Lots of fun. Fast and controllable. The connector was groomed but hard and icy under the groom.  Still very usable. Very little forest debris.  Much less than up north last weekend. No dirt spots even when a few turns started to soften in the sun around 12:30.  Soft turns later in the morning were not that slow. Watch out for some small ice balls that sometimes end up in the skate lanes.  Very avoidable. The hills and turn through the pines in the back is still part of the trail.  Very nice!  Used A skis. Should be great tomorrow morning after the groom.  Thank you Huron Meadows crew. Great job!  Came over from Lansing today thanks to your efforts.Check out XC Ski Headquarters up north at Higgins Lake tomorrow.  You don’t have to be on the official team to participate in the Michigan cup relays. And the trails up there have been very good the last couple mornings. Thanks for 50 years of family service and winter fun XC HQ team!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Mar 10",
+      "conditions": "Nubs has plenty of coverage , depth , and groom on the upper loops. The sweet spot between hard and soft was 10:30 to 1:00. A little bit of wind debris , but not an issue . LF 8 rilled"
     }
   },
   "nubsNob": {
