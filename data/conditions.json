@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-15T16:00:31.025Z",
+  "timestamp": "2025-03-15T17:00:32.268Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1742050800000,
+          "name": "This Afternoon",
+          "timestamp": 1742058000000,
           "temp": 70,
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A slight chance of rain before 2pm, then a chance of rain and a slight chance of thunderstorms between 2pm and 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 70. South wind 13 to 21 mph, with gusts as high as 46 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain before 2pm, then a chance of rain and a slight chance of thunderstorms between 2pm and 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 70. South wind 16 to 21 mph, with gusts as high as 46 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742054400000,
+          "timestamp": 1742058000000,
           "temp": 66,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Haze",
-          "detailedForecast": "Haze before 5pm. Mostly sunny. High near 66, with temperatures falling to around 63 in the afternoon. South wind 15 to 25 mph, with gusts as high as 45 mph."
+          "detailedForecast": "Haze before 5pm. Mostly sunny. High near 66, with temperatures falling to around 63 in the afternoon. South wind 20 to 25 mph, with gusts as high as 45 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742054400000,
+          "timestamp": 1742058000000,
           "temp": 68,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Haze",
-          "detailedForecast": "Haze before 5pm. Partly sunny. High near 68, with temperatures falling to around 64 in the afternoon. South wind 15 to 25 mph, with gusts as high as 50 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Haze before 5pm. Mostly sunny. High near 68, with temperatures falling to around 64 in the afternoon. South wind 20 to 25 mph, with gusts as high as 50 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -147,6 +138,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
