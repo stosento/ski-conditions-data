@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-15T11:00:27.179Z",
+  "timestamp": "2025-03-15T12:00:49.100Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742032800000,
+          "timestamp": 1742040000000,
           "temp": 70,
           "snowfall": 90,
           "snowAmount": "",
-          "shortForecast": "Light Rain",
-          "detailedForecast": "Rain and a slight chance of thunderstorms before 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 70. South wind 13 to 21 mph, with gusts as high as 46 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Light Rain then Chance T-storms",
+          "detailedForecast": "Rain before 5pm, then a chance of thunderstorms and a chance of rain. Mostly cloudy, with a high near 70. South wind 13 to 21 mph, with gusts as high as 46 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742036400000,
+          "timestamp": 1742040000000,
           "temp": 66,
-          "snowfall": 80,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Showers And Thunderstorms then Partly Sunny",
-          "detailedForecast": "Showers and thunderstorms before 9am. Partly sunny. High near 66, with temperatures falling to around 63 in the afternoon. South wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Scattered Showers And Thunderstorms then Partly Sunny",
+          "detailedForecast": "Scattered showers and thunderstorms before 9am. Partly sunny. High near 66, with temperatures falling to around 63 in the afternoon. South wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742036400000,
+          "timestamp": 1742040000000,
           "temp": 68,
-          "snowfall": 80,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Showers And Thunderstorms then Mostly Cloudy",
-          "detailedForecast": "Showers and thunderstorms before 8am, then isolated showers and thunderstorms between 8am and 9am. Mostly cloudy. High near 68, with temperatures falling to around 64 in the afternoon. South wind 15 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Isolated Showers And Thunderstorms then Partly Sunny",
+          "detailedForecast": "Isolated showers and thunderstorms before 9am. Partly sunny. High near 68, with temperatures falling to around 64 in the afternoon. South wind 15 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,15 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,15 +147,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -156,15 +156,15 @@
     }
   },
   "nubsNob": {
-    "date": "3/14/25",
-    "liftsOpen": "5 Lifts, Rope Tow and Space Worm",
-    "xcTrails": "Trails were groomed and tracked on Wednesday. Conditions will be very good this morning and too soft in the afternoon.",
+    "date": "3/15/25- MARDI GRAS",
+    "liftsOpen": "At least 7 Lifts, Rope Tow and Space Worm",
+    "xcTrails": "Trails are soft today. Expect bare spots especially on the lower trails.",
     "nightSkiing": "Done for the season.",
-    "comments": "A spring warm up is forecast today. The snow is machine groomed this morning and will quickly transition to wet spring snow by the late morning. The temperature is forecast to hit 60 degrees today. If you have ever had a goal to ski in the morning and bike in the afternoon, today is your day. Pintail Peak lodge is open with food and an espresso bar. The lifts will spin from 9 AM to 4:30 PM today. Make it a great day at Nub's Nob.",
+    "comments": "Happy Mardi Gras! It's a warm and windy day for the Mardi Gras celebration. The lifts will spin from 9 AM to 4:30 PM today. Expect to find soft spring snow on the slopes. Coverage and snow depth on the majority of the terrain is still very good. A few highlights today will be the Steel Drum band at noon, The Soaker Cup at 2:30 PM, and Pete Kehoe with Michelle Chenard in the Winter Garden at 3:30 PM. Pintail Peak Lodge is open today. Come celebrate spring on slopes with all of the WILD ANIMALS here at Nub's Nob.",
     "snowData": {
       "daily": "0\"",
       "threeDays": "3 days: 0\"",
-      "sevenDays": "7 days: 1\"",
+      "sevenDays": "7 days: 0\"",
       "ytd": "YTD: 135\""
     }
   }
