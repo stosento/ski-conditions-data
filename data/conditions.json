@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-16T10:00:31.221Z",
+  "timestamp": "2025-03-16T11:00:43.520Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742119200000,
+          "timestamp": 1742122800000,
           "temp": 59,
           "snowfall": 80,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742119200000,
+          "timestamp": 1742122800000,
           "temp": 33,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 3 to 7 inches possible",
           "shortForecast": "Heavy Snow",
-          "detailedForecast": "A chance of rain before 7am, then a chance of freezing rain and a chance of rain and snow between 7am and 8am, then snow and a slight chance of sleet between 8am and 5pm. Cloudy. High near 33, with temperatures falling to around 27 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "A chance of freezing rain and a chance of rain and snow before 8am, then snow and a slight chance of sleet between 8am and 5pm. Cloudy. High near 33, with temperatures falling to around 27 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742119200000,
+          "timestamp": 1742122800000,
           "temp": 35,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Freezing Rain",
-          "detailedForecast": "Rain before 8am, then freezing rain and rain and snow between 8am and 9am, then sleet and freezing rain and rain and snow between 9am and 5pm. Cloudy. High near 35, with temperatures falling to around 27 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Rain before 8am, then freezing rain and rain and snow between 8am and 9am, then sleet and freezing rain and rain and snow between 9am and 5pm. Cloudy. High near 35, with temperatures falling to around 27 in the afternoon. Northwest wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
