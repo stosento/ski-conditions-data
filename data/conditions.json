@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-16T00:00:53.749Z",
+  "timestamp": "2025-03-16T01:27:59.245Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1742083200000,
+          "timestamp": 1742086800000,
           "temp": 49,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain. Cloudy. Low around 49, with temperatures rising to around 56 overnight. South wind 13 to 16 mph, with gusts as high as 32 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Rain. Cloudy. Low around 49, with temperatures rising to around 56 overnight. South wind around 15 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Sunday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1742083200000,
+          "timestamp": 1742086800000,
           "temp": 29,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Rain Showers",
-          "detailedForecast": "Rain showers after 2am. Mostly cloudy. Low around 29, with temperatures rising to around 36 overnight. West wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers after 2am. Mostly cloudy. Low around 29, with temperatures rising to around 36 overnight. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1742083200000,
+          "timestamp": 1742086800000,
           "temp": 29,
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Mostly cloudy. Low around 29, with temperatures rising to around 39 overnight. West wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers. Mostly cloudy. Low around 29, with temperatures rising to around 39 overnight. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Sunday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
