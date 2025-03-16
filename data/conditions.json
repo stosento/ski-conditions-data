@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-16T06:00:33.882Z",
+  "timestamp": "2025-03-16T07:00:41.656Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,30 +47,30 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1742104800000,
+          "timestamp": 1742108400000,
           "temp": 29,
-          "snowfall": 60,
+          "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Rain Likely",
-          "detailedForecast": "Rain likely. Mostly cloudy. Low around 29, with temperatures rising to around 36 overnight. Northwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+          "shortForecast": "Chance Rain",
+          "detailedForecast": "A chance of rain. Cloudy. Low around 29, with temperatures rising to around 36 overnight. Northwest wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday",
           "timestamp": 1742119200000,
           "temp": 33,
-          "snowfall": 90,
+          "snowfall": 100,
           "snowAmount": "New snow accumulation of 3 to 7 inches possible",
-          "shortForecast": "Sleet Likely",
-          "detailedForecast": "Rain likely before 7am, then sleet likely and freezing rain likely and rain and snow. Cloudy. High near 33, with temperatures falling to around 27 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 7 inches possible. Little or no ice accumulation expected."
+          "shortForecast": "Heavy Snow",
+          "detailedForecast": "A chance of rain before 7am, then a chance of freezing rain and a chance of rain and snow between 7am and 8am, then snow and a slight chance of sleet between 8am and 5pm. Cloudy. High near 33, with temperatures falling to around 27 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1742162400000,
           "temp": 20,
-          "snowfall": 30,
+          "snowfall": 0,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Light Snow then Mostly Cloudy",
-          "detailedForecast": "A chance of snow before 8pm. Mostly cloudy, with a low around 20. Northwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 20. Northwest wind 5 to 15 mph, with gusts as high as 30 mph. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1742104800000,
+          "timestamp": 1742108400000,
           "temp": 29,
           "snowfall": 80,
           "snowAmount": "",
@@ -99,19 +99,19 @@
           "name": "Sunday",
           "timestamp": 1742119200000,
           "temp": 35,
-          "snowfall": 90,
+          "snowfall": 100,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
-          "shortForecast": "Heavy Snow",
-          "detailedForecast": "Rain before 8am, then sleet and freezing rain and rain between 8am and 9am, then snow and a slight chance of sleet and a slight chance of freezing rain. Cloudy. High near 35, with temperatures falling to around 27 in the afternoon. Northwest wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
+          "shortForecast": "Freezing Rain",
+          "detailedForecast": "Rain before 8am, then freezing rain and rain and snow between 8am and 9am, then sleet and freezing rain and rain and snow between 9am and 5pm. Cloudy. High near 35, with temperatures falling to around 27 in the afternoon. Northwest wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1742162400000,
           "temp": 17,
-          "snowfall": 40,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Chance Light Snow then Mostly Cloudy",
-          "detailedForecast": "A chance of snow before 8pm. Mostly cloudy. Low around 17, with temperatures rising to around 19 overnight. Northwest wind 5 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of 1 to 2 inches possible."
+          "snowfall": 0,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around 17, with temperatures rising to around 19 overnight. Northwest wind 5 to 15 mph, with gusts as high as 35 mph. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
