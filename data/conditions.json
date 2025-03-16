@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-03-16T12:00:36.436Z",
+  "timestamp": "2025-03-16T13:03:46.804Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1742115600000,
-          "temp": 56,
-          "snowfall": 80,
-          "snowAmount": "",
-          "shortForecast": "Light Rain",
-          "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy, with a low around 56. South southeast wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1742119200000,
+          "name": "Today",
+          "timestamp": 1742130000000,
           "temp": 59,
-          "snowfall": 80,
+          "snowfall": 60,
           "snowAmount": "",
-          "shortForecast": "Light Rain",
-          "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy. High near 59, with temperatures falling to around 44 in the afternoon. Southwest wind around 14 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Light Rain Likely",
+          "detailedForecast": "Rain likely and a slight chance of thunderstorms. Mostly cloudy. High near 59, with temperatures falling to around 44 in the afternoon. West wind around 14 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1742162400000,
           "temp": 28,
           "snowfall": 30,
@@ -38,7 +29,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 47. West southwest wind around 6 mph."
+          "detailedForecast": "Mostly sunny. High near 47, with temperatures falling to around 45 in the afternoon. West southwest wind around 6 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1742248800000,
+          "temp": 35,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 35. South wind around 7 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742126400000,
+          "timestamp": 1742130000000,
           "temp": 33,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 3 to 7 inches possible",
           "shortForecast": "Heavy Snow",
-          "detailedForecast": "Snow and a slight chance of sleet before 5pm. Cloudy. High near 33, with temperatures falling to around 27 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
+          "detailedForecast": "Snow before 5pm. Cloudy. High near 33, with temperatures falling to around 27 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742126400000,
+          "timestamp": 1742130000000,
           "temp": 35,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
-          "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain and rain and snow before 9am, then sleet and freezing rain and rain and snow between 9am and 5pm. Cloudy. High near 35, with temperatures falling to around 27 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
+          "shortForecast": "Sleet",
+          "detailedForecast": "Sleet and freezing rain and rain and snow before 5pm. Cloudy. High near 35, with temperatures falling to around 27 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
