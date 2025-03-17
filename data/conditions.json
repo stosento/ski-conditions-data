@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-17T11:00:32.760Z",
+  "timestamp": "2025-03-17T12:00:41.199Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742209200000,
+          "timestamp": 1742212800000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 42, with temperatures falling to around 40 in the afternoon. South wind 0 to 10 mph."
+          "detailedForecast": "Mostly sunny. High near 42, with temperatures falling to around 40 in the afternoon. South wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742209200000,
+          "timestamp": 1742212800000,
           "temp": 43,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 43. South wind 0 to 15 mph, with gusts as high as 25 mph."
+          "detailedForecast": "Mostly sunny, with a high near 43. South wind 5 to 15 mph, with gusts as high as 25 mph."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,20 +134,29 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
   "nubsNob": {
-    "date": "3/16/25",
-    "liftsOpen": "At least 6 Lifts, Rope Tow and Space Worm",
-    "xcTrails": "Trails are in late season. Expect bare spots, especially on the lower trails.",
+    "date": "3/17/25",
+    "liftsOpen": "5 Lifts",
+    "xcTrails": "The upper trails will be groomed this morning and are in great shape today. The lower trails have less snow and will just be packed with a snowmobile. The best skiing is on the upper Red trail today.",
     "nightSkiing": "Done for the season.",
-    "comments": "What a difference a day makes. This morning it is raining at Nub's but that is forecast to change to snow soon with some accumulation expected. The groomers are out in full force this morning. As the snow begins to freeze expect variable conditions on the slopes. Today is TELEbration sponsored by our friends at The Outfitter of Harbor Springs. This is a great chance to try a pair of demo telemark skis and hang out with your free-heel friends at the warming hut at the bottom of Birch Run. NASTAR Racing today from 12:30 to 2:30 PM. Pintail Peak lodge is open with a deli and an espresso bar. The lifts will spin from 9 AM to 4:30 PM. Make it a great day at Nub's Nob.",
+    "comments": "If you are debating on coming out to ski today, you should ski. Over 2 inches of heavy snow fell at Nub's yesterday. This snow dried out overnight with the cold temperature and the snow surface feels like mid-winter conditions this morning. The temperature will go above freezing later today and the snow will soften up, but it shouldn't get sticky. Pintail Peak lodge is open with a food and an espresso bar. The lifts will spin from 9 AM to 4:30 PM. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 0\"",
-      "sevenDays": "7 days: 0\"",
-      "ytd": "YTD: 135\""
+      "daily": "2\"",
+      "threeDays": "3 days: 2\"",
+      "sevenDays": "7 days: 2\"",
+      "ytd": "YTD: 137\""
     }
   }
 }
