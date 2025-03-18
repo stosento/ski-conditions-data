@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-18T22:00:31.343Z",
+  "timestamp": "2025-03-18T23:00:33.696Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1742335200000,
+          "timestamp": 1742338800000,
           "temp": 50,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 50. South wind 7 to 10 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 50. South wind around 9 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Wednesday",
@@ -52,7 +52,7 @@
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Slight Chance Light Rain",
-          "detailedForecast": "A slight chance of rain after 2am. Mostly cloudy, with a low around 35. Northeast wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain after 2am. Mostly cloudy, with a low around 35. Northeast wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -93,7 +93,7 @@
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Slight Chance Light Rain",
-          "detailedForecast": "A slight chance of rain after 2am. Mostly cloudy, with a low around 35. Northeast wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain after 2am. Mostly cloudy, with a low around 35. East wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
