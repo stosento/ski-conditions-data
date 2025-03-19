@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-03-19T21:00:50.861Z",
+  "timestamp": "2025-03-19T22:00:50.133Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1742418000000,
-          "temp": 72,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 72. South wind around 15 mph, with gusts as high as 29 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1742421600000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers then Partly Cloudy",
           "detailedForecast": "A slight chance of snow showers before 7pm. Partly cloudy, with a low around 28. West northwest wind 6 to 16 mph, with gusts as high as 26 mph. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Friday",
+          "timestamp": 1742551200000,
+          "temp": 53,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 53. Southwest wind 5 to 13 mph, with gusts as high as 24 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1742418000000,
-          "temp": 41,
-          "snowfall": 70,
-          "snowAmount": "",
-          "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely. Cloudy. High near 41, with temperatures falling to around 38 in the afternoon. Northeast wind around 15 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1742421600000,
@@ -79,7 +70,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 20. West wind 0 to 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Mostly clear. Low around 20, with temperatures rising to around 25 overnight. West wind 0 to 15 mph, with gusts as high as 30 mph."
+        },
+        {
+          "name": "Friday",
+          "timestamp": 1742551200000,
+          "temp": 44,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 44. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
         }
       ]
     },
@@ -93,7 +93,7 @@
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Rain",
-          "detailedForecast": "A slight chance of rain. Cloudy. High near 44, with temperatures falling to around 42 in the afternoon. Northeast wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain. Cloudy. High near 44, with temperatures falling to around 40 in the afternoon. Northeast wind around 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
