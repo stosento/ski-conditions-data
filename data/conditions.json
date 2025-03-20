@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-20T12:00:44.234Z",
+  "timestamp": "2025-03-20T13:06:10.976Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742472000000,
+          "timestamp": 1742475600000,
           "temp": 49,
-          "snowfall": 80,
+          "snowfall": 70,
           "snowAmount": "",
-          "shortForecast": "Light Rain then Rain And Snow Likely",
-          "detailedForecast": "Rain before 2pm, then rain and snow likely. Mostly cloudy. High near 49, with temperatures falling to around 38 in the afternoon. West wind 12 to 18 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Light Rain Likely then Rain And Snow Likely",
+          "detailedForecast": "Rain likely before 2pm, then rain and snow likely. Mostly cloudy. High near 49, with temperatures falling to around 38 in the afternoon. West wind 12 to 18 mph, with gusts as high as 33 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742472000000,
+          "timestamp": 1742475600000,
           "temp": 32,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742472000000,
+          "timestamp": 1742475600000,
           "temp": 32,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -152,11 +152,11 @@
     }
   },
   "nubsNob": {
-    "date": "3/20/25",
-    "liftsOpen": "4 Lifts",
+    "date": "3/20/25- Closed",
+    "liftsOpen": "No lifts today due to power issues.",
     "xcTrails": "Trails are covered in heavy wet snow this morning. We do not plan to groom today.",
     "nightSkiing": "Done for the season.",
-    "comments": "DELAYED OPENING. We hope to open the lifts at 10 AM this morning. Five inches of wet snow landed at Nub's Nob this morning. The wind is up today. The Grooming Crew is out in full force to prepare the slopes. Right now we plan to run the lifts from 10 AM to 4:30 PM. Thanks for skiing at Nub's Nob.",
+    "comments": "UPDATE- Nub's Nob will not open on March 20.\n\nDue to frequent power blinks we are not able to run our chairlifts today. The lodge will remain opened until noon today. We plan to open tomorrow for skiing and riding at 9 AM.",
     "snowData": {
       "daily": "5\"",
       "threeDays": "3 days: 5\"",
