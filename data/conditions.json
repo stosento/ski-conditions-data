@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-20T19:00:30.092Z",
+  "timestamp": "2025-03-20T20:00:33.718Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742497200000,
+          "timestamp": 1742500800000,
           "temp": 51,
           "snowfall": 80,
           "snowAmount": "",
-          "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain and snow. Mostly cloudy. High near 51, with temperatures falling to around 38 in the afternoon. Northwest wind around 18 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Light Snow",
+          "detailedForecast": "Snow. Mostly cloudy. High near 51, with temperatures falling to around 38 in the afternoon. Northwest wind around 17 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742497200000,
+          "timestamp": 1742500800000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 32. Northwest wind around 15 mph, with gusts as high as 25 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind around 15 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742497200000,
+          "timestamp": 1742500800000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 32. Northwest wind around 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Mostly sunny, with a high near 32. Northwest wind around 15 mph."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
