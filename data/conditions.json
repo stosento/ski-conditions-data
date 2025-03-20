@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-20T11:00:35.418Z",
+  "timestamp": "2025-03-20T12:00:44.234Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742468400000,
+          "timestamp": 1742472000000,
           "temp": 49,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Light Rain then Rain And Snow Likely",
-          "detailedForecast": "Rain before 2pm, then rain and snow likely. Mostly cloudy. High near 49, with temperatures falling to around 38 in the afternoon. West wind 12 to 18 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain before 2pm, then rain and snow likely. Mostly cloudy. High near 49, with temperatures falling to around 38 in the afternoon. West wind 12 to 18 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742468400000,
+          "timestamp": 1742472000000,
           "temp": 32,
-          "snowfall": 90,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
-          "shortForecast": "Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers and patchy blowing snow before 1pm. Partly sunny, with a high near 32. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "snowfall": 50,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "A chance of snow showers and patchy blowing snow before 1pm. Partly sunny, with a high near 32. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742468400000,
+          "timestamp": 1742472000000,
           "temp": 32,
-          "snowfall": 90,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "snowfall": 60,
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers Likely And Patchy Blowing Snow then Patchy Blowing Snow",
-          "detailedForecast": "Snow showers before 8am, then snow showers likely and patchy blowing snow between 8am and 11am, then patchy blowing snow and a slight chance of snow showers between 11am and 2pm. Partly sunny, with a high near 32. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers likely and patchy blowing snow before 11am, then patchy blowing snow and a slight chance of snow showers between 11am and 2pm. Partly sunny, with a high near 32. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
@@ -152,16 +152,16 @@
     }
   },
   "nubsNob": {
-    "date": "3/19/25",
+    "date": "3/20/25",
     "liftsOpen": "4 Lifts",
-    "xcTrails": "The upper trails were power-tilled and tracked on Monday. Expect soft snow today. The upper red is holding snow better compared to the rest of the trails.",
+    "xcTrails": "Trails are covered in heavy wet snow this morning. We do not plan to groom today.",
     "nightSkiing": "Done for the season.",
-    "comments": "Spring skiing continues at Nub's Nob. The snow is granular in texture today and has some set to it in certain areas. The snow should loosen up quickly this morning as the temperature goes up. A rain and snow mix is expected late this afternoon and evening. The Tune Center is now selling the demo skis from this season and we have some amazing deals in the General Store. The lifts will spin from 9 AM to 4:30 PM. Make it a great day at Nub's Nob.",
+    "comments": "DELAYED OPENING. We hope to open the lifts at 10 AM this morning. Five inches of wet snow landed at Nub's Nob this morning. The wind is up today. The Grooming Crew is out in full force to prepare the slopes. Right now we plan to run the lifts from 10 AM to 4:30 PM. Thanks for skiing at Nub's Nob.",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 2\"",
-      "sevenDays": "7 days: 2\"",
-      "ytd": "YTD: 137\""
+      "daily": "5\"",
+      "threeDays": "3 days: 5\"",
+      "sevenDays": "7 days: 7\"",
+      "ytd": "YTD: 142\""
     }
   }
 }
