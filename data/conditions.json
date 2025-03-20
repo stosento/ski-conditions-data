@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-20T16:00:38.293Z",
+  "timestamp": "2025-03-20T17:00:41.906Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742486400000,
+          "timestamp": 1742490000000,
           "temp": 49,
-          "snowfall": 70,
+          "snowfall": 60,
           "snowAmount": "",
           "shortForecast": "Rain And Snow Likely",
-          "detailedForecast": "Rain likely before 2pm, then rain and snow likely. Mostly cloudy. High near 49, with temperatures falling to around 38 in the afternoon. Northwest wind 15 to 18 mph, with gusts as high as 33 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain likely before 2pm, then rain and snow likely. Mostly cloudy. High near 49, with temperatures falling to around 38 in the afternoon. Northwest wind around 18 mph, with gusts as high as 33 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742486400000,
+          "timestamp": 1742490000000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742486400000,
+          "timestamp": 1742490000000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
