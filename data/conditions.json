@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-20T00:00:42.415Z",
+  "timestamp": "2025-03-20T01:27:46.588Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1742428800000,
+          "timestamp": 1742432400000,
           "temp": 40,
           "snowfall": 80,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1742428800000,
+          "timestamp": 1742432400000,
           "temp": 26,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
-          "shortForecast": "Rain And Areas Of Blowing Snow then Areas Of Blowing Snow",
-          "detailedForecast": "Rain and areas of blowing snow before 10pm, then areas of blowing snow and rain and snow between 10pm and 11pm, then areas of blowing snow and rain and snow. Cloudy. Low around 26, with temperatures rising to around 29 overnight. North wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "shortForecast": "Rain And Patchy Blowing Snow then Areas Of Blowing Snow",
+          "detailedForecast": "Rain and patchy blowing snow before 10pm, then areas of blowing snow and rain and snow between 10pm and 11pm, then areas of blowing snow and rain and snow. Cloudy. Low around 26, with temperatures rising to around 29 overnight. North wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Thursday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1742428800000,
+          "timestamp": 1742432400000,
           "temp": 26,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
