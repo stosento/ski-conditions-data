@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-03-20T09:00:40.086Z",
+  "timestamp": "2025-03-20T10:00:33.589Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1742461200000,
-          "temp": 39,
-          "snowfall": 40,
-          "snowAmount": "",
-          "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A chance of rain. Mostly cloudy. Low around 39, with temperatures rising to around 50 overnight. South southwest wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "timestamp": 1742464800000,
           "temp": 49,
           "snowfall": 80,
@@ -23,7 +14,7 @@
           "detailedForecast": "Rain before 2pm, then rain and snow likely. Mostly cloudy. High near 49, with temperatures falling to around 38 in the afternoon. West southwest wind 12 to 18 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1742508000000,
           "temp": 28,
           "snowfall": 0,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 53. Southwest wind 5 to 15 mph, with gusts as high as 24 mph."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1742594400000,
+          "temp": 34,
+          "snowfall": 40,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy then Chance Light Rain",
+          "detailedForecast": "A chance of rain after 2am. Mostly cloudy, with a low around 34. Southwest wind 10 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
