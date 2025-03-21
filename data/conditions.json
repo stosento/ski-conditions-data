@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-03-21T09:00:30.433Z",
+  "timestamp": "2025-03-21T10:00:34.478Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1742547600000,
-          "temp": 28,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 28. West wind around 5 mph."
-        },
-        {
-          "name": "Friday",
+          "name": "Today",
           "timestamp": 1742551200000,
           "temp": 54,
           "snowfall": 0,
@@ -23,7 +14,7 @@
           "detailedForecast": "Mostly sunny, with a high near 54. Southwest wind 5 to 17 mph, with gusts as high as 29 mph."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1742594400000,
           "temp": 32,
           "snowfall": 50,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Light Snow then Chance Snow Showers",
           "detailedForecast": "A chance of rain before 7am, then a chance of snow between 7am and 8am, then a chance of snow showers between 8am and 2pm. Mostly sunny, with a high near 36. Northwest wind 10 to 15 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1742680800000,
+          "temp": 25,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 25. North northeast wind 2 to 10 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1742547600000,
-          "temp": 20,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 20, with temperatures rising to around 26 overnight. Southwest wind around 10 mph."
-        },
-        {
-          "name": "Friday",
+          "name": "Today",
           "timestamp": 1742551200000,
           "temp": 43,
           "snowfall": 30,
@@ -64,7 +55,7 @@
           "detailedForecast": "A chance of rain showers after 2pm. Partly sunny, with a high near 43. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1742594400000,
           "temp": 14,
           "snowfall": 70,
@@ -80,6 +71,15 @@
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of snow showers. Partly sunny, with a high near 25. Wind chill values as low as 0. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1742680800000,
+          "temp": 12,
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers then Partly Cloudy",
+          "detailedForecast": "A chance of snow showers before 8pm. Partly cloudy, with a low around 12. South wind 0 to 10 mph. Chance of precipitation is 30%."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1742547600000,
-          "temp": 19,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 19, with temperatures rising to around 25 overnight. Southwest wind around 10 mph."
-        },
-        {
-          "name": "Friday",
+          "name": "Today",
           "timestamp": 1742551200000,
           "temp": 47,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 47. Southwest wind 10 to 15 mph, with gusts as high as 35 mph."
+          "detailedForecast": "Partly sunny, with a high near 47. Southwest wind 5 to 15 mph, with gusts as high as 35 mph."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1742594400000,
           "temp": 14,
           "snowfall": 80,
@@ -121,20 +112,20 @@
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of snow showers. Partly sunny, with a high near 25. Wind chill values as low as 0. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1742680800000,
+          "temp": 10,
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers then Partly Cloudy",
+          "detailedForecast": "A chance of snow showers before 8pm. Partly cloudy, with a low around 10. Southwest wind 0 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
