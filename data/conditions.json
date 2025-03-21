@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-21T12:00:46.957Z",
+  "timestamp": "2025-03-21T13:05:52.159Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742558400000,
+          "timestamp": 1742562000000,
           "temp": 54,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 54. Southwest wind 6 to 17 mph, with gusts as high as 29 mph."
+          "detailedForecast": "Mostly sunny, with a high near 54. South southwest wind 8 to 17 mph, with gusts as high as 29 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742558400000,
+          "timestamp": 1742562000000,
           "temp": 43,
           "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny then Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 2pm. Partly sunny, with a high near 43. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers after 2pm. Mostly cloudy, with a high near 43. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742558400000,
+          "timestamp": 1742562000000,
           "temp": 47,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
