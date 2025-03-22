@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-22T04:00:34.509Z",
+  "timestamp": "2025-03-22T05:00:43.548Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1742616000000,
+          "timestamp": 1742619600000,
           "temp": 32,
           "snowfall": 40,
           "snowAmount": "",
           "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A chance of rain. Cloudy. Low around 32, with temperatures rising to around 42 overnight. Southwest wind 12 to 15 mph, with gusts as high as 31 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain. Cloudy. Low around 32, with temperatures rising to around 42 overnight. Southwest wind 12 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1742616000000,
+          "timestamp": 1742619600000,
           "temp": 14,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1742616000000,
+          "timestamp": 1742619600000,
           "temp": 14,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Rain And Snow Showers",
-          "detailedForecast": "A chance of rain and snow showers. Cloudy. Low around 14, with temperatures rising to around 19 overnight. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 14, with temperatures rising to around 19 overnight. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
