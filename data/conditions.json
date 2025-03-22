@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-03-22T21:00:30.394Z",
+  "timestamp": "2025-03-22T22:00:44.675Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1742677200000,
-          "temp": 38,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 38. Northwest wind around 14 mph, with gusts as high as 21 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1742680800000,
@@ -38,22 +29,22 @@
           "snowfall": 100,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain before 7pm, then rain and snow between 7pm and 2am. Mostly cloudy, with a low around 35. South wind 14 to 18 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain before 7pm, then rain and snow between 7pm and 2am. Mostly cloudy. Low around 35, with temperatures rising to around 38 overnight. South wind 14 to 18 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1742810400000,
+          "temp": 41,
+          "snowfall": 40,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers between 8am and 11am, then a chance of rain and snow showers. Mostly cloudy, with a high near 41. West southwest wind 14 to 18 mph, with gusts as high as 36 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1742677200000,
-          "temp": 24,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Cloudy. High near 24, with temperatures falling to around 21 in the afternoon. Northwest wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1742680800000,
@@ -79,22 +70,22 @@
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Light Snow Likely then Snow Showers",
-          "detailedForecast": "Snow likely before 8pm, then snow showers. Cloudy, with a low around 29. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
+          "detailedForecast": "Snow likely before 8pm, then snow showers. Cloudy. Low around 29, with temperatures rising to around 31 overnight. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1742810400000,
+          "temp": 33,
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Cloudy, with a high near 33. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1742677200000,
-          "temp": 24,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Cloudy. High near 24, with temperatures falling to around 21 in the afternoon. Northwest wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1742680800000,
@@ -120,21 +111,21 @@
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Light Snow Likely then Snow Showers",
-          "detailedForecast": "Snow likely before 8pm, then snow showers. Cloudy, with a low around 28. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow likely before 8pm, then snow showers. Cloudy. Low around 28, with temperatures rising to around 30 overnight. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1742810400000,
+          "temp": 33,
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Cloudy, with a high near 33. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
