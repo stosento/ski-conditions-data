@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-23T18:00:41.474Z",
+  "timestamp": "2025-03-23T19:00:28.642Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742749200000,
+          "timestamp": 1742756400000,
           "temp": 43,
           "snowfall": 50,
           "snowAmount": "",
@@ -20,7 +20,7 @@
           "snowfall": 100,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain before 7pm, then rain and snow between 7pm and 2am. Mostly cloudy. Low around 35, with temperatures rising to around 38 overnight. South wind 13 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain before 7pm, then rain and snow between 7pm and 2am. Mostly cloudy. Low around 35, with temperatures rising to around 38 overnight. South wind around 17 mph, with gusts as high as 32 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -29,7 +29,7 @@
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers between 8am and 11am, then a chance of rain and snow showers. Mostly cloudy. High near 41, with temperatures falling to around 39 in the afternoon. West southwest wind 15 to 20 mph, with gusts as high as 36 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers between 8am and 11am, then a chance of rain and snow showers. Mostly cloudy. High near 41, with temperatures falling to around 39 in the afternoon. West southwest wind 17 to 22 mph, with gusts as high as 36 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday Night",
@@ -38,7 +38,7 @@
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of rain showers before 8pm. Mostly cloudy, with a low around 31. West wind 7 to 17 mph, with gusts as high as 33 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of rain showers before 8pm. Mostly cloudy, with a low around 31. West wind 8 to 18 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742749200000,
+          "timestamp": 1742752800000,
           "temp": 39,
           "snowfall": 40,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742749200000,
+          "timestamp": 1742752800000,
           "temp": 40,
           "snowfall": 40,
           "snowAmount": "",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
