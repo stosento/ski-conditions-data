@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-24T12:00:48.909Z",
+  "timestamp": "2025-03-24T13:07:19.746Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742817600000,
+          "timestamp": 1742821200000,
           "temp": 42,
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 2pm, then a chance of rain between 2pm and 3pm, then a chance of rain and snow. Mostly cloudy. High near 42, with temperatures falling to around 40 in the afternoon. West southwest wind 14 to 18 mph, with gusts as high as 39 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of snow before 2pm, then a chance of rain between 2pm and 3pm, then a chance of rain and snow. Mostly cloudy. High near 42, with temperatures falling to around 40 in the afternoon. West southwest wind 15 to 18 mph, with gusts as high as 39 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742817600000,
+          "timestamp": 1742821200000,
           "temp": 34,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742817600000,
+          "timestamp": 1742821200000,
           "temp": 34,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a high near 34. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 34. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
