@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-03-24T19:00:30.500Z",
+  "timestamp": "2025-03-24T20:00:38.075Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742842800000,
+          "timestamp": 1742846400000,
           "temp": 42,
-          "snowfall": 30,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Chance Rain And Snow",
-          "detailedForecast": "A chance of rain and snow. Cloudy. High near 42, with temperatures falling to around 40 in the afternoon. West southwest wind around 18 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 42, with temperatures falling to around 40 in the afternoon. West southwest wind around 18 mph, with gusts as high as 32 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1742853600000,
           "temp": 31,
-          "snowfall": 30,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Chance Rain And Snow then Mostly Cloudy",
-          "detailedForecast": "A chance of rain and snow before 8pm. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. West wind 7 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 31. West wind 7 to 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tuesday",
           "timestamp": 1742896800000,
-          "temp": 46,
+          "temp": 47,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 46. West northwest wind 6 to 10 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Partly sunny. High near 47, with temperatures falling to around 45 in the afternoon. West northwest wind 6 to 10 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Tuesday Night",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
