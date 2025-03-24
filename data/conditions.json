@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-24T15:00:34.792Z",
+  "timestamp": "2025-03-24T16:00:40.049Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1742828400000,
+          "name": "This Afternoon",
+          "timestamp": 1742832000000,
           "temp": 42,
           "snowfall": 30,
           "snowAmount": "",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1742828400000,
+          "name": "This Afternoon",
+          "timestamp": 1742832000000,
           "temp": 34,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1742828400000,
+          "name": "This Afternoon",
+          "timestamp": 1742832000000,
           "temp": 34,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [
-        {
-          "header": "Stony Creek Cross Country Ski Rental:",
-          "content": "Cross Country Ski center closed for the season."
-        }
-      ],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -143,12 +134,21 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [
+        {
+          "header": "Stony Creek Cross Country Ski Rental:",
+          "content": "Cross Country Ski center closed for the season."
+        }
+      ],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
     "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Fri, Mar 21",
-      "conditions": "6-inches of snow on Thursday and a complete powertilling of the upper loops to World Cup specs this morning. A touch soft today, but should be an amazing 7-10 day stretch starting tomorrow. Huge shoutout to Ben and the entire crew at Nubs for their commitment to Nordic skiing."
+      "lastUpdated": "Mon, Mar 24",
+      "conditions": "Nubs has fresh snow and a fresh groom this morning over a firm base ."
     }
   },
   "nubsNob": {
