@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-03-25T18:00:35.050Z",
+  "timestamp": "2025-03-25T19:00:36.122Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742922000000,
+          "timestamp": 1742929200000,
           "temp": 44,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 44. West northwest wind around 15 mph, with gusts as high as 22 mph."
+          "detailedForecast": "Partly sunny, with a high near 44. West northwest wind around 15 mph, with gusts as high as 23 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1742940000000,
-          "temp": 28,
+          "temp": 27,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 28. Northwest wind 8 to 14 mph, with gusts as high as 22 mph."
+          "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 29 overnight. Northwest wind 8 to 14 mph, with gusts as high as 23 mph."
         },
         {
           "name": "Wednesday",
           "timestamp": 1742983200000,
-          "temp": 44,
+          "temp": 45,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 44, with temperatures falling to around 42 in the afternoon. Northwest wind 6 to 10 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Mostly sunny, with a high near 45. Northwest wind 6 to 10 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1743026400000,
-          "temp": 29,
+          "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 29. West northwest wind 2 to 7 mph."
+          "detailedForecast": "Mostly clear, with a low around 30. West northwest wind 2 to 7 mph."
         }
       ]
     },
@@ -47,62 +47,21 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1742922000000,
+          "timestamp": 1742929200000,
           "temp": 32,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 32. Northwest wind 10 to 15 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind 10 to 15 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
           "timestamp": 1742940000000,
-          "temp": 15,
+          "temp": 16,
           "snowfall": 30,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
-          "detailedForecast": "Scattered snow showers before 11pm. Mostly cloudy. Low around 15, with temperatures rising to around 18 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
-        },
-        {
-          "name": "Wednesday",
-          "timestamp": 1742983200000,
-          "temp": 35,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 35. Northwest wind 5 to 10 mph."
-        },
-        {
-          "name": "Wednesday Night",
-          "timestamp": 1743026400000,
-          "temp": 25,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 25. Southwest wind 5 to 10 mph."
-        }
-      ]
-    },
-    "otsegoResort": {
-      "name": "Otsego Resort",
-      "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1742922000000,
-          "temp": 31,
-          "snowfall": 70,
-          "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 31. Northwest wind 10 to 15 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
-        },
-        {
-          "name": "Tonight",
-          "timestamp": 1742940000000,
-          "temp": 15,
-          "snowfall": 30,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
-          "detailedForecast": "Scattered snow showers before 11pm. Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. Northwest wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers before 11pm. Mostly cloudy. Low around 16, with temperatures rising to around 19 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -116,11 +75,52 @@
         {
           "name": "Wednesday Night",
           "timestamp": 1743026400000,
-          "temp": 22,
+          "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 22. West wind 5 to 10 mph."
+          "detailedForecast": "Partly cloudy, with a low around 26. Southwest wind 5 to 10 mph."
+        }
+      ]
+    },
+    "otsegoResort": {
+      "name": "Otsego Resort",
+      "forecast": [
+        {
+          "name": "This Afternoon",
+          "timestamp": 1742929200000,
+          "temp": 31,
+          "snowfall": 40,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 31, with temperatures falling to around 29 in the afternoon. Northwest wind around 15 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1742940000000,
+          "temp": 15,
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
+          "detailedForecast": "Scattered snow showers before 11pm. Mostly cloudy. Low around 15, with temperatures rising to around 18 overnight. Northwest wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1742983200000,
+          "temp": 35,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 35. West wind 5 to 10 mph."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1743026400000,
+          "temp": 23,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 23. Southwest wind 0 to 10 mph."
         }
       ]
     }
