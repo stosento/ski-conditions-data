@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-26T13:07:20.572Z",
+  "timestamp": "2025-03-26T14:00:40.964Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742994000000,
+          "timestamp": 1742997600000,
           "temp": 44,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 44. Northwest wind around 10 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Mostly sunny, with a high near 44. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742994000000,
+          "timestamp": 1742997600000,
           "temp": 36,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1742994000000,
+          "timestamp": 1742997600000,
           "temp": 37,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 37. West wind 5 to 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 37. West wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,15 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [
         {
@@ -143,6 +134,15 @@
         }
       ],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": "Closed for the season."
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
