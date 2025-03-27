@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-27T08:00:34.166Z",
+  "timestamp": "2025-03-27T09:00:40.591Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743062400000,
+          "timestamp": 1743066000000,
           "temp": 29,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743062400000,
+          "timestamp": 1743066000000,
           "temp": 25,
           "snowfall": 0,
           "snowAmount": "",
@@ -67,19 +67,19 @@
           "name": "Thursday Night",
           "timestamp": 1743112800000,
           "temp": 23,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 23, with temperatures rising to around 26 overnight. Northeast wind 5 to 10 mph."
+          "snowfall": 20,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers after 5am. Mostly cloudy. Low around 23, with temperatures rising to around 26 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
           "timestamp": 1743156000000,
           "temp": 37,
           "snowfall": 90,
-          "snowAmount": "",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow then Rain",
-          "detailedForecast": "A chance of snow and a chance of freezing rain between 8am and 11am, then rain and a chance of freezing rain. Cloudy, with a high near 37. East wind 10 to 15 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "detailedForecast": "A slight chance of snow showers before 8am, then a chance of snow and a chance of freezing rain between 8am and 11am, then rain and a chance of freezing rain. Cloudy, with a high near 37. East wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743062400000,
+          "timestamp": 1743066000000,
           "temp": 23,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 23, with temperatures rising to around 26 overnight. Southwest wind around 10 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear. Low around 23, with temperatures rising to around 26 overnight. Southwest wind around 10 mph."
         },
         {
           "name": "Thursday",
@@ -101,8 +101,8 @@
           "temp": 45,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 45, with temperatures falling to around 41 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 45, with temperatures falling to around 41 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Thursday Night",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
