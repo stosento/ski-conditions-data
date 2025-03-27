@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-27T15:00:39.599Z",
+  "timestamp": "2025-03-27T16:00:42.307Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1743087600000,
+          "name": "This Afternoon",
+          "timestamp": 1743091200000,
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 55 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 24 mph."
+          "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 55 in the afternoon. West wind 12 to 15 mph, with gusts as high as 24 mph."
         },
         {
           "name": "Tonight",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1743084000000,
+          "name": "This Afternoon",
+          "timestamp": 1743091200000,
           "temp": 41,
           "snowfall": 0,
           "snowAmount": "",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1743084000000,
+          "name": "This Afternoon",
+          "timestamp": 1743091200000,
           "temp": 45,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 45, with temperatures falling to around 41 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Sunny. High near 45, with temperatures falling to around 41 in the afternoon. West wind around 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
