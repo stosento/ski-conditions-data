@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-03-28T00:01:08.778Z",
+  "timestamp": "2025-03-28T01:27:44.899Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1743120000000,
+          "timestamp": 1743123600000,
           "temp": 37,
-          "snowfall": 0,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 37. North northwest wind 3 to 7 mph."
+          "shortForecast": "Mostly Cloudy then Isolated Rain Showers",
+          "detailedForecast": "Isolated rain showers after 5am. Mostly cloudy, with a low around 37. North northeast wind 3 to 8 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Friday",
           "timestamp": 1743156000000,
           "temp": 64,
-          "snowfall": 40,
+          "snowfall": 60,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 8am. Mostly cloudy. High near 64, with temperatures falling to around 62 in the afternoon. Southeast wind 5 to 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Mostly cloudy. High near 64, with temperatures falling to around 62 in the afternoon. Southeast wind 5 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday Night",
           "timestamp": 1743199200000,
           "temp": 58,
-          "snowfall": 30,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers then Partly Cloudy",
-          "detailedForecast": "A chance of rain showers before 8pm. Partly cloudy, with a low around 58. Southwest wind 8 to 14 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Isolated Rain Showers then Partly Cloudy",
+          "detailedForecast": "Isolated rain showers before 8pm. Partly cloudy, with a low around 58. Southwest wind 8 to 14 mph, with gusts as high as 28 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1743120000000,
+          "timestamp": 1743123600000,
           "temp": 23,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1743120000000,
+          "timestamp": 1743123600000,
           "temp": 23,
           "snowfall": 20,
           "snowAmount": "",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
