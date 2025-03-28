@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-28T11:00:31.465Z",
+  "timestamp": "2025-03-28T12:00:40.031Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743159600000,
+          "timestamp": 1743163200000,
           "temp": 63,
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers between 8am and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 63. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 63. South southeast wind 6 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743159600000,
+          "timestamp": 1743163200000,
           "temp": 38,
           "snowfall": 90,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743159600000,
+          "timestamp": 1743163200000,
           "temp": 42,
           "snowfall": 80,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers then Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of snow showers before 8am, then a chance of freezing rain between 8am and 10am, then rain showers between 10am and 5pm, then showers and thunderstorms. Mostly cloudy. High near 42, with temperatures falling to around 40 in the afternoon. Southeast wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Chance Freezing Rain then Showers And Thunderstorms",
+          "detailedForecast": "A chance of freezing rain before 10am, then rain showers between 10am and 5pm, then showers and thunderstorms. Mostly cloudy. High near 42, with temperatures falling to around 40 in the afternoon. Southeast wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -147,15 +147,15 @@
     }
   },
   "nubsNob": {
-    "date": "3/27/25",
+    "date": "3/28/25",
     "liftsOpen": "5 lifts, Rope Tow and Space Worm.",
-    "xcTrails": "Trails were groomed on Tuesday morning. Conditions are very good. The upper trails have the best conditions.",
+    "xcTrails": "Trails were groomed on Tuesday morning. Expect firm snow in the morning that will transition to softer snow late in the day.",
     "nightSkiing": "Done for the season.",
-    "comments": "We are being blessed with another beautiful ski day in late March. The sun is out and the snow is in great shape. Expect a firmer snow in the morning that will soften up by mid-day. Pintail Peak Lodge is open with an espresso bar. The lifts will spin from 9:00 AM to 4:30 PM. Make it a great day at Nub's Nob.",
+    "comments": "The wet snow from yesterday has firmed up overnight. Expect hard snow this morning that will soften around noon. The best skiing this morning is back on Pintail Peak as that was groomed last. The wind is up from the East today. Coverage on all of our snowmaking runs continues to be very good. Pintail Peak Lodge is open with an espresso bar. The lifts will spin from 9:00 AM to 4:30 PM. Make it a great day at Nub's Nob.",
     "snowData": {
       "daily": "0\"",
-      "threeDays": "3 days: 3\"",
-      "sevenDays": "7 days: 13\"",
+      "threeDays": "3 days: 0\"",
+      "sevenDays": "7 days: 8\"",
       "ytd": "YTD: 150\""
     }
   }
