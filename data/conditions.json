@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-03-28T21:00:36.316Z",
+  "timestamp": "2025-03-28T22:00:32.157Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1743195600000,
-          "temp": 64,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A chance of rain and a slight chance of thunderstorms. Mostly cloudy. High near 64, with temperatures falling to around 56 in the afternoon. South southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1743199200000,
@@ -38,7 +29,16 @@
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain. Mostly cloudy, with a low around 50. East southeast wind 6 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Rain. Mostly cloudy. Low around 50, with temperatures rising to around 54 overnight. East southeast wind 6 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1743328800000,
+          "temp": 67,
+          "snowfall": 90,
+          "snowAmount": "",
+          "shortForecast": "Light Rain",
+          "detailedForecast": "Rain. Cloudy, with a high near 67. South southeast wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1743195600000,
-          "temp": 38,
-          "snowfall": 50,
-          "snowAmount": "",
-          "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A chance of rain. Cloudy. High near 38, with temperatures falling to around 35 in the afternoon. East wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1743199200000,
           "temp": 29,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Heavy Rain then Freezing Rain",
-          "detailedForecast": "A chance of rain before 8pm, then rain and a chance of thunderstorms between 8pm and 4am, then freezing rain and rain and a slight chance of thunderstorms. Some of the storms could produce heavy rain. Cloudy. Low around 29, with temperatures rising to around 32 overnight. East wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of rain before 8pm, then rain and a chance of thunderstorms between 8pm and 4am, then freezing rain and rain and a slight chance of thunderstorms. Some of the storms could produce heavy rain. Cloudy. Low around 29, with temperatures rising to around 32 overnight. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday",
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
           "detailedForecast": "Freezing rain before 11pm, then freezing rain and a slight chance of sleet. Cloudy, with a low around 29. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1743328800000,
+          "temp": 39,
+          "snowfall": 100,
+          "snowAmount": "",
+          "shortForecast": "Freezing Rain",
+          "detailedForecast": "Freezing rain before 8am, then freezing rain and rain showers. Cloudy, with a high near 39. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
         }
       ]
     },
@@ -87,22 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1743195600000,
-          "temp": 42,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A chance of rain. Cloudy. High near 42, with temperatures falling to around 37 in the afternoon. East wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1743199200000,
           "temp": 32,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "A chance of rain before 8pm, then rain and a chance of thunderstorms. Cloudy. Low around 32, with temperatures rising to around 34 overnight. East wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+          "detailedForecast": "A chance of rain before 8pm, then rain and a chance of thunderstorms. Cloudy. Low around 32, with temperatures rising to around 34 overnight. East wind 5 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
         },
         {
           "name": "Saturday",
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
           "detailedForecast": "Freezing rain. Cloudy, with a low around 30. East wind 10 to 15 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1743328800000,
+          "temp": 47,
+          "snowfall": 100,
+          "snowAmount": "",
+          "shortForecast": "Freezing Rain",
+          "detailedForecast": "Freezing rain before 8am, then freezing rain and rain showers. Cloudy, with a high near 47. East wind 10 to 15 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
         }
       ]
     }
