@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-28T14:00:37.644Z",
+  "timestamp": "2025-03-28T15:00:35.747Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743170400000,
+          "timestamp": 1743174000000,
           "temp": 63,
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 63. South southeast wind 7 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 63. South southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743170400000,
+          "timestamp": 1743174000000,
           "temp": 38,
           "snowfall": 90,
           "snowAmount": "",
-          "shortForecast": "Chance Freezing Rain then Rain Showers",
-          "detailedForecast": "A chance of freezing rain before 11am, then rain showers. Cloudy, with a high near 38. East wind around 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "shortForecast": "Rain Showers",
+          "detailedForecast": "Rain showers. Cloudy, with a high near 38. East wind around 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743170400000,
+          "timestamp": 1743174000000,
           "temp": 42,
           "snowfall": 80,
           "snowAmount": "",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
