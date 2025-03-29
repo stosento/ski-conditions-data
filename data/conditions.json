@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-03-29T21:00:30.933Z",
+  "timestamp": "2025-03-29T22:00:35.742Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1743278400000,
-          "temp": 68,
-          "snowfall": 60,
-          "snowAmount": "",
-          "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely. Cloudy. High near 68, with temperatures falling to around 62 in the afternoon. East southeast wind around 7 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1743285600000,
@@ -38,7 +29,16 @@
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms. Mostly cloudy, with a low around 42. Southwest wind around 15 mph, with gusts as high as 24 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Showers and thunderstorms. Mostly cloudy. Low around 42, with temperatures rising to around 52 overnight. Southwest wind around 15 mph, with gusts as high as 24 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1743415200000,
+          "temp": 50,
+          "snowfall": 80,
+          "snowAmount": "",
+          "shortForecast": "Rain Showers",
+          "detailedForecast": "Rain showers before 2pm. Mostly cloudy, with a high near 50. West northwest wind around 14 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1743282000000,
-          "temp": 31,
-          "snowfall": 90,
-          "snowAmount": "",
-          "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain. Cloudy, with a high near 31. East wind around 10 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1743285600000,
           "temp": 30,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain before 7pm, then freezing rain and a slight chance of sleet between 7pm and 1am, then freezing rain and rain. Cloudy, with a low around 30. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Freezing rain before 7pm, then freezing rain and a slight chance of sleet between 7pm and 1am, then freezing rain and rain. Cloudy, with a low around 30. East wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -79,22 +70,22 @@
           "snowfall": 100,
           "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Rain Showers then Snow Showers",
-          "detailedForecast": "Rain before 8pm, then rain showers and a slight chance of sleet between 8pm and 10pm, then freezing rain and rain showers between 10pm and 1am, then freezing rain and a slight chance of sleet between 1am and 2am, then snow showers and sleet and freezing rain. Cloudy, with a low around 25. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Rain before 8pm, then rain showers and a slight chance of sleet between 8pm and 10pm, then freezing rain and rain showers between 10pm and 1am, then freezing rain and a slight chance of sleet between 1am and 2am, then snow showers and sleet and freezing rain. Cloudy. Low around 25, with temperatures rising to around 27 overnight. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. New ice accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1743415200000,
+          "temp": 29,
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of around one inch possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers before 2pm. Mostly cloudy, with a high near 29. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of around one inch possible. Little or no ice accumulation expected."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1743278400000,
-          "temp": 31,
-          "snowfall": 90,
-          "snowAmount": "",
-          "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain before 5pm, then freezing rain and a slight chance of sleet. Cloudy, with a high near 31. East wind around 10 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1743285600000,
@@ -120,12 +111,25 @@
           "snowfall": 100,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain then Freezing Rain",
-          "detailedForecast": "Rain before 8pm, then rain showers between 8pm and 2am, then freezing rain and a slight chance of snow showers between 2am and 5am, then snow showers and a slight chance of freezing rain. Cloudy, with a low around 25. Northeast wind 10 to 15 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Rain before 8pm, then rain showers between 8pm and 2am, then freezing rain and a slight chance of snow showers between 2am and 5am, then snow showers and a slight chance of freezing rain. Cloudy. Low around 25, with temperatures rising to around 28 overnight. Northeast wind 10 to 15 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1743415200000,
+          "temp": 29,
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers and a slight chance of freezing rain before 2pm. Mostly cloudy, with a high near 29. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
