@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-29T05:00:32.387Z",
+  "timestamp": "2025-03-29T06:00:32.914Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743224400000,
+          "timestamp": 1743228000000,
           "temp": 56,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743224400000,
+          "timestamp": 1743228000000,
           "temp": 29,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy. Low around 29, with temperatures rising to around 32 overnight. East wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Showers and thunderstorms before 3am, then freezing rain and showers and thunderstorms. Cloudy. Low around 29, with temperatures rising to around 32 overnight. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743224400000,
+          "timestamp": 1743228000000,
           "temp": 29,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms. Cloudy. Low around 29, with temperatures rising to around 34 overnight. East wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+          "detailedForecast": "Showers and thunderstorms. Cloudy. Low around 29, with temperatures rising to around 34 overnight. East wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
         },
         {
           "name": "Saturday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
