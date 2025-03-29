@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-29T13:04:39.828Z",
+  "timestamp": "2025-03-29T14:00:28.369Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743253200000,
+          "timestamp": 1743256800000,
           "temp": 73,
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 2pm. Mostly cloudy. High near 73, with temperatures falling to around 68 in the afternoon. Southwest wind 8 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers after 2pm. Mostly cloudy. High near 73, with temperatures falling to around 68 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743253200000,
+          "timestamp": 1743256800000,
           "temp": 32,
           "snowfall": 70,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743253200000,
+          "timestamp": 1743256800000,
           "temp": 32,
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain and a slight chance of thunderstorms. Cloudy, with a high near 32. East wind around 10 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Freezing rain and a slight chance of thunderstorms. Mostly cloudy, with a high near 32. East wind around 10 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
