@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-29T15:00:36.981Z",
+  "timestamp": "2025-03-29T16:00:34.417Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1743260400000,
+          "name": "This Afternoon",
+          "timestamp": 1743264000000,
           "temp": 72,
           "snowfall": 50,
           "snowAmount": "",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1743260400000,
-          "temp": 32,
+          "name": "This Afternoon",
+          "timestamp": 1743264000000,
+          "temp": 31,
           "snowfall": 70,
           "snowAmount": "",
           "shortForecast": "Freezing Rain Likely",
-          "detailedForecast": "Freezing rain likely before 5pm, then freezing rain likely and a slight chance of thunderstorms. Cloudy, with a high near 32. East wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Freezing rain likely before 5pm, then freezing rain likely and a slight chance of thunderstorms. Cloudy, with a high near 31. East wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New ice accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1743260400000,
-          "temp": 32,
+          "name": "This Afternoon",
+          "timestamp": 1743264000000,
+          "temp": 31,
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain. Mostly cloudy, with a high near 32. East wind around 10 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Freezing rain. Mostly cloudy, with a high near 31. East wind around 10 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
