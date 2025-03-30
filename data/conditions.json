@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-30T05:00:35.497Z",
+  "timestamp": "2025-03-30T06:00:40.585Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743310800000,
+          "timestamp": 1743314400000,
           "temp": 53,
           "snowfall": 90,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743310800000,
+          "timestamp": 1743314400000,
           "temp": 28,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain before 2am, then freezing rain and rain. Cloudy. Low around 28, with temperatures rising to around 31 overnight. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Freezing rain and rain. Cloudy. Low around 28, with temperatures rising to around 31 overnight. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743310800000,
+          "timestamp": 1743314400000,
           "temp": 29,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain before 2am, then freezing rain and rain. Cloudy. Low around 29, with temperatures rising to around 32 overnight. East wind around 10 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Freezing rain and rain. Cloudy. Low around 29, with temperatures rising to around 32 overnight. East wind 5 to 10 mph. Chance of precipitation is 100%. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
