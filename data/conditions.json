@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-30T16:00:40.626Z",
+  "timestamp": "2025-03-30T17:00:31.173Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1743350400000,
+          "timestamp": 1743354000000,
           "temp": 68,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 4pm. Cloudy, with a high near 68. South wind 8 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain showers after 4pm. Cloudy, with a high near 68. South wind around 12 mph, with gusts as high as 24 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1743350400000,
+          "timestamp": 1743354000000,
           "temp": 34,
           "snowfall": 90,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1743350400000,
+          "timestamp": 1743354000000,
           "temp": 37,
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain before 5pm, then rain and a slight chance of thunderstorms. Cloudy, with a high near 37. East wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "detailedForecast": "Rain before 5pm, then rain and a slight chance of thunderstorms. Cloudy, with a high near 37. East wind around 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
