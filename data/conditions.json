@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-31T01:28:09.358Z",
+  "timestamp": "2025-03-31T02:28:37.252Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1743382800000,
+          "timestamp": 1743386400000,
           "temp": 42,
           "snowfall": 90,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1743382800000,
+          "timestamp": 1743386400000,
           "temp": 25,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Freezing Rain then Light Snow Likely",
-          "detailedForecast": "Rain before 11pm, then freezing rain and rain between 11pm and 3am, then snow likely and freezing rain likely. Cloudy. Low around 25, with temperatures rising to around 28 overnight. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Rain before 11pm, then freezing rain and rain between 11pm and 3am, then snow likely and freezing rain likely. Cloudy, with a low around 25. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Monday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1743382800000,
+          "timestamp": 1743386400000,
           "temp": 25,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain then Chance Freezing Rain",
-          "detailedForecast": "Rain and a slight chance of thunderstorms before 2am, then a chance of freezing rain between 2am and 4am, then a chance of freezing rain and a slight chance of snow between 4am and 5am, then snow likely and a slight chance of freezing rain. Cloudy. Low around 25, with temperatures rising to around 28 overnight. North wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Rain and a slight chance of thunderstorms before 2am, then a chance of freezing rain between 2am and 4am, then a chance of freezing rain and a slight chance of snow between 4am and 5am, then snow likely and a slight chance of freezing rain. Cloudy. Low around 25, with temperatures rising to around 27 overnight. North wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Monday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
