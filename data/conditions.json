@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-03-31T08:00:43.665Z",
+  "timestamp": "2025-03-31T09:00:33.970Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743408000000,
+          "timestamp": 1743411600000,
           "temp": 42,
-          "snowfall": 40,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Mostly cloudy. Low around 42, with temperatures rising to around 53 overnight. West wind around 15 mph, with gusts as high as 26 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers. Mostly cloudy. Low around 42, with temperatures rising to around 53 overnight. West wind around 15 mph, with gusts as high as 26 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743408000000,
+          "timestamp": 1743411600000,
           "temp": 24,
-          "snowfall": 70,
+          "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely and patchy fog. Cloudy. Low around 24, with temperatures rising to around 26 overnight. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow likely and patchy fog. Cloudy. Low around 24, with temperatures rising to around 26 overnight. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Monday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1743408000000,
+          "timestamp": 1743411600000,
           "temp": 24,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow and a chance of freezing rain before 5am, then snow likely and patchy fog and a slight chance of freezing rain. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely and patchy fog and a slight chance of freezing rain. Cloudy. Low around 24, with temperatures rising to around 27 overnight. Northwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Monday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
