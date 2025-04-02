@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-04-02T12:00:45.205Z",
+  "timestamp": "2025-04-02T13:07:36.307Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743595200000,
+          "timestamp": 1743598800000,
           "temp": 61,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Snow Showers Likely then Rain And Snow Showers",
-          "detailedForecast": "Snow showers likely before 9am, then rain and snow showers likely between 9am and 10am, then rain and snow showers between 10am and 2pm, then showers and thunderstorms. Cloudy. High near 61, with temperatures falling to around 47 in the afternoon. East southeast wind around 16 mph, with gusts as high as 28 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Rain And Snow Showers Likely then Rain And Snow Showers",
+          "detailedForecast": "Rain and snow showers likely before 10am, then rain and snow showers between 10am and 2pm, then showers and thunderstorms. Cloudy. High near 61, with temperatures falling to around 47 in the afternoon. East southeast wind around 16 mph, with gusts as high as 28 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743595200000,
+          "timestamp": 1743598800000,
           "temp": 40,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of around one inch possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1743595200000,
+          "timestamp": 1743598800000,
           "temp": 42,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow before 10am, then snow and a slight chance of freezing rain between 10am and 2pm, then a slight chance of sleet and rain and snow between 2pm and 5pm, then rain and isolated thunderstorms. Cloudy. High near 42, with temperatures falling to around 35 in the afternoon. Southeast wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Snow before 10am, then snow and a slight chance of freezing rain between 10am and 2pm, then a slight chance of sleet and rain and snow between 2pm and 5pm, then rain and isolated thunderstorms. Cloudy. High near 42, with temperatures falling to around 35 in the afternoon. Southeast wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tonight",
@@ -127,12 +127,7 @@
   },
   "metroparkConditions": {
     "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": "Closed for the season."
-        }
-      ],
+      "sections": [],
       "title": "Huron Meadows Metropark"
     },
     "StonyCreekMetropark": {
