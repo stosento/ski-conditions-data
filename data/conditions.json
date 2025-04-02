@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-04-02T18:00:42.828Z",
+  "timestamp": "2025-04-02T19:00:32.286Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1743616800000,
+          "timestamp": 1743620400000,
           "temp": 61,
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain and thunderstorms likely. Cloudy. High near 61, with temperatures falling to around 47 in the afternoon. Southeast wind around 15 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+          "detailedForecast": "Rain and thunderstorms likely. Cloudy. High near 61, with temperatures falling to around 47 in the afternoon. Southeast wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1743616800000,
+          "timestamp": 1743620400000,
           "temp": 37,
           "snowfall": 90,
           "snowAmount": "",
-          "shortForecast": "Sleet",
-          "detailedForecast": "Sleet and freezing rain and rain and snow before 3pm, then a slight chance of sleet and rain and snow between 3pm and 5pm, then rain and a slight chance of thunderstorms. Cloudy. High near 37, with temperatures falling to around 34 in the afternoon. East wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "shortForecast": "Slight Chance Sleet",
+          "detailedForecast": "A slight chance of sleet and rain and snow before 5pm, then rain and a slight chance of thunderstorms. Cloudy. High near 37, with temperatures falling to around 34 in the afternoon. East wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -75,11 +75,11 @@
         {
           "name": "Thursday Night",
           "timestamp": 1743717600000,
-          "temp": 26,
+          "temp": 27,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 26. West wind 5 to 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Partly cloudy, with a low around 27. West wind 5 to 15 mph, with gusts as high as 30 mph."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1743616800000,
+          "timestamp": 1743620400000,
           "temp": 37,
           "snowfall": 90,
           "snowAmount": "",
-          "shortForecast": "Sleet",
-          "detailedForecast": "Sleet and rain and snow before 5pm, then rain and a chance of thunderstorms. Cloudy. High near 37, with temperatures falling to around 34 in the afternoon. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Rain",
+          "detailedForecast": "Rain before 5pm, then rain and a chance of thunderstorms. Cloudy. High near 37, with temperatures falling to around 34 in the afternoon. Southeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Tonight",
@@ -116,23 +116,23 @@
         {
           "name": "Thursday Night",
           "timestamp": 1743717600000,
-          "temp": 25,
+          "temp": 26,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 25. West wind 0 to 15 mph, with gusts as high as 35 mph."
+          "detailedForecast": "Partly cloudy, with a low around 26. West wind 0 to 15 mph, with gusts as high as 35 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
