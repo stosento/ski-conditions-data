@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-04-07T03:14:28.696Z",
+  "timestamp": "2025-04-07T04:00:38.213Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1743991200000,
+          "name": "Overnight",
+          "timestamp": 1743998400000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 32. South southeast wind around 5 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 32. South wind around 5 mph."
         },
         {
           "name": "Monday",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1743991200000,
+          "name": "Overnight",
+          "timestamp": 1743998400000,
           "temp": 25,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow after 11pm. Mostly cloudy. Low around 25, with temperatures rising to around 30 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow. Mostly cloudy. Low around 25, with temperatures rising to around 30 overnight. Northeast wind around 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Monday",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1743991200000,
+          "name": "Overnight",
+          "timestamp": 1743998400000,
           "temp": 24,
           "snowfall": 70,
           "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Mostly Cloudy then Snow Likely",
-          "detailedForecast": "Snow likely after 2am. Mostly cloudy. Low around 24, with temperatures rising to around 29 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+          "shortForecast": "Snow Likely",
+          "detailedForecast": "Snow likely after 2am. Mostly cloudy. Low around 24, with temperatures rising to around 29 overnight. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Monday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
