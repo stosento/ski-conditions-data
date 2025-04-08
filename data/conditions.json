@@ -1,16 +1,16 @@
 {
-  "timestamp": "2025-04-08T15:00:38.494Z",
+  "timestamp": "2025-04-08T16:00:38.365Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1744124400000,
+          "name": "This Afternoon",
+          "timestamp": 1744128000000,
           "temp": 39,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny then Slight Chance Snow Showers",
+          "shortForecast": "Slight Chance Snow Showers",
           "detailedForecast": "A slight chance of snow showers between 2pm and 3pm, then a slight chance of rain and snow showers. Mostly sunny, with a high near 39. Northwest wind around 15 mph, with gusts as high as 21 mph. Chance of precipitation is 20%."
         },
         {
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1744124400000,
+          "name": "This Afternoon",
+          "timestamp": 1744128000000,
           "temp": 30,
           "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 2pm. Partly sunny. High near 30, with temperatures falling to around 28 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 30%."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Partly sunny. High near 30, with temperatures falling to around 28 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -87,12 +87,12 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1744124400000,
+          "name": "This Afternoon",
+          "timestamp": 1744128000000,
           "temp": 30,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny then Slight Chance Snow Showers",
+          "shortForecast": "Slight Chance Snow Showers",
           "detailedForecast": "A slight chance of snow showers after 2pm. Partly sunny. High near 30, with temperatures falling to around 28 in the afternoon. Northwest wind 10 to 15 mph. Chance of precipitation is 20%."
         },
         {
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
