@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-04-08T21:00:35.904Z",
+  "timestamp": "2025-04-08T22:00:33.169Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1744146000000,
-          "temp": 37,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 37. Northwest wind around 9 mph, with gusts as high as 18 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1744149600000,
           "temp": 24,
-          "snowfall": 0,
+          "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Snow then Partly Cloudy",
-          "detailedForecast": "A slight chance of snow before 8pm. Partly cloudy, with a low around 24. West wind 2 to 9 mph."
+          "detailedForecast": "A slight chance of snow before 8pm. Partly cloudy, with a low around 24. West wind 2 to 9 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Wednesday",
@@ -38,7 +29,16 @@
           "snowfall": 80,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "A chance of rain before 11pm, then rain and snow. Cloudy, with a low around 32. Southeast wind around 9 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of rain before 11pm, then rain and snow. Cloudy. Low around 32, with temperatures rising to around 34 overnight. Southeast wind around 9 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1744279200000,
+          "temp": 44,
+          "snowfall": 80,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Rain And Snow then Chance Rain And Snow",
+          "detailedForecast": "Rain and snow before 8am, then a chance of rain and snow. Cloudy, with a high near 44. Northeast wind around 9 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1744146000000,
-          "temp": 31,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 31, with temperatures falling to around 29 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 30%."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1744149600000,
           "temp": 20,
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of snow showers before 8pm. Mostly cloudy, with a low around 20. West wind 0 to 5 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of snow showers before 8pm. Mostly cloudy, with a low around 20. Northwest wind 0 to 5 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Wednesday",
@@ -79,22 +70,22 @@
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow before 8pm. Mostly cloudy, with a low around 28. East wind around 5 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow before 8pm. Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. East wind around 5 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1744279200000,
+          "temp": 42,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 42. East wind 5 to 10 mph."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1744146000000,
-          "temp": 31,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 31, with temperatures falling to around 28 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1744149600000,
@@ -120,19 +111,28 @@
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Snow then Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow before 8pm, then a slight chance of snow showers. Mostly cloudy, with a low around 26. Southeast wind 0 to 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow before 8pm, then a slight chance of snow showers. Mostly cloudy. Low around 26, with temperatures rising to around 28 overnight. Southeast wind 0 to 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1744279200000,
+          "temp": 41,
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
+          "detailedForecast": "A slight chance of snow showers before 8am. Mostly cloudy, with a high near 41. East wind 5 to 10 mph. Chance of precipitation is 20%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
