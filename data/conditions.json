@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-04-09T07:00:33.596Z",
+  "timestamp": "2025-04-09T08:00:50.249Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1744182000000,
-          "temp": 24,
+          "timestamp": 1744185600000,
+          "temp": 25,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 24. Southwest wind around 3 mph."
+          "detailedForecast": "Mostly clear, with a low around 25. South southwest wind around 2 mph."
         },
         {
           "name": "Wednesday",
           "timestamp": 1744192800000,
-          "temp": 45,
-          "snowfall": 0,
+          "temp": 47,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny then Slight Chance Light Rain",
-          "detailedForecast": "A slight chance of rain after 3pm. Partly sunny, with a high near 45. South southwest wind 3 to 10 mph. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Partly Sunny then Slight Chance Light Snow",
+          "detailedForecast": "A slight chance of snow between noon and 3pm, then a chance of rain and snow. Partly sunny, with a high near 47. South southwest wind 2 to 8 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1744236000000,
-          "temp": 32,
-          "snowfall": 80,
+          "temp": 35,
+          "snowfall": 70,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Rain And Snow",
-          "detailedForecast": "A chance of rain before 11pm, then rain and snow. Cloudy. Low around 32, with temperatures rising to around 34 overnight. Southeast wind around 9 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Rain And Snow Likely",
+          "detailedForecast": "A chance of rain before 9pm, then rain and snow likely. Cloudy, with a low around 35. Southeast wind around 7 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thursday",
           "timestamp": 1744279200000,
-          "temp": 44,
-          "snowfall": 80,
+          "temp": 42,
+          "snowfall": 90,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Rain And Snow then Chance Rain And Snow",
-          "detailedForecast": "Rain and snow before 8am, then a chance of rain and snow. Cloudy, with a high near 44. Northeast wind around 9 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Rain And Snow then Rain And Snow Likely",
+          "detailedForecast": "Rain and snow before 9am, then rain and snow likely. Cloudy, with a high near 42. Northeast wind around 8 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1744182000000,
+          "timestamp": 1744185600000,
           "temp": 18,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 18, with temperatures rising to around 20 overnight. South wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 18. Southeast wind 0 to 5 mph."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1744182000000,
+          "timestamp": 1744185600000,
           "temp": 14,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 14, with temperatures rising to around 16 overnight. South wind around 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 14, with temperatures rising to around 16 overnight. South wind around 0 mph."
         },
         {
           "name": "Wednesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
