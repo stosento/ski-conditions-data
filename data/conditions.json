@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-12T06:00:38.320Z",
+  "timestamp": "2025-04-12T07:00:41.225Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1744437600000,
+          "timestamp": 1744441200000,
           "temp": 31,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,53 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1744437600000,
+          "timestamp": 1744441200000,
           "temp": 27,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 27. Southwest wind around 0 mph."
-        },
-        {
-          "name": "Saturday",
-          "timestamp": 1744452000000,
-          "temp": 50,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 50. Southwest wind 0 to 5 mph."
-        },
-        {
-          "name": "Saturday Night",
-          "timestamp": 1744495200000,
-          "temp": 38,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy. Low around 38, with temperatures rising to around 40 overnight. South wind 0 to 5 mph. Chance of precipitation is 30%."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1744538400000,
-          "temp": 53,
-          "snowfall": 50,
-          "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Cloudy, with a high near 53. South wind 5 to 10 mph. Chance of precipitation is 50%."
-        }
-      ]
-    },
-    "otsegoResort": {
-      "name": "Otsego Resort",
-      "forecast": [
-        {
-          "name": "Overnight",
-          "timestamp": 1744437600000,
-          "temp": 25,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 25. Southwest wind around 0 mph."
+          "detailedForecast": "Mostly clear. Low around 27, with temperatures rising to around 29 overnight. Southwest wind around 0 mph."
         },
         {
           "name": "Saturday",
@@ -110,17 +69,58 @@
           "temp": 37,
           "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy. Low around 37, with temperatures rising to around 39 overnight. South wind 0 to 5 mph. Chance of precipitation is 30%."
+          "shortForecast": "Mostly Cloudy then Scattered Rain Showers",
+          "detailedForecast": "Scattered rain showers after 2am. Mostly cloudy, with a low around 37. South wind 0 to 5 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Sunday",
           "timestamp": 1744538400000,
-          "temp": 52,
+          "temp": 53,
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 52. South wind 5 to 10 mph. Chance of precipitation is 50%."
+          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 53. South wind 5 to 10 mph. Chance of precipitation is 50%."
+        }
+      ]
+    },
+    "otsegoResort": {
+      "name": "Otsego Resort",
+      "forecast": [
+        {
+          "name": "Overnight",
+          "timestamp": 1744441200000,
+          "temp": 25,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear. Low around 25, with temperatures rising to around 28 overnight. Southwest wind around 0 mph."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1744452000000,
+          "temp": 57,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 57. Southwest wind 0 to 5 mph."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1744495200000,
+          "temp": 37,
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy then Isolated Rain Showers",
+          "detailedForecast": "Isolated rain showers after 2am. Mostly cloudy, with a low around 37. Southwest wind 0 to 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1744538400000,
+          "temp": 53,
+          "snowfall": 50,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 53. South wind 5 to 10 mph. Chance of precipitation is 50%."
         }
       ]
     }
