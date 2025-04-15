@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-15T03:15:17.495Z",
+  "timestamp": "2025-04-15T04:00:41.513Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1744682400000,
+          "name": "Overnight",
+          "timestamp": 1744689600000,
           "temp": 40,
           "snowfall": 0,
           "snowAmount": "",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1744682400000,
+          "name": "Overnight",
+          "timestamp": 1744689600000,
           "temp": 31,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Chance Rain Showers then Snow Showers",
-          "detailedForecast": "A chance of rain showers before 1am, then snow showers between 1am and 3am, then rain and snow showers. Mostly cloudy, with a low around 31. West wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "A chance of rain showers before 1am, then snow showers between 1am and 3am, then rain and snow showers. Cloudy, with a low around 31. West wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tuesday",
@@ -87,12 +87,12 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1744682400000,
+          "name": "Overnight",
+          "timestamp": 1744689600000,
           "temp": 29,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Chance Rain Showers then Chance Snow Showers",
+          "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of rain showers before 1am, then a chance of snow showers between 1am and 2am, then rain and snow showers. Cloudy, with a low around 29. West wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
