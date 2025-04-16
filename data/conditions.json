@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-04-16T14:00:45.747Z",
+  "timestamp": "2025-04-16T15:00:50.993Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1744812000000,
+          "timestamp": 1744815600000,
           "temp": 52,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 52. Northwest wind around 14 mph, with gusts as high as 21 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 52. Northwest wind around 13 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1744812000000,
+          "timestamp": 1744815600000,
           "temp": 43,
           "snowfall": 0,
           "snowAmount": "",
@@ -87,24 +87,52 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1744812066213,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Today",
+          "timestamp": 1744815600000,
+          "temp": 44,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 44. Northwest wind 10 to 15 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1744840800000,
+          "temp": 21,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 21. West wind 0 to 10 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1744884000000,
+          "temp": 60,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 60. South wind 0 to 15 mph."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1744927200000,
+          "temp": 44,
+          "snowfall": 90,
+          "snowAmount": "",
+          "shortForecast": "Rain Showers",
+          "detailedForecast": "Rain showers after 8pm. Mostly cloudy, with a low around 44. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
