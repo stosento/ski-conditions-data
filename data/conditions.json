@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-17T17:00:37.463Z",
+  "timestamp": "2025-04-17T18:00:31.106Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1744909200000,
+          "timestamp": 1744912800000,
           "temp": 61,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1744909200000,
+          "timestamp": 1744912800000,
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 60. Southeast wind around 10 mph."
+          "detailedForecast": "Sunny, with a high near 60. South wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -79,7 +79,7 @@
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms. Mostly cloudy, with a low around 35. West wind 5 to 10 mph. Chance of precipitation is 80%."
+          "detailedForecast": "Showers and thunderstorms. Mostly cloudy, with a low around 35. Northwest wind 5 to 15 mph. Chance of precipitation is 80%."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1744909200000,
+          "timestamp": 1744912800000,
           "temp": 61,
           "snowfall": 0,
           "snowAmount": "",
@@ -120,19 +120,19 @@
           "snowfall": 70,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely",
-          "detailedForecast": "Showers and thunderstorms likely. Mostly cloudy, with a low around 35. West wind 5 to 10 mph. Chance of precipitation is 70%."
+          "detailedForecast": "Showers and thunderstorms likely. Mostly cloudy, with a low around 35. West wind 5 to 15 mph. Chance of precipitation is 70%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
