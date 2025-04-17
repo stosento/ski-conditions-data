@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-04-17T10:00:45.073Z",
+  "timestamp": "2025-04-17T11:00:30.675Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1744884000000,
+          "timestamp": 1744887600000,
           "temp": 61,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 61. East southeast wind 1 to 10 mph."
+          "detailedForecast": "Sunny, with a high near 61. Southeast wind 1 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1744884000000,
+          "timestamp": 1744887600000,
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1744884000000,
+          "timestamp": 1744887600000,
           "temp": 61,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 61. South wind 5 to 15 mph."
+          "detailedForecast": "Sunny, with a high near 61. South wind 0 to 15 mph."
         },
         {
           "name": "Tonight",
@@ -102,7 +102,7 @@
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers after 11pm. Cloudy. Low around 47, with temperatures rising to around 49 overnight. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Rain showers after 11pm. Mostly cloudy. Low around 47, with temperatures rising to around 49 overnight. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Friday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
