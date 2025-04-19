@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-04-19T01:27:42.307Z",
+  "timestamp": "2025-04-19T02:25:34.392Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1745024400000,
+          "timestamp": 1745028000000,
           "temp": 55,
-          "snowfall": 60,
+          "snowfall": 50,
           "snowAmount": "",
-          "shortForecast": "T-storms Likely",
-          "detailedForecast": "Thunderstorms likely and rain likely before 10pm, then a slight chance of showers and thunderstorms between midnight and 2am, then a chance of showers and thunderstorms. Mostly cloudy. Low around 55, with temperatures rising to around 63 overnight. Southwest wind 13 to 16 mph, with gusts as high as 26 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms between midnight and 2am, then a chance of showers and thunderstorms. Mostly cloudy. Low around 55, with temperatures rising to around 63 overnight. Southwest wind 13 to 16 mph, with gusts as high as 26 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1745024400000,
+          "timestamp": 1745028000000,
           "temp": 37,
           "snowfall": 60,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1745024400000,
+          "timestamp": 1745028000000,
           "temp": 36,
           "snowfall": 70,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely",
-          "detailedForecast": "Showers and thunderstorms likely. Cloudy. Low around 36, with temperatures rising to around 39 overnight. Northwest wind 5 to 15 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Showers and thunderstorms likely. Cloudy. Low around 36, with temperatures rising to around 39 overnight. Northwest wind 0 to 15 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Saturday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
