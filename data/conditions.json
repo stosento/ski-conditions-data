@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-04-21T18:00:41.724Z",
+  "timestamp": "2025-04-21T19:00:40.447Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1745258400000,
+          "timestamp": 1745262000000,
           "temp": 71,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1745258400000,
+          "timestamp": 1745262000000,
           "temp": 50,
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers. Cloudy. High near 50, with temperatures falling to around 43 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Scattered rain showers. Cloudy. High near 50, with temperatures falling to around 43 in the afternoon. Southwest wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -75,11 +75,11 @@
         {
           "name": "Tuesday Night",
           "timestamp": 1745359200000,
-          "temp": 35,
-          "snowfall": 30,
+          "temp": 36,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 8pm. Partly cloudy, with a low around 35. Northeast wind 0 to 5 mph. Chance of precipitation is 30%."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 36. Northeast wind 0 to 5 mph."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1745258400000,
+          "timestamp": 1745262000000,
           "temp": 52,
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers. Cloudy. High near 52, with temperatures falling to around 44 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Scattered rain showers. Cloudy. High near 52, with temperatures falling to around 44 in the afternoon. Southwest wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -117,22 +117,22 @@
           "name": "Tuesday Night",
           "timestamp": 1745359200000,
           "temp": 35,
-          "snowfall": 40,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 8pm. Partly cloudy, with a low around 35. Northeast wind 0 to 5 mph. Chance of precipitation is 40%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 35. Northeast wind 0 to 5 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
