@@ -1,16 +1,44 @@
 {
-  "timestamp": "2025-04-22T12:00:38.077Z",
+  "timestamp": "2025-04-22T13:07:58.690Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1745323241531,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Today",
+          "timestamp": 1745326800000,
+          "temp": 66,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 66. West northwest wind 7 to 12 mph, with gusts as high as 22 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1745359200000,
+          "temp": 47,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 8pm. Mostly cloudy, with a low around 47. Southeast wind 3 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1745402400000,
+          "temp": 70,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers before 2pm. Partly sunny, with a high near 70. Southeast wind 2 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1745445600000,
+          "temp": 52,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 52. Southeast wind 2 to 7 mph."
         }
       ]
     },
@@ -18,12 +46,40 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1745323244611,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Today",
+          "timestamp": 1745326800000,
+          "temp": 50,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 50. West wind 5 to 10 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1745359200000,
+          "temp": 37,
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 8pm. Mostly cloudy. Low around 37, with temperatures rising to around 39 overnight. East wind 0 to 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1745402400000,
+          "temp": 68,
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers before 2pm. Mostly sunny, with a high near 68. Southeast wind 5 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1745445600000,
+          "temp": 44,
+          "snowfall": 40,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers after 8pm. Mostly cloudy, with a low around 44. Southeast wind around 5 mph. Chance of precipitation is 40%."
         }
       ]
     },
@@ -32,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1745323200000,
+          "timestamp": 1745326800000,
           "temp": 54,
           "snowfall": 0,
           "snowAmount": "",
@@ -70,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
