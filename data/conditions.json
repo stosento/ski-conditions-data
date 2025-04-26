@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-04-25T23:00:31.276Z",
+  "timestamp": "2025-04-26T00:00:45.396Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1745622000000,
+          "timestamp": 1745625600000,
           "temp": 47,
-          "snowfall": 90,
+          "snowfall": 60,
           "snowAmount": "",
-          "shortForecast": "Rain",
-          "detailedForecast": "Rain and a slight chance of thunderstorms. Mostly cloudy, with a low around 47. Northeast wind 5 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible."
+          "shortForecast": "Rain Likely",
+          "detailedForecast": "Rain likely. Mostly cloudy, with a low around 47. North northeast wind 5 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Saturday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1745622000000,
+          "timestamp": 1745625600000,
           "temp": 37,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy. Low around 37, with temperatures rising to around 39 overnight. North wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers. Cloudy. Low around 37, with temperatures rising to around 39 overnight. North wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1745622000000,
+          "timestamp": 1745625600000,
           "temp": 36,
           "snowfall": 70,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
