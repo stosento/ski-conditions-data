@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-04-26T11:00:31.975Z",
+  "timestamp": "2025-04-26T12:00:41.676Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1745665200000,
+          "timestamp": 1745668800000,
           "temp": 53,
-          "snowfall": 20,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
-          "detailedForecast": "A slight chance of rain before 8am. Mostly cloudy. High near 53, with temperatures falling to around 51 in the afternoon. North northwest wind 13 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 53, with temperatures falling to around 51 in the afternoon. North northwest wind 14 to 17 mph, with gusts as high as 29 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1745665200000,
+          "timestamp": 1745668800000,
           "temp": 49,
-          "snowfall": 30,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Drizzle then Partly Sunny",
-          "detailedForecast": "Areas of drizzle and scattered rain showers before 11am. Partly sunny. High near 49, with temperatures falling to around 47 in the afternoon. North wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Areas of drizzle before 11am. Partly sunny. High near 49, with temperatures falling to around 47 in the afternoon. North wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1745665200000,
+          "timestamp": 1745668800000,
           "temp": 48,
-          "snowfall": 30,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Drizzle then Mostly Cloudy",
-          "detailedForecast": "Areas of drizzle and scattered rain showers before 11am. Mostly cloudy, with a high near 48. North wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Areas of drizzle before 11am. Mostly cloudy, with a high near 48. North wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
