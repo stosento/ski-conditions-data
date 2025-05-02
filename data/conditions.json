@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-02T03:16:30.514Z",
+  "timestamp": "2025-05-02T04:00:37.068Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1746154800000,
+          "name": "Overnight",
+          "timestamp": 1746158400000,
           "temp": 51,
           "snowfall": 40,
           "snowAmount": "",
@@ -46,22 +46,22 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1746154800000,
-          "temp": 38,
+          "name": "Overnight",
+          "timestamp": 1746158400000,
+          "temp": 39,
           "snowfall": 40,
           "snowAmount": "",
           "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers before 2am, then occasional drizzle between 2am and 5am. Cloudy. Low around 38, with temperatures rising to around 40 overnight. North wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Scattered rain showers before 2am, then occasional drizzle between 2am and 5am. Cloudy, with a low around 39. North wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday",
           "timestamp": 1746180000000,
-          "temp": 49,
+          "temp": 46,
           "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 8am. Mostly cloudy. High near 49, with temperatures falling to around 47 in the afternoon. Northwest wind 10 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Cloudy then Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers after 2pm. Cloudy, with a high near 46. Northwest wind 10 to 15 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Friday Night",
@@ -87,22 +87,22 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1746154800000,
-          "temp": 36,
+          "name": "Overnight",
+          "timestamp": 1746158400000,
+          "temp": 38,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog and isolated rain showers before 2am, then occasional drizzle and patchy fog. Cloudy. Low around 36, with temperatures rising to around 39 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Patchy fog and isolated rain showers before 2am, then occasional drizzle and patchy fog. Cloudy, with a low around 38. Northwest wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday",
           "timestamp": 1746180000000,
-          "temp": 49,
+          "temp": 47,
           "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "Patchy fog before 8am, then a chance of rain showers. Cloudy. High near 49, with temperatures falling to around 47 in the afternoon. Northwest wind 5 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Patchy Fog then Chance Rain Showers",
+          "detailedForecast": "Patchy fog before 8am, then a chance of rain showers. Cloudy, with a high near 47. Northwest wind 5 to 15 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Friday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
