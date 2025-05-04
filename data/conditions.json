@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-04T12:00:48.063Z",
+  "timestamp": "2025-05-04T13:06:00.286Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746360000000,
+          "timestamp": 1746363600000,
           "temp": 55,
           "snowfall": 80,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746360000000,
+          "timestamp": 1746363600000,
           "temp": 61,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746360000000,
+          "timestamp": 1746363600000,
           "temp": 64,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 64, with temperatures falling to around 60 in the afternoon. East wind 5 to 15 mph."
+          "detailedForecast": "Sunny. High near 64, with temperatures falling to around 60 in the afternoon. Northeast wind 5 to 15 mph."
         },
         {
           "name": "Tonight",
@@ -101,8 +101,8 @@
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 42. Northeast wind 5 to 15 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 42. Northeast wind 5 to 15 mph."
         },
         {
           "name": "Monday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
