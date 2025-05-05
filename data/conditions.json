@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-05T14:00:34.673Z",
+  "timestamp": "2025-05-05T15:00:36.239Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746453600000,
+          "timestamp": 1746457200000,
           "temp": 68,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746453600000,
+          "timestamp": 1746457200000,
           "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 62, with temperatures falling to around 59 in the afternoon. East wind around 10 mph."
+          "detailedForecast": "Partly sunny, with a high near 62. East wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746453600000,
+          "timestamp": 1746457200000,
           "temp": 59,
-          "snowfall": 20,
+          "snowfall": 40,
           "snowAmount": "",
-          "shortForecast": "Isolated Rain Showers",
-          "detailedForecast": "Isolated rain showers before 2pm. Mostly cloudy. High near 59, with temperatures falling to around 57 in the afternoon. East wind around 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Scattered Rain Showers",
+          "detailedForecast": "Scattered rain showers. Mostly cloudy, with a high near 59. East wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -101,8 +101,8 @@
           "temp": 46,
           "snowfall": 40,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers after 2am. Mostly cloudy, with a low around 46. Northeast wind 0 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Scattered Rain Showers",
+          "detailedForecast": "Scattered rain showers. Mostly cloudy, with a low around 46. Northeast wind 0 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
