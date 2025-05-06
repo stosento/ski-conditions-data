@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-06T22:00:34.083Z",
+  "timestamp": "2025-05-06T23:00:38.218Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1746568800000,
+          "timestamp": 1746572400000,
           "temp": 51,
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of rain showers before 8pm. Mostly cloudy, with a low around 51. Northwest wind 2 to 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 8pm. Mostly cloudy, with a low around 51. Northwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1746568800000,
+          "timestamp": 1746572400000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 42. Northwest wind around 5 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 42. Northwest wind around 5 mph."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1746568800000,
+          "timestamp": 1746572400000,
           "temp": 40,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 40, with temperatures rising to around 43 overnight. Northwest wind 0 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear. Low around 40, with temperatures rising to around 43 overnight. Northwest wind 0 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -101,8 +101,8 @@
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 55 in the afternoon. North wind 5 to 10 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. North wind 5 to 10 mph."
         },
         {
           "name": "Wednesday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
