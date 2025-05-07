@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-07T00:00:40.844Z",
+  "timestamp": "2025-05-07T01:28:08.936Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1746576000000,
+          "timestamp": 1746579600000,
           "temp": 51,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers then Widespread Fog",
-          "detailedForecast": "A slight chance of rain showers before 9pm, then widespread fog and a slight chance of rain showers. Mostly cloudy, with a low around 51. West northwest wind around 2 mph. Chance of precipitation is 20%."
+          "shortForecast": "Widespread Fog",
+          "detailedForecast": "Widespread fog and a slight chance of rain showers. Mostly cloudy, with a low around 51. West northwest wind around 2 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Wednesday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1746572400000,
+          "timestamp": 1746579600000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
@@ -69,8 +69,8 @@
           "temp": 35,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 35. Northeast wind 5 to 10 mph."
+          "shortForecast": "Mostly Clear then Areas Of Frost",
+          "detailedForecast": "Areas of frost after 4am. Mostly clear, with a low around 35. Northeast wind 5 to 10 mph."
         },
         {
           "name": "Thursday",
@@ -78,8 +78,8 @@
           "temp": 55,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 55. Northeast wind around 5 mph."
+          "shortForecast": "Areas Of Frost then Sunny",
+          "detailedForecast": "Areas of frost before 8am. Sunny, with a high near 55. Northeast wind around 5 mph."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1746572400000,
+          "timestamp": 1746579600000,
           "temp": 40,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 40, with temperatures rising to around 43 overnight. Northwest wind 0 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Mostly clear. Low around 40, with temperatures rising to around 43 overnight. West wind 0 to 5 mph."
         },
         {
           "name": "Wednesday",
@@ -110,8 +110,8 @@
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 32. Northeast wind 5 to 10 mph."
+          "shortForecast": "Mostly Clear then Widespread Frost",
+          "detailedForecast": "Widespread frost after 2am. Mostly clear, with a low around 32. Northeast wind 5 to 10 mph."
         },
         {
           "name": "Thursday",
@@ -119,20 +119,20 @@
           "temp": 56,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 56. Northeast wind 5 to 10 mph."
+          "shortForecast": "Widespread Frost then Sunny",
+          "detailedForecast": "Widespread frost before 9am. Sunny, with a high near 56. Northeast wind 5 to 10 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
