@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-07T06:00:32.820Z",
+  "timestamp": "2025-05-07T07:00:34.391Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1746597600000,
+          "timestamp": 1746601200000,
           "temp": 51,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1746594000000,
+          "timestamp": 1746601200000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
@@ -70,7 +70,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear then Areas Of Frost",
-          "detailedForecast": "Areas of frost after 4am. Mostly clear, with a low around 34. Northeast wind around 10 mph."
+          "detailedForecast": "Areas of frost after 4am. Mostly clear. Low around 34, with temperatures rising to around 36 overnight. Northeast wind around 10 mph."
         },
         {
           "name": "Thursday",
@@ -79,7 +79,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Widespread Frost then Sunny",
-          "detailedForecast": "Widespread frost before 8am. Sunny, with a high near 55. Northeast wind 5 to 10 mph."
+          "detailedForecast": "Widespread frost before 9am. Sunny, with a high near 55. Northeast wind 5 to 10 mph."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1746594000000,
+          "timestamp": 1746601200000,
           "temp": 40,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 40, with temperatures rising to around 43 overnight. West wind around 5 mph."
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear. Low around 40, with temperatures rising to around 43 overnight. Northwest wind around 5 mph."
         },
         {
           "name": "Wednesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
