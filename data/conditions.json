@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-07T11:00:35.997Z",
+  "timestamp": "2025-05-07T12:00:45.314Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746612000000,
+          "timestamp": 1746619200000,
           "temp": 73,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Widespread Fog then Mostly Sunny",
-          "detailedForecast": "Widespread fog before 9am. Mostly sunny. High near 73, with temperatures falling to around 70 in the afternoon. Northwest wind 2 to 10 mph, with gusts as high as 18 mph."
+          "shortForecast": "Patchy Fog then Mostly Sunny",
+          "detailedForecast": "Patchy fog before 9am. Mostly sunny. High near 73, with temperatures falling to around 70 in the afternoon. North northwest wind 2 to 10 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746612000000,
+          "timestamp": 1746619200000,
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 55 in the afternoon. North wind 5 to 10 mph."
+          "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Northeast wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746612000000,
+          "timestamp": 1746619200000,
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. North wind 5 to 10 mph."
+          "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Northeast wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
