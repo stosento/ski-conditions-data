@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-08T18:00:41.012Z",
+  "timestamp": "2025-05-08T19:00:42.983Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1746727200000,
+          "timestamp": 1746730800000,
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 57. North northeast wind around 13 mph, with gusts as high as 22 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 57. North northeast wind around 13 mph, with gusts as high as 22 mph."
         },
         {
           "name": "Tonight",
@@ -20,7 +20,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 37. North wind 5 to 12 mph, with gusts as high as 21 mph."
+          "detailedForecast": "Clear, with a low around 37. North wind 3 to 12 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Friday",
@@ -29,7 +29,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 65. North wind 5 to 8 mph."
+          "detailedForecast": "Sunny, with a high near 65. North wind 3 to 8 mph."
         },
         {
           "name": "Friday Night",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1746727200000,
+          "timestamp": 1746730800000,
           "temp": 53,
           "snowfall": 0,
           "snowAmount": "",
@@ -60,8 +60,8 @@
           "temp": 31,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Clear then Widespread Frost",
-          "detailedForecast": "Widespread frost after 2am. Clear, with a low around 31. Northeast wind 0 to 5 mph."
+          "shortForecast": "Mostly Clear then Widespread Frost",
+          "detailedForecast": "Widespread frost after 2am. Mostly clear, with a low around 31. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Friday",
@@ -70,16 +70,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Widespread Frost then Sunny",
-          "detailedForecast": "Widespread frost before 8am. Sunny, with a high near 57. West wind 0 to 10 mph."
+          "detailedForecast": "Widespread frost before 8am. Sunny. High near 57, with temperatures falling to around 55 in the afternoon. West wind 0 to 5 mph."
         },
         {
           "name": "Friday Night",
           "timestamp": 1746828000000,
-          "temp": 42,
+          "temp": 43,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 42. Southwest wind 5 to 10 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 43. Southwest wind around 5 mph."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1746727200000,
+          "timestamp": 1746730800000,
           "temp": 53,
           "snowfall": 0,
           "snowAmount": "",
@@ -102,7 +102,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Clear then Widespread Frost",
-          "detailedForecast": "Widespread frost after 3am. Clear, with a low around 30. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Widespread frost after 3am. Clear, with a low around 30. North wind 0 to 5 mph."
         },
         {
           "name": "Friday",
@@ -116,23 +116,23 @@
         {
           "name": "Friday Night",
           "timestamp": 1746828000000,
-          "temp": 42,
+          "temp": 44,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 42. West wind 0 to 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 44. West wind 0 to 5 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
