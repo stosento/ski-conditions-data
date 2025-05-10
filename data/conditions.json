@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-10T11:00:31.634Z",
+  "timestamp": "2025-05-10T12:00:39.350Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746874800000,
+          "timestamp": 1746878400000,
           "temp": 73,
           "snowfall": 20,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746874800000,
+          "timestamp": 1746878400000,
           "temp": 58,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 58, with temperatures falling to around 56 in the afternoon. North wind 5 to 10 mph."
+          "detailedForecast": "Sunny. High near 58, with temperatures falling to around 56 in the afternoon. North wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1746874800000,
+          "timestamp": 1746878400000,
           "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. Northwest wind 5 to 10 mph."
+          "detailedForecast": "Sunny. High near 62, with temperatures falling to around 60 in the afternoon. North wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -101,8 +101,8 @@
           "temp": 34,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear then Areas Of Frost",
-          "detailedForecast": "Areas of frost after 2am. Mostly clear, with a low around 34. Northeast wind 0 to 10 mph."
+          "shortForecast": "Clear then Areas Of Frost",
+          "detailedForecast": "Areas of frost after 2am. Clear, with a low around 34. Northeast wind 0 to 10 mph."
         },
         {
           "name": "Sunday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
