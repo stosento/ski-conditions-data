@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-11T19:00:27.867Z",
+  "timestamp": "2025-05-11T20:00:31.418Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1746990000000,
+          "timestamp": 1746993600000,
           "temp": 70,
           "snowfall": 0,
           "snowAmount": "",
@@ -20,7 +20,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 45. East southeast wind 3 to 7 mph."
+          "detailedForecast": "Clear, with a low around 45. East southeast wind 2 to 7 mph."
         },
         {
           "name": "Monday",
@@ -29,7 +29,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 81. East wind 2 to 10 mph."
+          "detailedForecast": "Sunny, with a high near 81. East wind 2 to 12 mph."
         },
         {
           "name": "Monday Night",
@@ -38,7 +38,7 @@
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 8pm. Mostly cloudy, with a low around 59. Southeast wind 5 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers after 8pm. Mostly cloudy, with a low around 59. Southeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
