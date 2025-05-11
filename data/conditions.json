@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-05-11T10:00:30.919Z",
+  "timestamp": "2025-05-11T11:00:29.721Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1746954000000,
-          "temp": 40,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Clear",
-          "detailedForecast": "Clear. Low around 40, with temperatures rising to around 43 overnight. Northeast wind around 3 mph."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1746957600000,
+          "name": "Today",
+          "timestamp": 1746961200000,
           "temp": 69,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 69. East wind 2 to 7 mph."
+          "detailedForecast": "Sunny, with a high near 69. East wind 3 to 7 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1747000800000,
           "temp": 46,
           "snowfall": 0,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 79. East wind 2 to 10 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1747087200000,
+          "temp": 59,
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers after 8pm. Mostly cloudy, with a low around 59. Southeast wind 5 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -46,25 +46,16 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1746954000000,
-          "temp": 34,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Frost",
-          "detailedForecast": "Areas of frost. Clear. Low around 34, with temperatures rising to around 36 overnight. East wind around 5 mph."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1746957600000,
+          "name": "Today",
+          "timestamp": 1746961200000,
           "temp": 68,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Frost then Sunny",
-          "detailedForecast": "Areas of frost before 8am. Sunny, with a high near 68. South wind 5 to 10 mph."
+          "detailedForecast": "Areas of frost before 8am. Sunny, with a high near 68. South wind around 10 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1747000800000,
           "temp": 47,
           "snowfall": 0,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 79. South wind 5 to 10 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1747087200000,
+          "temp": 52,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 52. East wind around 5 mph."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1746954000000,
-          "temp": 33,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Frost",
-          "detailedForecast": "Areas of frost. Clear, with a low around 33. East wind around 5 mph."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1746957600000,
+          "name": "Today",
+          "timestamp": 1746961200000,
           "temp": 69,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Widespread Frost then Sunny",
-          "detailedForecast": "Widespread frost before 8am. Sunny, with a high near 69. Southeast wind 5 to 10 mph."
+          "shortForecast": "Areas Of Frost then Sunny",
+          "detailedForecast": "Areas of frost before 8am. Sunny, with a high near 69. Southeast wind 5 to 10 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1747000800000,
           "temp": 48,
           "snowfall": 0,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 82. South wind 5 to 10 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1747087200000,
+          "temp": 54,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 54. South wind 5 to 10 mph."
         }
       ]
     }
