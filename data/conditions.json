@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-05-13T21:00:23.766Z",
+  "timestamp": "2025-05-13T22:00:42.589Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1747166400000,
-          "temp": 72,
-          "snowfall": 60,
-          "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 72. East southeast wind around 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1747173600000,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
           "detailedForecast": "A chance of showers and thunderstorms before 8pm, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 58. Southeast wind 2 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1747303200000,
+          "temp": 80,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms. Partly sunny, with a high near 80. South southeast wind 2 to 9 mph. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1747166400000,
-          "temp": 78,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Partly sunny. High near 78, with temperatures falling to around 76 in the afternoon. Southeast wind around 10 mph. Chance of precipitation is 30%."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1747173600000,
           "temp": 57,
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of rain showers before 8pm. Mostly cloudy, with a low around 57. East wind 5 to 10 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain showers before 8pm. Mostly cloudy, with a low around 57. Southeast wind 5 to 10 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Wednesday",
@@ -80,21 +71,21 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 56. East wind 5 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1747303200000,
+          "temp": 76,
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
+          "detailedForecast": "A slight chance of rain showers before 8am. Partly sunny, with a high near 76. Southeast wind around 5 mph. Chance of precipitation is 20%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1747170000000,
-          "temp": 75,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Mostly sunny, with a high near 75. Southeast wind around 10 mph. Chance of precipitation is 30%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1747173600000,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 56. Southeast wind around 5 mph. Chance of precipitation is 30%."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1747303200000,
+          "temp": 78,
+          "snowfall": 20,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers. Partly sunny, with a high near 78. Southeast wind 5 to 10 mph. Chance of precipitation is 20%."
         }
       ]
     }
