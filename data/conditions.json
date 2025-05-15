@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-15T08:00:41.517Z",
+  "timestamp": "2025-05-15T09:00:39.576Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747296000000,
+          "timestamp": 1747299600000,
           "temp": 58,
-          "snowfall": 20,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 58. Southeast wind around 3 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 58. Southeast wind around 3 mph."
         },
         {
           "name": "Thursday",
@@ -19,8 +19,8 @@
           "temp": 80,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 2pm. Partly sunny, with a high near 80. South southeast wind 3 to 12 mph. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
+          "detailedForecast": "A slight chance of rain showers between 8am and 11am. Mostly sunny, with a high near 80. Southeast wind 3 to 12 mph."
         },
         {
           "name": "Thursday Night",
@@ -29,7 +29,7 @@
           "snowfall": 90,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms between 8pm and 4am, then a chance of showers and thunderstorms between 4am and 5am. Mostly cloudy. Low around 64, with temperatures rising to around 66 overnight. South wind 6 to 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Showers and thunderstorms between 11pm and 5am. Mostly cloudy. Low around 64, with temperatures rising to around 66 overnight. South wind 7 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Friday",
@@ -38,7 +38,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 86. Southwest wind 7 to 12 mph, with gusts as high as 21 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Sunny, with a high near 86. West southwest wind 8 to 13 mph, with gusts as high as 21 mph. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747296000000,
+          "timestamp": 1747299600000,
           "temp": 59,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747296000000,
-          "temp": 59,
+          "timestamp": 1747299600000,
+          "temp": 58,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 59. South wind around 5 mph."
+          "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 58. South wind around 5 mph."
         },
         {
           "name": "Thursday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
