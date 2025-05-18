@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-18T14:00:36.378Z",
+  "timestamp": "2025-05-18T15:00:39.054Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1747576800000,
+          "timestamp": 1747580400000,
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a high near 60. Northwest wind around 12 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Cloudy, with a high near 60. Northwest wind around 12 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1747576800000,
+          "timestamp": 1747580400000,
           "temp": 50,
-          "snowfall": 20,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
-          "detailedForecast": "Isolated rain showers before 11am. Mostly cloudy. High near 50, with temperatures falling to around 47 in the afternoon. North wind around 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 50, with temperatures falling to around 47 in the afternoon. North wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1747576800000,
+          "timestamp": 1747580400000,
           "temp": 51,
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Isolated Rain Showers",
-          "detailedForecast": "Isolated rain showers before 2pm. Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated rain showers before 2pm. Mostly cloudy. High near 51, with temperatures falling to around 48 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
