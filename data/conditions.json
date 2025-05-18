@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-18T08:00:33.674Z",
+  "timestamp": "2025-05-18T09:00:32.999Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747555200000,
+          "timestamp": 1747558800000,
           "temp": 50,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747555200000,
+          "timestamp": 1747558800000,
           "temp": 44,
           "snowfall": 20,
           "snowAmount": "",
@@ -60,8 +60,8 @@
           "temp": 50,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Isolated Rain Showers",
-          "detailedForecast": "Isolated rain showers before 2pm. Mostly cloudy. High near 50, with temperatures falling to around 47 in the afternoon. North wind around 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
+          "detailedForecast": "Isolated rain showers before 11am. Mostly cloudy. High near 50, with temperatures falling to around 47 in the afternoon. North wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Sunday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747555200000,
+          "timestamp": 1747558800000,
           "temp": 42,
-          "snowfall": 30,
+          "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog and scattered rain showers. Cloudy, with a low around 42. Northwest wind around 10 mph. Chance of precipitation is 30%."
+          "detailedForecast": "Patchy fog and isolated rain showers. Cloudy, with a low around 42. Northwest wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Sunday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
