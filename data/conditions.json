@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-19T08:00:42.881Z",
+  "timestamp": "2025-05-19T09:00:41.766Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747641600000,
+          "timestamp": 1747645200000,
           "temp": 46,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747638000000,
+          "timestamp": 1747645200000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1747641600000,
+          "timestamp": 1747645200000,
           "temp": 36,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 36. Northeast wind around 5 mph."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 36. Northeast wind around 5 mph."
         },
         {
           "name": "Monday",
@@ -101,8 +101,8 @@
           "temp": 54,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 54. Northeast wind 5 to 10 mph."
+          "shortForecast": "Patchy Fog then Mostly Sunny",
+          "detailedForecast": "Patchy fog before 9am. Mostly sunny, with a high near 54. Northeast wind 5 to 10 mph."
         },
         {
           "name": "Monday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
