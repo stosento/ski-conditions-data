@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-23T17:00:49.102Z",
+  "timestamp": "2025-05-23T18:00:36.610Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748019600000,
+          "timestamp": 1748023200000,
           "temp": 54,
           "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Isolated Rain Showers",
-          "detailedForecast": "Isolated rain showers before 5pm. Mostly cloudy, with a high near 54. West northwest wind around 14 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated rain showers before 5pm. Mostly cloudy, with a high near 54. West northwest wind around 15 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -20,7 +20,7 @@
           "snowfall": 14,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 43. West northwest wind 7 to 13 mph, with gusts as high as 21 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 43. West northwest wind 8 to 13 mph, with gusts as high as 22 mph."
         },
         {
           "name": "Saturday",
@@ -29,7 +29,7 @@
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 61. Northwest wind around 9 mph."
+          "detailedForecast": "Partly sunny, with a high near 61. Northwest wind around 10 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Saturday Night",
@@ -38,7 +38,7 @@
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 44. Northwest wind 2 to 8 mph."
+          "detailedForecast": "Partly cloudy, with a low around 44. Northwest wind 3 to 9 mph."
         }
       ]
     },
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748019600000,
+          "timestamp": 1748023200000,
           "temp": 49,
-          "snowfall": 62,
+          "snowfall": 57,
           "snowAmount": "",
           "shortForecast": "Light Rain Likely",
           "detailedForecast": "Rain likely and drizzle likely. Mostly cloudy. High near 49, with temperatures falling to around 45 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748019600000,
+          "timestamp": 1748023200000,
           "temp": 46,
-          "snowfall": 65,
+          "snowfall": 62,
           "snowAmount": "",
           "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely and drizzle likely. Cloudy. High near 46, with temperatures falling to around 43 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain likely and drizzle likely. Cloudy. High near 46, with temperatures falling to around 43 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
