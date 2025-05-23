@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-23T22:00:37.412Z",
+  "timestamp": "2025-05-23T23:00:39.025Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748037600000,
+          "timestamp": 1748041200000,
           "temp": 44,
           "snowfall": 14,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 44. West northwest wind 8 to 13 mph, with gusts as high as 22 mph."
+          "detailedForecast": "Partly cloudy, with a low around 44. West northwest wind 8 to 13 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Saturday",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748037600000,
+          "timestamp": 1748041200000,
           "temp": 39,
-          "snowfall": 22,
+          "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
           "detailedForecast": "A slight chance of rain before 8pm. Mostly cloudy. Low around 39, with temperatures rising to around 41 overnight. Northwest wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748037600000,
+          "timestamp": 1748041200000,
           "temp": 38,
-          "snowfall": 34,
+          "snowfall": 23,
           "snowAmount": "",
-          "shortForecast": "Chance Light Rain then Mostly Cloudy",
-          "detailedForecast": "A chance of rain before 8pm. Mostly cloudy, with a low around 38. Northwest wind 5 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
+          "detailedForecast": "A slight chance of rain before 8pm. Mostly cloudy, with a low around 38. Northwest wind 5 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
