@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-25T14:00:43.379Z",
+  "timestamp": "2025-05-25T15:00:34.465Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1748181600000,
+          "timestamp": 1748185200000,
           "temp": 65,
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Partly Sunny then Isolated Rain Showers",
-          "detailedForecast": "Isolated rain showers after 2pm. Partly sunny, with a high near 65. North northwest wind 6 to 9 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated rain showers after 2pm. Partly sunny, with a high near 65. North northwest wind around 9 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1748181600000,
+          "timestamp": 1748185200000,
           "temp": 58,
           "snowfall": 8,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 58. Northwest wind 5 to 10 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -60,8 +60,8 @@
           "temp": 40,
           "snowfall": 6,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 40. Northwest wind 0 to 10 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 40. Northwest wind 0 to 10 mph."
         },
         {
           "name": "Memorial Day",
@@ -70,7 +70,7 @@
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 68. North wind 0 to 5 mph."
+          "detailedForecast": "Sunny, with a high near 68. Northwest wind 0 to 5 mph."
         },
         {
           "name": "Monday Night",
@@ -88,21 +88,21 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1748181600000,
+          "timestamp": 1748185200000,
           "temp": 58,
           "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 58. Northwest wind 10 to 15 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 58. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1748210400000,
-          "temp": 37,
+          "temp": 38,
           "snowfall": 12,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 37, with temperatures rising to around 39 overnight. Northwest wind 5 to 10 mph."
+          "detailedForecast": "Mostly clear, with a low around 38. Northwest wind 0 to 10 mph."
         },
         {
           "name": "Memorial Day",
@@ -111,7 +111,7 @@
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 68. North wind around 5 mph."
+          "detailedForecast": "Sunny, with a high near 68. North wind 0 to 5 mph."
         },
         {
           "name": "Monday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
