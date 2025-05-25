@@ -1,16 +1,16 @@
 {
-  "timestamp": "2025-05-25T15:00:34.465Z",
+  "timestamp": "2025-05-25T16:00:41.234Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1748185200000,
+          "name": "This Afternoon",
+          "timestamp": 1748188800000,
           "temp": 65,
           "snowfall": 18,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny then Isolated Rain Showers",
+          "shortForecast": "Isolated Rain Showers",
           "detailedForecast": "Isolated rain showers after 2pm. Partly sunny, with a high near 65. North northwest wind around 9 mph. Chance of precipitation is 20%."
         },
         {
@@ -46,19 +46,19 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1748185200000,
+          "name": "This Afternoon",
+          "timestamp": 1748188800000,
           "temp": 58,
-          "snowfall": 8,
+          "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. Northwest wind 5 to 10 mph."
+          "detailedForecast": "Mostly cloudy. High near 58, with temperatures falling to around 56 in the afternoon. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1748210400000,
           "temp": 40,
-          "snowfall": 6,
+          "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 40. Northwest wind 0 to 10 mph."
@@ -76,7 +76,7 @@
           "name": "Monday Night",
           "timestamp": 1748296800000,
           "temp": 44,
-          "snowfall": 1,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 44. Northeast wind 0 to 5 mph."
@@ -87,19 +87,19 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1748185200000,
+          "name": "This Afternoon",
+          "timestamp": 1748188800000,
           "temp": 58,
-          "snowfall": 12,
+          "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 58. Northwest wind 5 to 10 mph."
+          "detailedForecast": "Partly sunny, with a high near 58. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1748210400000,
           "temp": 38,
-          "snowfall": 12,
+          "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 38. Northwest wind 0 to 10 mph."
@@ -108,7 +108,7 @@
           "name": "Memorial Day",
           "timestamp": 1748253600000,
           "temp": 68,
-          "snowfall": 3,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 68. North wind 0 to 5 mph."
@@ -117,7 +117,7 @@
           "name": "Monday Night",
           "timestamp": 1748296800000,
           "temp": 43,
-          "snowfall": 3,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 43. East wind 0 to 5 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
