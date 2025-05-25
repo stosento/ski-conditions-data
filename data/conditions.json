@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-05-25T07:00:35.218Z",
+  "timestamp": "2025-05-25T08:00:41.954Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1748156400000,
-          "temp": 42,
+          "timestamp": 1748160000000,
+          "temp": 43,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 42. Northwest wind around 3 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 43. Northwest wind around 3 mph."
         },
         {
           "name": "Sunday",
           "timestamp": 1748167200000,
-          "temp": 64,
-          "snowfall": 13,
+          "temp": 65,
+          "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny then Isolated Rain Showers",
-          "detailedForecast": "Isolated rain showers after 2pm. Mostly sunny, with a high near 64. North northwest wind 3 to 9 mph."
+          "detailedForecast": "Isolated rain showers after 2pm. Mostly sunny, with a high near 65. North northwest wind 3 to 9 mph."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1748210400000,
-          "temp": 43,
-          "snowfall": 13,
+          "temp": 44,
+          "snowfall": 18,
           "snowAmount": "",
-          "shortForecast": "Isolated Rain Showers then Mostly Clear",
-          "detailedForecast": "Isolated rain showers before 9pm. Mostly clear, with a low around 43. North northeast wind 1 to 8 mph."
+          "shortForecast": "Isolated Rain Showers then Partly Cloudy",
+          "detailedForecast": "Isolated rain showers before 9pm. Partly cloudy, with a low around 44. North northeast wind 1 to 8 mph."
         },
         {
           "name": "Memorial Day",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1748156400000,
+          "timestamp": 1748160000000,
           "temp": 37,
           "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 37. Northwest wind around 5 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 37. Northwest wind around 5 mph."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1748156400000,
-          "temp": 35,
+          "timestamp": 1748160000000,
+          "temp": 34,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Patchy Frost",
-          "detailedForecast": "Patchy frost after 4am. Mostly clear, with a low around 35. West wind around 5 mph."
+          "detailedForecast": "Patchy frost. Mostly clear, with a low around 34. Northwest wind around 5 mph."
         },
         {
           "name": "Sunday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
