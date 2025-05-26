@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-26T19:00:33.982Z",
+  "timestamp": "2025-05-26T20:00:38.352Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Memorial Day",
-          "timestamp": 1748282400000,
+          "timestamp": 1748289600000,
           "temp": 71,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 71. Northeast wind around 8 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 71. East northeast wind around 8 mph."
         },
         {
           "name": "Tonight",
@@ -26,19 +26,19 @@
           "name": "Tuesday",
           "timestamp": 1748340000000,
           "temp": 72,
-          "snowfall": 7,
+          "snowfall": 8,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 72, with temperatures falling to around 70 in the afternoon. East northeast wind 5 to 13 mph, with gusts as high as 21 mph."
+          "detailedForecast": "Mostly cloudy, with a high near 72. East wind 3 to 12 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Tuesday Night",
           "timestamp": 1748383200000,
-          "temp": 55,
-          "snowfall": 45,
+          "temp": 54,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 8pm. Mostly cloudy, with a low around 55. East wind 6 to 12 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 54. East wind 5 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,21 +47,21 @@
       "forecast": [
         {
           "name": "Memorial Day",
-          "timestamp": 1748282400000,
+          "timestamp": 1748289600000,
           "temp": 68,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 68. North wind around 5 mph."
+          "detailedForecast": "Sunny. High near 68, with temperatures falling to around 66 in the afternoon. East wind around 5 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1748296800000,
-          "temp": 46,
+          "temp": 39,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 46. Northeast wind around 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 39. Northeast wind around 5 mph."
         },
         {
           "name": "Tuesday",
@@ -76,7 +76,7 @@
           "name": "Tuesday Night",
           "timestamp": 1748383200000,
           "temp": 50,
-          "snowfall": 7,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 50. East wind 5 to 10 mph."
@@ -88,21 +88,21 @@
       "forecast": [
         {
           "name": "Memorial Day",
-          "timestamp": 1748282400000,
+          "timestamp": 1748289600000,
           "temp": 69,
           "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 5pm. Partly sunny, with a high near 69. Northeast wind around 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers after 5pm. Mostly cloudy, with a high near 69. Northeast wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
           "timestamp": 1748296800000,
-          "temp": 45,
+          "temp": 42,
           "snowfall": 16,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
-          "detailedForecast": "A slight chance of rain showers before 8pm. Mostly clear, with a low around 45. East wind 0 to 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
+          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 42. East wind 0 to 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday",
@@ -110,14 +110,14 @@
           "temp": 71,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 71. East wind 0 to 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 71. East wind 0 to 10 mph."
         },
         {
           "name": "Tuesday Night",
           "timestamp": 1748383200000,
           "temp": 48,
-          "snowfall": 11,
+          "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 48. East wind 5 to 10 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
