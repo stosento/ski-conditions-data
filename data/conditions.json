@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-05-26T07:00:32.969Z",
+  "timestamp": "2025-05-26T08:02:10.164Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1748242800000,
+          "timestamp": 1748246400000,
           "temp": 44,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1748242800000,
+          "timestamp": 1748246400000,
           "temp": 42,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 42. West wind around 0 mph."
+          "detailedForecast": "Mostly clear, with a low around 42. Northwest wind around 0 mph."
         },
         {
           "name": "Memorial Day",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1748242800000,
-          "temp": 41,
+          "timestamp": 1748246400000,
+          "temp": 40,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 41. Northwest wind around 0 mph."
+          "detailedForecast": "Mostly clear, with a low around 40. Northwest wind around 5 mph."
         },
         {
           "name": "Memorial Day",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
