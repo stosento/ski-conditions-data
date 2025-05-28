@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-28T18:00:49.608Z",
+  "timestamp": "2025-05-28T19:00:35.725Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1748433600000,
+          "timestamp": 1748430000000,
           "temp": 60,
           "snowfall": 57,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely. Cloudy. High near 60, with temperatures falling to around 58 in the afternoon. East wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers likely after 8am. Mostly cloudy. High near 60, with temperatures falling to around 58 in the afternoon. East wind 7 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,30 +47,30 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748455200000,
+          "timestamp": 1748458800000,
           "temp": 73,
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 73, with temperatures falling to around 71 in the afternoon. East wind around 10 mph."
+          "detailedForecast": "Partly sunny. High near 73, with temperatures falling to around 71 in the afternoon. East wind 10 to 15 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1748469600000,
           "temp": 53,
-          "snowfall": 31,
+          "snowfall": 36,
           "snowAmount": "",
           "shortForecast": "Cloudy then Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 2am. Cloudy, with a low around 53. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers after 2am. Cloudy, with a low around 53. Northeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
           "timestamp": 1748512800000,
           "temp": 62,
-          "snowfall": 31,
+          "snowfall": 36,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers then Partly Sunny",
-          "detailedForecast": "A chance of rain showers before 8am. Partly sunny, with a high near 62. North wind 5 to 10 mph. Chance of precipitation is 30%."
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers before 2pm. Partly sunny, with a high near 62. North wind 5 to 10 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Thursday Night",
@@ -88,36 +88,36 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748455200000,
+          "timestamp": 1748458800000,
           "temp": 72,
           "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 72, with temperatures falling to around 70 in the afternoon. East wind 10 to 15 mph."
+          "detailedForecast": "Mostly cloudy. High near 72, with temperatures falling to around 70 in the afternoon. East wind around 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1748469600000,
           "temp": 51,
-          "snowfall": 44,
+          "snowfall": 61,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 8pm. Cloudy, with a low around 51. Northeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A chance of rain showers after 8pm. Cloudy, with a low around 51. Northeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
           "timestamp": 1748512800000,
           "temp": 64,
-          "snowfall": 44,
+          "snowfall": 61,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 64. North wind 5 to 10 mph. Chance of precipitation is 40%."
+          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 64. North wind 5 to 10 mph. Chance of precipitation is 60%."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1748556000000,
           "temp": 49,
-          "snowfall": 19,
+          "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
           "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 49. West wind 5 to 10 mph. Chance of precipitation is 20%."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
