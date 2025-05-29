@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-29T02:30:01.536Z",
+  "timestamp": "2025-05-29T03:19:40.756Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748484000000,
+          "timestamp": 1748487600000,
           "temp": 52,
-          "snowfall": 48,
+          "snowfall": 11,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 52. Southwest wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 52. Southwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748484000000,
+          "timestamp": 1748487600000,
           "temp": 53,
           "snowfall": 36,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748484000000,
+          "timestamp": 1748487600000,
           "temp": 51,
           "snowfall": 61,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely. Cloudy. Low around 51, with temperatures rising to around 53 overnight. Northeast wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain showers likely. Cloudy. Low around 51, with temperatures rising to around 53 overnight. Northeast wind 0 to 5 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
