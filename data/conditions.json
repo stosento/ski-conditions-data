@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-30T20:00:47.700Z",
+  "timestamp": "2025-05-30T21:00:33.145Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748635200000,
+          "timestamp": 1748638800000,
           "temp": 76,
           "snowfall": 11,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 76, with temperatures falling to around 74 in the afternoon. West northwest wind around 10 mph. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 76, with temperatures falling to around 74 in the afternoon. West wind around 10 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748635200000,
+          "timestamp": 1748638800000,
           "temp": 65,
-          "snowfall": 20,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Patchy Smoke",
-          "detailedForecast": "Patchy smoke and isolated rain showers. Mostly sunny, with a high near 65. Northwest wind around 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Patchy smoke. Mostly sunny. High near 65, with temperatures falling to around 60 in the afternoon. West wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748635200000,
+          "timestamp": 1748638800000,
           "temp": 68,
-          "snowfall": 30,
+          "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Patchy Smoke",
-          "detailedForecast": "Patchy smoke and scattered showers and thunderstorms. Partly sunny. High near 68, with temperatures falling to around 65 in the afternoon. Northwest wind around 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Patchy smoke and isolated rain showers. Mostly sunny. High near 68, with temperatures falling to around 62 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
