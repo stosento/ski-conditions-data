@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-05-29T23:00:33.363Z",
+  "timestamp": "2025-05-30T00:00:55.859Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748559600000,
+          "timestamp": 1748563200000,
           "temp": 52,
-          "snowfall": 28,
+          "snowfall": 8,
           "snowAmount": "",
-          "shortForecast": "Scattered Rain Showers then Partly Cloudy",
-          "detailedForecast": "Scattered rain showers before 8pm. Partly cloudy, with a low around 52. West wind 3 to 8 mph. Chance of precipitation is 30%."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 52. West wind around 6 mph."
         },
         {
           "name": "Friday",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748559600000,
+          "timestamp": 1748563200000,
           "temp": 50,
-          "snowfall": 5,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 50. West wind 5 to 10 mph."
@@ -88,9 +88,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1748559600000,
+          "timestamp": 1748563200000,
           "temp": 51,
-          "snowfall": 12,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 51. West wind around 5 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
