@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-06-01T20:00:34.809Z",
+  "timestamp": "2025-06-01T21:00:34.717Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748808000000,
+          "timestamp": 1748811600000,
           "temp": 69,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 69, with temperatures falling to around 67 in the afternoon. Northwest wind around 12 mph."
+          "detailedForecast": "Mostly sunny. High near 69, with temperatures falling to around 67 in the afternoon. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748808000000,
+          "timestamp": 1748811600000,
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 60. West wind around 15 mph."
+          "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 58 in the afternoon. West wind around 15 mph."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748808000000,
+          "timestamp": 1748811600000,
           "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
@@ -102,7 +102,7 @@
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 42. West wind 0 to 15 mph."
+          "detailedForecast": "Partly cloudy, with a low around 42. West wind 0 to 10 mph."
         },
         {
           "name": "Monday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
