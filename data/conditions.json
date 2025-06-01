@@ -1,17 +1,26 @@
 {
-  "timestamp": "2025-06-01T06:00:36.479Z",
+  "timestamp": "2025-06-01T07:00:32.768Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1748757600000,
+          "name": "This Afternoon",
+          "timestamp": 1748725200000,
+          "temp": 65,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. North northwest wind around 13 mph, with gusts as high as 21 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1748728800000,
           "temp": 42,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 42. Northwest wind around 7 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 42. Northwest wind 3 to 12 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Sunday",
@@ -30,15 +39,6 @@
           "snowAmount": "",
           "shortForecast": "Clear",
           "detailedForecast": "Clear, with a low around 47. West northwest wind 2 to 9 mph."
-        },
-        {
-          "name": "Monday",
-          "timestamp": 1748858400000,
-          "temp": 82,
-          "snowfall": 4,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 82. West southwest wind 3 to 8 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1748757600000,
+          "timestamp": 1748761200000,
           "temp": 34,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Frost",
-          "detailedForecast": "Patchy frost after 4am. Partly cloudy. Low around 34, with temperatures rising to around 36 overnight. North wind around 5 mph."
+          "detailedForecast": "Patchy frost after 4am. Partly cloudy. Low around 34, with temperatures rising to around 36 overnight. North wind 5 to 10 mph."
         },
         {
           "name": "Sunday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1748757600000,
+          "timestamp": 1748761200000,
           "temp": 35,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
