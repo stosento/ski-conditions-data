@@ -1,20 +1,29 @@
 {
-  "timestamp": "2025-06-03T20:00:44.789Z",
+  "timestamp": "2025-06-03T21:00:39.840Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1748980800000,
+          "name": "Overnight",
+          "timestamp": 1748941200000,
+          "temp": 56,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze. Partly cloudy, with a low around 56. South southwest wind around 6 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1748944800000,
           "temp": 87,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Haze",
-          "detailedForecast": "Haze. Mostly sunny, with a high near 87. South southwest wind around 15 mph, with gusts as high as 23 mph."
+          "detailedForecast": "Haze. Mostly sunny, with a high near 87. South southwest wind 6 to 15 mph, with gusts as high as 23 mph."
         },
         {
-          "name": "Tonight",
+          "name": "Tuesday Night",
           "timestamp": 1748988000000,
           "temp": 70,
           "snowfall": 1,
@@ -29,16 +38,7 @@
           "snowfall": 51,
           "snowAmount": "",
           "shortForecast": "Haze",
-          "detailedForecast": "Haze before 8am, then haze and a slight chance of rain showers between 8am and 2pm, then haze and a chance of showers and thunderstorms. Partly sunny. High near 88, with temperatures falling to around 82 in the afternoon. Southwest wind 10 to 16 mph, with gusts as high as 29 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
-        {
-          "name": "Wednesday Night",
-          "timestamp": 1749074400000,
-          "temp": 60,
-          "snowfall": 80,
-          "snowAmount": "",
-          "shortForecast": "Haze",
-          "detailedForecast": "Haze and showers and thunderstorms. Cloudy, with a low around 60. Northwest wind 5 to 13 mph, with gusts as high as 21 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Haze before 8am, then haze and a slight chance of rain showers between 8am and 2pm, then haze and a chance of showers and thunderstorms. Partly sunny, with a high near 88. Southwest wind 10 to 16 mph, with gusts as high as 29 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748980800000,
-          "temp": 83,
+          "timestamp": 1748984400000,
+          "temp": 85,
           "snowfall": 34,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms after 5pm. Partly sunny, with a high near 83. Southwest wind around 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 85. Southwest wind around 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1748980800000,
+          "timestamp": 1748984400000,
           "temp": 84,
           "snowfall": 22,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms after 5pm. Partly sunny, with a high near 84. Southwest wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of showers and thunderstorms. Partly sunny, with a high near 84. Southwest wind around 15 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
