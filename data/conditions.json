@@ -1,26 +1,26 @@
 {
-  "timestamp": "2025-06-04T14:00:39.828Z",
+  "timestamp": "2025-06-04T15:11:04.211Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1749034800000,
-          "temp": 84,
-          "snowfall": 87,
+          "timestamp": 1749049200000,
+          "temp": 86,
+          "snowfall": 81,
           "snowAmount": "",
-          "shortForecast": "Patchy Smoke",
-          "detailedForecast": "Patchy smoke before 11am, then patchy smoke and isolated rain showers between 11am and 2pm, then patchy smoke and a chance of showers and thunderstorms. Partly sunny. High near 84, with temperatures falling to around 78 in the afternoon. Southwest wind 10 to 18 mph, with gusts as high as 28 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze before 2pm, then haze and showers and thunderstorms. Mostly cloudy. High near 86, with temperatures falling to around 76 in the afternoon. West southwest wind 12 to 16 mph, with gusts as high as 26 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1749074400000,
           "temp": 60,
-          "snowfall": 87,
+          "snowfall": 82,
           "snowAmount": "",
-          "shortForecast": "Haze",
-          "detailedForecast": "Patchy smoke and a chance of showers and thunderstorms before 7pm, then haze and a chance of showers and thunderstorms between 7pm and 8pm, then haze and showers and thunderstorms. Cloudy. Low around 60, with temperatures rising to around 62 overnight. Northwest wind 5 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible."
+          "shortForecast": "Showers And Thunderstorms",
+          "detailedForecast": "Showers and thunderstorms before 11pm, then haze and showers and thunderstorms. Cloudy. Low around 60, with temperatures rising to around 62 overnight. Northwest wind 5 to 9 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible."
         },
         {
           "name": "Thursday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1749045600000,
+          "timestamp": 1749049200000,
           "temp": 65,
-          "snowfall": 57,
+          "snowfall": 21,
           "snowAmount": "",
-          "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely before 2pm. Mostly cloudy, with a high near 65. West wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers before 2pm. Mostly cloudy, with a high near 65. West wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1749045600000,
+          "timestamp": 1749049200000,
           "temp": 67,
-          "snowfall": 80,
+          "snowfall": 61,
           "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers before 5pm. Mostly cloudy, with a high near 67. Northwest wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Rain Showers Likely",
+          "detailedForecast": "Rain showers likely before 5pm. Mostly cloudy, with a high near 67. Northwest wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
