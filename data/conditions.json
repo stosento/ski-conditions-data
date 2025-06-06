@@ -1,9 +1,18 @@
 {
-  "timestamp": "2025-06-06T00:01:02.566Z",
+  "timestamp": "2025-06-06T01:28:08.482Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
+        {
+          "name": "This Afternoon",
+          "timestamp": 1749157200000,
+          "temp": 67,
+          "snowfall": 12,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 67. Northeast wind around 8 mph."
+        },
         {
           "name": "Tonight",
           "timestamp": 1749160800000,
@@ -30,15 +39,6 @@
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 54. North northeast wind 3 to 7 mph."
-        },
-        {
-          "name": "Saturday",
-          "timestamp": 1749290400000,
-          "temp": 76,
-          "snowfall": 9,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 76. North northeast wind around 7 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1749168000000,
+          "timestamp": 1749171600000,
           "temp": 53,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 53. East wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 53. East wind around 0 mph."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1749168000000,
+          "timestamp": 1749171600000,
           "temp": 51,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 51, with temperatures rising to around 53 overnight. Southeast wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 51, with temperatures rising to around 53 overnight. South wind 0 to 5 mph."
         },
         {
           "name": "Friday",
