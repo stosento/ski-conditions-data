@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-06-06T07:00:39.516Z",
+  "timestamp": "2025-06-06T08:00:44.944Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1749193200000,
+          "timestamp": 1749196800000,
           "temp": 54,
           "snowfall": 8,
           "snowAmount": "",
@@ -16,29 +16,29 @@
         {
           "name": "Friday",
           "timestamp": 1749204000000,
-          "temp": 75,
-          "snowfall": 12,
+          "temp": 72,
+          "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 75. Northeast wind around 7 mph."
+          "detailedForecast": "Partly sunny, with a high near 72. North northeast wind around 7 mph."
         },
         {
           "name": "Friday Night",
           "timestamp": 1749247200000,
           "temp": 54,
-          "snowfall": 9,
+          "snowfall": 8,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 54. North northeast wind 3 to 7 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 54. North northeast wind around 7 mph."
         },
         {
           "name": "Saturday",
           "timestamp": 1749290400000,
           "temp": 76,
-          "snowfall": 9,
+          "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 76. North northeast wind around 7 mph."
+          "detailedForecast": "Mostly sunny, with a high near 76. North northeast wind around 8 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1749193200000,
+          "timestamp": 1749196800000,
           "temp": 52,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1749193200000,
+          "timestamp": 1749196800000,
           "temp": 51,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
