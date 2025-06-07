@@ -1,12 +1,21 @@
 {
-  "timestamp": "2025-06-07T11:00:31.326Z",
+  "timestamp": "2025-06-07T12:00:41.874Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1749294000000,
+          "name": "Overnight",
+          "timestamp": 1749286800000,
+          "temp": 54,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy. Low around 54, with temperatures rising to around 56 overnight. North wind around 7 mph."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1749290400000,
           "temp": 78,
           "snowfall": 5,
           "snowAmount": "",
@@ -14,7 +23,7 @@
           "detailedForecast": "Haze after 8am. Mostly sunny, with a high near 78. North northeast wind around 9 mph."
         },
         {
-          "name": "Tonight",
+          "name": "Saturday Night",
           "timestamp": 1749333600000,
           "temp": 55,
           "snowfall": 10,
@@ -29,16 +38,7 @@
           "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers between 8am and 2pm. Partly sunny. High near 75, with temperatures falling to around 72 in the afternoon. East wind 6 to 9 mph. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
-          "name": "Sunday Night",
-          "timestamp": 1749420000000,
-          "temp": 59,
-          "snowfall": 51,
-          "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms after 8pm. Partly cloudy, with a low around 59. South wind around 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain showers between 8am and 2pm. Partly sunny, with a high near 75. East wind 6 to 9 mph. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1749294000000,
+          "timestamp": 1749297600000,
           "temp": 75,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1749294000000,
+          "timestamp": 1749297600000,
           "temp": 77,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Haze",
-          "detailedForecast": "Haze. Sunny, with a high near 77. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Haze. Sunny, with a high near 77. East wind 0 to 5 mph."
         },
         {
           "name": "Tonight",
