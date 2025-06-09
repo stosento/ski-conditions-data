@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-06-08T23:00:36.399Z",
+  "timestamp": "2025-06-09T00:00:43.708Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1749423600000,
+          "timestamp": 1749427200000,
           "temp": 61,
           "snowfall": 55,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of rain showers between 8pm and 9pm, then a slight chance of showers and thunderstorms between midnight and 1am, then showers and thunderstorms likely. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. South wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain showers before 9pm, then a slight chance of showers and thunderstorms between midnight and 1am, then showers and thunderstorms likely. Mostly cloudy. Low around 61, with temperatures rising to around 63 overnight. South wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1749423600000,
+          "timestamp": 1749427200000,
           "temp": 52,
           "snowfall": 83,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms before 2am. Mostly cloudy, with a low around 52. South wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Showers and thunderstorms before 2am. Mostly cloudy, with a low around 52. South wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Monday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
