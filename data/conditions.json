@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-06-12T21:00:36.232Z",
+  "timestamp": "2025-06-12T22:00:33.442Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1749762000000,
-          "temp": 77,
-          "snowfall": 9,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 77. East northeast wind around 8 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1749765600000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers after 8pm. Mostly cloudy, with a low around 58. East wind 3 to 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1749895200000,
+          "temp": 74,
+          "snowfall": 37,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers before 2pm. Mostly cloudy, with a high near 74. East wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1749762000000,
-          "temp": 67,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 67. North wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1749765600000,
@@ -70,7 +61,7 @@
           "snowfall": 65,
           "snowAmount": "",
           "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely. Cloudy. High near 56, with temperatures falling to around 54 in the afternoon. East wind around 10 mph. Chance of precipitation is 70%."
+          "detailedForecast": "Rain likely. Cloudy. High near 56, with temperatures falling to around 54 in the afternoon. East wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Friday Night",
@@ -80,21 +71,21 @@
           "snowAmount": "",
           "shortForecast": "Light Rain Likely",
           "detailedForecast": "Rain likely. Cloudy, with a low around 47. East wind 10 to 15 mph. Chance of precipitation is 70%."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1749895200000,
+          "temp": 64,
+          "snowfall": 27,
+          "snowAmount": "",
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A chance of rain before 2pm, then isolated rain showers. Partly sunny, with a high near 64. East wind around 10 mph. Chance of precipitation is 30%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1749758400000,
-          "temp": 70,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 70. North wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1749765600000,
@@ -111,7 +102,7 @@
           "snowfall": 60,
           "snowAmount": "",
           "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely. Cloudy, with a high near 56. East wind 5 to 10 mph. Chance of precipitation is 60%."
+          "detailedForecast": "Rain likely. Cloudy, with a high near 56. East wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Friday Night",
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Light Rain",
           "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 46. East wind 5 to 10 mph. Chance of precipitation is 50%."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1749895200000,
+          "temp": 67,
+          "snowfall": 24,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Light Rain then Partly Sunny",
+          "detailedForecast": "A slight chance of rain before 8am. Partly sunny, with a high near 67. East wind 5 to 10 mph. Chance of precipitation is 20%."
         }
       ]
     }
