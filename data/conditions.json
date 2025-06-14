@@ -1,9 +1,18 @@
 {
-  "timestamp": "2025-06-14T22:00:35.250Z",
+  "timestamp": "2025-06-14T23:00:41.149Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
+        {
+          "name": "This Afternoon",
+          "timestamp": 1749934800000,
+          "temp": 75,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 75. East northeast wind around 9 mph."
+        },
         {
           "name": "Tonight",
           "timestamp": 1749938400000,
@@ -30,15 +39,6 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 56. Northeast wind 3 to 8 mph."
-        },
-        {
-          "name": "Monday",
-          "timestamp": 1750068000000,
-          "temp": 83,
-          "snowfall": 3,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 83. East wind 2 to 6 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1749938400000,
+          "timestamp": 1749942000000,
           "temp": 52,
           "snowfall": 22,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 52. East wind around 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 52. East wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1749938400000,
+          "timestamp": 1749942000000,
           "temp": 50,
           "snowfall": 22,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 50. East wind 0 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 50. East wind 0 to 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Sunday",
