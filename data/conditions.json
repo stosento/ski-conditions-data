@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-06-15T09:00:49.812Z",
+  "timestamp": "2025-06-15T10:00:39.311Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1749978000000,
-          "temp": 54,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 54. North northeast wind around 5 mph."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1749981600000,
           "temp": 80,
           "snowfall": 2,
@@ -23,7 +14,7 @@
           "detailedForecast": "Mostly sunny, with a high near 80. Northeast wind 5 to 9 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1750024800000,
           "temp": 57,
           "snowfall": 2,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 82. East wind 3 to 7 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1750111200000,
+          "temp": 63,
+          "snowfall": 7,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 63. Southeast wind 2 to 7 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1749978000000,
-          "temp": 54,
-          "snowfall": 17,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Cloudy. Low around 54, with temperatures rising to around 56 overnight. Northeast wind around 5 mph. Chance of precipitation is 20%."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1749981600000,
           "temp": 73,
           "snowfall": 17,
@@ -64,7 +55,7 @@
           "detailedForecast": "A slight chance of rain showers before 8am. Partly sunny. High near 73, with temperatures falling to around 71 in the afternoon. East wind around 5 mph. Chance of precipitation is 20%."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1750024800000,
           "temp": 56,
           "snowfall": 4,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers after 8am. Mostly sunny, with a high near 75. Southwest wind around 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1750111200000,
+          "temp": 60,
+          "snowfall": 31,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 60. Southeast wind 5 to 10 mph. Chance of precipitation is 30%."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1749978000000,
-          "temp": 52,
-          "snowfall": 18,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Mostly cloudy. Low around 52, with temperatures rising to around 54 overnight. Southeast wind around 0 mph. Chance of precipitation is 20%."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1749981600000,
           "temp": 74,
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of rain showers before 8am. Mostly cloudy. High near 74, with temperatures falling to around 72 in the afternoon. East wind around 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers before 8am. Mostly cloudy. High near 74, with temperatures falling to around 72 in the afternoon. East wind 0 to 5 mph. Chance of precipitation is 20%."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1750024800000,
           "temp": 52,
           "snowfall": 3,
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers after 8am. Mostly sunny, with a high near 79. Southwest wind around 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1750111200000,
+          "temp": 60,
+          "snowfall": 22,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers. Partly cloudy, with a low around 60. South wind around 5 mph. Chance of precipitation is 20%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
