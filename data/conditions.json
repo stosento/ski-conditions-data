@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-06-16T06:00:33.254Z",
+  "timestamp": "2025-06-16T07:01:20.540Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1750021200000,
-          "temp": 80,
-          "snowfall": 3,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 80. Northeast wind around 9 mph."
-        },
-        {
-          "name": "Tonight",
-          "timestamp": 1750024800000,
+          "name": "Overnight",
+          "timestamp": 1750057200000,
           "temp": 57,
-          "snowfall": 3,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 57. Northeast wind 3 to 9 mph."
+          "detailedForecast": "Partly cloudy, with a low around 57. North northeast wind around 5 mph."
         },
         {
           "name": "Monday",
@@ -29,7 +20,7 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 82. East wind 3 to 8 mph."
+          "detailedForecast": "Mostly sunny, with a high near 82. East wind 2 to 6 mph."
         },
         {
           "name": "Monday Night",
@@ -38,7 +29,16 @@
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 63. Southeast wind 2 to 8 mph."
+          "detailedForecast": "Partly cloudy, with a low around 63. South southeast wind 2 to 8 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1750154400000,
+          "temp": 87,
+          "snowfall": 23,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny then Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms after 2pm. Partly sunny, with a high near 87. Southwest wind 2 to 12 mph."
         }
       ]
     },
@@ -47,39 +47,39 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1750053600000,
-          "temp": 57,
+          "timestamp": 1750057200000,
+          "temp": 53,
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 57. Southeast wind around 5 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 53. Southeast wind around 5 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1750068000000,
-          "temp": 76,
-          "snowfall": 8,
+          "temp": 77,
+          "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 76. Southwest wind around 5 mph."
+          "detailedForecast": "Mostly sunny, with a high near 77. Southwest wind around 5 mph."
         },
         {
           "name": "Monday Night",
           "timestamp": 1750111200000,
-          "temp": 60,
-          "snowfall": 15,
+          "temp": 62,
+          "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 2am. Partly cloudy, with a low around 60. South wind 0 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers after 2am. Partly cloudy. Low around 62, with temperatures rising to around 64 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday",
           "timestamp": 1750154400000,
-          "temp": 75,
-          "snowfall": 51,
+          "temp": 73,
+          "snowfall": 32,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of rain showers before 8am, then a chance of showers and thunderstorms between 8am and 11am, then a chance of showers and thunderstorms. Partly sunny, with a high near 75. Southwest wind 10 to 15 mph. Chance of precipitation is 50%."
+          "detailedForecast": "A slight chance of rain showers before 8am, then a chance of showers and thunderstorms between 8am and 11am, then a chance of showers and thunderstorms. Partly sunny, with a high near 73. Southwest wind 10 to 15 mph. Chance of precipitation is 30%."
         }
       ]
     },
@@ -88,51 +88,51 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1750053600000,
-          "temp": 53,
+          "timestamp": 1750057200000,
+          "temp": 54,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 53. South wind around 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 54. South wind around 5 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1750068000000,
           "temp": 81,
-          "snowfall": 19,
+          "snowfall": 25,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 4pm. Mostly sunny, with a high near 81. Southwest wind around 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Sunny then Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms after 5pm. Mostly sunny, with a high near 81. South wind around 5 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Monday Night",
           "timestamp": 1750111200000,
-          "temp": 60,
-          "snowfall": 19,
+          "temp": 61,
+          "snowfall": 25,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-          "detailedForecast": "A slight chance of rain showers before 11pm. Partly cloudy, with a low around 60. South wind 0 to 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+          "detailedForecast": "A chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 61. South wind 5 to 10 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tuesday",
           "timestamp": 1750154400000,
-          "temp": 80,
-          "snowfall": 50,
+          "temp": 79,
+          "snowfall": 35,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers between 8am and 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 80. Southwest wind around 10 mph. Chance of precipitation is 50%."
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms between 8am and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 79. Southwest wind 10 to 15 mph. Chance of precipitation is 40%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
