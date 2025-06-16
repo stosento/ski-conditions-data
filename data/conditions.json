@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-06-16T12:00:41.887Z",
+  "timestamp": "2025-06-16T13:10:49.482Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1750064400000,
-          "temp": 57,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 57. North northeast wind around 5 mph."
-        },
-        {
-          "name": "Monday",
+          "name": "Today",
           "timestamp": 1750068000000,
           "temp": 83,
           "snowfall": 1,
@@ -23,7 +14,7 @@
           "detailedForecast": "Mostly sunny, with a high near 83. East wind 2 to 6 mph."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1750111200000,
           "temp": 63,
           "snowfall": 3,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Partly Sunny then Slight Chance Showers And Thunderstorms",
           "detailedForecast": "A slight chance of showers and thunderstorms after 2pm. Partly sunny, with a high near 88. Southwest wind 2 to 12 mph."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1750197600000,
+          "temp": 68,
+          "snowfall": 33,
+          "snowAmount": "",
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms. Partly cloudy, with a low around 68. West southwest wind 3 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1750075200000,
+          "timestamp": 1750078800000,
           "temp": 77,
           "snowfall": 11,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1750075200000,
+          "timestamp": 1750078800000,
           "temp": 81,
           "snowfall": 25,
           "snowAmount": "",
