@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-06-16T01:28:27.245Z",
+  "timestamp": "2025-06-16T02:33:13.530Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1750021200000,
-          "temp": 80,
-          "snowfall": 3,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 80. Northeast wind around 9 mph."
-        },
-        {
           "name": "Tonight",
-          "timestamp": 1750024800000,
+          "timestamp": 1750039200000,
           "temp": 57,
-          "snowfall": 3,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 57. Northeast wind 3 to 9 mph."
+          "detailedForecast": "Partly cloudy, with a low around 57. North northeast wind around 6 mph."
         },
         {
           "name": "Monday",
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 63. Southeast wind 2 to 8 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1750154400000,
+          "temp": 87,
+          "snowfall": 23,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny then Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms after 2pm. Partly sunny, with a high near 87. South wind 2 to 9 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1750035600000,
+          "timestamp": 1750039200000,
           "temp": 57,
           "snowfall": 7,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1750035600000,
+          "timestamp": 1750039200000,
           "temp": 54,
           "snowfall": 3,
           "snowAmount": "",
