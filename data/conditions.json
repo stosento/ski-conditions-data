@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-06-19T22:00:32.849Z",
+  "timestamp": "2025-06-19T23:00:39.076Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Juneteenth",
-          "timestamp": 1750366800000,
-          "temp": 74,
-          "snowfall": 16,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms. Mostly cloudy. High near 74, with temperatures falling to around 70 in the afternoon. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
-        {
           "name": "Tonight",
-          "timestamp": 1750370400000,
+          "timestamp": 1750374000000,
           "temp": 60,
           "snowfall": 21,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Clear",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 11pm. Mostly clear. Low around 60, with temperatures rising to around 62 overnight. West wind 5 to 9 mph, with gusts as high as 18 mph. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A slight chance of showers and thunderstorms before 11pm. Mostly clear. Low around 60, with temperatures rising to around 62 overnight. West wind 5 to 8 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Friday",
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms",
           "detailedForecast": "A chance of showers and thunderstorms before 8pm, then a slight chance of showers and thunderstorms between 8pm and 2am, then a chance of showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 68. Southwest wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1750500000000,
+          "temp": 92,
+          "snowfall": 37,
+          "snowAmount": "",
+          "shortForecast": "Chance Showers And Thunderstorms then Partly Sunny",
+          "detailedForecast": "A chance of showers and thunderstorms before 11am. Partly sunny, with a high near 92. South southwest wind 6 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1750370400000,
+          "timestamp": 1750374000000,
           "temp": 53,
           "snowfall": 12,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1750370400000,
+          "timestamp": 1750374000000,
           "temp": 54,
           "snowfall": 14,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 54. West wind 5 to 15 mph."
+          "detailedForecast": "Partly cloudy, with a low around 54. West wind around 5 mph."
         },
         {
           "name": "Friday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
