@@ -1,21 +1,12 @@
 {
-  "timestamp": "2025-06-19T10:00:41.077Z",
+  "timestamp": "2025-06-19T11:00:37.577Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1750323600000,
-          "temp": 62,
-          "snowfall": 35,
-          "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Cloudy. Low around 62, with temperatures rising to around 67 overnight. Southwest wind around 14 mph, with gusts as high as 24 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
           "name": "Juneteenth",
-          "timestamp": 1750327200000,
+          "timestamp": 1750330800000,
           "temp": 75,
           "snowfall": 65,
           "snowAmount": "",
@@ -23,7 +14,7 @@
           "detailedForecast": "Rain showers likely before 2pm, then showers and thunderstorms likely between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 75, with temperatures falling to around 72 in the afternoon. West northwest wind around 14 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1750370400000,
           "temp": 60,
           "snowfall": 35,
@@ -38,7 +29,16 @@
           "snowfall": 23,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms after 8am. Mostly sunny, with a high near 85. West wind 5 to 12 mph, with gusts as high as 20 mph. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A slight chance of showers and thunderstorms after 8am. Mostly sunny. High near 85, with temperatures falling to around 81 in the afternoon. West wind 5 to 12 mph, with gusts as high as 20 mph. New rainfall amounts between a tenth and quarter of an inch possible."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1750456800000,
+          "temp": 68,
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 68. West southwest wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Juneteenth",
-          "timestamp": 1750327200000,
+          "timestamp": 1750330800000,
           "temp": 70,
           "snowfall": 60,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely then Mostly Cloudy",
-          "detailedForecast": "Showers and thunderstorms likely before 11am. Mostly cloudy, with a high near 70. Northwest wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Showers and thunderstorms likely before 11am. Mostly cloudy, with a high near 70. Northwest wind 0 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -60,8 +60,8 @@
           "temp": 55,
           "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 55. West wind 5 to 10 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 55. West wind 5 to 10 mph."
         },
         {
           "name": "Friday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Juneteenth",
-          "timestamp": 1750327200000,
+          "timestamp": 1750330800000,
           "temp": 72,
           "snowfall": 77,
           "snowAmount": "",
