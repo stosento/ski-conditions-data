@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-19T09:00:52.612Z",
+  "timestamp": "2025-06-19T10:00:41.077Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -46,15 +46,6 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1750323600000,
-          "temp": 59,
-          "snowfall": 60,
-          "snowAmount": "",
-          "shortForecast": "Showers And Thunderstorms Likely",
-          "detailedForecast": "Showers and thunderstorms likely. Cloudy. Low around 59, with temperatures rising to around 61 overnight. North wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
-        {
           "name": "Juneteenth",
           "timestamp": 1750327200000,
           "temp": 70,
@@ -64,7 +55,7 @@
           "detailedForecast": "Showers and thunderstorms likely before 11am. Mostly cloudy, with a high near 70. Northwest wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1750370400000,
           "temp": 55,
           "snowfall": 12,
@@ -80,21 +71,21 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
           "detailedForecast": "A slight chance of rain showers between 8am and 11am, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 73. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1750456800000,
+          "temp": 61,
+          "snowfall": 58,
+          "snowAmount": "",
+          "shortForecast": "Showers And Thunderstorms Likely",
+          "detailedForecast": "Showers and thunderstorms likely. Mostly cloudy, with a low around 61. South wind 5 to 10 mph. Chance of precipitation is 60%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "Overnight",
-          "timestamp": 1750323600000,
-          "temp": 59,
-          "snowfall": 77,
-          "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy. Low around 59, with temperatures rising to around 61 overnight. North wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
         {
           "name": "Juneteenth",
           "timestamp": 1750327200000,
@@ -105,7 +96,7 @@
           "detailedForecast": "Rain showers before 8am, then a chance of showers and thunderstorms between 8am and 2pm. Mostly cloudy, with a high near 72. Northwest wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1750370400000,
           "temp": 54,
           "snowfall": 20,
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
           "detailedForecast": "A slight chance of showers and thunderstorms. Partly sunny, with a high near 77. West wind 5 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1750456800000,
+          "temp": 62,
+          "snowfall": 57,
+          "snowAmount": "",
+          "shortForecast": "Showers And Thunderstorms Likely",
+          "detailedForecast": "Showers and thunderstorms likely. Mostly cloudy, with a low around 62. Southwest wind 5 to 10 mph. Chance of precipitation is 60%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
