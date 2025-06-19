@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-06-19T18:00:34.100Z",
+  "timestamp": "2025-06-19T19:00:34.415Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Juneteenth",
-          "timestamp": 1750345200000,
+          "timestamp": 1750359600000,
           "temp": 75,
-          "snowfall": 65,
+          "snowfall": 58,
           "snowAmount": "",
-          "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely before 2pm, then showers and thunderstorms likely between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 75, with temperatures falling to around 72 in the afternoon. Northwest wind around 14 mph, with gusts as high as 23 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Showers And Thunderstorms Likely",
+          "detailedForecast": "Showers and thunderstorms likely before 5pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 75, with temperatures falling to around 72 in the afternoon. Northwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -20,7 +20,7 @@
           "snowfall": 35,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
-          "detailedForecast": "A chance of showers and thunderstorms before 11pm. Partly cloudy, with a low around 60. West wind 5 to 9 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms before 11pm. Partly cloudy, with a low around 60. West wind 5 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Friday",
@@ -29,7 +29,7 @@
           "snowfall": 23,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms after 8am. Mostly sunny. High near 85, with temperatures falling to around 81 in the afternoon. West wind 5 to 12 mph, with gusts as high as 20 mph. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A slight chance of showers and thunderstorms after 8am. Mostly sunny. High near 85, with temperatures falling to around 81 in the afternoon. West wind 5 to 12 mph, with gusts as high as 21 mph. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Friday Night",
@@ -38,7 +38,7 @@
           "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 68. West southwest wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A slight chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 68. Southwest wind around 8 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Juneteenth",
-          "timestamp": 1750356000000,
+          "timestamp": 1750359600000,
           "temp": 71,
           "snowfall": 3,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 71. West wind around 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 71. West wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -76,10 +76,10 @@
           "name": "Friday Night",
           "timestamp": 1750456800000,
           "temp": 61,
-          "snowfall": 58,
+          "snowfall": 55,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely between 8pm and 5am, then showers and thunderstorms likely. Mostly cloudy, with a low around 61. South wind 5 to 10 mph. Chance of precipitation is 60%."
+          "detailedForecast": "Rain showers likely between 8pm and 5am, then showers and thunderstorms likely. Mostly cloudy, with a low around 61. Southeast wind 5 to 10 mph. Chance of precipitation is 60%."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Juneteenth",
-          "timestamp": 1750356000000,
+          "timestamp": 1750359600000,
           "temp": 72,
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 72. West wind around 10 mph."
+          "detailedForecast": "Partly sunny, with a high near 72. West wind 10 to 15 mph."
         },
         {
           "name": "Tonight",
@@ -120,19 +120,19 @@
           "snowfall": 57,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely between 8pm and 5am, then showers and thunderstorms likely. Mostly cloudy, with a low around 62. Southwest wind 5 to 10 mph. Chance of precipitation is 60%."
+          "detailedForecast": "Rain showers likely between 8pm and 5am, then showers and thunderstorms likely. Mostly cloudy, with a low around 62. South wind 5 to 10 mph. Chance of precipitation is 60%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
