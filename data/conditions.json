@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-06-22T22:00:32.285Z",
+  "timestamp": "2025-06-22T23:00:31.441Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1750626000000,
-          "temp": 96,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 105. West southwest wind around 8 mph."
-        },
-        {
           "name": "Tonight",
-          "timestamp": 1750629600000,
+          "timestamp": 1750633200000,
           "temp": 78,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 78. Heat index values as high as 104. Southwest wind around 8 mph."
+          "detailedForecast": "Mostly clear, with a low around 78. Heat index values as high as 103. Southwest wind around 7 mph."
         },
         {
           "name": "Monday",
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 77. Heat index values as high as 102. West southwest wind 6 to 10 mph, with gusts as high as 18 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1750759200000,
+          "temp": 94,
+          "snowfall": 56,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny then Showers And Thunderstorms Likely",
+          "detailedForecast": "Showers and thunderstorms likely after 2pm. Mostly sunny, with a high near 94. Heat index values as high as 100. West wind around 8 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1750629600000,
+          "timestamp": 1750633200000,
           "temp": 76,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1750629600000,
+          "timestamp": 1750633200000,
           "temp": 76,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 76. Heat index values as high as 99. Southwest wind around 10 mph."
+          "detailedForecast": "Clear, with a low around 76. Southwest wind around 10 mph."
         },
         {
           "name": "Monday",
