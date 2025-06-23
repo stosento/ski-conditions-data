@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-06-23T21:00:37.668Z",
+  "timestamp": "2025-06-23T22:00:35.136Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1750712400000,
-          "temp": 98,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 98, with temperatures falling to around 96 in the afternoon. Heat index values as high as 101. West southwest wind around 12 mph, with gusts as high as 21 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1750716000000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
           "detailedForecast": "Showers and thunderstorms likely before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 65. North northeast wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1750845600000,
+          "temp": 82,
+          "snowfall": 62,
+          "snowAmount": "",
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms before 2pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 82. Northeast wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1750712400000,
-          "temp": 86,
-          "snowfall": 7,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 86. Southwest wind around 15 mph. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1750716000000,
@@ -70,7 +61,7 @@
           "snowfall": 28,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "Patchy fog and a chance of showers and thunderstorms before 8am, then a slight chance of showers and thunderstorms between 8am and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm. Partly sunny, with a high near 74. Northwest wind around 5 mph. Chance of precipitation is 30%."
+          "detailedForecast": "Patchy fog and a chance of showers and thunderstorms before 8am, then a slight chance of showers and thunderstorms between 8am and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm. Partly sunny, with a high near 74. Northwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday Night",
@@ -80,21 +71,21 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 52. North wind 0 to 5 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1750845600000,
+          "temp": 77,
+          "snowfall": 23,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 8am. Mostly sunny, with a high near 77. Northeast wind 0 to 5 mph. Chance of precipitation is 20%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1750712400000,
-          "temp": 91,
-          "snowfall": 5,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 91, with temperatures falling to around 89 in the afternoon. Southwest wind around 15 mph. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1750716000000,
@@ -111,7 +102,7 @@
           "snowfall": 52,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms before 7am, then patchy fog and a chance of showers and thunderstorms between 7am and 11am, then a chance of showers and thunderstorms between 11am and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm. Mostly cloudy. High near 77, with temperatures falling to around 75 in the afternoon. Northwest wind around 5 mph. Chance of precipitation is 50%."
+          "detailedForecast": "A chance of showers and thunderstorms before 7am, then patchy fog and a chance of showers and thunderstorms between 7am and 11am, then a chance of showers and thunderstorms between 11am and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm. Mostly cloudy. High near 77, with temperatures falling to around 75 in the afternoon. Northwest wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tuesday Night",
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers after 8pm. Mostly cloudy, with a low around 53. North wind 0 to 5 mph. Chance of precipitation is 30%."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1750845600000,
+          "temp": 78,
+          "snowfall": 29,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Mostly sunny, with a high near 78. Northeast wind 0 to 5 mph. Chance of precipitation is 30%."
         }
       ]
     }
