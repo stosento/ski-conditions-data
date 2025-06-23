@@ -1,26 +1,17 @@
 {
-  "timestamp": "2025-06-23T05:01:48.599Z",
+  "timestamp": "2025-06-23T06:00:36.101Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1750626000000,
-          "temp": 96,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 105. West southwest wind around 8 mph."
-        },
-        {
           "name": "Tonight",
-          "timestamp": 1750629600000,
+          "timestamp": 1750640400000,
           "temp": 78,
-          "snowfall": 1,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 78. Heat index values as high as 104. Southwest wind around 8 mph."
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 78. Southwest wind around 6 mph."
         },
         {
           "name": "Monday",
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 77. Heat index values as high as 102. West southwest wind 6 to 10 mph, with gusts as high as 18 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1750759200000,
+          "temp": 94,
+          "snowfall": 56,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny then Showers And Thunderstorms Likely",
+          "detailedForecast": "Showers and thunderstorms likely after 2pm. Mostly sunny, with a high near 94. Heat index values as high as 100. West wind around 8 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1750654800000,
+          "timestamp": 1750658400000,
           "temp": 76,
           "snowfall": 0,
           "snowAmount": "",
@@ -58,25 +58,25 @@
           "name": "Monday",
           "timestamp": 1750672800000,
           "temp": 86,
-          "snowfall": 28,
+          "snowfall": 40,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 86, with temperatures falling to around 84 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Sunny. High near 86, with temperatures falling to around 84 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1750716000000,
           "temp": 63,
-          "snowfall": 53,
+          "snowfall": 56,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms. Mostly cloudy. Low around 63, with temperatures rising to around 65 overnight. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%."
+          "detailedForecast": "A chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms. Mostly cloudy. Low around 63, with temperatures rising to around 65 overnight. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%."
         },
         {
           "name": "Tuesday",
           "timestamp": 1750759200000,
           "temp": 73,
-          "snowfall": 28,
+          "snowfall": 25,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
           "detailedForecast": "A chance of rain showers before 11am, then a chance of showers and thunderstorms. Partly sunny, with a high near 73. Northwest wind around 5 mph. Chance of precipitation is 30%."
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1750654800000,
+          "timestamp": 1750658400000,
           "temp": 75,
           "snowfall": 0,
           "snowAmount": "",
@@ -99,19 +99,19 @@
           "name": "Monday",
           "timestamp": 1750672800000,
           "temp": 91,
-          "snowfall": 12,
+          "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 91. Heat index values as high as 95. Southwest wind around 15 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Sunny, with a high near 91. Heat index values as high as 95. Southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1750716000000,
           "temp": 65,
-          "snowfall": 56,
+          "snowfall": 44,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-          "detailedForecast": "A slight chance of showers and thunderstorms between 7pm and 8pm, then showers and thunderstorms likely. Mostly cloudy. Low around 65, with temperatures rising to around 67 overnight. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%."
+          "detailedForecast": "A slight chance of showers and thunderstorms between 7pm and 8pm, then showers and thunderstorms likely. Mostly cloudy. Low around 65, with temperatures rising to around 67 overnight. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Tuesday",
