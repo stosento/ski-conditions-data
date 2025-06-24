@@ -1,17 +1,26 @@
 {
-  "timestamp": "2025-06-24T04:06:21.111Z",
+  "timestamp": "2025-06-24T05:01:45.630Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1750737600000,
+          "name": "This Afternoon",
+          "timestamp": 1750712400000,
+          "temp": 98,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 98, with temperatures falling to around 96 in the afternoon. Heat index values as high as 101. West southwest wind around 12 mph, with gusts as high as 21 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1750716000000,
           "temp": 76,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 76. West southwest wind around 7 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 76. Heat index values as high as 100. West southwest wind 7 to 12 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Tuesday",
@@ -30,15 +39,6 @@
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
           "detailedForecast": "Showers and thunderstorms likely before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 65. North northeast wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
-        },
-        {
-          "name": "Wednesday",
-          "timestamp": 1750845600000,
-          "temp": 82,
-          "snowfall": 62,
-          "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms before 2pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 82. Northeast wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1750737600000,
+          "timestamp": 1750741200000,
           "temp": 62,
           "snowfall": 28,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1750737600000,
+          "timestamp": 1750741200000,
           "temp": 66,
           "snowfall": 30,
           "snowAmount": "",
