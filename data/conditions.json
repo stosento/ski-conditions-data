@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-06-27T21:00:42.524Z",
+  "timestamp": "2025-06-27T22:00:34.672Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1751058000000,
-          "temp": 92,
-          "snowfall": 27,
-          "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Some of the storms could be severe. Mostly sunny. High near 92, with temperatures falling to around 90 in the afternoon. Southwest wind around 13 mph, with gusts as high as 22 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1751061600000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 64. Northwest wind 2 to 8 mph."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1751191200000,
+          "temp": 91,
+          "snowfall": 3,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 91. South southwest wind 2 to 7 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1751058000000,
-          "temp": 74,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers. Mostly cloudy. High near 74, with temperatures falling to around 71 in the afternoon. West wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1751061600000,
@@ -79,22 +70,22 @@
           "snowfall": 32,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of rain showers between 2am and 5am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 57. Southwest wind around 5 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain showers between 2am and 5am, then a chance of showers and thunderstorms. Partly cloudy. Low around 57, with temperatures rising to around 61 overnight. Southwest wind around 5 mph. Chance of precipitation is 30%."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1751191200000,
+          "temp": 82,
+          "snowfall": 32,
+          "snowAmount": "",
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 82. Southwest wind 5 to 10 mph. Chance of precipitation is 30%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1751058000000,
-          "temp": 80,
-          "snowfall": 23,
-          "snowAmount": "",
-          "shortForecast": "Isolated Showers And Thunderstorms",
-          "detailedForecast": "Isolated showers and thunderstorms. Partly sunny, with a high near 80. West wind around 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1751061600000,
@@ -120,19 +111,28 @@
           "snowfall": 22,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of rain showers between 2am and 5am, then a slight chance of showers and thunderstorms. Partly cloudy, with a low around 56. Southwest wind 0 to 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers between 2am and 5am, then a slight chance of showers and thunderstorms. Partly cloudy. Low around 56, with temperatures rising to around 58 overnight. Southwest wind 0 to 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1751191200000,
+          "temp": 88,
+          "snowfall": 22,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms before 2pm. Mostly sunny, with a high near 88. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
