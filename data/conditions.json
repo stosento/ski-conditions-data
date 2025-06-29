@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-06-29T14:00:32.016Z",
+  "timestamp": "2025-06-29T15:00:32.176Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1751191200000,
+          "timestamp": 1751209200000,
           "temp": 91,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 91. South southwest wind 2 to 7 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 91. South wind around 7 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1751205600000,
+          "timestamp": 1751209200000,
           "temp": 82,
-          "snowfall": 27,
+          "snowfall": 80,
           "snowAmount": "",
-          "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms before 11am, then scattered showers and thunderstorms. Partly sunny, with a high near 82. Southwest wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Rain Showers then Scattered Showers And Thunderstorms",
+          "detailedForecast": "Rain showers before noon, then scattered showers and thunderstorms. Partly sunny, with a high near 82. Southwest wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1751205600000,
+          "timestamp": 1751209200000,
           "temp": 87,
-          "snowfall": 38,
+          "snowfall": 58,
           "snowAmount": "",
-          "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms. Mostly sunny, with a high near 87. Southwest wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Rain Showers then Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of rain showers before noon, then a chance of showers and thunderstorms. Mostly sunny, with a high near 87. Southwest wind around 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
