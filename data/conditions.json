@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-06-30T23:00:28.750Z",
+  "timestamp": "2025-07-01T00:00:46.855Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1751324400000,
+          "timestamp": 1751328000000,
           "temp": 68,
-          "snowfall": 58,
+          "snowfall": 33,
           "snowAmount": "",
-          "shortForecast": "Showers And Thunderstorms Likely",
-          "detailedForecast": "Showers and thunderstorms likely. Mostly cloudy. Low around 68, with temperatures rising to around 70 overnight. West southwest wind 5 to 8 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms. Mostly cloudy. Low around 68, with temperatures rising to around 70 overnight. West southwest wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1751324400000,
+          "timestamp": 1751328000000,
           "temp": 61,
           "snowfall": 18,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1751324400000,
+          "timestamp": 1751328000000,
           "temp": 61,
-          "snowfall": 19,
+          "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Isolated Showers And Thunderstorms then Mostly Cloudy",
-          "detailedForecast": "Isolated showers and thunderstorms before 11pm. Mostly cloudy, with a low around 61. West wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Isolated showers and thunderstorms before 11pm. Mostly cloudy, with a low around 61. West wind around 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
