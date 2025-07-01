@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-07-01T21:00:42.707Z",
+  "timestamp": "2025-07-01T22:00:31.891Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1751403600000,
-          "temp": 85,
-          "snowfall": 7,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 85. West northwest wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1751407200000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
           "detailedForecast": "A slight chance of showers and thunderstorms before 10pm. Partly cloudy, with a low around 65. West northwest wind 3 to 8 mph. New rainfall amounts between a tenth and quarter of an inch possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1751536800000,
+          "temp": 86,
+          "snowfall": 17,
+          "snowAmount": "",
+          "shortForecast": "Sunny then Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms after 2pm. Sunny, with a high near 86. Northwest wind 3 to 7 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1751403600000,
-          "temp": 72,
-          "snowfall": 11,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 72. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1751407200000,
@@ -79,22 +70,22 @@
           "snowfall": 20,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 56. West wind 0 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy. Low around 56, with temperatures rising to around 58 overnight. West wind 0 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1751536800000,
+          "temp": 77,
+          "snowfall": 3,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 77. Northwest wind 0 to 5 mph."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1751403600000,
-          "temp": 75,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 75. Northwest wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1751407200000,
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers before 2am. Partly cloudy, with a low around 55. West wind 0 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1751536800000,
+          "temp": 79,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 79. Northwest wind 0 to 10 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
