@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-03T20:00:29.370Z",
+  "timestamp": "2025-07-03T21:00:37.509Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1751572800000,
+          "timestamp": 1751576400000,
           "temp": 86,
           "snowfall": 17,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms. Sunny. High near 86, with temperatures falling to around 83 in the afternoon. North wind around 9 mph. Chance of precipitation is 20%."
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers. Sunny. High near 86, with temperatures falling to around 83 in the afternoon. North wind around 9 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1751572800000,
+          "timestamp": 1751576400000,
           "temp": 78,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1751572800000,
+          "timestamp": 1751576400000,
           "temp": 79,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 79. Northwest wind around 10 mph."
+          "detailedForecast": "Sunny. High near 79, with temperatures falling to around 77 in the afternoon. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -102,7 +102,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 51, with temperatures rising to around 53 overnight. Northeast wind 0 to 10 mph."
+          "detailedForecast": "Mostly clear. Low around 51, with temperatures rising to around 53 overnight. East wind 0 to 10 mph."
         },
         {
           "name": "Independence Day",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
