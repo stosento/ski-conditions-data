@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-07-03T21:00:37.509Z",
+  "timestamp": "2025-07-03T22:00:34.815Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1751576400000,
-          "temp": 86,
-          "snowfall": 17,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Sunny. High near 86, with temperatures falling to around 83 in the afternoon. North wind around 9 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1751580000000,
@@ -20,7 +11,7 @@
           "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
-          "detailedForecast": "A slight chance of rain showers before 9pm. Mostly clear, with a low around 60. Northeast wind 2 to 8 mph."
+          "detailedForecast": "A slight chance of rain showers before 9pm. Mostly clear, with a low around 60. Northeast wind 2 to 8 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Independence Day",
@@ -38,7 +29,16 @@
           "snowfall": 13,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 69. South southeast wind 3 to 8 mph."
+          "detailedForecast": "Partly cloudy. Low around 69, with temperatures rising to around 71 overnight. South southeast wind 3 to 8 mph."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1751709600000,
+          "temp": 94,
+          "snowfall": 9,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 94. Southwest wind 3 to 9 mph."
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1751576400000,
-          "temp": 78,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 78, with temperatures falling to around 76 in the afternoon. Northwest wind around 5 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1751580000000,
           "temp": 54,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 54. East wind 0 to 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 54. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Independence Day",
@@ -79,7 +70,16 @@
           "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 69. Southwest wind 5 to 10 mph."
+          "detailedForecast": "Partly cloudy. Low around 69, with temperatures rising to around 71 overnight. Southwest wind 5 to 10 mph."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1751709600000,
+          "temp": 87,
+          "snowfall": 14,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 87. Southwest wind 10 to 15 mph, with gusts as high as 30 mph."
         }
       ]
     },
@@ -87,22 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1751576400000,
-          "temp": 79,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 79, with temperatures falling to around 77 in the afternoon. Northwest wind around 10 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1751580000000,
           "temp": 51,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 51, with temperatures rising to around 53 overnight. East wind 0 to 10 mph."
+          "detailedForecast": "Mostly clear. Low around 51, with temperatures rising to around 53 overnight. East wind 0 to 5 mph."
         },
         {
           "name": "Independence Day",
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
           "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 69. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1751709600000,
+          "temp": 91,
+          "snowfall": 12,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 91. Southwest wind 10 to 15 mph, with gusts as high as 25 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
