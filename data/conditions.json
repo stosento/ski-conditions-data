@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-08T17:01:22.720Z",
+  "timestamp": "2025-07-08T18:00:41.528Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1751994000000,
+          "timestamp": 1751997600000,
           "temp": 84,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 84. North northeast wind around 5 mph."
+          "detailedForecast": "Sunny, with a high near 84. North wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1751994000000,
+          "timestamp": 1751997600000,
           "temp": 75,
           "snowfall": 29,
           "snowAmount": "",
           "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers after 2pm. Mostly sunny, with a high near 75. Southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Scattered rain showers. Mostly sunny, with a high near 75. West wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1751994000000,
+          "timestamp": 1751997600000,
           "temp": 78,
           "snowfall": 28,
           "snowAmount": "",
           "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers after 2pm. Mostly sunny, with a high near 78. Southwest wind around 5 mph. Chance of precipitation is 30%."
+          "detailedForecast": "Scattered rain showers. Mostly sunny, with a high near 78. West wind around 5 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
