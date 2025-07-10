@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-07-10T09:01:38.971Z",
+  "timestamp": "2025-07-10T10:00:37.816Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1752138000000,
-          "temp": 65,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 65. North wind around 2 mph."
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "timestamp": 1752141600000,
           "temp": 85,
           "snowfall": 19,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Slight Chance Rain Showers",
-          "detailedForecast": "Patchy fog before 8am, then a slight chance of rain showers. Mostly sunny, with a high near 85. North northeast wind around 5 mph."
+          "detailedForecast": "Patchy fog before 8am, then a slight chance of rain showers. Mostly sunny, with a high near 85. North northeast wind around 5 mph. Chance of precipitation is 20%."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1752184800000,
           "temp": 65,
           "snowfall": 19,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Sunny then Chance Showers And Thunderstorms",
           "detailedForecast": "A chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly sunny, with a high near 90. Southeast wind 1 to 7 mph. Chance of precipitation is 30%. New rainfall amounts between a quarter and half of an inch possible."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1752271200000,
+          "temp": 70,
+          "snowfall": 26,
+          "snowAmount": "",
+          "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+          "detailedForecast": "A chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 70. South wind 2 to 7 mph. Chance of precipitation is 30%. New rainfall amounts between a quarter and half of an inch possible."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1752134400000,
-          "temp": 57,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly clear, with a low around 57. North wind around 0 mph."
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "timestamp": 1752141600000,
           "temp": 77,
           "snowfall": 1,
@@ -64,7 +55,7 @@
           "detailedForecast": "Patchy fog before 8am. Sunny, with a high near 77. West wind 0 to 5 mph."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1752184800000,
           "temp": 60,
           "snowfall": 6,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers after 8am. Partly sunny, with a high near 80. Southeast wind 0 to 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1752271200000,
+          "temp": 66,
+          "snowfall": 33,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers then Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of rain showers before 2am, then a chance of showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 66. East wind around 5 mph. Chance of precipitation is 30%."
         }
       ]
     },
@@ -87,16 +87,7 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1752134400000,
-          "temp": 56,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly clear. Low around 56, with temperatures rising to around 58 overnight. Wind around 0 mph."
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "timestamp": 1752141600000,
           "temp": 82,
           "snowfall": 0,
@@ -105,7 +96,7 @@
           "detailedForecast": "Patchy fog before 8am. Mostly sunny, with a high near 82. Northwest wind 0 to 5 mph."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1752184800000,
           "temp": 59,
           "snowfall": 5,
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers after 8am. Partly sunny, with a high near 81. South wind 5 to 10 mph. Chance of precipitation is 30%."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1752271200000,
+          "temp": 67,
+          "snowfall": 27,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers then Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of rain showers before 2am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 67. Southeast wind 5 to 10 mph. Chance of precipitation is 30%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
