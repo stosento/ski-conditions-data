@@ -1,16 +1,44 @@
 {
-  "timestamp": "2025-07-15T10:00:35.007Z",
+  "timestamp": "2025-07-15T11:00:31.606Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1752573638622,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Today",
+          "timestamp": 1752577200000,
+          "temp": 90,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 90. South southwest wind 1 to 7 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1752616800000,
+          "temp": 69,
+          "snowfall": 12,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 69. South wind 2 to 6 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1752660000000,
+          "temp": 89,
+          "snowfall": 45,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers between 8am and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Partly sunny. High near 89, with temperatures falling to around 86 in the afternoon. South wind 2 to 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1752703200000,
+          "temp": 71,
+          "snowfall": 45,
+          "snowAmount": "",
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms. Partly cloudy, with a low around 71. South southwest wind 3 to 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -18,12 +46,40 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1752573641839,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Today",
+          "timestamp": 1752577200000,
+          "temp": 86,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze and patchy fog before 4pm. Mostly sunny, with a high near 86. Southwest wind 5 to 10 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1752616800000,
+          "temp": 66,
+          "snowfall": 10,
+          "snowAmount": "",
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze. Mostly clear. Low around 66, with temperatures rising to around 68 overnight. Southwest wind 5 to 10 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1752660000000,
+          "temp": 80,
+          "snowfall": 22,
+          "snowAmount": "",
+          "shortForecast": "Isolated Rain Showers then Isolated Showers And Thunderstorms",
+          "detailedForecast": "Isolated rain showers between 8am and 2pm, then isolated showers and thunderstorms. Partly sunny. High near 80, with temperatures falling to around 78 in the afternoon. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1752703200000,
+          "temp": 58,
+          "snowfall": 74,
+          "snowAmount": "",
+          "shortForecast": "Isolated Showers And Thunderstorms then Rain Likely",
+          "detailedForecast": "Isolated showers and thunderstorms before 8pm, then rain likely and scattered thunderstorms. Mostly cloudy, with a low around 58. Northeast wind around 5 mph. Chance of precipitation is 70%."
         }
       ]
     },
@@ -31,24 +87,52 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1752573645077,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Today",
+          "timestamp": 1752577200000,
+          "temp": 88,
+          "snowfall": 7,
+          "snowAmount": "",
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze and patchy fog. Sunny, with a high near 88. Southwest wind 5 to 10 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1752616800000,
+          "temp": 65,
+          "snowfall": 7,
+          "snowAmount": "",
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze between 8pm and 4am. Mostly clear, with a low around 65. Southwest wind 5 to 10 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1752660000000,
+          "temp": 84,
+          "snowfall": 49,
+          "snowAmount": "",
+          "shortForecast": "Isolated Rain Showers then Scattered Showers And Thunderstorms",
+          "detailedForecast": "Isolated rain showers between 8am and 2pm, then scattered showers and thunderstorms. Mostly sunny. High near 84, with temperatures falling to around 80 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 50%."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1752703200000,
+          "temp": 58,
+          "snowfall": 69,
+          "snowAmount": "",
+          "shortForecast": "Scattered Showers And Thunderstorms then Light Rain Likely",
+          "detailedForecast": "Scattered showers and thunderstorms before 8pm, then rain likely and scattered thunderstorms. Mostly cloudy, with a low around 58. Northeast wind around 5 mph. Chance of precipitation is 70%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
