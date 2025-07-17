@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-17T17:01:52.596Z",
+  "timestamp": "2025-07-17T18:00:40.028Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1752757200000,
+          "name": "This Afternoon",
+          "timestamp": 1752775200000,
           "temp": 79,
-          "snowfall": 6,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 79. West northwest wind around 13 mph, with gusts as high as 22 mph."
+          "detailedForecast": "Partly sunny, with a high near 79. West northwest wind around 12 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1752771600000,
+          "timestamp": 1752775200000,
           "temp": 67,
-          "snowfall": 23,
+          "snowfall": 14,
           "snowAmount": "",
-          "shortForecast": "Areas Of Drizzle",
-          "detailedForecast": "Areas of drizzle and isolated rain showers before 2pm. Partly sunny, with a high near 67. North wind around 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 67. North wind 10 to 15 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1752771600000,
+          "timestamp": 1752775200000,
           "temp": 65,
-          "snowfall": 30,
+          "snowfall": 21,
           "snowAmount": "",
-          "shortForecast": "Areas Of Drizzle",
-          "detailedForecast": "Areas of drizzle and scattered rain showers before 5pm. Mostly cloudy. High near 65, with temperatures falling to around 62 in the afternoon. North wind around 10 mph. Chance of precipitation is 30%."
+          "shortForecast": "Patchy Drizzle",
+          "detailedForecast": "Patchy drizzle before 5pm. Mostly cloudy. High near 65, with temperatures falling to around 62 in the afternoon. North wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
