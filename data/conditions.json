@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-17T08:00:39.845Z",
+  "timestamp": "2025-07-17T09:02:21.300Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1752739200000,
+          "timestamp": 1752742800000,
           "temp": 71,
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 5am. Mostly cloudy, with a low around 71. Southwest wind around 8 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 71. Southwest wind around 8 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Thursday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1752739200000,
+          "timestamp": 1752742800000,
           "temp": 58,
-          "snowfall": 68,
+          "snowfall": 31,
           "snowAmount": "",
-          "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely. Cloudy. Low around 58, with temperatures rising to around 61 overnight. Northeast wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A chance of rain. Cloudy. Low around 58, with temperatures rising to around 60 overnight. North wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1752739200000,
+          "timestamp": 1752742800000,
           "temp": 58,
-          "snowfall": 85,
+          "snowfall": 49,
           "snowAmount": "",
-          "shortForecast": "Rain",
-          "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy. Low around 58, with temperatures rising to around 61 overnight. Northeast wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Chance Rain",
+          "detailedForecast": "A chance of rain. Cloudy, with a low around 58. North wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Thursday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
