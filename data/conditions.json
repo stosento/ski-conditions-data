@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-18T11:00:40.386Z",
+  "timestamp": "2025-07-18T12:00:34.799Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1752832800000,
+          "timestamp": 1752836400000,
           "temp": 78,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 78. East northeast wind 3 to 8 mph."
+          "detailedForecast": "Sunny, with a high near 78. East northeast wind 5 to 8 mph."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1752836400000,
+          "timestamp": 1752840000000,
           "temp": 73,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1752836400000,
+          "timestamp": 1752840000000,
           "temp": 75,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
