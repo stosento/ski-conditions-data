@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-18T03:28:14.859Z",
+  "timestamp": "2025-07-18T04:13:17.897Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1752807600000,
+          "timestamp": 1752789600000,
           "temp": 56,
-          "snowfall": 4,
+          "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 56. North northeast wind 3 to 8 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 56. North wind 3 to 10 mph."
         },
         {
           "name": "Friday",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1752807600000,
+          "name": "Overnight",
+          "timestamp": 1752811200000,
           "temp": 50,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 50. North wind around 0 mph."
+          "detailedForecast": "Clear, with a low around 50. Northwest wind around 0 mph."
         },
         {
           "name": "Friday",
@@ -87,12 +87,12 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1752807600000,
+          "name": "Overnight",
+          "timestamp": 1752811200000,
           "temp": 46,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Clear then Patchy Fog",
+          "shortForecast": "Patchy Fog",
           "detailedForecast": "Patchy fog after 3am. Clear, with a low around 46. Northwest wind 0 to 5 mph."
         },
         {
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
