@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-19T04:07:19.625Z",
+  "timestamp": "2025-07-19T05:02:34.415Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1752897600000,
+          "name": "Tonight",
+          "timestamp": 1752886800000,
           "temp": 60,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 60. South wind around 3 mph."
+          "detailedForecast": "Mostly clear, with a low around 60. South southeast wind 1 to 5 mph."
         },
         {
           "name": "Saturday",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1752894000000,
+          "name": "Overnight",
+          "timestamp": 1752901200000,
           "temp": 58,
           "snowfall": 23,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 5am. Partly cloudy, with a low around 58. Southeast wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 5am. Mostly cloudy, with a low around 58. South wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1752894000000,
+          "name": "Overnight",
+          "timestamp": 1752901200000,
           "temp": 56,
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 56. South wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Partly cloudy, with a low around 56. South wind 0 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
