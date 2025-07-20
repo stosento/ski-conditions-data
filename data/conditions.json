@@ -1,14 +1,14 @@
 {
-  "timestamp": "2025-07-20T19:00:30.717Z",
+  "timestamp": "2025-07-20T20:00:42.307Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1753038000000,
+          "timestamp": 1753041600000,
           "temp": 79,
-          "snowfall": 5,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
           "detailedForecast": "Partly sunny, with a high near 79. North wind around 9 mph."
@@ -17,7 +17,7 @@
           "name": "Tonight",
           "timestamp": 1753048800000,
           "temp": 58,
-          "snowfall": 5,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 58. North northeast wind 3 to 9 mph."
@@ -25,20 +25,20 @@
         {
           "name": "Monday",
           "timestamp": 1753092000000,
-          "temp": 78,
-          "snowfall": 1,
+          "temp": 76,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 78. North northeast wind 6 to 10 mph."
+          "detailedForecast": "Sunny, with a high near 76. North northeast wind 6 to 10 mph."
         },
         {
           "name": "Monday Night",
           "timestamp": 1753135200000,
-          "temp": 56,
+          "temp": 55,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 56. Northeast wind 2 to 10 mph."
+          "detailedForecast": "Mostly clear, with a low around 55. Northeast wind 2 to 10 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1753038000000,
+          "timestamp": 1753041600000,
           "temp": 75,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 75. Northwest wind around 10 mph."
+          "shortForecast": "Patchy Smoke",
+          "detailedForecast": "Patchy smoke before 5pm. Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -70,16 +70,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 77, with temperatures falling to around 75 in the afternoon. East wind around 5 mph."
+          "detailedForecast": "Sunny, with a high near 77. East wind around 5 mph."
         },
         {
           "name": "Monday Night",
           "timestamp": 1753135200000,
-          "temp": 58,
-          "snowfall": 3,
+          "temp": 59,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 58. Southeast wind around 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 59. Southeast wind around 5 mph."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1753038000000,
+          "timestamp": 1753041600000,
           "temp": 76,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 76, with temperatures falling to around 74 in the afternoon. Northwest wind around 10 mph."
+          "shortForecast": "Patchy Smoke",
+          "detailedForecast": "Patchy smoke. Sunny. High near 76, with temperatures falling to around 74 in the afternoon. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -101,8 +101,8 @@
           "temp": 48,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 48. North wind 0 to 10 mph."
+          "shortForecast": "Patchy Smoke then Mostly Clear",
+          "detailedForecast": "Patchy smoke before 9pm. Mostly clear, with a low around 48. North wind 0 to 10 mph."
         },
         {
           "name": "Monday",
@@ -117,7 +117,7 @@
           "name": "Monday Night",
           "timestamp": 1753135200000,
           "temp": 54,
-          "snowfall": 1,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 54. Southeast wind around 5 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
