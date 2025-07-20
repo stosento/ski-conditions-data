@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-07-20T21:00:30.789Z",
+  "timestamp": "2025-07-20T22:00:35.473Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1753045200000,
-          "temp": 79,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 79. North wind around 9 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1753048800000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 55. Northeast wind 2 to 10 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1753178400000,
+          "temp": 81,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 81. East wind 2 to 7 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1753045200000,
-          "temp": 75,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Northwest wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1753048800000,
@@ -80,21 +71,21 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 59. Southeast wind around 5 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1753178400000,
+          "temp": 80,
+          "snowfall": 4,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 80. South wind around 5 mph."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1753045200000,
-          "temp": 76,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Patchy Smoke",
-          "detailedForecast": "Patchy smoke. Sunny. High near 76, with temperatures falling to around 73 in the afternoon. Northwest wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1753048800000,
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 54. Southeast wind around 5 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1753178400000,
+          "temp": 80,
+          "snowfall": 4,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 80. South wind 5 to 10 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
