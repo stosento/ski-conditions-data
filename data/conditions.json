@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-07-24T15:00:40.532Z",
+  "timestamp": "2025-07-24T16:00:38.765Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1753369200000,
-          "temp": 94,
-          "snowfall": 17,
+          "name": "This Afternoon",
+          "timestamp": 1753372800000,
+          "temp": 96,
+          "snowfall": 8,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms after 5pm. Mostly sunny, with a high near 94. Southwest wind around 13 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 103. Southwest wind 10 to 14 mph, with gusts as high as 22 mph. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1753394400000,
-          "temp": 72,
-          "snowfall": 67,
+          "temp": 73,
+          "snowfall": 61,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-          "detailedForecast": "A chance of showers and thunderstorms before 9pm, then showers and thunderstorms likely. Mostly cloudy. Low around 72, with temperatures rising to around 74 overnight. West southwest wind 5 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms before 10pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 73. Heat index values as high as 101. West wind 5 to 13 mph, with gusts as high as 21 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Friday",
           "timestamp": 1753437600000,
           "temp": 85,
-          "snowfall": 40,
+          "snowfall": 34,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy. High near 85, with temperatures falling to around 83 in the afternoon. North northwest wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms. Mostly cloudy. High near 85, with temperatures falling to around 83 in the afternoon. North northwest wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday Night",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1753369200000,
+          "name": "This Afternoon",
+          "timestamp": 1753372800000,
           "temp": 80,
           "snowfall": 69,
           "snowAmount": "",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1753369200000,
+          "name": "This Afternoon",
+          "timestamp": 1753372800000,
           "temp": 83,
           "snowfall": 69,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
