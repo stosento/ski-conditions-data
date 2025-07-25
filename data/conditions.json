@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-25T02:37:06.291Z",
+  "timestamp": "2025-07-25T03:28:15.753Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1753408800000,
+          "timestamp": 1753412400000,
           "temp": 73,
-          "snowfall": 58,
+          "snowfall": 22,
           "snowAmount": "",
-          "shortForecast": "Showers And Thunderstorms Likely then Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms likely before 11pm, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 73. West wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 73. West wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Friday",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1753408800000,
+          "timestamp": 1753412400000,
           "temp": 59,
-          "snowfall": 6,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Patchy Fog",
           "detailedForecast": "Patchy fog between midnight and 1am, then haze and patchy fog between 1am and 3am, then patchy fog and patchy smoke. Partly cloudy. Low around 59, with temperatures rising to around 61 overnight. Northwest wind around 5 mph."
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1753408800000,
+          "timestamp": 1753412400000,
           "temp": 60,
-          "snowfall": 14,
+          "snowfall": 13,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog between 11pm and 3am, then haze and patchy fog. Mostly cloudy, with a low around 60. Northwest wind 0 to 5 mph."
+          "detailedForecast": "Patchy fog before 3am, then haze and patchy fog. Mostly cloudy, with a low around 60. Northwest wind 0 to 5 mph."
         },
         {
           "name": "Friday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
