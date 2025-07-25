@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-07-25T21:00:37.946Z",
+  "timestamp": "2025-07-25T22:00:27.871Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1753477200000,
-          "temp": 84,
-          "snowfall": 32,
-          "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy. High near 84, with temperatures falling to around 82 in the afternoon. Northeast wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1753480800000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely",
           "detailedForecast": "Showers and thunderstorms likely before 8pm, then a chance of showers and thunderstorms between 8pm and 11pm, then a chance of showers and thunderstorms between 11pm and 2am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 70. Southwest wind 2 to 6 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1753610400000,
+          "temp": 89,
+          "snowfall": 22,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of rain showers before 8am, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 89. West northwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1753477200000,
-          "temp": 79,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Haze",
-          "detailedForecast": "Haze. Sunny, with a high near 79. North wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1753480800000,
@@ -80,21 +71,21 @@
           "snowAmount": "",
           "shortForecast": "Haze then Mostly Clear",
           "detailedForecast": "Haze before 8pm. Mostly clear, with a low around 64. West wind 0 to 5 mph."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1753610400000,
+          "temp": 84,
+          "snowfall": 3,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 84. West wind 5 to 10 mph."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1753477200000,
-          "temp": 80,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Haze",
-          "detailedForecast": "Haze. Sunny, with a high near 80. Northeast wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1753480800000,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Isolated Showers And Thunderstorms then Mostly Clear",
           "detailedForecast": "Isolated showers and thunderstorms before 8pm. Mostly clear, with a low around 63. West wind 0 to 10 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1753610400000,
+          "temp": 88,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 88. West wind around 5 mph."
         }
       ]
     }
