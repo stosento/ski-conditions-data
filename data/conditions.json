@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-07-26T09:00:42.172Z",
+  "timestamp": "2025-07-26T10:00:31.155Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1753520400000,
-          "temp": 67,
-          "snowfall": 21,
-          "snowAmount": "",
-          "shortForecast": "Isolated Showers And Thunderstorms",
-          "detailedForecast": "Isolated showers and thunderstorms. Cloudy, with a low around 67. Northeast wind around 2 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1753524000000,
           "temp": 83,
           "snowfall": 54,
@@ -23,7 +14,7 @@
           "detailedForecast": "Scattered showers and thunderstorms. Mostly cloudy. High near 83, with temperatures falling to around 80 in the afternoon. South southeast wind 2 to 7 mph. Chance of precipitation is 50%. New rainfall amounts between a half and three quarters of an inch possible."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1753567200000,
           "temp": 71,
           "snowfall": 54,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Isolated Showers And Thunderstorms then Mostly Sunny",
           "detailedForecast": "Isolated showers and thunderstorms before 8am. Mostly sunny, with a high near 89. Northwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1753653600000,
+          "temp": 70,
+          "snowfall": 9,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 70. West southwest wind around 3 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1753516800000,
-          "temp": 64,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly cloudy, with a low around 64. Southeast wind around 5 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1753524000000,
           "temp": 82,
           "snowfall": 18,
@@ -64,7 +55,7 @@
           "detailedForecast": "Areas of smoke before 2pm, then areas of smoke and a slight chance of rain showers. Partly sunny, with a high near 82. South wind around 5 mph. Chance of precipitation is 20%."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1753567200000,
           "temp": 64,
           "snowfall": 15,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 83. West wind 5 to 10 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1753653600000,
+          "temp": 67,
+          "snowfall": 7,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 67. Southwest wind around 5 mph."
         }
       ]
     },
@@ -87,16 +87,7 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1753520400000,
-          "temp": 62,
-          "snowfall": 4,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly cloudy, with a low around 62. South wind around 5 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1753524000000,
           "temp": 81,
           "snowfall": 19,
@@ -105,7 +96,7 @@
           "detailedForecast": "Areas of smoke before noon, then a slight chance of rain showers. Partly sunny, with a high near 81. South wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1753567200000,
           "temp": 63,
           "snowfall": 19,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 88. West wind around 5 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1753653600000,
+          "temp": 65,
+          "snowfall": 4,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 65. West wind 0 to 5 mph."
         }
       ]
     }
