@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-27T00:00:53.518Z",
+  "timestamp": "2025-07-27T01:28:55.786Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1753574400000,
+          "timestamp": 1753578000000,
           "temp": 71,
-          "snowfall": 47,
+          "snowfall": 46,
           "snowAmount": "",
-          "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms before 2am, then scattered showers and thunderstorms. Mostly cloudy, with a low around 71. Southwest wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 71. West southwest wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Sunday",
@@ -19,8 +19,8 @@
           "temp": 90,
           "snowfall": 21,
           "snowAmount": "",
-          "shortForecast": "Isolated Rain Showers then Mostly Sunny",
-          "detailedForecast": "Isolated rain showers before 7am. Mostly sunny, with a high near 90. Northwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
+          "detailedForecast": "A slight chance of rain showers before 7am. Mostly sunny, with a high near 90. Northwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Sunday Night",
@@ -47,30 +47,30 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1753574400000,
-          "temp": 64,
+          "timestamp": 1753578000000,
+          "temp": 66,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Patchy Fog",
-          "detailedForecast": "Patchy fog after 4am. Partly cloudy, with a low around 64. West wind around 5 mph."
+          "detailedForecast": "Patchy fog after 4am. Partly cloudy. Low around 66, with temperatures rising to around 68 overnight. West wind around 5 mph."
         },
         {
           "name": "Sunday",
           "timestamp": 1753610400000,
-          "temp": 83,
+          "temp": 85,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog before 9am. Mostly sunny, with a high near 83. West wind 5 to 10 mph."
+          "detailedForecast": "Patchy fog before 9am. Mostly sunny, with a high near 85. West wind 5 to 10 mph."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1753653600000,
-          "temp": 67,
+          "temp": 68,
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 67. West wind around 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 68. West wind around 5 mph."
         },
         {
           "name": "Monday",
@@ -88,51 +88,51 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1753570800000,
+          "timestamp": 1753578000000,
           "temp": 63,
-          "snowfall": 6,
+          "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Scattered Showers And Thunderstorms then Patchy Fog",
-          "detailedForecast": "Scattered showers and thunderstorms before 8pm, then patchy fog. Partly cloudy, with a low around 63. West wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Partly Cloudy then Patchy Fog",
+          "detailedForecast": "Patchy fog after 2am. Partly cloudy. Low around 63, with temperatures rising to around 66 overnight. West wind around 5 mph."
         },
         {
           "name": "Sunday",
           "timestamp": 1753610400000,
-          "temp": 88,
+          "temp": 89,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Sunny",
-          "detailedForecast": "Patchy fog before 9am. Sunny, with a high near 88. West wind 5 to 10 mph."
+          "detailedForecast": "Patchy fog before 9am. Sunny, with a high near 89. West wind 5 to 10 mph."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1753653600000,
-          "temp": 65,
+          "temp": 66,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 65. West wind 0 to 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 66. West wind 0 to 5 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1753696800000,
-          "temp": 88,
+          "temp": 87,
           "snowfall": 29,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of rain showers between 8am and 11am, then a chance of showers and thunderstorms. Mostly sunny, with a high near 88. West wind 5 to 10 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A slight chance of rain showers between 8am and 11am, then a chance of showers and thunderstorms. Mostly sunny, with a high near 87. West wind 5 to 10 mph. Chance of precipitation is 30%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
