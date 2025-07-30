@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-07-30T09:03:37.842Z",
+  "timestamp": "2025-07-30T10:00:35.987Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1753866000000,
-          "temp": 68,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 68. North northwest wind around 3 mph."
-        },
-        {
-          "name": "Wednesday",
+          "name": "Today",
           "timestamp": 1753869600000,
           "temp": 85,
           "snowfall": 20,
@@ -23,7 +14,7 @@
           "detailedForecast": "A slight chance of rain showers after 5pm. Partly sunny. High near 85, with temperatures falling to around 83 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
-          "name": "Wednesday Night",
+          "name": "Tonight",
           "timestamp": 1753912800000,
           "temp": 62,
           "snowfall": 68,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
           "detailedForecast": "Rain showers likely before 2pm. Mostly cloudy, with a high near 75. Northeast wind 7 to 12 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1753999200000,
+          "temp": 59,
+          "snowfall": 10,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 59. North northeast wind 6 to 12 mph, with gusts as high as 20 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1753866000000,
-          "temp": 58,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Cloudy. Low around 58, with temperatures rising to around 60 overnight. North wind around 5 mph."
-        },
-        {
-          "name": "Wednesday",
+          "name": "Today",
           "timestamp": 1753869600000,
           "temp": 75,
           "snowfall": 2,
@@ -64,7 +55,7 @@
           "detailedForecast": "Areas of smoke before 5pm. Mostly cloudy, with a high near 75. North wind 5 to 10 mph."
         },
         {
-          "name": "Wednesday Night",
+          "name": "Tonight",
           "timestamp": 1753912800000,
           "temp": 55,
           "snowfall": 0,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 73. Northeast wind 5 to 10 mph."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1753999200000,
+          "temp": 50,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 50. North wind around 5 mph."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1753866000000,
-          "temp": 59,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly cloudy, with a low around 59. North wind around 5 mph."
-        },
-        {
-          "name": "Wednesday",
+          "name": "Today",
           "timestamp": 1753869600000,
           "temp": 77,
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Partly sunny. High near 77, with temperatures falling to around 75 in the afternoon. North wind 5 to 10 mph."
+          "detailedForecast": "Areas of smoke. Partly sunny. High near 77, with temperatures falling to around 75 in the afternoon. North wind 0 to 10 mph."
         },
         {
-          "name": "Wednesday Night",
+          "name": "Tonight",
           "timestamp": 1753912800000,
           "temp": 51,
           "snowfall": 5,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 73. Northeast wind 5 to 10 mph."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1753999200000,
+          "temp": 45,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 45. North wind 5 to 10 mph."
         }
       ]
     }
