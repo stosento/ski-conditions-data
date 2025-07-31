@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-31T08:00:51.114Z",
+  "timestamp": "2025-07-31T09:02:59.838Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1753948800000,
+          "timestamp": 1753952400000,
           "temp": 62,
           "snowfall": 71,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1753948800000,
+          "timestamp": 1753952400000,
           "temp": 56,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 56. Northeast wind around 10 mph."
+          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 56. North wind around 10 mph."
         },
         {
           "name": "Thursday",
@@ -60,17 +60,17 @@
           "temp": 74,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 74. Northeast wind around 10 mph."
+          "shortForecast": "Areas Of Smoke then Sunny",
+          "detailedForecast": "Areas of smoke before 10am. Sunny, with a high near 74. Northeast wind around 10 mph."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1753999200000,
-          "temp": 53,
+          "temp": 51,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke then Partly Cloudy",
-          "detailedForecast": "Areas of smoke before midnight. Partly cloudy, with a low around 53. North wind 5 to 10 mph."
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 51. North wind 5 to 10 mph."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1753948800000,
-          "temp": 52,
+          "timestamp": 1753952400000,
+          "temp": 51,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 52. North wind 0 to 5 mph."
+          "detailedForecast": "Areas of smoke. Mostly cloudy, with a low around 51. North wind around 5 mph."
         },
         {
           "name": "Thursday",
@@ -101,17 +101,17 @@
           "temp": 72,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 72. Northeast wind 5 to 10 mph."
+          "shortForecast": "Areas Of Smoke then Mostly Sunny",
+          "detailedForecast": "Areas of smoke before 11am. Mostly sunny, with a high near 72. Northeast wind 5 to 10 mph."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1753999200000,
-          "temp": 48,
+          "temp": 47,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke then Partly Cloudy",
-          "detailedForecast": "Areas of smoke before midnight. Partly cloudy, with a low around 48. Northeast wind 5 to 10 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 47. Northeast wind 5 to 10 mph."
         },
         {
           "name": "Friday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
