@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-07-31T13:12:38.022Z",
+  "timestamp": "2025-07-31T14:02:00.758Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1753956000000,
-          "temp": 75,
-          "snowfall": 71,
+          "timestamp": 1753970400000,
+          "temp": 74,
+          "snowfall": 42,
           "snowAmount": "",
-          "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely before 2pm. Mostly cloudy, with a high near 75. Northeast wind 7 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Chance Rain Showers then Haze",
+          "detailedForecast": "A chance of rain showers before 11am, then haze and a chance of rain showers. Partly sunny, with a high near 74. Northeast wind 9 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -19,8 +19,8 @@
           "temp": 56,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 56, with temperatures rising to around 58 overnight. North northeast wind 7 to 13 mph, with gusts as high as 22 mph."
+          "shortForecast": "Haze then Mostly Clear",
+          "detailedForecast": "Haze before 8pm. Mostly clear. Low around 56, with temperatures rising to around 58 overnight. North northeast wind 7 to 13 mph, with gusts as high as 22 mph."
         },
         {
           "name": "Friday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1753966800000,
+          "timestamp": 1753970400000,
           "temp": 74,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke then Sunny",
-          "detailedForecast": "Areas of smoke before 10am. Sunny, with a high near 74. Northeast wind 5 to 10 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 74. Northeast wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1753966800000,
+          "timestamp": 1753970400000,
           "temp": 72,
           "snowfall": 1,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
