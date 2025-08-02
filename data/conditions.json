@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-08-02T09:01:27.052Z",
+  "timestamp": "2025-08-02T10:00:31.919Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1754125200000,
-          "temp": 54,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 54. North wind around 3 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1754128800000,
           "temp": 80,
           "snowfall": 0,
@@ -23,7 +14,7 @@
           "detailedForecast": "Areas of smoke after 4pm. Sunny, with a high near 80. North northeast wind around 5 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1754172000000,
           "temp": 59,
           "snowfall": 0,
@@ -38,7 +29,16 @@
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 83. Northeast wind 1 to 6 mph."
+          "detailedForecast": "Sunny. High near 83, with temperatures falling to around 81 in the afternoon. Northeast wind 1 to 6 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1754258400000,
+          "temp": 60,
+          "snowfall": 4,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 60. East southeast wind 1 to 6 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1754125200000,
-          "temp": 55,
-          "snowfall": 5,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 55. Southwest wind around 5 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1754128800000,
           "temp": 75,
           "snowfall": 6,
@@ -64,7 +55,7 @@
           "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 75. West wind 5 to 10 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1754172000000,
           "temp": 59,
           "snowfall": 2,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 79. West wind 5 to 10 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1754258400000,
+          "temp": 58,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Patchy Smoke then Mostly Clear",
+          "detailedForecast": "Patchy smoke before 8pm. Mostly clear, with a low around 58. South wind 0 to 5 mph."
         }
       ]
     },
@@ -87,16 +87,7 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1754125200000,
-          "temp": 47,
-          "snowfall": 4,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 47. Southwest wind around 5 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1754128800000,
           "temp": 77,
           "snowfall": 5,
@@ -105,7 +96,7 @@
           "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 77. West wind 5 to 10 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1754172000000,
           "temp": 54,
           "snowfall": 2,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 80. West wind 5 to 10 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1754258400000,
+          "temp": 56,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Patchy Smoke then Mostly Clear",
+          "detailedForecast": "Patchy smoke before 8pm. Mostly clear, with a low around 56. Northeast wind 0 to 10 mph."
         }
       ]
     }
