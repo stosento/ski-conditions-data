@@ -1,16 +1,16 @@
 {
-  "timestamp": "2025-08-02T15:00:30.418Z",
+  "timestamp": "2025-08-02T16:00:27.904Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1754146800000,
+          "name": "This Afternoon",
+          "timestamp": 1754150400000,
           "temp": 80,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny then Areas Of Smoke",
+          "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke after 2pm. Sunny. High near 80, with temperatures falling to around 77 in the afternoon. Northeast wind around 5 mph."
         },
         {
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1754146800000,
+          "name": "This Afternoon",
+          "timestamp": 1754150400000,
           "temp": 75,
           "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 75. West wind around 10 mph."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze. Sunny, with a high near 75. West wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -60,8 +60,8 @@
           "temp": 59,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 59. Southwest wind 5 to 10 mph."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze. Mostly clear, with a low around 59. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Sunday",
@@ -69,8 +69,8 @@
           "temp": 79,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 79. West wind 5 to 10 mph."
+          "shortForecast": "Patchy Smoke",
+          "detailedForecast": "Haze before 8am, then patchy smoke. Mostly sunny, with a high near 79. West wind 5 to 10 mph."
         },
         {
           "name": "Sunday Night",
@@ -89,11 +89,11 @@
         {
           "name": "Today",
           "timestamp": 1754146800000,
-          "temp": 77,
+          "temp": 75,
           "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 77. Northwest wind around 10 mph."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze. Sunny, with a high near 75. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -101,8 +101,8 @@
           "temp": 54,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 54. West wind 5 to 10 mph."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze. Mostly clear, with a low around 54. West wind 5 to 10 mph."
         },
         {
           "name": "Sunday",
@@ -110,8 +110,8 @@
           "temp": 80,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 80. West wind 5 to 10 mph."
+          "shortForecast": "Patchy Smoke",
+          "detailedForecast": "Haze before 8am, then patchy smoke. Mostly sunny, with a high near 80. West wind 5 to 10 mph."
         },
         {
           "name": "Sunday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
