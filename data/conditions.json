@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-02T05:03:31.998Z",
+  "timestamp": "2025-08-02T06:00:35.638Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1754103600000,
+          "name": "Overnight",
+          "timestamp": 1754114400000,
           "temp": 54,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1754110800000,
+          "timestamp": 1754114400000,
           "temp": 55,
-          "snowfall": 10,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 55. Southwest wind around 5 mph."
@@ -58,7 +58,7 @@
           "name": "Saturday",
           "timestamp": 1754128800000,
           "temp": 75,
-          "snowfall": 11,
+          "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 75. West wind 5 to 10 mph."
@@ -67,10 +67,10 @@
           "name": "Saturday Night",
           "timestamp": 1754172000000,
           "temp": 59,
-          "snowfall": 7,
+          "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke then Partly Cloudy",
-          "detailedForecast": "Areas of smoke before 8pm. Partly cloudy. Low around 59, with temperatures rising to around 61 overnight. West wind 5 to 10 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 59. West wind 5 to 10 mph."
         },
         {
           "name": "Sunday",
@@ -78,8 +78,8 @@
           "temp": 79,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 79. West wind 5 to 10 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 79. West wind 5 to 10 mph."
         }
       ]
     },
@@ -88,18 +88,18 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1754110800000,
+          "timestamp": 1754114400000,
           "temp": 48,
-          "snowfall": 9,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly clear, with a low around 48. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 48. Southwest wind around 5 mph."
         },
         {
           "name": "Saturday",
           "timestamp": 1754128800000,
           "temp": 77,
-          "snowfall": 10,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 77. West wind 5 to 10 mph."
@@ -107,11 +107,11 @@
         {
           "name": "Saturday Night",
           "timestamp": 1754172000000,
-          "temp": 55,
-          "snowfall": 7,
+          "temp": 54,
+          "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke then Mostly Clear",
-          "detailedForecast": "Areas of smoke before 8pm. Mostly clear, with a low around 55. West wind 5 to 10 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 54. West wind 5 to 10 mph."
         },
         {
           "name": "Sunday",
@@ -119,20 +119,20 @@
           "temp": 80,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 80. West wind around 5 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 80. West wind 5 to 10 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
