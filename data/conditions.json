@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-03T18:00:38.943Z",
+  "timestamp": "2025-08-03T19:01:13.319Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754244000000,
+          "timestamp": 1754247600000,
           "temp": 81,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 81. East southeast wind around 6 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke. Sunny, with a high near 81. East southeast wind around 6 mph."
         },
         {
           "name": "Tonight",
@@ -19,17 +19,17 @@
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 60. South wind 2 to 6 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke. Mostly clear, with a low around 60. South wind 2 to 6 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1754301600000,
-          "temp": 85,
+          "temp": 83,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 85. East northeast wind 2 to 8 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke before 2pm. Sunny, with a high near 83. East northeast wind 2 to 8 mph."
         },
         {
           "name": "Monday Night",
@@ -37,8 +37,8 @@
           "temp": 62,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 62. East northeast wind 2 to 7 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 62. East northeast wind 2 to 7 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754244000000,
+          "timestamp": 1754247600000,
           "temp": 78,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754244000000,
+          "timestamp": 1754247600000,
           "temp": 80,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
