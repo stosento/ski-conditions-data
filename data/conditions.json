@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-03T06:00:45.994Z",
+  "timestamp": "2025-08-03T07:01:19.648Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1754182800000,
+          "name": "Overnight",
+          "timestamp": 1754204400000,
           "temp": 59,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke then Clear",
-          "detailedForecast": "Areas of smoke before 10pm. Clear, with a low around 59. West southwest wind around 2 mph."
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 59. West northwest wind around 2 mph."
         },
         {
           "name": "Sunday",
@@ -35,10 +35,10 @@
           "name": "Monday",
           "timestamp": 1754301600000,
           "temp": 85,
-          "snowfall": 1,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 85. Northeast wind 1 to 7 mph."
+          "detailedForecast": "Sunny, with a high near 85. East northeast wind 1 to 6 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1754200800000,
+          "timestamp": 1754204400000,
           "temp": 58,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Clear, with a low around 58. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 58. Southwest wind 0 to 5 mph."
         },
         {
           "name": "Sunday",
@@ -60,8 +60,8 @@
           "temp": 78,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke then Haze",
-          "detailedForecast": "Areas of smoke before 7am, then areas of smoke and patchy fog between 7am and 8am, then haze and areas of smoke and patchy fog. Sunny, with a high near 78. West wind 5 to 10 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke before 7am, then areas of smoke and patchy fog. Mostly sunny, with a high near 78. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Sunday Night",
@@ -69,8 +69,8 @@
           "temp": 58,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Haze then Mostly Clear",
-          "detailedForecast": "Haze and areas of smoke before 8pm. Mostly clear, with a low around 58. Southeast wind 0 to 10 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke before 1am. Mostly clear, with a low around 58. Northeast wind 0 to 10 mph."
         },
         {
           "name": "Monday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1754200800000,
+          "timestamp": 1754204400000,
           "temp": 52,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Clear, with a low around 52. West wind around 0 mph."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze and areas of smoke. Partly cloudy, with a low around 52. West wind around 0 mph."
         },
         {
           "name": "Sunday",
@@ -101,8 +101,8 @@
           "temp": 79,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Areas Of Smoke then Haze",
-          "detailedForecast": "Areas of smoke before 8am, then haze and areas of smoke. Sunny, with a high near 79. West wind 0 to 10 mph."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze and areas of smoke. Mostly sunny, with a high near 79. West wind 0 to 10 mph."
         },
         {
           "name": "Sunday Night",
@@ -110,8 +110,8 @@
           "temp": 55,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Haze then Mostly Clear",
-          "detailedForecast": "Haze and areas of smoke before 8pm. Mostly clear, with a low around 55. East wind 0 to 10 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke before 1am. Mostly clear, with a low around 55. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Monday",
@@ -119,20 +119,20 @@
           "temp": 81,
           "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 81. Southeast wind 0 to 5 mph."
+          "shortForecast": "Areas Of Smoke",
+          "detailedForecast": "Areas of smoke after 9am. Mostly sunny, with a high near 81. East wind 0 to 5 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
