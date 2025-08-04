@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-08-04T09:03:57.794Z",
+  "timestamp": "2025-08-04T10:01:30.470Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1754298000000,
-          "temp": 60,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Clear, with a low around 60. North northwest wind around 3 mph."
-        },
-        {
-          "name": "Monday",
+          "name": "Today",
           "timestamp": 1754301600000,
           "temp": 83,
           "snowfall": 2,
@@ -23,7 +14,7 @@
           "detailedForecast": "Areas of smoke before 2pm. Sunny, with a high near 83. East northeast wind 2 to 8 mph."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1754344800000,
           "temp": 62,
           "snowfall": 2,
@@ -38,7 +29,16 @@
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 85. East northeast wind 2 to 8 mph."
+          "detailedForecast": "Mostly sunny. High near 85, with temperatures falling to around 83 in the afternoon. East northeast wind 2 to 8 mph."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1754431200000,
+          "temp": 64,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 64. East wind 2 to 8 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1754298000000,
-          "temp": 55,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke and patchy fog. Partly cloudy. Low around 55, with temperatures rising to around 57 overnight. East wind around 0 mph."
-        },
-        {
-          "name": "Monday",
+          "name": "Today",
           "timestamp": 1754301600000,
           "temp": 80,
           "snowfall": 2,
@@ -64,7 +55,7 @@
           "detailedForecast": "Areas of smoke and patchy fog before 5pm. Mostly sunny, with a high near 80. East wind 0 to 5 mph."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1754344800000,
           "temp": 61,
           "snowfall": 3,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke between 7am and 3pm. Mostly sunny, with a high near 80. East wind 5 to 10 mph."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1754431200000,
+          "temp": 60,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 60. East wind 5 to 10 mph."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1754298000000,
-          "temp": 51,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke and patchy fog. Partly cloudy, with a low around 51. Southeast wind around 0 mph."
-        },
-        {
-          "name": "Monday",
+          "name": "Today",
           "timestamp": 1754301600000,
           "temp": 81,
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Areas Of Smoke",
-          "detailedForecast": "Patchy fog before 8am, then areas of smoke. Mostly sunny, with a high near 81. East wind 0 to 5 mph."
+          "detailedForecast": "Patchy fog before 8am, then areas of smoke. Mostly sunny, with a high near 81. Southeast wind 0 to 5 mph."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1754344800000,
           "temp": 57,
           "snowfall": 5,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke between 7am and 3pm. Mostly sunny, with a high near 80. East wind 5 to 10 mph."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1754431200000,
+          "temp": 58,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 58. East wind 5 to 10 mph."
         }
       ]
     }
