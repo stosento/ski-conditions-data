@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-04T11:01:26.357Z",
+  "timestamp": "2025-08-04T12:00:38.225Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1754305200000,
+          "timestamp": 1754308800000,
           "temp": 83,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke before 2pm. Sunny, with a high near 83. East northeast wind 3 to 8 mph."
+          "detailedForecast": "Areas of smoke between 11am and 2pm. Sunny, with a high near 83. East wind 3 to 8 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1754305200000,
+          "timestamp": 1754308800000,
           "temp": 80,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke and patchy fog before 5pm. Mostly sunny, with a high near 80. East wind 0 to 5 mph."
+          "detailedForecast": "Areas of smoke before 5pm. Mostly sunny, with a high near 80. East wind 0 to 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1754305200000,
+          "timestamp": 1754308800000,
           "temp": 81,
           "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Areas Of Smoke",
-          "detailedForecast": "Patchy fog before 8am, then areas of smoke. Mostly sunny, with a high near 81. Southeast wind around 5 mph."
+          "shortForecast": "Mostly Sunny then Areas Of Smoke",
+          "detailedForecast": "Areas of smoke after noon. Mostly sunny, with a high near 81. Southeast wind 0 to 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
