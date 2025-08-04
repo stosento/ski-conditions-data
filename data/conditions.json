@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-04T07:05:59.680Z",
+  "timestamp": "2025-08-04T08:00:35.237Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1754280000000,
+          "timestamp": 1754294400000,
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke after 4am. Clear, with a low around 60. West northwest wind around 3 mph."
+          "detailedForecast": "Areas of smoke. Clear, with a low around 60. North northwest wind around 3 mph."
         },
         {
           "name": "Monday",
@@ -34,11 +34,11 @@
         {
           "name": "Tuesday",
           "timestamp": 1754388000000,
-          "temp": 86,
-          "snowfall": 1,
+          "temp": 85,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 86. East northeast wind 2 to 8 mph."
+          "detailedForecast": "Mostly sunny, with a high near 85. East northeast wind 2 to 8 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1754290800000,
-          "temp": 56,
+          "timestamp": 1754294400000,
+          "temp": 55,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke before 4am, then areas of smoke and patchy fog. Partly cloudy, with a low around 56. East wind around 0 mph."
+          "detailedForecast": "Areas of smoke and patchy fog. Partly cloudy, with a low around 55. East wind around 0 mph."
         },
         {
           "name": "Monday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1754290800000,
+          "timestamp": 1754294400000,
           "temp": 53,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
