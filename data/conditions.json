@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-05T23:00:33.314Z",
+  "timestamp": "2025-08-06T00:00:51.602Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1754434800000,
+          "timestamp": 1754438400000,
           "temp": 63,
-          "snowfall": 16,
+          "snowfall": 9,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 63. East northeast wind 3 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 63. Northeast wind around 6 mph."
         },
         {
           "name": "Wednesday",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1754434800000,
+          "timestamp": 1754438400000,
           "temp": 57,
-          "snowfall": 14,
+          "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
           "detailedForecast": "Areas of smoke. Partly cloudy, with a low around 57. East wind 5 to 10 mph."
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1754434800000,
+          "timestamp": 1754438400000,
           "temp": 55,
-          "snowfall": 10,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke before 11pm, then areas of smoke and patchy fog. Mostly clear, with a low around 55. East wind 5 to 10 mph."
+          "detailedForecast": "Areas of smoke before 11pm, then areas of smoke and patchy fog. Mostly clear, with a low around 55. East wind around 5 mph."
         },
         {
           "name": "Wednesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
