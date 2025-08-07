@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-07T03:29:42.379Z",
+  "timestamp": "2025-08-07T04:15:55.890Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1754535600000,
+          "name": "Overnight",
+          "timestamp": 1754539200000,
           "temp": 65,
           "snowfall": 2,
           "snowAmount": "",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1754535600000,
+          "name": "Overnight",
+          "timestamp": 1754539200000,
           "temp": 65,
           "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 2am. Mostly cloudy. Low around 65, with temperatures rising to around 67 overnight. Southeast wind around 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of showers and thunderstorms before 2am. Mostly cloudy. Low around 65, with temperatures rising to around 67 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Thursday",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1754535600000,
+          "name": "Overnight",
+          "timestamp": 1754539200000,
           "temp": 62,
           "snowfall": 13,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
