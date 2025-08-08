@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-08T18:00:35.080Z",
+  "timestamp": "2025-08-08T19:01:06.622Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754676000000,
+          "timestamp": 1754679600000,
           "temp": 88,
           "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 88. South wind around 9 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 88. South wind around 9 mph."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754676000000,
+          "timestamp": 1754679600000,
           "temp": 86,
           "snowfall": 9,
           "snowAmount": "",
@@ -67,19 +67,19 @@
           "name": "Saturday",
           "timestamp": 1754733600000,
           "temp": 91,
-          "snowfall": 16,
+          "snowfall": 13,
           "snowAmount": "",
-          "shortForecast": "Sunny then Isolated Showers And Thunderstorms",
-          "detailedForecast": "Isolated showers and thunderstorms after 5pm. Sunny. High near 91, with temperatures falling to around 89 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 91, with temperatures falling to around 89 in the afternoon. Southwest wind around 10 mph."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1754776800000,
           "temp": 69,
-          "snowfall": 53,
+          "snowfall": 30,
           "snowAmount": "",
-          "shortForecast": "Isolated Showers And Thunderstorms then Chance Showers And Thunderstorms",
-          "detailedForecast": "Isolated showers and thunderstorms before 8pm, then a chance of showers and thunderstorms. Partly cloudy, with a low around 69. Southwest wind 5 to 10 mph. Chance of precipitation is 50%."
+          "shortForecast": "Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms between 8pm and 2am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 69. Southwest wind 5 to 10 mph. Chance of precipitation is 30%."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754676000000,
+          "timestamp": 1754679600000,
           "temp": 89,
           "snowfall": 16,
           "snowAmount": "",
@@ -108,31 +108,31 @@
           "name": "Saturday",
           "timestamp": 1754733600000,
           "temp": 92,
-          "snowfall": 11,
+          "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 92. South wind 5 to 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 92. South wind 5 to 10 mph."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1754776800000,
           "temp": 68,
-          "snowfall": 39,
+          "snowfall": 19,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms between 8pm and 2am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 68. Southwest wind 5 to 10 mph. Chance of precipitation is 40%."
+          "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 2am. Partly cloudy, with a low around 68. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
