@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-08-10T18:00:31.284Z",
+  "timestamp": "2025-08-10T19:00:32.066Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754848800000,
+          "timestamp": 1754852400000,
           "temp": 92,
           "snowfall": 1,
           "snowAmount": "",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754848800000,
+          "timestamp": 1754852400000,
           "temp": 83,
-          "snowfall": 27,
+          "snowfall": 28,
           "snowAmount": "",
           "shortForecast": "Scattered Showers And Thunderstorms",
           "detailedForecast": "Scattered showers and thunderstorms. Mostly cloudy, with a high near 83. Southwest wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
@@ -75,11 +75,11 @@
         {
           "name": "Monday Night",
           "timestamp": 1754949600000,
-          "temp": 67,
-          "snowfall": 46,
+          "temp": 66,
+          "snowfall": 54,
           "snowAmount": "",
           "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms before 8pm, then scattered showers and thunderstorms. Mostly cloudy, with a low around 67. Southwest wind 5 to 10 mph. Chance of precipitation is 50%."
+          "detailedForecast": "Scattered showers and thunderstorms before 8pm, then scattered showers and thunderstorms between 8pm and 11pm, then scattered showers and thunderstorms between 11pm and 5am, then scattered showers and thunderstorms. Partly cloudy, with a low around 66. Southwest wind 5 to 10 mph. Chance of precipitation is 50%."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1754848800000,
+          "timestamp": 1754852400000,
           "temp": 86,
           "snowfall": 29,
           "snowAmount": "",
@@ -117,22 +117,22 @@
           "name": "Monday Night",
           "timestamp": 1754949600000,
           "temp": 64,
-          "snowfall": 50,
+          "snowfall": 54,
           "snowAmount": "",
           "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms before 11pm, then scattered showers and thunderstorms. Mostly cloudy, with a low around 64. Southwest wind 5 to 10 mph. Chance of precipitation is 50%."
+          "detailedForecast": "Scattered showers and thunderstorms before 11pm, then scattered showers and thunderstorms. Partly cloudy, with a low around 64. Southwest wind 5 to 10 mph. Chance of precipitation is 50%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
