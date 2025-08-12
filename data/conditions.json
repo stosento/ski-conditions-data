@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-08-12T21:00:33.664Z",
+  "timestamp": "2025-08-12T22:00:32.393Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1755032400000,
-          "temp": 91,
-          "snowfall": 58,
-          "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Partly sunny, with a high near 91. South southwest wind around 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1755036000000,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 62. North northeast wind 3 to 8 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1755165600000,
+          "temp": 83,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 83. North northeast wind 3 to 7 mph."
         }
       ]
     },
@@ -46,40 +46,40 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1755032400000,
-          "temp": 77,
-          "snowfall": 16,
-          "snowAmount": "",
-          "shortForecast": "Isolated Showers And Thunderstorms",
-          "detailedForecast": "Isolated showers and thunderstorms. Mostly cloudy. High near 77, with temperatures falling to around 74 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1755036000000,
           "temp": 63,
-          "snowfall": 45,
+          "snowfall": 57,
           "snowAmount": "",
-          "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms before 11pm, then scattered showers and thunderstorms between 11pm and 2am. Mostly cloudy, with a low around 63. West wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms between 7pm and 9pm, then showers and thunderstorms likely between 9pm and 10pm, then a chance of showers and thunderstorms between 10pm and 2am, then patchy fog. Mostly cloudy, with a low around 63. West wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Wednesday",
           "timestamp": 1755079200000,
           "temp": 74,
-          "snowfall": 1,
+          "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Sunny then Haze",
-          "detailedForecast": "Haze after 1pm. Sunny, with a high near 74. Northwest wind 5 to 10 mph."
+          "shortForecast": "Patchy Fog then Haze",
+          "detailedForecast": "Patchy fog before 8am, then haze between 1pm and 5pm. Sunny, with a high near 74. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1755122400000,
           "temp": 54,
-          "snowfall": 1,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 54. North wind 5 to 10 mph."
+          "detailedForecast": "Mostly clear. Low around 54, with temperatures rising to around 56 overnight. North wind 5 to 10 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1755165600000,
+          "temp": 74,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 74. Northeast wind around 5 mph."
         }
       ]
     },
@@ -87,40 +87,40 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1755032400000,
-          "temp": 76,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Isolated Showers And Thunderstorms",
-          "detailedForecast": "Isolated showers and thunderstorms. Mostly cloudy. High near 76, with temperatures falling to around 73 in the afternoon. Southwest wind around 15 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1755036000000,
           "temp": 61,
-          "snowfall": 29,
+          "snowfall": 36,
           "snowAmount": "",
-          "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms before 4am, then patchy fog and isolated rain showers. Mostly cloudy, with a low around 61. Southwest wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms between 9pm and 2am. Mostly cloudy, with a low around 61. Southwest wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Wednesday",
           "timestamp": 1755079200000,
           "temp": 76,
-          "snowfall": 4,
+          "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Sunny then Haze",
-          "detailedForecast": "Haze after 3pm. Sunny. High near 76, with temperatures falling to around 74 in the afternoon. Northwest wind 5 to 10 mph."
+          "shortForecast": "Patchy Fog then Haze",
+          "detailedForecast": "Patchy fog before 8am, then haze between 3pm and 5pm. Sunny. High near 76, with temperatures falling to around 74 in the afternoon. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1755122400000,
           "temp": 50,
-          "snowfall": 0,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Haze then Mostly Clear",
-          "detailedForecast": "Haze before 8pm. Mostly clear, with a low around 50. Northwest wind 0 to 10 mph."
+          "detailedForecast": "Haze before 8pm. Mostly clear. Low around 50, with temperatures rising to around 52 overnight. Northwest wind 0 to 10 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1755165600000,
+          "temp": 76,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 76. North wind 0 to 5 mph."
         }
       ]
     }
