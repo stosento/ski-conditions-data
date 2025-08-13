@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-13T15:00:37.363Z",
+  "timestamp": "2025-08-13T16:00:30.619Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1755097200000,
+          "timestamp": 1755079200000,
           "temp": 86,
-          "snowfall": 17,
+          "snowfall": 25,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 86. North northwest wind around 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 86. West northwest wind 3 to 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1755097200000,
-          "temp": 75,
+          "name": "This Afternoon",
+          "timestamp": 1755100800000,
+          "temp": 76,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Haze",
-          "detailedForecast": "Haze. Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Northwest wind 5 to 10 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 76, with temperatures falling to around 74 in the afternoon. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -60,17 +60,17 @@
           "temp": 51,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Haze",
-          "detailedForecast": "Haze before 1am. Mostly clear. Low around 51, with temperatures rising to around 53 overnight. North wind 0 to 10 mph."
+          "shortForecast": "Haze then Mostly Clear",
+          "detailedForecast": "Haze between 7pm and 11pm. Mostly clear. Low around 51, with temperatures rising to around 53 overnight. North wind 0 to 10 mph."
         },
         {
           "name": "Thursday",
           "timestamp": 1755165600000,
-          "temp": 74,
+          "temp": 75,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny then Haze",
-          "detailedForecast": "Haze after 4pm. Sunny, with a high near 74. Northeast wind 0 to 5 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 75. East wind 0 to 5 mph."
         },
         {
           "name": "Thursday Night",
@@ -79,7 +79,7 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Haze then Mostly Clear",
-          "detailedForecast": "Haze before 9pm. Mostly clear, with a low around 59. East wind around 5 mph."
+          "detailedForecast": "Haze between 8pm and 9pm. Mostly clear, with a low around 59. Southeast wind around 5 mph."
         }
       ]
     },
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1755097200000,
+          "name": "This Afternoon",
+          "timestamp": 1755100800000,
           "temp": 78,
           "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Sunny then Haze",
-          "detailedForecast": "Haze after 3pm. Sunny, with a high near 78. Northwest wind 5 to 10 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 78. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -102,16 +102,16 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Haze",
-          "detailedForecast": "Haze before 3am. Mostly clear, with a low around 53. North wind 0 to 10 mph."
+          "detailedForecast": "Haze between 9pm and 2am. Mostly clear. Low around 53, with temperatures rising to around 55 overnight. North wind 0 to 10 mph."
         },
         {
           "name": "Thursday",
           "timestamp": 1755165600000,
-          "temp": 75,
+          "temp": 77,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Sunny then Haze",
-          "detailedForecast": "Haze after 1pm. Sunny, with a high near 75. North wind 0 to 5 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 77. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Thursday Night",
@@ -120,19 +120,19 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Haze then Mostly Clear",
-          "detailedForecast": "Haze before 9pm. Mostly clear, with a low around 56. Southeast wind around 5 mph."
+          "detailedForecast": "Haze between 8pm and 9pm. Mostly clear, with a low around 56. Southeast wind around 5 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
