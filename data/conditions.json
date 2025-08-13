@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-13T11:00:35.283Z",
+  "timestamp": "2025-08-13T12:00:42.305Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1755082800000,
+          "timestamp": 1755086400000,
           "temp": 86,
-          "snowfall": 25,
+          "snowfall": 17,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 86. Northwest wind 3 to 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 86. Northwest wind 5 to 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1755082800000,
+          "timestamp": 1755086400000,
           "temp": 75,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Haze",
-          "detailedForecast": "Patchy fog before 8am, then haze. Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Northwest wind 0 to 10 mph."
+          "shortForecast": "Haze",
+          "detailedForecast": "Haze after 10am. Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1755082800000,
+          "timestamp": 1755086400000,
           "temp": 78,
           "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Haze",
-          "detailedForecast": "Patchy fog before 8am, then haze. Sunny, with a high near 78. Northwest wind 0 to 10 mph."
+          "shortForecast": "Sunny then Haze",
+          "detailedForecast": "Haze after 3pm. Sunny, with a high near 78. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
