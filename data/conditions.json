@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-15T01:28:30.204Z",
+  "timestamp": "2025-08-15T02:32:57.723Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1755219600000,
+          "timestamp": 1755223200000,
           "temp": 62,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear then Patchy Fog",
-          "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 62. Northeast wind 1 to 5 mph."
+          "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 62. Northeast wind around 3 mph."
         },
         {
           "name": "Friday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1755219600000,
+          "timestamp": 1755223200000,
           "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1755219600000,
+          "timestamp": 1755223200000,
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
