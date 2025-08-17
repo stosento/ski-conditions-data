@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-17T14:00:35.134Z",
+  "timestamp": "2025-08-17T15:00:39.248Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1755439200000,
+          "timestamp": 1755442800000,
           "temp": 81,
-          "snowfall": 34,
+          "snowfall": 26,
           "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms before 2pm, then a slight chance of showers and thunderstorms between 2pm and 5pm. Mostly cloudy. High near 81, with temperatures falling to around 77 in the afternoon. North wind 8 to 12 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Rain Showers then Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of rain showers before 2pm, then a slight chance of showers and thunderstorms between 2pm and 5pm. Partly sunny. High near 81, with temperatures falling to around 77 in the afternoon. North wind 8 to 12 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1755439200000,
+          "timestamp": 1755442800000,
           "temp": 71,
-          "snowfall": 2,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 71. Northeast wind around 10 mph."
@@ -58,7 +58,7 @@
           "name": "Tonight",
           "timestamp": 1755468000000,
           "temp": 53,
-          "snowfall": 2,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear. Low around 53, with temperatures rising to around 55 overnight. East wind 5 to 10 mph."
@@ -67,10 +67,10 @@
           "name": "Monday",
           "timestamp": 1755511200000,
           "temp": 77,
-          "snowfall": 15,
+          "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 2pm. Mostly sunny, with a high near 77. East wind around 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers after 2pm. Mostly sunny, with a high near 77. East wind around 10 mph."
         },
         {
           "name": "Monday Night",
@@ -88,9 +88,9 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1755439200000,
+          "timestamp": 1755442800000,
           "temp": 72,
-          "snowfall": 5,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 72. Northeast wind around 10 mph."
@@ -99,7 +99,7 @@
           "name": "Tonight",
           "timestamp": 1755468000000,
           "temp": 50,
-          "snowfall": 2,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 52 overnight. East wind 5 to 10 mph."
@@ -108,7 +108,7 @@
           "name": "Monday",
           "timestamp": 1755511200000,
           "temp": 77,
-          "snowfall": 12,
+          "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 77. Southeast wind 5 to 10 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
