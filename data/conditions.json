@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-23T15:00:36.338Z",
+  "timestamp": "2025-08-23T16:00:35.164Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1755957600000,
+          "name": "This Afternoon",
+          "timestamp": 1755964800000,
           "temp": 83,
           "snowfall": 40,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms after 2pm. Mostly cloudy. High near 83, with temperatures falling to around 79 in the afternoon. West southwest wind 7 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms after 2pm. Mostly cloudy. High near 83, with temperatures falling to around 79 in the afternoon. Southwest wind around 10 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1755961200000,
+          "name": "This Afternoon",
+          "timestamp": 1755964800000,
           "temp": 69,
           "snowfall": 28,
           "snowAmount": "",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1755961200000,
+          "name": "This Afternoon",
+          "timestamp": 1755964800000,
           "temp": 71,
           "snowfall": 29,
           "snowAmount": "",
           "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms before 2pm. Partly sunny. High near 71, with temperatures falling to around 68 in the afternoon. West wind 10 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Scattered showers and thunderstorms before 2pm. Partly sunny. High near 71, with temperatures falling to around 68 in the afternoon. West wind around 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
