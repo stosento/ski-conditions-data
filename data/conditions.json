@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-24T00:00:51.944Z",
+  "timestamp": "2025-08-24T01:28:31.722Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1755993600000,
+          "timestamp": 1755986400000,
           "temp": 58,
-          "snowfall": 16,
+          "snowfall": 40,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
-          "detailedForecast": "A slight chance of rain showers before 10pm. Mostly clear, with a low around 58. West northwest wind 3 to 8 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+          "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+          "detailedForecast": "A chance of showers and thunderstorms before 10pm. Partly cloudy, with a low around 58. West wind 3 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Sunday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1755993600000,
+          "timestamp": 1755997200000,
           "temp": 56,
           "snowfall": 21,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1755993600000,
+          "timestamp": 1755997200000,
           "temp": 51,
           "snowfall": 25,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly cloudy. Low around 51, with temperatures rising to around 53 overnight. West wind 0 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Partly cloudy. Low around 51, with temperatures rising to around 53 overnight. West wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Sunday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
