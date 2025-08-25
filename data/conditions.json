@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-08-25T21:00:42.741Z",
+  "timestamp": "2025-08-25T22:00:39.671Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1756155600000,
-          "temp": 70,
-          "snowfall": 24,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms. Partly sunny, with a high near 70. West northwest wind around 12 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756159200000,
@@ -29,7 +20,7 @@
           "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 2pm. Mostly sunny, with a high near 70. Northwest wind 6 to 12 mph."
+          "detailedForecast": "A slight chance of rain showers after 2pm. Mostly sunny, with a high near 70. Northwest wind 6 to 12 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday Night",
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
           "detailedForecast": "A slight chance of rain showers before 8pm. Mostly clear, with a low around 49. Northwest wind 3 to 9 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1756288800000,
+          "temp": 75,
+          "snowfall": 3,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 75. West northwest wind 3 to 8 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1756155600000,
-          "temp": 64,
-          "snowfall": 5,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 64. Northwest wind around 15 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756159200000,
@@ -80,21 +71,21 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 47. West wind 5 to 10 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1756288800000,
+          "temp": 70,
+          "snowfall": 27,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny then Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of rain showers between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly sunny, with a high near 70. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1756155600000,
-          "temp": 62,
-          "snowfall": 18,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Partly sunny, with a high near 62. Northwest wind around 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756159200000,
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear then Patchy Frost",
           "detailedForecast": "Patchy frost after 5am. Mostly clear, with a low around 37. West wind 0 to 10 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1756288800000,
+          "temp": 70,
+          "snowfall": 19,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 2pm. Mostly sunny, with a high near 70. Southwest wind 5 to 15 mph. Chance of precipitation is 20%."
         }
       ]
     }
