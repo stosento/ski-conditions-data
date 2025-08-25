@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-25T14:00:43.567Z",
+  "timestamp": "2025-08-25T15:01:44.988Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1756130400000,
+          "timestamp": 1756126800000,
           "temp": 70,
           "snowfall": 34,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers between 11am and 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 70. West northwest wind around 12 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain showers between 11am and 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 70. West northwest wind 8 to 12 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1756130400000,
+          "timestamp": 1756134000000,
           "temp": 63,
-          "snowfall": 23,
+          "snowfall": 11,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
-          "detailedForecast": "A slight chance of rain showers before 11am. Partly sunny, with a high near 63. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 63. Northwest wind around 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1756130400000,
+          "timestamp": 1756134000000,
           "temp": 61,
-          "snowfall": 37,
+          "snowfall": 28,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 61. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 61. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
