@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-25T23:00:37.988Z",
+  "timestamp": "2025-08-26T00:00:53.806Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1756162800000,
+          "timestamp": 1756166400000,
           "temp": 49,
-          "snowfall": 24,
+          "snowfall": 6,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 8pm. Partly cloudy. Low around 49, with temperatures rising to around 51 overnight. West northwest wind around 8 mph. Chance of precipitation is 20%."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy. Low around 49, with temperatures rising to around 51 overnight. West northwest wind around 7 mph."
         },
         {
           "name": "Tuesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1756162800000,
+          "timestamp": 1756166400000,
           "temp": 43,
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 43, with temperatures rising to around 45 overnight. Northwest wind 5 to 15 mph."
+          "detailedForecast": "Mostly clear. Low around 43, with temperatures rising to around 45 overnight. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Tuesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1756162800000,
+          "timestamp": 1756166400000,
           "temp": 41,
-          "snowfall": 18,
+          "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
-          "detailedForecast": "A slight chance of rain showers before 8pm. Mostly clear, with a low around 41. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 41. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Tuesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
