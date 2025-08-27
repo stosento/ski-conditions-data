@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-27T08:00:36.165Z",
+  "timestamp": "2025-08-27T09:00:37.832Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756281600000,
+          "timestamp": 1756285200000,
           "temp": 49,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 49. Northwest wind around 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 49. West northwest wind around 5 mph."
         },
         {
           "name": "Wednesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756281600000,
+          "timestamp": 1756285200000,
           "temp": 41,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Clear, with a low around 41. Southwest wind around 0 mph."
+          "detailedForecast": "Patchy fog. Mostly clear, with a low around 41. Southwest wind around 0 mph."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756281600000,
-          "temp": 39,
+          "timestamp": 1756285200000,
+          "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog before 5am. Clear, with a low around 39. Southwest wind 0 to 5 mph."
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 38. Southwest wind around 0 mph."
         },
         {
           "name": "Wednesday",
@@ -102,7 +102,7 @@
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny then Slight Chance Light Rain",
-          "detailedForecast": "A slight chance of rain after 2pm. Mostly sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain after 2pm. Mostly sunny. High near 70, with temperatures falling to around 68 in the afternoon. Southwest wind 0 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Wednesday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
