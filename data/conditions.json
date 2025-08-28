@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-28T11:00:36.515Z",
+  "timestamp": "2025-08-28T12:00:55.121Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1756378800000,
+          "timestamp": 1756382400000,
           "temp": 71,
           "snowfall": 73,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely",
-          "detailedForecast": "A chance of rain showers between 8am and 11am, then showers and thunderstorms likely. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. West wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "A chance of rain showers before 11am, then showers and thunderstorms likely. Mostly cloudy. High near 71, with temperatures falling to around 68 in the afternoon. West wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1756378800000,
+          "timestamp": 1756382400000,
           "temp": 60,
-          "snowfall": 45,
+          "snowfall": 3,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers then Partly Sunny",
-          "detailedForecast": "A chance of rain showers before 8am. Partly sunny, with a high near 60. North wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 60, with temperatures falling to around 58 in the afternoon. North wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -69,8 +69,8 @@
           "temp": 63,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 63. North wind around 5 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 63. North wind around 5 mph."
         },
         {
           "name": "Friday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1756378800000,
-          "temp": 60,
-          "snowfall": 66,
+          "timestamp": 1756382400000,
+          "temp": 59,
+          "snowfall": 9,
           "snowAmount": "",
-          "shortForecast": "Showers And Thunderstorms Likely then Partly Sunny",
-          "detailedForecast": "Showers and thunderstorms likely before 11am. Partly sunny. High near 60, with temperatures falling to around 58 in the afternoon. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 59. North wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
