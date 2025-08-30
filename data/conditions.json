@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-30T08:01:02.255Z",
+  "timestamp": "2025-08-30T09:00:40.174Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756540800000,
+          "timestamp": 1756544400000,
           "temp": 47,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly clear, with a low around 47. Northwest wind around 2 mph."
+          "detailedForecast": "Patchy fog. Mostly clear, with a low around 47. Northwest wind around 1 mph."
         },
         {
           "name": "Saturday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756540800000,
+          "timestamp": 1756544400000,
           "temp": 39,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 39. Southwest wind around 0 mph."
+          "detailedForecast": "Mostly clear. Low around 39, with temperatures rising to around 41 overnight. South wind around 0 mph."
         },
         {
           "name": "Saturday",
@@ -61,7 +61,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 68. Southwest wind 0 to 10 mph."
+          "detailedForecast": "Sunny, with a high near 68. West wind 5 to 10 mph."
         },
         {
           "name": "Saturday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756540800000,
-          "temp": 39,
+          "timestamp": 1756544400000,
+          "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 39. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Clear, with a low around 38. Southwest wind around 0 mph."
         },
         {
           "name": "Saturday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
