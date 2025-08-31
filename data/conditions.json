@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-08-31T06:00:43.097Z",
+  "timestamp": "2025-08-31T07:00:32.429Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756620000000,
+          "timestamp": 1756623600000,
           "temp": 50,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 52 overnight. North northeast wind around 1 mph."
+          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 52 overnight. North wind around 2 mph."
         },
         {
           "name": "Sunday",
@@ -20,7 +20,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 76. North northeast wind 1 to 5 mph."
+          "detailedForecast": "Sunny, with a high near 76. Northeast wind 1 to 6 mph."
         },
         {
           "name": "Sunday Night",
@@ -29,7 +29,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 52. Northeast wind 1 to 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 52. Northeast wind 2 to 6 mph."
         },
         {
           "name": "Labor Day",
@@ -38,7 +38,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 78. East northeast wind 1 to 6 mph."
+          "detailedForecast": "Sunny, with a high near 78. East northeast wind 2 to 6 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756620000000,
+          "timestamp": 1756623600000,
           "temp": 48,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog after 4am. Partly cloudy, with a low around 48. Southwest wind around 0 mph."
+          "detailedForecast": "Patchy fog after 4am. Partly cloudy, with a low around 48. Southwest wind 0 to 5 mph."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756620000000,
+          "timestamp": 1756623600000,
           "temp": 44,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog after 3am. Mostly clear, with a low around 44. Southwest wind around 0 mph."
+          "detailedForecast": "Areas of fog. Mostly clear, with a low around 44. Southwest wind around 0 mph."
         },
         {
           "name": "Sunday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
