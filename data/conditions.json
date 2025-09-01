@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-01T05:00:41.262Z",
+  "timestamp": "2025-09-01T06:00:38.664Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1756702800000,
+          "name": "Tonight",
+          "timestamp": 1756677600000,
           "temp": 51,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 51. North northeast wind around 3 mph."
+          "detailedForecast": "Mostly clear, with a low around 51. Northeast wind 2 to 6 mph."
         },
         {
           "name": "Labor Day",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756702800000,
+          "timestamp": 1756706400000,
           "temp": 51,
           "snowfall": 0,
           "snowAmount": "",
@@ -79,7 +79,7 @@
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 75. Southwest wind around 5 mph."
+          "detailedForecast": "Sunny, with a high near 75. Southwest wind 0 to 5 mph."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756702800000,
+          "timestamp": 1756706400000,
           "temp": 50,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 53 overnight. Southeast wind around 5 mph."
+          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 53 overnight. Southeast wind 0 to 5 mph."
         },
         {
           "name": "Labor Day",
@@ -102,7 +102,7 @@
           "snowfall": 14,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 77. Southeast wind around 5 mph."
+          "detailedForecast": "Sunny, with a high near 77. Southeast wind 0 to 5 mph."
         },
         {
           "name": "Monday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
