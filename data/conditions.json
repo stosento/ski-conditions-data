@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-09-01T21:00:32.380Z",
+  "timestamp": "2025-09-01T22:00:37.169Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "Labor Day",
-          "timestamp": 1756760400000,
-          "temp": 78,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 78. East southeast wind around 7 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756764000000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 57. South wind 2 to 7 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1756893600000,
+          "temp": 82,
+          "snowfall": 11,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 82. South southwest wind 2 to 10 mph, with gusts as high as 21 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "Labor Day",
-          "timestamp": 1756760400000,
-          "temp": 76,
-          "snowfall": 19,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Sunny, with a high near 76. Northwest wind around 5 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756764000000,
@@ -79,22 +70,22 @@
           "snowfall": 14,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 55. Southwest wind 0 to 10 mph."
+          "detailedForecast": "Mostly clear. Low around 55, with temperatures rising to around 57 overnight. Southwest wind 0 to 10 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1756893600000,
+          "temp": 68,
+          "snowfall": 85,
+          "snowAmount": "",
+          "shortForecast": "Showers And Thunderstorms",
+          "detailedForecast": "Showers and thunderstorms after 8am. Mostly cloudy, with a high near 68. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "Labor Day",
-          "timestamp": 1756760400000,
-          "temp": 77,
-          "snowfall": 21,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 77. Southeast wind around 5 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756764000000,
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
           "detailedForecast": "A slight chance of rain showers before 8pm. Mostly clear, with a low around 53. West wind 0 to 5 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1756893600000,
+          "temp": 69,
+          "snowfall": 77,
+          "snowAmount": "",
+          "shortForecast": "Showers And Thunderstorms",
+          "detailedForecast": "A chance of rain showers between 8am and 2pm, then showers and thunderstorms. Partly sunny, with a high near 69. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
