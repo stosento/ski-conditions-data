@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-02T03:16:25.283Z",
+  "timestamp": "2025-09-02T04:00:46.750Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1756782000000,
+          "name": "Overnight",
+          "timestamp": 1756785600000,
           "temp": 52,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 52. Northeast wind around 3 mph."
+          "detailedForecast": "Mostly clear, with a low around 52. North northeast wind around 3 mph."
         },
         {
           "name": "Tuesday",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1756782000000,
+          "name": "Overnight",
+          "timestamp": 1756785600000,
           "temp": 53,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 53, with temperatures rising to around 57 overnight. Southeast wind around 5 mph."
+          "detailedForecast": "Partly cloudy. Low around 53, with temperatures rising to around 57 overnight. South wind around 5 mph."
         },
         {
           "name": "Tuesday",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1756782000000,
+          "name": "Overnight",
+          "timestamp": 1756785600000,
           "temp": 51,
           "snowfall": 3,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 51, with temperatures rising to around 54 overnight. South wind around 5 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy. Low around 51, with temperatures rising to around 54 overnight. South wind around 5 mph."
         },
         {
           "name": "Tuesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
