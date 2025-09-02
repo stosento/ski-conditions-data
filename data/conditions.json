@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-09-02T21:00:34.894Z",
+  "timestamp": "2025-09-02T22:00:43.609Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1756846800000,
-          "temp": 80,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 80. Southeast wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756850400000,
@@ -38,22 +29,22 @@
           "snowfall": 97,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms. Cloudy, with a low around 53. West southwest wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+          "detailedForecast": "Showers and thunderstorms. Cloudy. Low around 53, with temperatures rising to around 56 overnight. West southwest wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1756980000000,
+          "temp": 67,
+          "snowfall": 97,
+          "snowAmount": "",
+          "shortForecast": "Rain Showers",
+          "detailedForecast": "Rain showers before 2pm. Partly sunny, with a high near 67. West northwest wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1756846800000,
-          "temp": 75,
-          "snowfall": 12,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 75. West wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756850400000,
@@ -70,7 +61,7 @@
           "snowfall": 93,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "A chance of rain showers before 8am, then showers and thunderstorms. Mostly cloudy. High near 63, with temperatures falling to around 58 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%."
+          "detailedForecast": "A chance of rain showers before 8am, then showers and thunderstorms. Mostly cloudy. High near 63, with temperatures falling to around 58 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
         },
         {
           "name": "Wednesday Night",
@@ -80,21 +71,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 46. Northwest wind around 10 mph. Chance of precipitation is 50%."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1756980000000,
+          "temp": 56,
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 56. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1756846800000,
-          "temp": 76,
-          "snowfall": 22,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms. Partly sunny, with a high near 76. West wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1756850400000,
@@ -111,7 +102,7 @@
           "snowfall": 89,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Rain showers likely between 8am and 11am, then showers and thunderstorms. Mostly cloudy. High near 65, with temperatures falling to around 59 in the afternoon. Southwest wind 10 to 15 mph. Chance of precipitation is 90%."
+          "detailedForecast": "Rain showers likely between 8am and 11am, then showers and thunderstorms. Mostly cloudy. High near 65, with temperatures falling to around 59 in the afternoon. Southwest wind 10 to 15 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Wednesday Night",
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
           "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 42. Northwest wind 5 to 10 mph. Chance of precipitation is 60%."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1756980000000,
+          "temp": 56,
+          "snowfall": 28,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers then Partly Sunny",
+          "detailedForecast": "A chance of rain showers before 8am. Partly sunny, with a high near 56. West wind 5 to 15 mph. Chance of precipitation is 30%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
