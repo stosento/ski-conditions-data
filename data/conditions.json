@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-03T03:08:24.965Z",
+  "timestamp": "2025-09-03T04:00:41.789Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1756868400000,
+          "timestamp": 1756857600000,
           "temp": 56,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 56, with temperatures rising to around 58 overnight. South wind around 3 mph."
+          "detailedForecast": "Mostly clear. Low around 56, with temperatures rising to around 58 overnight. South southeast wind around 5 mph."
         },
         {
           "name": "Wednesday",
@@ -46,12 +46,12 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1756868400000,
+          "name": "Overnight",
+          "timestamp": 1756872000000,
           "temp": 56,
           "snowfall": 29,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy then Chance Showers And Thunderstorms",
+          "shortForecast": "Chance Showers And Thunderstorms",
           "detailedForecast": "A slight chance of rain showers between 2am and 5am, then a chance of showers and thunderstorms. Partly cloudy. Low around 56, with temperatures rising to around 59 overnight. South wind 5 to 10 mph. Chance of precipitation is 30%."
         },
         {
@@ -87,12 +87,12 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1756868400000,
+          "name": "Overnight",
+          "timestamp": 1756872000000,
           "temp": 55,
           "snowfall": 15,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
+          "shortForecast": "Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers after 5am. Partly cloudy. Low around 55, with temperatures rising to around 57 overnight. South wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
