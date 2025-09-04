@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-04T08:00:40.942Z",
+  "timestamp": "2025-09-04T09:00:44.027Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756972800000,
+          "timestamp": 1756976400000,
           "temp": 51,
-          "snowfall": 78,
+          "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers before 5am. Cloudy. Low around 51, with temperatures rising to around 55 overnight. Northwest wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy. Low around 51, with temperatures rising to around 55 overnight. North northwest wind around 7 mph. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Thursday",
@@ -47,21 +47,21 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756972800000,
+          "timestamp": 1756976400000,
           "temp": 45,
-          "snowfall": 38,
+          "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 45. West wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 45. West wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
           "timestamp": 1756980000000,
           "temp": 57,
-          "snowfall": 53,
+          "snowfall": 38,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 57. West wind 10 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 57. West wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday Night",
@@ -88,21 +88,21 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1756972800000,
-          "temp": 43,
-          "snowfall": 42,
+          "timestamp": 1756976400000,
+          "temp": 42,
+          "snowfall": 8,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 43. West wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 42. West wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
           "timestamp": 1756980000000,
           "temp": 57,
-          "snowfall": 42,
+          "snowfall": 31,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers before 5pm. Partly sunny, with a high near 57. West wind 5 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 5pm. Partly sunny, with a high near 57. West wind 5 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
