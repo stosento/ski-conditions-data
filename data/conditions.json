@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-04T17:00:46.967Z",
+  "timestamp": "2025-09-04T18:00:46.022Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757005200000,
+          "timestamp": 1757008800000,
           "temp": 67,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757005200000,
+          "timestamp": 1757008800000,
           "temp": 57,
-          "snowfall": 50,
+          "snowfall": 26,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Partly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757005200000,
+          "timestamp": 1757008800000,
           "temp": 57,
-          "snowfall": 28,
+          "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers before 5pm. Partly sunny, with a high near 57. West wind 10 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers before 5pm. Partly sunny, with a high near 57. West wind around 15 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
-      "title": "Stony Creek Metropark"
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
     }
   },
   "nordicConditions": {},
