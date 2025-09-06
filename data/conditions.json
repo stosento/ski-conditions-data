@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-06T15:00:42.716Z",
+  "timestamp": "2025-09-06T16:00:41.372Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1757170800000,
+          "name": "This Afternoon",
+          "timestamp": 1757174400000,
           "temp": 66,
           "snowfall": 16,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 2pm. Partly sunny, with a high near 66. West southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 2pm. Mostly cloudy, with a high near 66. West southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1757170800000,
+          "name": "This Afternoon",
+          "timestamp": 1757174400000,
           "temp": 55,
           "snowfall": 36,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 55. West wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 55. Northwest wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1757170800000,
+          "name": "This Afternoon",
+          "timestamp": 1757174400000,
           "temp": 53,
           "snowfall": 61,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
