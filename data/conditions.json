@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-09-09T19:00:40.301Z",
+  "timestamp": "2025-09-09T20:00:55.358Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757444400000,
+          "timestamp": 1757448000000,
           "temp": 77,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 77. South southeast wind around 8 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 77. South southeast wind around 8 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1757455200000,
-          "temp": 53,
+          "temp": 52,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 53. East wind 2 to 7 mph."
+          "detailedForecast": "Partly cloudy, with a low around 52. East wind 2 to 7 mph."
         },
         {
           "name": "Wednesday",
           "timestamp": 1757498400000,
-          "temp": 80,
+          "temp": 78,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 80, with temperatures falling to around 78 in the afternoon. East southeast wind around 3 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 78. East southeast wind around 3 mph."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1757541600000,
           "temp": 54,
-          "snowfall": 2,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 54. East northeast wind around 3 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 54. East northeast wind around 3 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757444400000,
+          "timestamp": 1757448000000,
           "temp": 72,
           "snowfall": 1,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757444400000,
+          "timestamp": 1757448000000,
           "temp": 72,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 72. Southwest wind around 10 mph."
+          "detailedForecast": "Mostly sunny. High near 72, with temperatures falling to around 70 in the afternoon. South wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
