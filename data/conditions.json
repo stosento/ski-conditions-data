@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-10T13:07:03.714Z",
+  "timestamp": "2025-09-10T14:00:51.281Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1757509200000,
+          "timestamp": 1757512800000,
           "temp": 78,
           "snowfall": 1,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1757509200000,
+          "timestamp": 1757512800000,
           "temp": 70,
           "snowfall": 10,
           "snowAmount": "",
@@ -60,8 +60,8 @@
           "temp": 51,
           "snowfall": 6,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 51. Northeast wind 0 to 5 mph."
+          "shortForecast": "Partly Cloudy then Patchy Fog",
+          "detailedForecast": "Patchy fog after 1am. Partly cloudy, with a low around 51. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Thursday",
@@ -69,8 +69,8 @@
           "temp": 71,
           "snowfall": 6,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 71. East wind around 5 mph."
+          "shortForecast": "Patchy Fog then Mostly Sunny",
+          "detailedForecast": "Patchy fog before 7am. Mostly sunny, with a high near 71. East wind around 5 mph."
         },
         {
           "name": "Thursday Night",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1757509200000,
+          "timestamp": 1757512800000,
           "temp": 73,
           "snowfall": 5,
           "snowAmount": "",
@@ -102,7 +102,7 @@
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Patchy Fog",
-          "detailedForecast": "Patchy fog between 4am and 5am. Partly cloudy, with a low around 49. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 49. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Thursday",
@@ -110,8 +110,8 @@
           "temp": 73,
           "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 73. East wind 0 to 5 mph."
+          "shortForecast": "Patchy Fog then Mostly Sunny",
+          "detailedForecast": "Patchy fog before 7am. Mostly sunny, with a high near 73. East wind 0 to 5 mph."
         },
         {
           "name": "Thursday Night",
@@ -126,27 +126,27 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
   "nubsNob": {
-    "date": "4/7/25: Closed for the season",
-    "liftsOpen": "0",
-    "xcTrails": "Closed for the season",
-    "nightSkiing": "Done for the season",
-    "comments": "Thank you for making 2024-25 another great season! Stay tuned for updates, we look forward to having you back next year.",
+    "date": "",
+    "liftsOpen": "",
+    "xcTrails": "",
+    "nightSkiing": "",
+    "comments": "",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 0\"",
-      "sevenDays": "7 days: 0\"",
-      "ytd": "YTD: 152\""
+      "daily": "",
+      "threeDays": "",
+      "sevenDays": "",
+      "ytd": ""
     }
   }
 }
