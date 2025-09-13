@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-13T17:00:39.677Z",
+  "timestamp": "2025-09-13T18:00:48.316Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757782800000,
+          "timestamp": 1757786400000,
           "temp": 78,
-          "snowfall": 10,
+          "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 78. South southwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Mostly cloudy, with a high near 78. South southwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -38,7 +38,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 56. East northeast wind 1 to 6 mph."
+          "detailedForecast": "Mostly clear, with a low around 56. East northeast wind 2 to 6 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757782800000,
+          "timestamp": 1757786400000,
           "temp": 72,
           "snowfall": 3,
           "snowAmount": "",
-          "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers before 2pm. Partly sunny, with a high near 72. West wind around 5 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 72. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -70,7 +70,7 @@
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 75, with temperatures falling to around 73 in the afternoon. East wind 0 to 10 mph."
+          "detailedForecast": "Mostly sunny. High near 75, with temperatures falling to around 73 in the afternoon. Northeast wind 5 to 10 mph."
         },
         {
           "name": "Sunday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1757782800000,
+          "timestamp": 1757786400000,
           "temp": 75,
-          "snowfall": 9,
+          "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers before 2pm. Partly sunny, with a high near 75. West wind around 5 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 75. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -102,7 +102,7 @@
           "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 55. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 55. North wind 0 to 5 mph."
         },
         {
           "name": "Sunday",
@@ -111,7 +111,7 @@
           "snowfall": 12,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 77, with temperatures falling to around 75 in the afternoon. East wind 0 to 5 mph."
+          "detailedForecast": "Mostly sunny. High near 77, with temperatures falling to around 75 in the afternoon. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Sunday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
