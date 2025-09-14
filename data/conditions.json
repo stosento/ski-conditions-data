@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-09-14T09:00:42.438Z",
+  "timestamp": "2025-09-14T10:00:45.912Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1757840400000,
-          "temp": 55,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog. Mostly clear, with a low around 55. North northwest wind around 2 mph."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1757844000000,
           "temp": 82,
           "snowfall": 0,
@@ -23,7 +14,7 @@
           "detailedForecast": "Areas of fog before 9am. Sunny, with a high near 82. Northeast wind 2 to 6 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1757887200000,
           "temp": 56,
           "snowfall": 0,
@@ -38,7 +29,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog before 8am. Mostly sunny, with a high near 82. East northeast wind 2 to 6 mph."
+          "detailedForecast": "Patchy fog before 8am. Mostly sunny. High near 82, with temperatures falling to around 80 in the afternoon. East northeast wind 2 to 6 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1757973600000,
+          "temp": 55,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 55. East northeast wind 1 to 6 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1757840400000,
-          "temp": 56,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Partly cloudy, with a low around 56. Southeast wind around 0 mph."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1757844000000,
           "temp": 77,
           "snowfall": 9,
@@ -64,7 +55,7 @@
           "detailedForecast": "Patchy fog before 10am. Mostly sunny. High near 77, with temperatures falling to around 73 in the afternoon. Northeast wind 0 to 5 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1757887200000,
           "temp": 54,
           "snowfall": 9,
@@ -79,7 +70,16 @@
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 77. East wind around 5 mph."
+          "detailedForecast": "Mostly sunny. High near 77, with temperatures falling to around 74 in the afternoon. East wind around 5 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1757973600000,
+          "temp": 55,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 55. East wind around 5 mph."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1757840400000,
-          "temp": 54,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly clear, with a low around 54. East wind around 0 mph."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1757844000000,
           "temp": 79,
           "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog before 10am. Mostly sunny. High near 79, with temperatures falling to around 75 in the afternoon. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Patchy fog before 10am. Mostly sunny. High near 79, with temperatures falling to around 75 in the afternoon. East wind 0 to 5 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1757887200000,
           "temp": 52,
           "snowfall": 10,
@@ -120,7 +111,16 @@
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog between 7am and 9am. Mostly sunny, with a high near 79. Southeast wind around 5 mph."
+          "detailedForecast": "Patchy fog between 7am and 9am. Mostly sunny. High near 79, with temperatures falling to around 77 in the afternoon. Southeast wind around 5 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1757973600000,
+          "temp": 53,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 53. Southeast wind around 5 mph."
         }
       ]
     }
