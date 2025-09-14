@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-14T02:27:16.206Z",
+  "timestamp": "2025-09-14T03:13:46.541Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1757815200000,
+          "timestamp": 1757818800000,
           "temp": 55,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,27 +47,27 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1757815200000,
-          "temp": 55,
-          "snowfall": 1,
+          "timestamp": 1757818800000,
+          "temp": 56,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy then Patchy Fog",
-          "detailedForecast": "Patchy fog after 2am. Partly cloudy, with a low around 55. Northeast wind around 0 mph."
+          "shortForecast": "Mostly Clear then Patchy Fog",
+          "detailedForecast": "Patchy fog after midnight. Mostly clear, with a low around 56. Northeast wind around 0 mph."
         },
         {
           "name": "Sunday",
           "timestamp": 1757844000000,
-          "temp": 75,
-          "snowfall": 0,
+          "temp": 77,
+          "snowfall": 9,
           "snowAmount": "",
-          "shortForecast": "Areas Of Fog then Sunny",
-          "detailedForecast": "Areas of fog before 11am. Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Northeast wind 0 to 5 mph."
+          "shortForecast": "Patchy Fog then Mostly Sunny",
+          "detailedForecast": "Patchy fog before 9am. Mostly sunny. High near 77, with temperatures falling to around 73 in the afternoon. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1757887200000,
           "temp": 54,
-          "snowfall": 0,
+          "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear. Low around 54, with temperatures rising to around 56 overnight. East wind around 5 mph."
@@ -88,27 +88,27 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1757815200000,
-          "temp": 54,
-          "snowfall": 2,
+          "timestamp": 1757818800000,
+          "temp": 56,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy then Patchy Fog",
-          "detailedForecast": "Patchy fog after 2am. Partly cloudy. Low around 54, with temperatures rising to around 56 overnight. Northeast wind around 0 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 56. Northeast wind around 0 mph."
         },
         {
           "name": "Sunday",
           "timestamp": 1757844000000,
-          "temp": 77,
-          "snowfall": 0,
+          "temp": 79,
+          "snowfall": 10,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Sunny",
-          "detailedForecast": "Patchy fog before 11am. Sunny. High near 77, with temperatures falling to around 75 in the afternoon. Northeast wind 0 to 5 mph."
+          "shortForecast": "Patchy Fog then Mostly Sunny",
+          "detailedForecast": "Patchy fog between 7am and 9am. Mostly sunny. High near 79, with temperatures falling to around 75 in the afternoon. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1757887200000,
           "temp": 52,
-          "snowfall": 0,
+          "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy. Low around 52, with temperatures rising to around 54 overnight. East wind around 5 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
