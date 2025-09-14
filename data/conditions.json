@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-14T10:00:45.912Z",
+  "timestamp": "2025-09-14T11:00:48.254Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1757844000000,
+          "timestamp": 1757847600000,
           "temp": 82,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Fog then Sunny",
-          "detailedForecast": "Areas of fog before 9am. Sunny, with a high near 82. Northeast wind 2 to 6 mph."
+          "detailedForecast": "Areas of fog before 9am. Sunny, with a high near 82. East northeast wind 2 to 6 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1757844000000,
+          "timestamp": 1757847600000,
           "temp": 77,
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog before 10am. Mostly sunny. High near 77, with temperatures falling to around 73 in the afternoon. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Patchy fog before 10am. Mostly sunny. High near 77, with temperatures falling to around 73 in the afternoon. East wind 0 to 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1757844000000,
+          "timestamp": 1757847600000,
           "temp": 79,
           "snowfall": 10,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
