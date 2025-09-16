@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-16T18:01:19.286Z",
+  "timestamp": "2025-09-16T19:00:50.547Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1758045600000,
+          "timestamp": 1758049200000,
           "temp": 83,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 83. East wind around 7 mph."
+          "detailedForecast": "Sunny, with a high near 83. East southeast wind around 7 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1758045600000,
-          "temp": 76,
+          "timestamp": 1758049200000,
+          "temp": 77,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 76. West wind around 5 mph."
+          "detailedForecast": "Sunny, with a high near 77. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -75,11 +75,11 @@
         {
           "name": "Wednesday Night",
           "timestamp": 1758146400000,
-          "temp": 56,
-          "snowfall": 12,
+          "temp": 57,
+          "snowfall": 13,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 56. Northwest wind 0 to 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 57. Northwest wind 0 to 5 mph."
         }
       ]
     },
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1758045600000,
-          "temp": 78,
+          "timestamp": 1758049200000,
+          "temp": 79,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 78. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Sunny, with a high near 79. Northeast wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -116,23 +116,23 @@
         {
           "name": "Wednesday Night",
           "timestamp": 1758146400000,
-          "temp": 56,
+          "temp": 57,
           "snowfall": 7,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 56. Northwest wind 0 to 5 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 57. Northwest wind 0 to 5 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
