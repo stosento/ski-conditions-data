@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-09-17T19:00:52.515Z",
+  "timestamp": "2025-09-17T20:00:44.811Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1758132000000,
+          "timestamp": 1758139200000,
           "temp": 83,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 83, with temperatures falling to around 81 in the afternoon. East northeast wind around 5 mph."
+          "detailedForecast": "Sunny, with a high near 83. East wind around 5 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1758146400000,
-          "temp": 57,
+          "temp": 56,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 57. North northeast wind 1 to 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 56. North northeast wind 1 to 5 mph."
         },
         {
           "name": "Thursday",
           "timestamp": 1758189600000,
-          "temp": 86,
-          "snowfall": 17,
+          "temp": 85,
+          "snowfall": 15,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 2pm. Mostly sunny. High near 86, with temperatures falling to around 84 in the afternoon. Northwest wind 2 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Sunny then Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 5pm. Sunny, with a high near 85. Northwest wind 2 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1758232800000,
-          "temp": 56,
-          "snowfall": 17,
+          "temp": 59,
+          "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 56. Northeast wind 3 to 8 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 59. Northeast wind 3 to 8 mph. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1758135600000,
-          "temp": 76,
+          "timestamp": 1758139200000,
+          "temp": 77,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 76. West wind around 5 mph."
+          "detailedForecast": "Sunny. High near 77, with temperatures falling to around 74 in the afternoon. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -76,7 +76,7 @@
           "name": "Thursday Night",
           "timestamp": 1758232800000,
           "temp": 52,
-          "snowfall": 3,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 52. Northeast wind 5 to 10 mph."
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1758135600000,
+          "timestamp": 1758139200000,
           "temp": 81,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 81. West wind around 5 mph."
+          "detailedForecast": "Sunny. High near 81, with temperatures falling to around 79 in the afternoon. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
