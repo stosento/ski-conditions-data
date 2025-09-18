@@ -1,16 +1,44 @@
 {
-  "timestamp": "2025-09-18T00:01:00.517Z",
+  "timestamp": "2025-09-18T01:27:52.709Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1758153664081,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "Tonight",
+          "timestamp": 1758157200000,
+          "temp": 56,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 56. North wind around 2 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1758189600000,
+          "temp": 85,
+          "snowfall": 15,
+          "snowAmount": "",
+          "shortForecast": "Sunny then Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 5pm. Sunny, with a high near 85. Northwest wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1758232800000,
+          "temp": 59,
+          "snowfall": 15,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
+          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 59. Northeast wind 3 to 8 mph. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Friday",
+          "timestamp": 1758276000000,
+          "temp": 76,
+          "snowfall": 7,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 76. Northeast wind 3 to 9 mph."
         }
       ]
     },
@@ -19,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1758153600000,
+          "timestamp": 1758157200000,
           "temp": 60,
           "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms after 11pm. Partly cloudy, with a low around 60. Northwest wind around 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of showers and thunderstorms after 11pm. Mostly cloudy, with a low around 60. Northwest wind around 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Thursday",
@@ -60,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1758153600000,
+          "timestamp": 1758157200000,
           "temp": 58,
           "snowfall": 11,
           "snowAmount": "",
