@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-09-19T21:00:55.131Z",
+  "timestamp": "2025-09-19T22:00:48.122Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1758315600000,
-          "temp": 77,
-          "snowfall": 3,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 77. Northeast wind around 8 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1758319200000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers after 8pm. Partly cloudy, with a low around 57. East southeast wind 3 to 9 mph."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1758448800000,
+          "temp": 80,
+          "snowfall": 58,
+          "snowAmount": "",
+          "shortForecast": "Showers And Thunderstorms Likely",
+          "detailedForecast": "A slight chance of rain showers before 2pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 80. Southeast wind 3 to 8 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1758315600000,
-          "temp": 68,
-          "snowfall": 4,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. East wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1758319200000,
@@ -79,22 +70,22 @@
           "snowfall": 73,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely",
-          "detailedForecast": "A chance of rain showers before 8pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 54. Southeast wind 10 to 15 mph. Chance of precipitation is 70%."
+          "detailedForecast": "A chance of rain showers before 8pm, then showers and thunderstorms likely. Mostly cloudy. Low around 54, with temperatures rising to around 56 overnight. Southeast wind 10 to 15 mph. Chance of precipitation is 70%."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1758448800000,
+          "temp": 69,
+          "snowfall": 77,
+          "snowAmount": "",
+          "shortForecast": "Showers And Thunderstorms",
+          "detailedForecast": "Showers and thunderstorms. Mostly cloudy, with a high near 69. Southeast wind 5 to 10 mph. Chance of precipitation is 80%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1758315600000,
-          "temp": 70,
-          "snowfall": 4,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 70. East wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1758319200000,
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely",
           "detailedForecast": "Showers and thunderstorms likely. Mostly cloudy, with a low around 53. Southeast wind around 10 mph. Chance of precipitation is 70%."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1758448800000,
+          "temp": 70,
+          "snowfall": 80,
+          "snowAmount": "",
+          "shortForecast": "Showers And Thunderstorms",
+          "detailedForecast": "Showers and thunderstorms. Mostly cloudy, with a high near 70. South wind 5 to 10 mph. Chance of precipitation is 80%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
