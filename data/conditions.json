@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-21T23:00:41.259Z",
+  "timestamp": "2025-09-22T00:01:04.870Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1758495600000,
+          "timestamp": 1758499200000,
           "temp": 59,
-          "snowfall": 25,
+          "snowfall": 24,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of rain showers before 11pm, then a slight chance of showers and thunderstorms between 11pm and 2am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 59. Southeast wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain showers before 11pm, then a slight chance of showers and thunderstorms between 11pm and 2am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 59. Southeast wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1758495600000,
+          "timestamp": 1758499200000,
           "temp": 58,
-          "snowfall": 31,
+          "snowfall": 27,
           "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms between 11pm and 2am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 58. South wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms between 11pm and 2am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 58. South wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
