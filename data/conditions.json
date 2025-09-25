@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-25T04:00:55.517Z",
+  "timestamp": "2025-09-25T06:00:47.775Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1758772800000,
+          "timestamp": 1758780000000,
           "temp": 60,
           "snowfall": 21,
           "snowAmount": "",
-          "shortForecast": "Isolated Rain Showers",
-          "detailedForecast": "Isolated rain showers before 2am, then patchy fog and isolated rain showers. Mostly cloudy, with a low around 60. North wind around 2 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog and isolated rain showers. Mostly cloudy, with a low around 60. North wind around 2 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1758772800000,
+          "timestamp": 1758780000000,
           "temp": 55,
           "snowfall": 12,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog after 2am. Mostly cloudy. Low around 55, with temperatures rising to around 57 overnight. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Patchy fog. Mostly cloudy. Low around 55, with temperatures rising to around 57 overnight. Northeast wind around 0 mph."
         },
         {
           "name": "Thursday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1758772800000,
+          "timestamp": 1758780000000,
           "temp": 54,
           "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog and isolated rain showers after 2am. Mostly cloudy. Low around 54, with temperatures rising to around 56 overnight. Northeast wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Areas of fog and isolated rain showers. Mostly cloudy. Low around 54, with temperatures rising to around 56 overnight. Northeast wind around 0 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
