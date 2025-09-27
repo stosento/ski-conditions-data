@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-09-27T09:00:50.277Z",
+  "timestamp": "2025-09-27T10:00:43.626Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1758963600000,
-          "temp": 57,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly clear, with a low around 57. West southwest wind around 2 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1758967200000,
           "temp": 83,
           "snowfall": 0,
@@ -23,7 +14,7 @@
           "detailedForecast": "Patchy fog before 11am. Sunny, with a high near 83. Southwest wind 2 to 10 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1759010400000,
           "temp": 58,
           "snowfall": 0,
@@ -38,7 +29,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 81. North wind 2 to 6 mph."
+          "detailedForecast": "Sunny. High near 81, with temperatures falling to around 79 in the afternoon. North wind 2 to 6 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1759096800000,
+          "temp": 52,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 52. Northeast wind 1 to 6 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1758963600000,
-          "temp": 47,
-          "snowfall": 7,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 47. East wind around 5 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1758967200000,
           "temp": 68,
           "snowfall": 7,
@@ -64,7 +55,7 @@
           "detailedForecast": "Patchy fog before 10am. Partly sunny, with a high near 68. Southwest wind 5 to 10 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1759010400000,
           "temp": 48,
           "snowfall": 5,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 70. West wind 0 to 5 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1759096800000,
+          "temp": 48,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 48. Southwest wind 0 to 5 mph."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1758963600000,
-          "temp": 49,
-          "snowfall": 7,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly cloudy. Low around 49, with temperatures rising to around 52 overnight. Southeast wind around 0 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1758967200000,
           "temp": 75,
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog before 10am. Mostly sunny, with a high near 75. Southwest wind 0 to 10 mph."
+          "detailedForecast": "Patchy fog before 10am. Mostly sunny, with a high near 75. Southwest wind 5 to 10 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1759010400000,
           "temp": 46,
           "snowfall": 4,
@@ -121,18 +112,27 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 72. West wind 0 to 5 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1759096800000,
+          "temp": 47,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 47. Southwest wind 0 to 5 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
