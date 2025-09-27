@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-09-27T08:00:48.909Z",
+  "timestamp": "2025-09-27T09:00:50.277Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1758960000000,
+          "timestamp": 1758963600000,
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly clear, with a low around 57. West wind around 2 mph."
+          "detailedForecast": "Patchy fog. Mostly clear, with a low around 57. West southwest wind around 2 mph."
         },
         {
           "name": "Saturday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1758960000000,
+          "timestamp": 1758963600000,
           "temp": 47,
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 47. East wind around 0 mph."
+          "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 47. East wind around 5 mph."
         },
         {
           "name": "Saturday",
@@ -61,7 +61,7 @@
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Partly Sunny",
-          "detailedForecast": "Patchy fog before 10am. Partly sunny, with a high near 68. Southwest wind 0 to 10 mph."
+          "detailedForecast": "Patchy fog before 10am. Partly sunny, with a high near 68. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Saturday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1758960000000,
+          "timestamp": 1758963600000,
           "temp": 49,
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. South wind around 0 mph."
+          "detailedForecast": "Patchy fog. Mostly cloudy. Low around 49, with temperatures rising to around 52 overnight. Southeast wind around 0 mph."
         },
         {
           "name": "Saturday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
