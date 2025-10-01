@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-01T18:00:48.481Z",
+  "timestamp": "2025-10-01T19:00:45.776Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1759341600000,
+          "timestamp": 1759345200000,
           "temp": 72,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1759341600000,
-          "temp": 68,
+          "timestamp": 1759345200000,
+          "temp": 69,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 68. East wind around 10 mph."
+          "detailedForecast": "Partly sunny, with a high near 69. East wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -76,7 +76,7 @@
           "name": "Thursday Night",
           "timestamp": 1759442400000,
           "temp": 54,
-          "snowfall": 4,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 54. South wind around 5 mph."
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1759341600000,
-          "temp": 68,
+          "timestamp": 1759345200000,
+          "temp": 69,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 68. Southeast wind around 10 mph."
+          "detailedForecast": "Partly sunny, with a high near 69. Southeast wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -117,7 +117,7 @@
           "name": "Thursday Night",
           "timestamp": 1759442400000,
           "temp": 51,
-          "snowfall": 1,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 51. South wind around 5 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
