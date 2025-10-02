@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-02T20:00:44.827Z",
+  "timestamp": "2025-10-02T21:00:54.286Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1759435200000,
+          "timestamp": 1759438800000,
           "temp": 74,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1759435200000,
+          "timestamp": 1759438800000,
           "temp": 73,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 73. South wind around 5 mph."
+          "detailedForecast": "Sunny. High near 73, with temperatures falling to around 71 in the afternoon. South wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1759435200000,
+          "timestamp": 1759438800000,
           "temp": 73,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 73. South wind around 5 mph."
+          "detailedForecast": "Mostly sunny, with a high near 73. South wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -102,7 +102,7 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 52. South wind around 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 52. South wind 5 to 10 mph."
         },
         {
           "name": "Friday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
