@@ -1,35 +1,35 @@
 {
-  "timestamp": "2025-10-04T06:00:47.767Z",
+  "timestamp": "2025-10-04T07:00:41.960Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1759546800000,
+          "name": "Overnight",
+          "timestamp": 1759561200000,
           "temp": 57,
-          "snowfall": 6,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 57. South southwest wind around 3 mph."
+          "detailedForecast": "Mostly clear, with a low around 57. South southwest wind around 2 mph."
         },
         {
           "name": "Saturday",
           "timestamp": 1759572000000,
           "temp": 87,
-          "snowfall": 4,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 87, with temperatures falling to around 85 in the afternoon. South southwest wind 2 to 7 mph."
+          "detailedForecast": "Sunny, with a high near 87. South southwest wind 2 to 8 mph."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1759615200000,
           "temp": 60,
-          "snowfall": 4,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 60. South wind 3 to 7 mph."
+          "detailedForecast": "Mostly clear, with a low around 60. South wind 3 to 8 mph."
         },
         {
           "name": "Sunday",
@@ -38,7 +38,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 86. South wind 3 to 10 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Sunny, with a high near 86. South southwest wind 3 to 10 mph, with gusts as high as 18 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1759557600000,
+          "timestamp": 1759561200000,
           "temp": 60,
           "snowfall": 26,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 60. Southeast wind around 5 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain showers. Partly cloudy. Low around 60, with temperatures rising to around 62 overnight. South wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -61,7 +61,7 @@
           "snowfall": 26,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Sunny",
-          "detailedForecast": "A chance of rain showers before 8am. Sunny, with a high near 82. Southwest wind 5 to 10 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain showers before 8am. Sunny, with a high near 82. Southwest wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday Night",
@@ -70,7 +70,7 @@
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 63, with temperatures rising to around 66 overnight. Southwest wind 5 to 10 mph."
+          "detailedForecast": "Mostly clear. Low around 63, with temperatures rising to around 65 overnight. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Sunday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1759557600000,
+          "timestamp": 1759561200000,
           "temp": 58,
           "snowfall": 10,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
