@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-10-07T21:00:52.427Z",
+  "timestamp": "2025-10-07T22:00:49.527Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1759870800000,
-          "temp": 67,
-          "snowfall": 54,
-          "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Cloudy. High near 67, with temperatures falling to around 57 in the afternoon. North wind around 10 mph, with gusts as high as 18 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1759874400000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 38. North northeast wind 2 to 12 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1760004000000,
+          "temp": 62,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 62. East northeast wind 2 to 6 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1759870800000,
-          "temp": 61,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 61, with temperatures falling to around 57 in the afternoon. Northwest wind around 15 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1759874400000,
@@ -80,6 +71,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Clear then Widespread Frost",
           "detailedForecast": "Widespread frost after 1am. Mostly clear, with a low around 31. Northeast wind 0 to 5 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1760004000000,
+          "temp": 59,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Widespread Frost then Sunny",
+          "detailedForecast": "Widespread frost before 9am. Sunny, with a high near 59. South wind 0 to 5 mph."
         }
       ]
     },
@@ -87,22 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1759870800000,
-          "temp": 63,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 63, with temperatures falling to around 58 in the afternoon. Northwest wind around 15 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1759874400000,
           "temp": 35,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Clear then Areas Of Frost",
-          "detailedForecast": "Areas of frost after 2am. Mostly clear, with a low around 35. North wind 5 to 15 mph."
+          "detailedForecast": "Areas of frost after 2am. Mostly clear, with a low around 35. North wind 5 to 10 mph."
         },
         {
           "name": "Wednesday",
@@ -121,6 +112,15 @@
           "snowAmount": "",
           "shortForecast": "Widespread Frost",
           "detailedForecast": "Widespread frost after 10pm. Clear, with a low around 25. Northeast wind 0 to 5 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1760004000000,
+          "temp": 59,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Widespread Frost then Sunny",
+          "detailedForecast": "Widespread frost before 10am. Sunny, with a high near 59. South wind 0 to 5 mph."
         }
       ]
     }
