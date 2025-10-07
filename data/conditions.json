@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-10-07T05:00:42.119Z",
+  "timestamp": "2025-10-07T06:00:39.350Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1759809600000,
+          "timestamp": 1759816800000,
           "temp": 57,
           "snowfall": 90,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1759813200000,
+          "timestamp": 1759816800000,
           "temp": 47,
-          "snowfall": 54,
+          "snowfall": 33,
           "snowAmount": "",
           "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A chance of rain. Mostly cloudy. Low around 47, with temperatures rising to around 49 overnight. Northwest wind 0 to 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain. Mostly cloudy. Low around 47, with temperatures rising to around 49 overnight. Northwest wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1759813200000,
+          "timestamp": 1759816800000,
           "temp": 45,
-          "snowfall": 75,
+          "snowfall": 44,
           "snowAmount": "",
-          "shortForecast": "Light Rain",
-          "detailedForecast": "Rain. Mostly cloudy. Low around 45, with temperatures rising to around 48 overnight. North wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A chance of rain. Mostly cloudy. Low around 45, with temperatures rising to around 48 overnight. North wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
