@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-10-08T00:00:57.962Z",
+  "timestamp": "2025-10-08T01:27:53.281Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1759878000000,
+          "timestamp": 1759885200000,
           "temp": 44,
-          "snowfall": 39,
+          "snowfall": 6,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers then Partly Cloudy",
-          "detailedForecast": "A chance of rain showers before 8pm. Partly cloudy. Low around 44, with temperatures rising to around 46 overnight. North northwest wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear. Low around 44, with temperatures rising to around 46 overnight. North northwest wind 6 to 9 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Wednesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1759881600000,
+          "timestamp": 1759885200000,
           "temp": 40,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 40. North wind 5 to 15 mph."
+          "detailedForecast": "Mostly clear, with a low around 40. North wind 5 to 10 mph."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1759881600000,
+          "timestamp": 1759885200000,
           "temp": 35,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Clear then Areas Of Frost",
-          "detailedForecast": "Areas of frost after 2am. Mostly clear, with a low around 35. North wind 5 to 10 mph."
+          "detailedForecast": "Areas of frost after 2am. Mostly clear, with a low around 35. Northwest wind around 5 mph."
         },
         {
           "name": "Wednesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
