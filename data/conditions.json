@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-10-11T21:00:48.211Z",
+  "timestamp": "2025-10-11T22:00:44.103Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1760216400000,
-          "temp": 66,
-          "snowfall": 18,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 66, with temperatures falling to around 64 in the afternoon. North wind around 9 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1760220000000,
@@ -38,22 +29,22 @@
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 50. East wind 2 to 7 mph."
+          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 52 overnight. East wind 2 to 7 mph."
+        },
+        {
+          "name": "Columbus Day",
+          "timestamp": 1760349600000,
+          "temp": 73,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 73. East wind 2 to 6 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1760216400000,
-          "temp": 58,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 58. East wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1760220000000,
@@ -79,22 +70,22 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 50. Southeast wind around 10 mph."
+          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 52 overnight. Southeast wind around 10 mph."
+        },
+        {
+          "name": "Columbus Day",
+          "timestamp": 1760349600000,
+          "temp": 68,
+          "snowfall": 23,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 2pm. Partly sunny, with a high near 68. South wind 5 to 10 mph. Chance of precipitation is 20%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1760216400000,
-          "temp": 58,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 58, with temperatures falling to around 56 in the afternoon. East wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1760220000000,
@@ -120,7 +111,16 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 46. Southeast wind around 10 mph."
+          "detailedForecast": "Mostly clear. Low around 46, with temperatures rising to around 48 overnight. Southeast wind around 10 mph."
+        },
+        {
+          "name": "Columbus Day",
+          "timestamp": 1760349600000,
+          "temp": 68,
+          "snowfall": 10,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 68. South wind 5 to 10 mph."
         }
       ]
     }
