@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-10-12T08:00:49.659Z",
+  "timestamp": "2025-10-12T09:00:39.636Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1760256000000,
+          "timestamp": 1760259600000,
           "temp": 45,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly clear, with a low around 45. North northeast wind around 3 mph."
+          "shortForecast": "Areas Of Fog",
+          "detailedForecast": "Areas of fog. Partly cloudy, with a low around 45. North northeast wind around 3 mph."
         },
         {
           "name": "Sunday",
           "timestamp": 1760263200000,
           "temp": 70,
-          "snowfall": 6,
+          "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog before 9am. Mostly sunny, with a high near 70. East northeast wind 3 to 8 mph."
+          "shortForecast": "Areas Of Fog then Mostly Sunny",
+          "detailedForecast": "Areas of fog before 9am. Mostly sunny, with a high near 70. East northeast wind 3 to 8 mph."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1760306400000,
-          "temp": 50,
-          "snowfall": 9,
+          "temp": 49,
+          "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 52 overnight. East wind 2 to 7 mph."
+          "detailedForecast": "Mostly clear. Low around 49, with temperatures rising to around 51 overnight. East wind 2 to 7 mph."
         },
         {
           "name": "Columbus Day",
           "timestamp": 1760349600000,
           "temp": 73,
-          "snowfall": 1,
+          "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 73. East wind 2 to 6 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 73. East wind 2 to 6 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1760256000000,
+          "timestamp": 1760259600000,
           "temp": 45,
-          "snowfall": 3,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 45, with temperatures rising to around 48 overnight. East wind around 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 45. East wind around 5 mph."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1760256000000,
+          "timestamp": 1760259600000,
           "temp": 41,
-          "snowfall": 4,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 41, with temperatures rising to around 46 overnight. East wind around 0 mph."
+          "detailedForecast": "Mostly cloudy. Low around 41, with temperatures rising to around 43 overnight. Southeast wind around 5 mph."
         },
         {
           "name": "Sunday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
