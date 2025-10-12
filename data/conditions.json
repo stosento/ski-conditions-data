@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-10-12T22:00:46.836Z",
+  "timestamp": "2025-10-12T23:00:47.168Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1760306400000,
+          "timestamp": 1760310000000,
           "temp": 49,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 49. East wind 3 to 8 mph."
+          "detailedForecast": "Mostly clear, with a low around 49. East wind 3 to 7 mph."
         },
         {
           "name": "Columbus Day",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1760306400000,
+          "timestamp": 1760310000000,
           "temp": 50,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 52 overnight. Southeast wind around 10 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy. Low around 50, with temperatures rising to around 52 overnight. Southeast wind around 10 mph."
         },
         {
           "name": "Columbus Day",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1760306400000,
+          "timestamp": 1760310000000,
           "temp": 48,
           "snowfall": 2,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
