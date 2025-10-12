@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-10-12T02:27:01.316Z",
+  "timestamp": "2025-10-12T03:14:05.851Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1760234400000,
+          "timestamp": 1760227200000,
           "temp": 45,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Clear then Patchy Fog",
-          "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 45. Northeast wind around 5 mph."
+          "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 45. Northeast wind around 6 mph."
         },
         {
           "name": "Sunday",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1760234400000,
+          "timestamp": 1760238000000,
           "temp": 45,
-          "snowfall": 0,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy. Low around 45, with temperatures rising to around 47 overnight. East wind around 5 mph."
@@ -57,26 +57,26 @@
         {
           "name": "Sunday",
           "timestamp": 1760263200000,
-          "temp": 66,
-          "snowfall": 0,
+          "temp": 68,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 66. Southeast wind 5 to 10 mph."
+          "detailedForecast": "Mostly sunny, with a high near 68. Southeast wind 5 to 10 mph."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1760306400000,
           "temp": 50,
-          "snowfall": 0,
+          "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 50, with temperatures rising to around 52 overnight. Southeast wind around 10 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 50. Southeast wind around 10 mph."
         },
         {
           "name": "Columbus Day",
           "timestamp": 1760349600000,
           "temp": 68,
-          "snowfall": 23,
+          "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers after 2pm. Partly sunny, with a high near 68. South wind 5 to 10 mph. Chance of precipitation is 20%."
@@ -88,18 +88,18 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1760234400000,
+          "timestamp": 1760238000000,
           "temp": 41,
-          "snowfall": 1,
+          "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 41, with temperatures rising to around 44 overnight. East wind around 5 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around 41, with temperatures rising to around 44 overnight. East wind 0 to 5 mph."
         },
         {
           "name": "Sunday",
           "timestamp": 1760263200000,
           "temp": 66,
-          "snowfall": 1,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Sunny",
           "detailedForecast": "Patchy fog between 8am and 9am. Mostly sunny, with a high near 66. Southeast wind 5 to 10 mph."
@@ -107,32 +107,32 @@
         {
           "name": "Sunday Night",
           "timestamp": 1760306400000,
-          "temp": 46,
-          "snowfall": 0,
+          "temp": 47,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 46, with temperatures rising to around 48 overnight. Southeast wind around 10 mph."
+          "detailedForecast": "Mostly clear. Low around 47, with temperatures rising to around 49 overnight. Southeast wind 5 to 10 mph."
         },
         {
           "name": "Columbus Day",
           "timestamp": 1760349600000,
           "temp": 68,
-          "snowfall": 10,
+          "snowfall": 7,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 68. South wind 5 to 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 68. Southwest wind 5 to 10 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
