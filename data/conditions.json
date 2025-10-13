@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-10-13T13:09:02.155Z",
+  "timestamp": "2025-10-13T14:00:52.552Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Columbus Day",
-          "timestamp": 1760360400000,
+          "timestamp": 1760364000000,
           "temp": 73,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Sunny",
-          "detailedForecast": "Patchy fog before 10am. Sunny, with a high near 73. East wind 2 to 6 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 73. East wind around 6 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Columbus Day",
-          "timestamp": 1760360400000,
+          "timestamp": 1760364000000,
           "temp": 68,
-          "snowfall": 23,
+          "snowfall": 25,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Slight Chance Rain Showers",
-          "detailedForecast": "Patchy fog before 10am, then a slight chance of rain showers. Mostly sunny. High near 68, with temperatures falling to around 64 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "Patchy fog before 11am, then a chance of rain showers. Mostly sunny. High near 68, with temperatures falling to around 64 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Columbus Day",
-          "timestamp": 1760360400000,
+          "timestamp": 1760364000000,
           "temp": 69,
           "snowfall": 9,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog before 10am. Mostly sunny, with a high near 69. South wind 5 to 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 69. South wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
