@@ -1,26 +1,26 @@
 {
-  "timestamp": "2025-10-13T07:00:46.791Z",
+  "timestamp": "2025-10-13T08:01:02.147Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1760338800000,
-          "temp": 49,
+          "timestamp": 1760342400000,
+          "temp": 50,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 49. East northeast wind around 3 mph."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog. Mostly clear, with a low around 50. East northeast wind around 2 mph."
         },
         {
           "name": "Columbus Day",
           "timestamp": 1760349600000,
-          "temp": 72,
+          "temp": 73,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 72. East wind 2 to 6 mph."
+          "shortForecast": "Patchy Fog then Mostly Sunny",
+          "detailedForecast": "Patchy fog before 10am. Mostly sunny, with a high near 73. East wind 2 to 6 mph."
         },
         {
           "name": "Monday Night",
@@ -34,11 +34,11 @@
         {
           "name": "Tuesday",
           "timestamp": 1760436000000,
-          "temp": 73,
-          "snowfall": 0,
+          "temp": 72,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 73. North northwest wind 1 to 7 mph."
+          "detailedForecast": "Mostly sunny, with a high near 72. North wind 2 to 7 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1760338800000,
+          "timestamp": 1760342400000,
           "temp": 50,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog after 5am. Mostly clear, with a low around 50. Southeast wind around 10 mph."
+          "detailedForecast": "Patchy fog after 5am. Partly cloudy, with a low around 50. Southeast wind around 5 mph."
         },
         {
           "name": "Columbus Day",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1760338800000,
+          "timestamp": 1760342400000,
           "temp": 48,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog after 5am. Partly cloudy, with a low around 48. South wind around 5 mph."
+          "detailedForecast": "Patchy fog after 5am. Partly cloudy, with a low around 48. South wind 5 to 10 mph."
         },
         {
           "name": "Columbus Day",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
