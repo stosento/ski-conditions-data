@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-10-14T21:00:51.606Z",
+  "timestamp": "2025-10-14T22:00:45.561Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1760475600000,
-          "temp": 71,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 71. North wind around 9 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1760479200000,
@@ -38,22 +29,22 @@
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 38. North northeast wind 2 to 8 mph."
+          "detailedForecast": "Mostly clear. Low around 38, with temperatures rising to around 40 overnight. North northeast wind 2 to 8 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1760608800000,
+          "temp": 64,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 64. North wind around 3 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1760475600000,
-          "temp": 57,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 54 in the afternoon. North wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1760479200000,
@@ -79,22 +70,22 @@
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 33. North wind 0 to 5 mph."
+          "detailedForecast": "Clear. Low around 33, with temperatures rising to around 35 overnight. North wind 0 to 5 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1760608800000,
+          "temp": 60,
+          "snowfall": 6,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 60. Southeast wind 0 to 5 mph."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1760475600000,
-          "temp": 59,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 56 in the afternoon. North wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1760479200000,
@@ -111,7 +102,7 @@
           "snowfall": 12,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 57. North wind 0 to 5 mph."
+          "detailedForecast": "Mostly sunny, with a high near 57. North wind 0 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday Night",
@@ -120,19 +111,28 @@
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 33. North wind 0 to 5 mph."
+          "detailedForecast": "Clear. Low around 33, with temperatures rising to around 35 overnight. North wind 0 to 5 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1760608800000,
+          "temp": 61,
+          "snowfall": 3,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 61. East wind 0 to 5 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
