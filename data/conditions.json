@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-10-21T03:16:20.075Z",
+  "timestamp": "2025-10-21T04:00:58.133Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1760997600000,
+          "name": "Overnight",
+          "timestamp": 1761019200000,
           "temp": 46,
           "snowfall": 65,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy then Rain Showers Likely",
-          "detailedForecast": "Rain showers likely after 5am. Partly cloudy. Low around 46, with temperatures rising to around 48 overnight. South wind 3 to 8 mph, with gusts as high as 21 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Rain Showers Likely",
+          "detailedForecast": "Rain showers likely after 5am. Partly cloudy. Low around 46, with temperatures rising to around 48 overnight. South southeast wind 3 to 8 mph, with gusts as high as 21 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tuesday",
@@ -46,12 +46,12 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1761015600000,
+          "name": "Overnight",
+          "timestamp": 1761019200000,
           "temp": 45,
           "snowfall": 85,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Rain Showers",
+          "shortForecast": "Rain Showers",
           "detailedForecast": "Rain showers after 3am. Mostly cloudy. Low around 45, with temperatures rising to around 47 overnight. Southeast wind 10 to 15 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
@@ -87,12 +87,12 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1761015600000,
+          "name": "Overnight",
+          "timestamp": 1761019200000,
           "temp": 44,
           "snowfall": 87,
           "snowAmount": "",
-          "shortForecast": "Cloudy then Rain Showers",
+          "shortForecast": "Rain Showers",
           "detailedForecast": "Rain showers after 4am. Cloudy, with a low around 44. Southeast wind 10 to 15 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
