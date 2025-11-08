@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-08T20:00:41.131Z",
+  "timestamp": "2025-11-08T21:00:48.231Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1762632000000,
+          "timestamp": 1762635600000,
           "temp": 45,
           "snowfall": 7,
           "snowAmount": "",
@@ -18,27 +18,27 @@
           "timestamp": 1762642800000,
           "temp": 33,
           "snowfall": 75,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Rain And Snow",
-          "detailedForecast": "A chance of rain between 7pm and 11pm, then rain and snow. Cloudy, with a low around 33. North northeast wind around 7 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "snowAmount": "",
+          "shortForecast": "Chance Light Rain then Rain And Snow",
+          "detailedForecast": "A chance of rain between 7pm and 1am, then rain and snow. Cloudy, with a low around 33. North northeast wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Sunday",
           "timestamp": 1762686000000,
-          "temp": 40,
+          "temp": 41,
           "snowfall": 85,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain and snow. Cloudy. High near 40, with temperatures falling to around 37 in the afternoon. North wind 7 to 12 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Rain and snow. Cloudy. High near 41, with temperatures falling to around 37 in the afternoon. North wind 7 to 12 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1762729200000,
-          "temp": 25,
+          "temp": 26,
           "snowfall": 57,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Rain And Snow Likely",
-          "detailedForecast": "Rain and snow likely. Mostly cloudy, with a low around 25. North wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Rain and snow likely. Mostly cloudy, with a low around 26. North wind 6 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1762632000000,
+          "timestamp": 1762635600000,
           "temp": 37,
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 37, with temperatures falling to around 32 in the afternoon. North wind around 5 mph."
+          "detailedForecast": "Partly sunny. High near 37, with temperatures falling to around 33 in the afternoon. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1762632000000,
+          "timestamp": 1762635600000,
           "temp": 37,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 37, with temperatures falling to around 32 in the afternoon. Northeast wind around 5 mph."
+          "detailedForecast": "Partly sunny. High near 37, with temperatures falling to around 31 in the afternoon. North wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
