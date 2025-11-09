@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-09T15:00:38.878Z",
+  "timestamp": "2025-11-09T16:00:44.118Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1762700400000,
+          "timestamp": 1762704000000,
           "temp": 31,
-          "snowfall": 46,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers before 4pm. Mostly cloudy. High near 31, with temperatures falling to around 28 in the afternoon. Northeast wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "snowfall": 70,
+          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely before 4pm. Mostly cloudy. High near 31, with temperatures falling to around 28 in the afternoon. Northeast wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of 3 to 5 inches possible."
         },
         {
           "name": "Tonight",
@@ -61,7 +61,7 @@
           "snowfall": 15,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers between 7pm and 1am. Partly cloudy, with a low around 18. North wind 5 to 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Isolated snow showers between 7pm and 1am. Partly cloudy, with a low around 18. North wind 5 to 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -70,7 +70,7 @@
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 7am. Partly sunny. High near 33, with temperatures falling to around 30 in the afternoon. North wind 0 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers after 7am. Partly sunny. High near 33, with temperatures falling to around 30 in the afternoon. North wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1762700400000,
+          "timestamp": 1762704000000,
           "temp": 31,
           "snowfall": 61,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. High near 31, with temperatures falling to around 25 in the afternoon. North wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. High near 31, with temperatures falling to around 25 in the afternoon. North wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -102,16 +102,16 @@
           "snowfall": 32,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers before 1am. Partly cloudy. Low around 15, with temperatures rising to around 17 overnight. North wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers before 1am. Partly cloudy. Low around 15, with temperatures rising to around 17 overnight. North wind around 10 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
           "timestamp": 1762772400000,
-          "temp": 31,
+          "temp": 29,
           "snowfall": 39,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Mostly Sunny then Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 1pm. Mostly sunny. High near 31, with temperatures falling to around 28 in the afternoon. North wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers after 1pm. Mostly sunny, with a high near 29. North wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday Night",
@@ -120,19 +120,19 @@
           "snowfall": 65,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy, with a low around 21. Northwest wind around 5 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a low around 21. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
