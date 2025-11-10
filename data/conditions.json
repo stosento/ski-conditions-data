@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-11-10T22:00:46.170Z",
+  "timestamp": "2025-11-10T23:00:46.599Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1762812000000,
-          "temp": 33,
-          "snowfall": 9,
-          "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly sunny. High near 33, with temperatures falling to around 31 in the afternoon. Northwest wind around 10 mph, with gusts as high as 22 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1762815600000,
@@ -38,22 +29,22 @@
           "snowfall": 45,
           "snowAmount": "",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 10pm, then a chance of freezing rain between 10pm and 11pm, then a chance of snow between 11pm and 4am, then a slight chance of rain and snow. Cloudy, with a low around 30. Southwest wind 7 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of snow before 10pm, then a chance of freezing rain between 10pm and 11pm, then a chance of snow between 11pm and 4am, then a slight chance of rain and snow. Cloudy. Low around 30, with temperatures rising to around 34 overnight. Southwest wind 7 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1762945200000,
+          "temp": 46,
+          "snowfall": 26,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain And Snow",
+          "detailedForecast": "A chance of rain and snow. Mostly cloudy, with a high near 46. West wind 8 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 30%."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1762812000000,
-          "temp": 32,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind around 5 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1762815600000,
@@ -79,22 +70,22 @@
           "snowfall": 81,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow Showers",
-          "detailedForecast": "Rain and snow showers before midnight, then rain and snow showers. Cloudy, with a low around 31. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain and snow showers before midnight, then rain and snow showers. Cloudy. Low around 31, with temperatures rising to around 36 overnight. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1762945200000,
+          "temp": 42,
+          "snowfall": 84,
+          "snowAmount": "",
+          "shortForecast": "Rain Showers",
+          "detailedForecast": "Rain showers. Mostly cloudy, with a high near 42. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1762812000000,
-          "temp": 29,
-          "snowfall": 19,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Partly sunny. High near 29, with temperatures falling to around 26 in the afternoon. Northwest wind around 5 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1762815600000,
@@ -120,7 +111,16 @@
           "snowfall": 77,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 1am, then rain and snow showers between 1am and 4am, then rain and snow showers. Cloudy, with a low around 28. Southwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers before 1am, then rain and snow showers between 1am and 4am, then rain and snow showers. Cloudy. Low around 28, with temperatures rising to around 33 overnight. Southwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1762945200000,
+          "temp": 40,
+          "snowfall": 82,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Rain And Snow Showers",
+          "detailedForecast": "Rain and snow showers. Cloudy, with a high near 40. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
         }
       ]
     }
