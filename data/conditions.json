@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-11-11T15:00:49.420Z",
+  "timestamp": "2025-11-11T16:00:43.995Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Veterans Day",
-          "timestamp": 1762873200000,
+          "timestamp": 1762876800000,
           "temp": 38,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Mostly Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after 1pm. Mostly cloudy. High near 38, with temperatures falling to around 36 in the afternoon. West southwest wind around 13 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Cloudy then Chance Light Snow",
+          "detailedForecast": "A chance of snow after 1pm. Cloudy. High near 38, with temperatures falling to around 36 in the afternoon. Southwest wind around 13 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Veterans Day",
-          "timestamp": 1762873200000,
+          "timestamp": 1762876800000,
           "temp": 38,
-          "snowfall": 55,
+          "snowfall": 63,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
           "detailedForecast": "Snow showers likely before 5pm, then rain and snow showers likely. Cloudy. High near 38, with temperatures falling to around 35 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
@@ -58,10 +58,10 @@
           "name": "Tonight",
           "timestamp": 1762902000000,
           "temp": 31,
-          "snowfall": 78,
-          "snowAmount": "",
-          "shortForecast": "Rain And Snow Showers",
-          "detailedForecast": "Rain and snow showers before 2am, then rain and snow showers likely. Cloudy. Low around 31, with temperatures rising to around 36 overnight. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "snowfall": 72,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Rain And Snow Showers Likely",
+          "detailedForecast": "Rain and snow showers likely before 10pm, then rain and snow showers likely. Cloudy. Low around 31, with temperatures rising to around 36 overnight. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -88,9 +88,9 @@
       "forecast": [
         {
           "name": "Veterans Day",
-          "timestamp": 1762873200000,
+          "timestamp": 1762876800000,
           "temp": 35,
-          "snowfall": 49,
+          "snowfall": 46,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Cloudy then Chance Snow Showers",
           "detailedForecast": "A chance of snow showers after 1pm. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
@@ -99,10 +99,10 @@
           "name": "Tonight",
           "timestamp": 1762902000000,
           "temp": 28,
-          "snowfall": 76,
+          "snowfall": 69,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 2am, then rain and snow showers likely between 2am and 4am, then rain and snow showers likely. Cloudy. Low around 28, with temperatures rising to around 33 overnight. Southwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely before 2am, then rain and snow showers likely between 2am and 3am, then rain and snow showers likely. Cloudy. Low around 28, with temperatures rising to around 33 overnight. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
