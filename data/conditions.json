@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-12T04:01:41.784Z",
+  "timestamp": "2025-11-12T05:00:43.874Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1762920000000,
+          "name": "Overnight",
+          "timestamp": 1762923600000,
           "temp": 30,
           "snowfall": 25,
           "snowAmount": "",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1762920000000,
+          "name": "Overnight",
+          "timestamp": 1762923600000,
           "temp": 34,
           "snowfall": 62,
           "snowAmount": "",
           "shortForecast": "Rain And Snow Showers Likely",
-          "detailedForecast": "A chance of rain showers before midnight, then rain and snow showers likely. Cloudy. Low around 34, with temperatures rising to around 39 overnight. West wind 10 to 15 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain and snow showers likely. Cloudy. Low around 34, with temperatures rising to around 39 overnight. West wind 10 to 15 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1762920000000,
+          "name": "Overnight",
+          "timestamp": 1762923600000,
           "temp": 31,
           "snowfall": 74,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
