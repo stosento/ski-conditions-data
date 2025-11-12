@@ -1,9 +1,18 @@
 {
-  "timestamp": "2025-11-11T23:00:44.687Z",
+  "timestamp": "2025-11-12T00:01:00.342Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
+        {
+          "name": "Veterans Day",
+          "timestamp": 1762898400000,
+          "temp": 38,
+          "snowfall": 25,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow. Cloudy. High near 38, with temperatures falling to around 36 in the afternoon. South southwest wind around 12 mph, with gusts as high as 26 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+        },
         {
           "name": "Tonight",
           "timestamp": 1762902000000,
@@ -30,15 +39,6 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Rain then Partly Cloudy",
           "detailedForecast": "A slight chance of rain before 7pm. Partly cloudy, with a low around 31. West wind 6 to 12 mph, with gusts as high as 23 mph."
-        },
-        {
-          "name": "Thursday",
-          "timestamp": 1763031600000,
-          "temp": 50,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 50. West wind 6 to 10 mph, with gusts as high as 20 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1762902000000,
+          "timestamp": 1762905600000,
           "temp": 34,
           "snowfall": 69,
           "snowAmount": "",
           "shortForecast": "Rain And Snow Showers Likely",
-          "detailedForecast": "Rain and snow showers likely. Cloudy. Low around 34, with temperatures rising to around 39 overnight. Southwest wind 10 to 15 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers likely before 8pm, then rain and snow showers likely. Cloudy. Low around 34, with temperatures rising to around 39 overnight. West wind 10 to 15 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1762902000000,
+          "timestamp": 1762905600000,
           "temp": 31,
           "snowfall": 74,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow Showers Likely",
-          "detailedForecast": "Rain and snow showers likely. Cloudy. Low around 31, with temperatures rising to around 37 overnight. Southwest wind 10 to 15 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain and snow showers likely. Cloudy. Low around 31, with temperatures rising to around 37 overnight. West wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
