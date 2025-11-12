@@ -1,26 +1,26 @@
 {
-  "timestamp": "2025-11-12T19:00:45.313Z",
+  "timestamp": "2025-11-12T20:00:42.957Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1762970400000,
-          "temp": 46,
-          "snowfall": 7,
+          "timestamp": 1762977600000,
+          "temp": 49,
+          "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 46, with temperatures falling to around 44 in the afternoon. West wind around 13 mph, with gusts as high as 26 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 49, with temperatures falling to around 46 in the afternoon. West wind around 13 mph, with gusts as high as 26 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1762988400000,
-          "temp": 31,
-          "snowfall": 7,
+          "temp": 32,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 31, with temperatures rising to around 33 overnight. West wind 6 to 12 mph, with gusts as high as 23 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 32. West wind 6 to 12 mph, with gusts as high as 23 mph."
         },
         {
           "name": "Thursday",
@@ -34,11 +34,11 @@
         {
           "name": "Thursday Night",
           "timestamp": 1763074800000,
-          "temp": 31,
+          "temp": 30,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 31. West wind 2 to 7 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 30. West wind 2 to 7 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1762974000000,
+          "timestamp": 1762977600000,
           "temp": 42,
           "snowfall": 39,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Cloudy. High near 42, with temperatures falling to around 39 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Cloudy. High near 42, with temperatures falling to around 39 in the afternoon. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1762974000000,
+          "timestamp": 1762977600000,
           "temp": 40,
           "snowfall": 51,
           "snowAmount": "",
@@ -111,7 +111,7 @@
           "snowfall": 13,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 42, with temperatures falling to around 40 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Mostly sunny. High near 42, with temperatures falling to around 39 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Thursday Night",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
