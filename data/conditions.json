@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-12T14:01:11.752Z",
+  "timestamp": "2025-11-12T15:00:48.144Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1762956000000,
+          "timestamp": 1762959600000,
           "temp": 46,
           "snowfall": 14,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1762956000000,
+          "timestamp": 1762959600000,
           "temp": 42,
-          "snowfall": 77,
+          "snowfall": 62,
           "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy. High near 42, with temperatures falling to around 40 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Rain Showers Likely",
+          "detailedForecast": "Rain showers likely. Cloudy. High near 42, with temperatures falling to around 40 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1762956000000,
+          "timestamp": 1762959600000,
           "temp": 40,
-          "snowfall": 75,
+          "snowfall": 66,
           "snowAmount": "",
-          "shortForecast": "Rain Showers then Chance Rain And Snow Showers",
-          "detailedForecast": "Rain showers before 4pm, then a chance of rain and snow showers. Cloudy. High near 40, with temperatures falling to around 38 in the afternoon. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Rain Showers Likely then Chance Rain And Snow Showers",
+          "detailedForecast": "Rain showers likely before 4pm, then a chance of rain and snow showers. Cloudy. High near 40, with temperatures falling to around 38 in the afternoon. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
