@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-11-13T15:00:45.349Z",
+  "timestamp": "2025-11-13T16:00:50.726Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763046000000,
+          "timestamp": 1763049600000,
           "temp": 50,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 50, with temperatures falling to around 47 in the afternoon. West wind 9 to 13 mph, with gusts as high as 23 mph."
+          "detailedForecast": "Sunny. High near 50, with temperatures falling to around 47 in the afternoon. West wind 9 to 13 mph, with gusts as high as 22 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763046000000,
+          "timestamp": 1763049600000,
           "temp": 43,
           "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 43. West wind 10 to 15 mph, with gusts as high as 30 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 43. West wind 10 to 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763046000000,
+          "timestamp": 1763049600000,
           "temp": 42,
           "snowfall": 2,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
