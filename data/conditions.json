@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-11-12T23:00:40.195Z",
+  "timestamp": "2025-11-13T00:00:55.044Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1762988400000,
+          "timestamp": 1762992000000,
           "temp": 32,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 32. West wind 6 to 12 mph, with gusts as high as 23 mph."
+          "detailedForecast": "Mostly clear, with a low around 32. West wind 6 to 10 mph, with gusts as high as 21 mph."
         },
         {
           "name": "Thursday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1762988400000,
+          "timestamp": 1762992000000,
           "temp": 34,
           "snowfall": 46,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Chance Rain And Snow Showers",
-          "detailedForecast": "A chance of rain showers before 4am, then a chance of rain and snow showers. Cloudy. Low around 34, with temperatures rising to around 36 overnight. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 4am, then a chance of rain and snow showers. Mostly cloudy. Low around 34, with temperatures rising to around 36 overnight. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1762988400000,
+          "timestamp": 1762992000000,
           "temp": 31,
-          "snowfall": 38,
+          "snowfall": 33,
           "snowAmount": "",
           "shortForecast": "Chance Rain And Snow Showers",
-          "detailedForecast": "A chance of rain and snow showers before 4am. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. Northwest wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain and snow showers before 4am. Mostly cloudy. Low around 31, with temperatures rising to around 33 overnight. Northwest wind 10 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
