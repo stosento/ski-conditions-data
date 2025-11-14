@@ -1,9 +1,18 @@
 {
-  "timestamp": "2025-11-13T23:00:41.609Z",
+  "timestamp": "2025-11-14T00:00:51.520Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
+        {
+          "name": "This Afternoon",
+          "timestamp": 1763071200000,
+          "temp": 50,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 50, with temperatures falling to around 48 in the afternoon. West wind around 9 mph."
+        },
         {
           "name": "Tonight",
           "timestamp": 1763074800000,
@@ -29,16 +38,7 @@
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 37, with temperatures rising to around 40 overnight. Southeast wind 1 to 5 mph."
-        },
-        {
-          "name": "Saturday",
-          "timestamp": 1763204400000,
-          "temp": 63,
-          "snowfall": 33,
-          "snowAmount": "",
-          "shortForecast": "Cloudy then Chance Light Rain",
-          "detailedForecast": "A chance of rain after 1pm. Cloudy, with a high near 63. South southwest wind 6 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
+          "detailedForecast": "Mostly cloudy, with a low around 37. Southeast wind 1 to 5 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1763074800000,
+          "timestamp": 1763078400000,
           "temp": 30,
           "snowfall": 7,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear then Patchy Fog",
-          "detailedForecast": "Patchy fog after 2am. Mostly clear. Low around 30, with temperatures rising to around 32 overnight. West wind 0 to 10 mph."
+          "shortForecast": "Partly Cloudy then Patchy Fog",
+          "detailedForecast": "Patchy fog after 2am. Partly cloudy. Low around 30, with temperatures rising to around 32 overnight. West wind 0 to 10 mph."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1763074800000,
+          "timestamp": 1763078400000,
           "temp": 28,
           "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Patchy Fog",
-          "detailedForecast": "Patchy fog after 2am. Partly cloudy, with a low around 28. Southwest wind 5 to 10 mph."
+          "detailedForecast": "Patchy fog after 2am. Partly cloudy, with a low around 28. Southwest wind around 5 mph."
         },
         {
           "name": "Friday",
