@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-16T04:04:30.140Z",
+  "timestamp": "2025-11-16T05:00:41.077Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1763265600000,
+          "name": "Overnight",
+          "timestamp": 1763269200000,
           "temp": 35,
           "snowfall": 7,
           "snowAmount": "",
@@ -46,12 +46,12 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1763265600000,
+          "name": "Overnight",
+          "timestamp": 1763269200000,
           "temp": 32,
           "snowfall": 35,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Mostly Cloudy then Scattered Snow Showers",
+          "shortForecast": "Scattered Snow Showers",
           "detailedForecast": "Scattered snow showers after 1am. Mostly cloudy. Low around 32, with temperatures rising to around 34 overnight. Northwest wind around 15 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
@@ -87,12 +87,12 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1763265600000,
+          "name": "Overnight",
+          "timestamp": 1763269200000,
           "temp": 30,
           "snowfall": 45,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Mostly Cloudy then Scattered Snow Showers",
+          "shortForecast": "Scattered Snow Showers",
           "detailedForecast": "Scattered snow showers after 1am. Mostly cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
