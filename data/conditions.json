@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-16T05:00:41.077Z",
+  "timestamp": "2025-11-16T06:00:42.624Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1763269200000,
+          "timestamp": 1763272800000,
           "temp": 35,
           "snowfall": 7,
           "snowAmount": "",
@@ -29,7 +29,7 @@
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 29. West northwest wind 7 to 16 mph, with gusts as high as 29 mph."
+          "detailedForecast": "Mostly clear, with a low around 29. West northwest wind 7 to 14 mph, with gusts as high as 25 mph."
         },
         {
           "name": "Monday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1763269200000,
+          "timestamp": 1763272800000,
           "temp": 32,
           "snowfall": 35,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 1am. Mostly cloudy. Low around 32, with temperatures rising to around 34 overnight. Northwest wind around 15 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 32, with temperatures rising to around 34 overnight. Northwest wind around 15 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1763269200000,
+          "timestamp": 1763272800000,
           "temp": 30,
           "snowfall": 45,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 1am. Mostly cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. Low around 30, with temperatures rising to around 32 overnight. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
