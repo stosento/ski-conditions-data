@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-17T17:01:28.981Z",
+  "timestamp": "2025-11-17T18:00:42.693Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,30 +47,30 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1763398800000,
+          "timestamp": 1763402400000,
           "temp": 37,
-          "snowfall": 27,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 37. Northwest wind 10 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "snowfall": 12,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 37. Northwest wind 10 to 15 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1763420400000,
-          "temp": 27,
-          "snowfall": 18,
+          "temp": 28,
+          "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers then Mostly Cloudy",
-          "detailedForecast": "Isolated snow showers before 7pm. Mostly cloudy, with a low around 27. Northwest wind 0 to 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 28. Northwest wind 0 to 10 mph."
         },
         {
           "name": "Tuesday",
           "timestamp": 1763463600000,
-          "temp": 37,
-          "snowfall": 7,
+          "temp": 38,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 37, with temperatures falling to around 35 in the afternoon. North wind 0 to 5 mph."
+          "detailedForecast": "Mostly sunny. High near 38, with temperatures falling to around 35 in the afternoon. North wind 0 to 5 mph."
         },
         {
           "name": "Tuesday Night",
@@ -79,7 +79,7 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 24. Northeast wind 0 to 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 24. Northwest wind 0 to 5 mph."
         }
       ]
     },
@@ -88,27 +88,27 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1763398800000,
+          "timestamp": 1763402400000,
           "temp": 35,
-          "snowfall": 29,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 35, with temperatures falling to around 33 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "snowfall": 10,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 35. Northwest wind around 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1763420400000,
-          "temp": 24,
-          "snowfall": 18,
+          "temp": 22,
+          "snowfall": 10,
           "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers then Mostly Cloudy",
-          "detailedForecast": "Isolated snow showers before 7pm. Mostly cloudy, with a low around 24. Northwest wind 0 to 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 22. Northwest wind 0 to 5 mph."
         },
         {
           "name": "Tuesday",
           "timestamp": 1763463600000,
           "temp": 37,
-          "snowfall": 5,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny. High near 37, with temperatures falling to around 34 in the afternoon. Northwest wind 0 to 5 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
