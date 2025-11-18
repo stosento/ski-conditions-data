@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-18T19:00:40.417Z",
+  "timestamp": "2025-11-18T20:00:44.555Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763474400000,
+          "timestamp": 1763470800000,
           "temp": 39,
           "snowfall": 29,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -46,12 +46,40 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1763492447150,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "This Afternoon",
+          "timestamp": 1763496000000,
+          "temp": 39,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 39, with temperatures falling to around 36 in the afternoon. North wind around 5 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1763506800000,
+          "temp": 23,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 23. Northeast wind 0 to 5 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1763550000000,
+          "temp": 40,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 40, with temperatures falling to around 38 in the afternoon. South wind 0 to 5 mph."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1763593200000,
+          "temp": 28,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 28. South wind around 5 mph."
         }
       ]
     },
@@ -59,24 +87,52 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Unavailable",
-          "timestamp": 1763492453194,
-          "temp": null,
-          "snowfall": null,
-          "snowAmount": "0.0",
-          "shortForecast": "Weather data temporarily unavailable"
+          "name": "This Afternoon",
+          "timestamp": 1763496000000,
+          "temp": 39,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 39, with temperatures falling to around 36 in the afternoon. Northeast wind around 5 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1763506800000,
+          "temp": 20,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 20. North wind 0 to 5 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1763550000000,
+          "temp": 39,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 39, with temperatures falling to around 37 in the afternoon. Southwest wind 0 to 5 mph."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1763593200000,
+          "temp": 26,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 26. South wind 0 to 5 mph."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
