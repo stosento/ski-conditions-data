@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-19T14:00:43.590Z",
+  "timestamp": "2025-11-19T15:00:56.124Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763560800000,
+          "timestamp": 1763564400000,
           "temp": 45,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763560800000,
+          "timestamp": 1763564400000,
           "temp": 41,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 41, with temperatures falling to around 39 in the afternoon. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Partly sunny. High near 41, with temperatures falling to around 39 in the afternoon. Southwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763560800000,
+          "timestamp": 1763564400000,
           "temp": 41,
           "snowfall": 0,
           "snowAmount": "",
@@ -128,11 +128,11 @@
   "metroparkConditions": {
     "HuronMeadowsMetropark": {
       "sections": [],
-      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+      "title": "Huron Meadows Metropark"
     },
     "StonyCreekMetropark": {
       "sections": [],
-      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
