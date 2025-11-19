@@ -1,23 +1,14 @@
 {
-  "timestamp": "2025-11-18T23:00:41.269Z",
+  "timestamp": "2025-11-19T00:01:04.466Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1763503200000,
-          "temp": 39,
-          "snowfall": 34,
-          "snowAmount": "",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Cloudy, with a high near 39. Northeast wind around 3 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
           "name": "Tonight",
-          "timestamp": 1763506800000,
+          "timestamp": 1763510400000,
           "temp": 28,
-          "snowfall": 34,
+          "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow then Chance Light Rain",
           "detailedForecast": "A chance of snow before 8pm, then a chance of rain between 8pm and 9pm, then a chance of snow between 9pm and 11pm, then a chance of rain between 11pm and 1am. Mostly cloudy, with a low around 28. North northeast wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 30. East wind around 2 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1763636400000,
+          "temp": 49,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 49. South southeast wind 1 to 7 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1763506800000,
+          "timestamp": 1763510400000,
           "temp": 23,
           "snowfall": 1,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1763506800000,
+          "timestamp": 1763510400000,
           "temp": 20,
           "snowfall": 0,
           "snowAmount": "",
