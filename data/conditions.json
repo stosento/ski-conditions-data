@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-19T13:10:01.553Z",
+  "timestamp": "2025-11-19T14:00:43.590Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763557200000,
+          "timestamp": 1763560800000,
           "temp": 45,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763557200000,
+          "timestamp": 1763560800000,
           "temp": 41,
           "snowfall": 0,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1763557200000,
+          "timestamp": 1763560800000,
           "temp": 41,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 41, with temperatures falling to around 39 in the afternoon. Southwest wind 0 to 5 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 41, with temperatures falling to around 39 in the afternoon. Southwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -126,27 +126,27 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
-      "title": "Huron Meadows Metropark"
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
     }
   },
   "nordicConditions": {},
   "nubsNob": {
-    "date": "11/10/25: Pre-Season Update",
+    "date": "11/19/25: Pre-Season Update",
     "liftsOpen": "0",
     "xcTrails": "Closed",
     "nightSkiing": "Begins Dec. 26",
-    "comments": "The Snow Crew had a chance to test the system today with a nice shot of cold air.",
+    "comments": "The Snow Crew turned the guns on last night. Despite some cold temperatures in the area the conditions at Nub's Nob allowed for only a few hours of quality snowmaking. The team is here around the clock, ready for the next opportunity. At this point it looks like there is a turn toward colder weather right around Thanksgiving. We will continue to update the blog to keep you up to date. Think COLD and SNOW.",
     "snowData": {
-      "daily": "4\"",
-      "threeDays": "3 days: 4\"",
-      "sevenDays": "7 days: 4\"",
-      "ytd": "YTD: 4\""
+      "daily": "0\"",
+      "threeDays": "3 days: 1\"",
+      "sevenDays": "7 days: 5\"",
+      "ytd": "YTD: 5\""
     }
   }
 }
