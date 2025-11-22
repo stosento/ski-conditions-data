@@ -1,12 +1,21 @@
 {
-  "timestamp": "2025-11-22T01:28:05.986Z",
+  "timestamp": "2025-11-22T02:27:00.502Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
+          "name": "This Afternoon",
+          "timestamp": 1763762400000,
+          "temp": 52,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 52, with temperatures falling to around 47 in the afternoon. West northwest wind around 6 mph."
+        },
+        {
           "name": "Tonight",
-          "timestamp": 1763773200000,
+          "timestamp": 1763766000000,
           "temp": 29,
           "snowfall": 0,
           "snowAmount": "",
@@ -29,16 +38,7 @@
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 34, with temperatures rising to around 37 overnight. Southwest wind 2 to 7 mph."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1763895600000,
-          "temp": 51,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 51. West northwest wind 7 to 10 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 34. Southwest wind 2 to 7 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1763773200000,
+          "timestamp": 1763776800000,
           "temp": 27,
           "snowfall": 3,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1763773200000,
+          "timestamp": 1763776800000,
           "temp": 24,
           "snowfall": 5,
           "snowAmount": "",
