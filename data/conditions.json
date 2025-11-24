@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-11-24T18:00:52.875Z",
+  "timestamp": "2025-11-24T19:00:38.040Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764007200000,
+          "timestamp": 1764010800000,
           "temp": 54,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 51 in the afternoon. South southwest wind 7 to 10 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 51 in the afternoon. South wind around 9 mph."
         },
         {
           "name": "Tonight",
@@ -29,16 +29,16 @@
           "snowfall": 76,
           "snowAmount": "",
           "shortForecast": "Light Rain",
-          "detailedForecast": "Rain. Cloudy. High near 51, with temperatures falling to around 49 in the afternoon. Southeast wind around 6 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain. Cloudy, with a high near 51. Southeast wind around 6 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tuesday Night",
           "timestamp": 1764111600000,
-          "temp": 40,
-          "snowfall": 47,
+          "temp": 39,
+          "snowfall": 55,
           "snowAmount": "",
-          "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A chance of rain. Cloudy, with a low around 40. South wind 1 to 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Light Rain Likely",
+          "detailedForecast": "Rain likely. Cloudy, with a low around 39. South southwest wind 2 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764007200000,
+          "timestamp": 1764010800000,
           "temp": 52,
           "snowfall": 13,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764007200000,
+          "timestamp": 1764010800000,
           "temp": 51,
           "snowfall": 5,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
