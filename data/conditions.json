@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-25T15:00:53.589Z",
+  "timestamp": "2025-11-25T16:00:46.896Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764082800000,
+          "timestamp": 1764086400000,
           "temp": 51,
           "snowfall": 94,
           "snowAmount": "",
@@ -36,9 +36,9 @@
           "timestamp": 1764198000000,
           "temp": 29,
           "snowfall": 52,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy, with a low around 29. West southwest wind 15 to 22 mph, with gusts as high as 46 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy, with a low around 29. West southwest wind 15 to 22 mph, with gusts as high as 46 mph. Chance of precipitation is 50%. New snow accumulation of around one inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764082800000,
+          "timestamp": 1764086400000,
           "temp": 49,
           "snowfall": 49,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764082800000,
+          "timestamp": 1764086400000,
           "temp": 49,
           "snowfall": 57,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
