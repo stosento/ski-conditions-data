@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-11-26T07:00:55.280Z",
+  "timestamp": "2025-11-26T08:00:41.114Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764133200000,
-          "temp": 38,
-          "snowfall": 41,
+          "timestamp": 1764144000000,
+          "temp": 41,
+          "snowfall": 75,
           "snowAmount": "",
-          "shortForecast": "Chance Light Rain",
-          "detailedForecast": "Patchy fog before 1am, then a chance of rain and patchy fog. Mostly cloudy. Low around 38, with temperatures rising to around 45 overnight. Southwest wind 3 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Light Rain",
+          "detailedForecast": "Patchy fog before 4am, then rain. Mostly cloudy. Low around 41, with temperatures rising to around 46 overnight. South southwest wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
           "timestamp": 1764154800000,
-          "temp": 49,
-          "snowfall": 41,
+          "temp": 48,
+          "snowfall": 75,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Light Rain then Chance Light Snow",
-          "detailedForecast": "A chance of rain before 1pm, then a chance of snow. Mostly cloudy. High near 49, with temperatures falling to around 37 in the afternoon. Southwest wind 8 to 23 mph, with gusts as high as 39 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Light Rain then Rain And Snow Likely",
+          "detailedForecast": "Rain before 7am, then rain and snow likely. Mostly cloudy. High near 48, with temperatures falling to around 35 in the afternoon. Southwest wind 8 to 23 mph, with gusts as high as 39 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1764198000000,
-          "temp": 29,
-          "snowfall": 52,
+          "temp": 30,
+          "snowfall": 61,
           "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Cloudy, with a low around 29. West southwest wind 20 to 23 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of around one inch possible."
+          "shortForecast": "Rain And Snow Likely",
+          "detailedForecast": "Rain and snow likely. Cloudy, with a low around 30. West southwest wind 20 to 23 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Thanksgiving Day",
           "timestamp": 1764241200000,
-          "temp": 37,
+          "temp": 36,
           "snowfall": 43,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy, with a high near 37. West wind around 22 mph, with gusts as high as 36 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow before 10am, then a chance of rain and snow. Mostly cloudy, with a high near 36. West wind 16 to 21 mph, with gusts as high as 36 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764140400000,
+          "timestamp": 1764144000000,
           "temp": 40,
           "snowfall": 60,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764140400000,
+          "timestamp": 1764144000000,
           "temp": 39,
           "snowfall": 58,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely. Cloudy. Low around 39, with temperatures rising to around 42 overnight. South wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain showers likely. Cloudy. Low around 39, with temperatures rising to around 42 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
