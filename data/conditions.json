@@ -1,17 +1,26 @@
 {
-  "timestamp": "2025-11-26T00:01:01.896Z",
+  "timestamp": "2025-11-26T01:28:21.225Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
+          "name": "This Afternoon",
+          "timestamp": 1764108000000,
+          "temp": 50,
+          "snowfall": 37,
+          "snowAmount": "",
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A chance of rain and patchy fog. Cloudy, with a high near 50. South wind around 3 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
           "name": "Tonight",
-          "timestamp": 1764115200000,
+          "timestamp": 1764111600000,
           "temp": 38,
           "snowfall": 41,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog then Chance Light Rain",
-          "detailedForecast": "Patchy fog before 1am, then a chance of rain and patchy fog. Mostly cloudy. Low around 38, with temperatures rising to around 45 overnight. South southwest wind 2 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog and a slight chance of rain before 1am, then a chance of rain and patchy fog. Mostly cloudy. Low around 38, with temperatures rising to around 45 overnight. South southwest wind 2 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -30,15 +39,6 @@
           "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Chance Light Snow",
           "detailedForecast": "A chance of snow. Cloudy, with a low around 29. West southwest wind 20 to 24 mph, with gusts as high as 45 mph. Chance of precipitation is 50%. New snow accumulation of around one inch possible."
-        },
-        {
-          "name": "Thanksgiving Day",
-          "timestamp": 1764241200000,
-          "temp": 37,
-          "snowfall": 43,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy, with a high near 37. West wind around 22 mph, with gusts as high as 36 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1764115200000,
+          "timestamp": 1764118800000,
           "temp": 41,
           "snowfall": 60,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1764115200000,
+          "timestamp": 1764118800000,
           "temp": 39,
           "snowfall": 58,
           "snowAmount": "",
