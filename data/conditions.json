@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-11-27T11:00:40.785Z",
+  "timestamp": "2025-11-27T12:00:43.343Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Thanksgiving Day",
-          "timestamp": 1764241200000,
+          "timestamp": 1764244800000,
           "temp": 38,
           "snowfall": 34,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "snowAmount": "",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West wind around 21 mph, with gusts as high as 37 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow. Mostly cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West wind around 21 mph, with gusts as high as 37 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Thanksgiving Day",
-          "timestamp": 1764241200000,
+          "timestamp": 1764244800000,
           "temp": 32,
           "snowfall": 96,
-          "snowAmount": "New snow accumulation of 3 to 7 inches possible",
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow Showers And Blowing Snow",
-          "detailedForecast": "Snow showers and blowing snow. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
+          "detailedForecast": "Snow showers and blowing snow. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Thanksgiving Day",
-          "timestamp": 1764241200000,
+          "timestamp": 1764244800000,
           "temp": 31,
-          "snowfall": 99,
-          "snowAmount": "New snow accumulation of 5 to 9 inches possible",
+          "snowfall": 97,
+          "snowAmount": "New snow accumulation of 3 to 7 inches possible",
           "shortForecast": "Snow Showers And Blowing Snow",
-          "detailedForecast": "Snow showers and blowing snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 5 to 9 inches possible."
+          "detailedForecast": "Snow showers and blowing snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
