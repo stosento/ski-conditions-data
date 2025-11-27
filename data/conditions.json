@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-11-27T07:01:15.122Z",
+  "timestamp": "2025-11-27T08:00:43.784Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764226800000,
+          "timestamp": 1764230400000,
           "temp": 31,
           "snowfall": 49,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy, with a low around 31. West wind around 21 mph, with gusts as high as 39 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow. Mostly cloudy, with a low around 31. West wind around 21 mph, with gusts as high as 38 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thanksgiving Day",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764226800000,
+          "timestamp": 1764230400000,
           "temp": 27,
           "snowfall": 95,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764226800000,
+          "timestamp": 1764230400000,
           "temp": 26,
           "snowfall": 99,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
