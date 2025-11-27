@@ -1,26 +1,26 @@
 {
-  "timestamp": "2025-11-27T14:00:41.298Z",
+  "timestamp": "2025-11-27T15:00:42.402Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Thanksgiving Day",
-          "timestamp": 1764252000000,
-          "temp": 38,
-          "snowfall": 34,
+          "timestamp": 1764255600000,
+          "temp": 34,
+          "snowfall": 25,
           "snowAmount": "",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy. High near 38, with temperatures falling to around 34 in the afternoon. West wind around 21 mph, with gusts as high as 37 mph. Chance of precipitation is 30%."
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 34. West wind around 20 mph, with gusts as high as 36 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Tonight",
           "timestamp": 1764284400000,
           "temp": 26,
-          "snowfall": 22,
+          "snowfall": 25,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow before 1am. Mostly cloudy, with a low around 26. West northwest wind 13 to 18 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
+          "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
+          "detailedForecast": "Scattered snow showers before midnight. Mostly cloudy, with a low around 26. West northwest wind 13 to 17 mph, with gusts as high as 33 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Friday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Thanksgiving Day",
-          "timestamp": 1764252000000,
+          "timestamp": 1764255600000,
           "temp": 32,
           "snowfall": 96,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
-          "shortForecast": "Snow Showers And Blowing Snow",
-          "detailedForecast": "Snow showers and blowing snow. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+          "shortForecast": "Snow Showers And Areas Of Blowing Snow",
+          "detailedForecast": "Snow showers and areas of blowing snow. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Northwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Thanksgiving Day",
-          "timestamp": 1764252000000,
+          "timestamp": 1764255600000,
           "temp": 31,
           "snowfall": 97,
           "snowAmount": "New snow accumulation of 3 to 7 inches possible",
-          "shortForecast": "Snow Showers And Areas Of Blowing Snow",
-          "detailedForecast": "Snow showers and areas of blowing snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Snow showers and patchy blowing snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {},
