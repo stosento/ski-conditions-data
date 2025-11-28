@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-11-28T15:00:40.451Z",
+  "timestamp": "2025-11-28T16:00:41.319Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1764324000000,
-          "temp": 26,
-          "snowfall": 15,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow. Partly cloudy. Low around 26, with temperatures rising to around 28 overnight. West northwest wind around 14 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
-        },
-        {
-          "name": "Friday",
-          "timestamp": 1764327600000,
+          "name": "Today",
+          "timestamp": 1764345600000,
           "temp": 34,
-          "snowfall": 15,
+          "snowfall": 7,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Light Snow then Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow before 7am, then a chance of snow showers. Mostly sunny. High near 34, with temperatures falling to around 32 in the afternoon. West northwest wind 12 to 15 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Partly sunny. High near 34, with temperatures falling to around 32 in the afternoon. West northwest wind 12 to 15 mph, with gusts as high as 26 mph."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1764370800000,
           "temp": 20,
           "snowfall": 7,
@@ -38,7 +29,16 @@
           "snowfall": 47,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Mostly Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after 1pm. Mostly cloudy, with a high near 34. South southwest wind 2 to 7 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow after 1pm. Mostly cloudy. High near 34, with temperatures falling to around 32 in the afternoon. South southwest wind 2 to 7 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1764457200000,
+          "temp": 27,
+          "snowfall": 100,
+          "snowAmount": "New snow accumulation of 4 to 8 inches possible",
+          "shortForecast": "Heavy Snow",
+          "detailedForecast": "Snow. Cloudy, with a low around 27. South southeast wind around 7 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764342000000,
+          "timestamp": 1764345600000,
           "temp": 28,
           "snowfall": 57,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764342000000,
+          "timestamp": 1764345600000,
           "temp": 27,
           "snowfall": 71,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
