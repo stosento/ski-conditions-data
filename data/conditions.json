@@ -1,20 +1,29 @@
 {
-  "timestamp": "2025-11-28T14:00:44.909Z",
+  "timestamp": "2025-11-28T15:00:40.451Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1764338400000,
-          "temp": 34,
-          "snowfall": 7,
+          "name": "Overnight",
+          "timestamp": 1764324000000,
+          "temp": 26,
+          "snowfall": 15,
           "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Partly sunny. High near 34, with temperatures falling to around 32 in the afternoon. West northwest wind 12 to 15 mph, with gusts as high as 26 mph."
+          "shortForecast": "Slight Chance Light Snow",
+          "detailedForecast": "A slight chance of snow. Partly cloudy. Low around 26, with temperatures rising to around 28 overnight. West northwest wind around 14 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
         },
         {
-          "name": "Tonight",
+          "name": "Friday",
+          "timestamp": 1764327600000,
+          "temp": 34,
+          "snowfall": 15,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Light Snow then Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow before 7am, then a chance of snow showers. Mostly sunny. High near 34, with temperatures falling to around 32 in the afternoon. West northwest wind 12 to 15 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
+        },
+        {
+          "name": "Friday Night",
           "timestamp": 1764370800000,
           "temp": 20,
           "snowfall": 7,
@@ -29,16 +38,7 @@
           "snowfall": 47,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Mostly Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after 1pm. Mostly cloudy. High near 34, with temperatures falling to around 32 in the afternoon. South southwest wind 2 to 7 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
-        },
-        {
-          "name": "Saturday Night",
-          "timestamp": 1764457200000,
-          "temp": 27,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 4 to 8 inches possible",
-          "shortForecast": "Heavy Snow",
-          "detailedForecast": "Snow. Cloudy, with a low around 27. South southeast wind around 7 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible."
+          "detailedForecast": "A chance of snow after 1pm. Mostly cloudy, with a high near 34. South southwest wind 2 to 7 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764338400000,
+          "timestamp": 1764342000000,
           "temp": 28,
-          "snowfall": 61,
+          "snowfall": 57,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
           "detailedForecast": "A chance of snow showers and patchy blowing snow before 1pm, then patchy blowing snow and scattered snow showers. Mostly cloudy, with a high near 28. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 3 inches possible."
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764338400000,
+          "timestamp": 1764342000000,
           "temp": 27,
-          "snowfall": 75,
+          "snowfall": 71,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
-          "shortForecast": "Snow Showers And Areas Of Blowing Snow",
-          "detailedForecast": "Snow showers and areas of blowing snow. Mostly cloudy. High near 27, with temperatures falling to around 25 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 3 to 5 inches possible."
+          "shortForecast": "Chance Snow Showers And Areas Of Blowing Snow",
+          "detailedForecast": "A chance of snow showers and areas of blowing snow. Mostly cloudy. High near 27, with temperatures falling to around 25 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 3 to 5 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,27 +126,27 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {},
   "nubsNob": {
-    "date": "11/26/25: Pre-Season Update",
+    "date": "11/28/25: Pre-Season Update",
     "liftsOpen": "0",
     "xcTrails": "Closed",
     "nightSkiing": "Begins Dec. 26",
     "comments": "We are going to open the Lodge, General Store, Tune Center, Cafeteria and Pub on Black Friday and Small Business Saturday. Doors will be open from 9:00 – 4:00 both days, with the Michigan-Ohio State game on in the pub. Early season tuning specials run through November 29. Get your skis and boards in soon! The General Store also has many great gift ideas for the skier on your list.",
     "snowData": {
-      "daily": "0\"",
-      "threeDays": "3 days: 0\"",
-      "sevenDays": "7 days: 0\"",
-      "ytd": "YTD: 5\""
+      "daily": "3\"",
+      "threeDays": "3 days: 3\"",
+      "sevenDays": "7 days: 3\"",
+      "ytd": "YTD: 8\""
     }
   }
 }
