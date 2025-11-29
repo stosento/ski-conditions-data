@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-29T21:00:41.709Z",
+  "timestamp": "2025-11-29T22:00:40.478Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764450000000,
+          "timestamp": 1764453600000,
           "temp": 34,
           "snowfall": 58,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764450000000,
+          "timestamp": 1764453600000,
           "temp": 31,
           "snowfall": 68,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely. Cloudy. High near 31, with temperatures falling to around 28 in the afternoon. Southeast wind around 5 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow likely. Cloudy. High near 31, with temperatures falling to around 28 in the afternoon. Southeast wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764450000000,
+          "timestamp": 1764453600000,
           "temp": 28,
           "snowfall": 77,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -126,16 +126,21 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
-  "nordicConditions": {},
+  "nordicConditions": {
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Nov 29",
+      "conditions": "Has anybody been by HM to see if they are blowing snow yet? Ski hills in the area have been making snow for a few days now."
+    }
+  },
   "nubsNob": {
     "date": "11/29/25: Pre-Season Update",
     "liftsOpen": "0",
