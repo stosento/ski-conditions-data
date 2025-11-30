@@ -1,35 +1,26 @@
 {
-  "timestamp": "2025-11-30T11:00:37.234Z",
+  "timestamp": "2025-11-30T12:00:43.566Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1764496800000,
-          "temp": 29,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain and snow. Cloudy. Low around 29, with temperatures rising to around 34 overnight. South wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1764500400000,
+          "name": "Today",
+          "timestamp": 1764504000000,
           "temp": 36,
-          "snowfall": 98,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "snowfall": 88,
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain and snow. Mostly cloudy, with a high near 36. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Rain and snow. Mostly cloudy, with a high near 36. West southwest wind 12 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1764543600000,
           "temp": 18,
           "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Snow then Mostly Clear",
-          "detailedForecast": "A slight chance of snow before 7pm. Mostly clear, with a low around 18. West northwest wind 3 to 13 mph, with gusts as high as 26 mph."
+          "detailedForecast": "A slight chance of snow before 7pm. Mostly clear, with a low around 18. West northwest wind 3 to 13 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday",
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
           "detailedForecast": "Partly sunny, with a high near 30. Southwest wind 2 to 6 mph."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1764630000000,
+          "temp": 22,
+          "snowfall": 75,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Light Snow",
+          "detailedForecast": "Snow after 7pm. Cloudy, with a low around 22. South southwest wind around 2 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764500400000,
+          "timestamp": 1764504000000,
           "temp": 31,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "snowfall": 94,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Light Snow And Areas Of Blowing Snow",
-          "detailedForecast": "Snow before 10am, then snow and areas of blowing snow between 10am and 1pm, then areas of blowing snow and scattered snow showers. Mostly cloudy. High near 31, with temperatures falling to around 27 in the afternoon. North wind 5 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow before 10am, then snow and areas of blowing snow between 10am and 1pm, then areas of blowing snow and scattered snow showers. Mostly cloudy. High near 31, with temperatures falling to around 27 in the afternoon. North wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764500400000,
+          "timestamp": 1764504000000,
           "temp": 30,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
+          "snowfall": 97,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow And Patchy Blowing Snow",
-          "detailedForecast": "Snow before 10am, then snow and patchy blowing snow between 10am and 1pm, then areas of blowing snow and scattered snow showers. Cloudy. High near 30, with temperatures falling to around 25 in the afternoon. North wind 5 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
+          "detailedForecast": "Snow before 10am, then snow and patchy blowing snow between 10am and 1pm, then areas of blowing snow and scattered snow showers. Cloudy. High near 30, with temperatures falling to around 25 in the afternoon. North wind 5 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
