@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-01T08:00:48.736Z",
+  "timestamp": "2025-12-01T09:02:08.442Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764576000000,
+          "timestamp": 1764579600000,
           "temp": 18,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 18, with temperatures rising to around 20 overnight. West northwest wind around 6 mph."
+          "detailedForecast": "Mostly clear. Low around 18, with temperatures rising to around 20 overnight. West northwest wind around 5 mph."
         },
         {
           "name": "Monday",
@@ -47,39 +47,39 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764576000000,
+          "timestamp": 1764579600000,
           "temp": 18,
           "snowfall": 39,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 18, with temperatures rising to around 20 overnight. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 18. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
           "timestamp": 1764586800000,
           "temp": 28,
           "snowfall": 42,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. High near 28, with temperatures falling to around 26 in the afternoon. Southwest wind 5 to 15 mph. Chance of precipitation is 40%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. High near 28, with temperatures falling to around 26 in the afternoon. Southwest wind 5 to 15 mph. Chance of precipitation is 40%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1764630000000,
           "temp": 18,
           "snowfall": 85,
-          "snowAmount": "New snow accumulation of 4 to 8 inches possible",
+          "snowAmount": "New snow accumulation of 6 to 10 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. Low around 18, with temperatures rising to around 21 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 4 to 8 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. Low around 18, with temperatures rising to around 21 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 6 to 10 inches possible."
         },
         {
           "name": "Tuesday",
           "timestamp": 1764673200000,
           "temp": 29,
           "snowfall": 77,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "snowAmount": "New snow accumulation of 3 to 7 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 29. West wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 29. West wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 3 to 7 inches possible."
         }
       ]
     },
@@ -88,30 +88,30 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764576000000,
+          "timestamp": 1764579600000,
           "temp": 13,
-          "snowfall": 38,
+          "snowfall": 32,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 13, with temperatures rising to around 15 overnight. West wind around 5 mph. Chance of precipitation is 40%."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 13. Southwest wind around 5 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Monday",
           "timestamp": 1764586800000,
           "temp": 26,
           "snowfall": 32,
-          "snowAmount": "",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 26. Southwest wind 5 to 10 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 26. Southwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1764630000000,
           "temp": 18,
           "snowfall": 66,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy, with a low around 18. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a low around 18. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tuesday",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
