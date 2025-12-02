@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-02T14:00:56.281Z",
+  "timestamp": "2025-12-02T15:00:48.588Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764684000000,
+          "timestamp": 1764687600000,
           "temp": 32,
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 28 in the afternoon. West northwest wind 1 to 6 mph."
+          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 28 in the afternoon. West northwest wind 2 to 6 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764684000000,
+          "timestamp": 1764687600000,
           "temp": 29,
-          "snowfall": 52,
+          "snowfall": 31,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 1pm. Mostly cloudy. High near 29, with temperatures falling to around 27 in the afternoon. Southwest wind 0 to 10 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow showers before 1pm. Mostly cloudy. High near 29, with temperatures falling to around 27 in the afternoon. South wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,9 +88,9 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1764684000000,
+          "timestamp": 1764687600000,
           "temp": 27,
-          "snowfall": 12,
+          "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy. High near 27, with temperatures falling to around 25 in the afternoon. Southwest wind 5 to 10 mph."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
