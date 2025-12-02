@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-02T06:00:44.426Z",
+  "timestamp": "2025-12-02T07:01:42.460Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1764655200000,
+          "name": "Tonight",
+          "timestamp": 1764633600000,
           "temp": 21,
           "snowfall": 80,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Cloudy, with a low around 21. North northeast wind around 3 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow after 8pm. Cloudy, with a low around 21. East wind around 3 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tuesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764655200000,
+          "timestamp": 1764658800000,
           "temp": 21,
           "snowfall": 93,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. Low around 21, with temperatures rising to around 23 overnight. West wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. Low around 21, with temperatures rising to around 23 overnight. West wind around 5 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible."
         },
         {
           "name": "Tuesday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764655200000,
+          "timestamp": 1764658800000,
           "temp": 17,
           "snowfall": 61,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -136,13 +136,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Dec 1",
-      "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Dec 1",
       "conditions": "Many of the north trails are rolled. It's a bit soft for skating but manageable. I suggest rock skis since there are sections with a \"carpet\" of twigs and tall grass. It's decent for Dec. 1 so get out and ski while the temps permit..."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Dec 1",
+      "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
     }
   },
   "nubsNob": {
