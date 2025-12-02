@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-02T19:02:21.484Z",
+  "timestamp": "2025-12-02T20:00:46.330Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764698400000,
+          "timestamp": 1764705600000,
           "temp": 32,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 28 in the afternoon. West northwest wind around 6 mph."
+          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 28 in the afternoon. West wind around 6 mph."
         },
         {
           "name": "Tonight",
@@ -47,21 +47,21 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764702000000,
-          "temp": 29,
+          "timestamp": 1764705600000,
+          "temp": 30,
           "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Mostly cloudy, with a high near 29. Southwest wind around 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers. Mostly cloudy, with a high near 30. Southwest wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
           "timestamp": 1764716400000,
-          "temp": 23,
+          "temp": 25,
           "snowfall": 64,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 23, with temperatures rising to around 29 overnight. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 25, with temperatures rising to around 29 overnight. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -70,16 +70,16 @@
           "snowfall": 91,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. High near 32, with temperatures falling to around 24 in the afternoon. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. High near 32, with temperatures falling to around 25 in the afternoon. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1764802800000,
-          "temp": 9,
-          "snowfall": 78,
+          "temp": 10,
+          "snowfall": 82,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 9. Wind chill values as low as -8. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 10. Wind chill values as low as -6. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764702000000,
+          "timestamp": 1764705600000,
           "temp": 29,
           "snowfall": 2,
           "snowAmount": "",
@@ -98,11 +98,11 @@
         {
           "name": "Tonight",
           "timestamp": 1764716400000,
-          "temp": 19,
+          "temp": 21,
           "snowfall": 31,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 4am. Mostly cloudy. Low around 19, with temperatures rising to around 25 overnight. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+          "detailedForecast": "Scattered snow showers after 4am. Mostly cloudy. Low around 21, with temperatures rising to around 25 overnight. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Wednesday",
@@ -116,23 +116,23 @@
         {
           "name": "Wednesday Night",
           "timestamp": 1764802800000,
-          "temp": 7,
-          "snowfall": 78,
+          "temp": 8,
+          "snowfall": 88,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 7. Wind chill values as low as -8. Northwest wind 10 to 15 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 8. Wind chill values as low as -7. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
