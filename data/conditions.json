@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-12-02T20:00:46.330Z",
+  "timestamp": "2025-12-02T21:00:47.239Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764705600000,
-          "temp": 32,
+          "timestamp": 1764709200000,
+          "temp": 31,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 32, with temperatures falling to around 28 in the afternoon. West wind around 6 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 31. West wind around 5 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1764716400000,
-          "temp": 19,
+          "temp": 22,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 19, with temperatures rising to around 21 overnight. West southwest wind 6 to 12 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. West southwest wind 3 to 9 mph."
         },
         {
           "name": "Wednesday",
           "timestamp": 1764759600000,
           "temp": 32,
-          "snowfall": 31,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 1pm. Cloudy, with a high near 32. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "snowfall": 62,
+          "snowAmount": "",
+          "shortForecast": "Cloudy then Light Snow Likely",
+          "detailedForecast": "Snow likely after 1pm. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Southwest wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1764802800000,
-          "temp": 14,
-          "snowfall": 45,
+          "temp": 15,
+          "snowfall": 62,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 1am. Mostly cloudy, with a low around 14. West wind around 12 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely before 2am. Mostly cloudy, with a low around 15. West wind 8 to 12 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764705600000,
+          "timestamp": 1764709200000,
           "temp": 30,
           "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Mostly cloudy, with a high near 30. Southwest wind around 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1764705600000,
+          "timestamp": 1764709200000,
           "temp": 29,
           "snowfall": 2,
           "snowAmount": "",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Dec 1",
-      "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Tue, Dec 2",
       "conditions": "All skate trails have been groomed at Huron Meadows. There's quite a bit of stumble showing though on the north and south golf course areas, but Buck's Run, the wooded trail behind Buck's Run, and the \"contractor's loop\" (Cedar Trace Trail) had good snow coverage. No classic track has been set - there's not enough snow. The snow is still soft - it should form up over the next few days. Better than expected early season conditions...and a snow gun is starting to build up a pile of man-made snow!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Dec 1",
+      "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
     }
   },
   "nubsNob": {
