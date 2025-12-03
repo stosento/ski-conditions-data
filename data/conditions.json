@@ -1,41 +1,41 @@
 {
-  "timestamp": "2025-12-03T08:00:46.898Z",
+  "timestamp": "2025-12-03T09:02:31.483Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764748800000,
-          "temp": 22,
+          "timestamp": 1764752400000,
+          "temp": 20,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. Southwest wind around 9 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 20. Southwest wind around 9 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Wednesday",
           "timestamp": 1764759600000,
-          "temp": 32,
-          "snowfall": 62,
+          "temp": 31,
+          "snowfall": 26,
           "snowAmount": "",
-          "shortForecast": "Cloudy then Light Snow Likely",
-          "detailedForecast": "Snow likely after 1pm. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Southwest wind around 13 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Cloudy then Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 4pm. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. Southwest wind around 13 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1764802800000,
-          "temp": 15,
-          "snowfall": 62,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely before 2am. Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. West wind 8 to 12 mph, with gusts as high as 21 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "temp": 14,
+          "snowfall": 29,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers then Mostly Cloudy",
+          "detailedForecast": "A chance of snow showers before midnight. Mostly cloudy. Low around 14, with temperatures rising to around 17 overnight. West wind 8 to 12 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Thursday",
           "timestamp": 1764846000000,
           "temp": 22,
-          "snowfall": 4,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 22. West northwest wind 6 to 13 mph, with gusts as high as 22 mph."
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764748800000,
+          "timestamp": 1764752400000,
           "temp": 25,
           "snowfall": 78,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. Low around 25, with temperatures rising to around 28 overnight. Southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers. Cloudy. Low around 25, with temperatures rising to around 27 overnight. Southwest wind 15 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1764748800000,
+          "timestamp": 1764752400000,
           "temp": 21,
           "snowfall": 49,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 4am. Cloudy. Low around 21, with temperatures rising to around 24 overnight. Southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 21, with temperatures rising to around 24 overnight. Southwest wind around 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Dec 1",
-      "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Tue, Dec 2",
       "conditions": "Already a few trail reports for Huron Meadows, so I’ll just add a little. First of all, skiers are very happy to have trail being groomed at Huron Meadows, and our thanks to the crew there. Not enough snow for classic tracks yet, but very nice classic skiing everywhere on Evo’s. Not ready for A skis yet."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Dec 1",
+      "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
     }
   },
   "nubsNob": {
