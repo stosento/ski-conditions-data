@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-06T01:28:14.800Z",
+  "timestamp": "2025-12-06T02:28:27.174Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1764982800000,
+          "timestamp": 1764986400000,
           "temp": 20,
           "snowfall": 13,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1764982800000,
+          "timestamp": 1764986400000,
           "temp": 22,
           "snowfall": 94,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers and patchy blowing snow. Cloudy. Low around 22, with temperatures rising to around 26 overnight. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers and patchy blowing snow. Cloudy. Low around 22, with temperatures rising to around 26 overnight. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Saturday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1764982800000,
+          "timestamp": 1764986400000,
           "temp": 21,
           "snowfall": 85,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Fri, Dec 5",
-      "conditions": "Still great as of this (Friday) morning. Hawk hills a little rough some dirt and vegetation showing through in parts- but skiable. Coyote run and contractors in great shape!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Dec 1",
       "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Fri, Dec 5",
+      "conditions": "Still great as of this (Friday) morning. Hawk hills a little rough some dirt and vegetation showing through in parts- but skiable. Coyote run and contractors in great shape!"
     }
   },
   "nubsNob": {
