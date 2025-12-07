@@ -1,32 +1,32 @@
 {
-  "timestamp": "2025-12-07T14:00:44.265Z",
+  "timestamp": "2025-12-07T15:00:38.932Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765116000000,
+          "timestamp": 1765119600000,
           "temp": 32,
-          "snowfall": 84,
+          "snowfall": 60,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Mostly cloudy. High near 32, with temperatures falling to around 27 in the afternoon. Northwest wind 2 to 9 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely before 1pm. Mostly cloudy. High near 32, with temperatures falling to around 27 in the afternoon. Northwest wind 3 to 9 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1765148400000,
           "temp": 14,
-          "snowfall": 8,
+          "snowfall": 14,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 14. North wind 3 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Partly cloudy, with a low around 14. North wind 3 to 7 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1765191600000,
           "temp": 27,
-          "snowfall": 6,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
           "detailedForecast": "Partly sunny. High near 27, with temperatures falling to around 24 in the afternoon. East wind around 5 mph."
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765116000000,
+          "timestamp": 1765119600000,
           "temp": 22,
           "snowfall": 46,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765116000000,
+          "timestamp": 1765119600000,
           "temp": 21,
           "snowfall": 59,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
