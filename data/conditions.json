@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-07T21:00:36.035Z",
+  "timestamp": "2025-12-07T22:00:43.783Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765141200000,
+          "timestamp": 1765144800000,
           "temp": 32,
           "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 32, with temperatures falling to around 27 in the afternoon. North northwest wind around 9 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Partly sunny. High near 32, with temperatures falling to around 27 in the afternoon. North northwest wind around 9 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765141200000,
+          "timestamp": 1765144800000,
           "temp": 22,
           "snowfall": 41,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 22, with temperatures falling to around 16 in the afternoon. Northwest wind 10 to 15 mph. Chance of precipitation is 40%."
+          "detailedForecast": "A chance of snow showers. Partly sunny. High near 22, with temperatures falling to around 17 in the afternoon. Northwest wind around 15 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765141200000,
+          "timestamp": 1765144800000,
           "temp": 21,
           "snowfall": 55,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Partly sunny. High near 21, with temperatures falling to around 16 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow showers likely. Partly sunny. High near 21, with temperatures falling to around 16 in the afternoon. North wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -102,7 +102,7 @@
           "snowfall": 55,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely then Partly Cloudy",
-          "detailedForecast": "Snow showers likely before 7pm. Partly cloudy, with a low around -1. Wind chill values as low as -1. Northwest wind 0 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow showers likely before 10pm. Partly cloudy, with a low around -1. Wind chill values as low as -1. Northwest wind 0 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Dec 1",
-      "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Dec 6",
       "conditions": "Not bad considering how early in the season it is. some grassy spots that you can get around easily. the loop behind Bucks is real nice for skating. not enough snow for tracks though. some areas do have leaves but not terrible. worth going, enjoy!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Dec 1",
+      "conditions": "Nubs Nob is not yet open for its down hill program : coming this weekend . But the groomers jumped the gun on the Nordic Trails . Access through Valley road to the red and blue loops are currently primo !"
     }
   },
   "nubsNob": {
