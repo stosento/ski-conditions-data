@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-12-09T22:00:41.229Z",
+  "timestamp": "2025-12-09T23:00:44.496Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1765317600000,
-          "temp": 33,
-          "snowfall": 11,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a high near 33. Southwest wind around 12 mph, with gusts as high as 23 mph. New snow accumulation of less than half an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1765321200000,
@@ -39,21 +30,21 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 17. Northwest wind 8 to 15 mph, with gusts as high as 28 mph. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1765450800000,
+          "temp": 29,
+          "snowfall": 9,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 29. West wind around 10 mph, with gusts as high as 21 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1765317600000,
-          "temp": 28,
-          "snowfall": 15,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Areas Of Freezing Drizzle",
-          "detailedForecast": "Areas of freezing drizzle and a slight chance of snow showers. Mostly cloudy. High near 28, with temperatures falling to around 24 in the afternoon. West wind around 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
-        },
         {
           "name": "Tonight",
           "timestamp": 1765321200000,
@@ -80,6 +71,15 @@
           "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Snow Showers Likely",
           "detailedForecast": "Snow showers likely after 7pm. Mostly cloudy, with a low around 17. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1765450800000,
+          "temp": 27,
+          "snowfall": 48,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 27. Northwest wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -87,31 +87,22 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1765317600000,
-          "temp": 27,
-          "snowfall": 22,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Areas Of Freezing Drizzle",
-          "detailedForecast": "Areas of freezing drizzle and a slight chance of snow showers. Cloudy. High near 27, with temperatures falling to around 24 in the afternoon. West wind around 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1765321200000,
           "temp": 18,
           "snowfall": 66,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Areas Of Freezing Drizzle then Snow Likely",
-          "detailedForecast": "Areas of freezing drizzle and a slight chance of snow showers before 7pm, then snow likely. Cloudy. Low around 18, with temperatures rising to around 21 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Areas of freezing drizzle and a slight chance of snow showers before 7pm, then snow likely. Cloudy. Low around 18, with temperatures rising to around 21 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Wednesday",
           "timestamp": 1765364400000,
           "temp": 26,
           "snowfall": 66,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Snow Likely then Slight Chance Snow Showers",
-          "detailedForecast": "Snow likely before 10am, then a slight chance of snow showers. Cloudy. High near 26, with temperatures falling to around 19 in the afternoon. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow likely before 10am, then a slight chance of snow showers. Cloudy. High near 26, with temperatures falling to around 19 in the afternoon. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Wednesday Night",
@@ -121,18 +112,27 @@
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers",
           "detailedForecast": "Snow showers. Mostly cloudy, with a low around 14. Northwest wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1765450800000,
+          "temp": 26,
+          "snowfall": 59,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 26. Northwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
