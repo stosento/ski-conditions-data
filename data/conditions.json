@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-12-11T10:00:46.640Z",
+  "timestamp": "2025-12-11T11:00:43.270Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1765447200000,
-          "temp": 17,
-          "snowfall": 8,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 17, with temperatures rising to around 19 overnight. West wind around 8 mph."
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "timestamp": 1765450800000,
           "temp": 28,
           "snowfall": 8,
@@ -23,7 +14,7 @@
           "detailedForecast": "Mostly cloudy. High near 28, with temperatures falling to around 26 in the afternoon. West wind around 10 mph, with gusts as high as 21 mph."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1765494000000,
           "temp": 14,
           "snowfall": 7,
@@ -38,7 +29,16 @@
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 29. West wind around 5 mph."
+          "detailedForecast": "Partly sunny. High near 29, with temperatures falling to around 25 in the afternoon. West wind around 5 mph."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1765580400000,
+          "temp": 15,
+          "snowfall": 45,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow after 7pm. Mostly cloudy, with a low around 15. Southwest wind 2 to 8 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1765447200000,
-          "temp": 15,
-          "snowfall": 45,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and scattered snow showers. Mostly cloudy. Low around 15, with temperatures rising to around 19 overnight. North wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "timestamp": 1765450800000,
           "temp": 26,
           "snowfall": 45,
@@ -64,7 +55,7 @@
           "detailedForecast": "A chance of snow showers and patchy blowing snow before 1pm. Mostly cloudy, with a high near 26. Northwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1765494000000,
           "temp": 18,
           "snowfall": 16,
@@ -79,7 +70,16 @@
           "snowfall": 36,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 7am. Mostly cloudy, with a high near 29. Southwest wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers after 7am. Mostly cloudy. High near 29, with temperatures falling to around 27 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1765580400000,
+          "temp": 13,
+          "snowfall": 97,
+          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Cloudy, with a low around 13. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
         }
       ]
     },
@@ -87,16 +87,7 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1765447200000,
-          "temp": 10,
-          "snowfall": 66,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Areas Of Blowing Snow",
-          "detailedForecast": "Areas of blowing snow and scattered snow showers. Mostly cloudy. Low around 10, with temperatures rising to around 18 overnight. Northwest wind around 5 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "timestamp": 1765450800000,
           "temp": 25,
           "snowfall": 66,
@@ -105,7 +96,7 @@
           "detailedForecast": "Snow showers likely and areas of blowing snow. Partly sunny. High near 25, with temperatures falling to around 23 in the afternoon. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1765494000000,
           "temp": 12,
           "snowfall": 22,
@@ -120,29 +111,38 @@
           "snowfall": 33,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 1pm. Mostly cloudy, with a high near 27. Southwest wind 5 to 10 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of snow showers after 1pm. Mostly cloudy. High near 27, with temperatures falling to around 24 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 30%."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1765580400000,
+          "temp": 11,
+          "snowfall": 97,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 11. Southwest wind 5 to 15 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Dec 10",
-      "conditions": "If you didn't know, you can't groom when it's a above freezing, so if you expected good skating conditions or amazing tracks at Huron Meadows today , you were sorely disappointed ??. But it was awesome to break trail on my waxless classic touring skis with Sarah and Tony around the lake and the contractor's loop! Big smiles just getting out in the woods!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Dec 10",
       "conditions": "Perfect grooming with the big groomer, trail was excellent on upper red loop. Perfect temperature, fast snow.Have to enter the trail from Valley road."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Dec 10",
+      "conditions": "If you didn't know, you can't groom when it's a above freezing, so if you expected good skating conditions or amazing tracks at Huron Meadows today , you were sorely disappointed ??. But it was awesome to break trail on my waxless classic touring skis with Sarah and Tony around the lake and the contractor's loop! Big smiles just getting out in the woods!"
     }
   },
   "nubsNob": {
