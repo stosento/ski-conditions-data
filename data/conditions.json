@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-10T23:00:46.856Z",
+  "timestamp": "2025-12-11T00:01:03.251Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1765407600000,
+          "timestamp": 1765411200000,
           "temp": 16,
-          "snowfall": 23,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowfall": 16,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Light Snow then Partly Cloudy",
-          "detailedForecast": "A slight chance of snow before 8pm. Partly cloudy, with a low around 16. Northwest wind 8 to 16 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A slight chance of snow before 8pm. Partly cloudy, with a low around 16. Northwest wind 8 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thursday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1765407600000,
+          "timestamp": 1765411200000,
           "temp": 15,
           "snowfall": 57,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Patchy Blowing Snow then Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and scattered snow showers before 10pm, then a chance of snow showers and patchy blowing snow between 10pm and 1am, then patchy blowing snow and scattered snow showers. Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Patchy blowing snow and scattered snow showers before 10pm, then a chance of snow showers and patchy blowing snow between 10pm and 1am, then patchy blowing snow and scattered snow showers. Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. Northwest wind around 10 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Thursday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1765407600000,
+          "timestamp": 1765411200000,
           "temp": 10,
           "snowfall": 59,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Patchy Blowing Snow then Chance Snow Showers And Areas Of Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and isolated snow showers before 10pm, then a chance of snow showers and areas of blowing snow between 10pm and 1am, then areas of blowing snow and scattered snow showers. Mostly cloudy. Low around 10, with temperatures rising to around 12 overnight. Wind chill values as low as 0. Northwest wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Patchy blowing snow and isolated snow showers before 10pm, then a chance of snow showers and areas of blowing snow between 10pm and 1am, then areas of blowing snow and scattered snow showers. Mostly cloudy. Low around 10, with temperatures rising to around 12 overnight. Wind chill values as low as 0. Northwest wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Thursday",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Dec 10",
-      "conditions": "Nubs Nob has nailed it today !   A flat firm skate deck and classic track have fresh snow groomed thru the upper trails . LF 7 was the skate perfect wax. . Great depth and coverage . The ice storm clearance is impressive ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Dec 10",
       "conditions": "If you didn't know, you can't groom when it's a above freezing, so if you expected good skating conditions or amazing tracks at Huron Meadows today , you were sorely disappointed ??. But it was awesome to break trail on my waxless classic touring skis with Sarah and Tony around the lake and the contractor's loop! Big smiles just getting out in the woods!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Dec 10",
+      "conditions": "Nubs Nob has nailed it today !   A flat firm skate deck and classic track have fresh snow groomed thru the upper trails . LF 7 was the skate perfect wax. . Great depth and coverage . The ice storm clearance is impressive ."
     }
   },
   "nubsNob": {
