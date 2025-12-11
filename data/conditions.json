@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-12-11T22:00:41.230Z",
+  "timestamp": "2025-12-11T23:00:42.875Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1765490400000,
-          "temp": 28,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Partly sunny. High near 28, with temperatures falling to around 26 in the afternoon. West wind around 9 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1765494000000,
@@ -38,22 +29,22 @@
           "snowfall": 53,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 7pm. Mostly cloudy, with a low around 15. Southwest wind 2 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers after 7pm. Mostly cloudy. Low around 15, with temperatures rising to around 19 overnight. Southwest wind 2 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1765623600000,
+          "temp": 21,
+          "snowfall": 46,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a high near 21. West wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1765490400000,
-          "temp": 25,
-          "snowfall": 11,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 25, with temperatures falling to around 20 in the afternoon. Northwest wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1765494000000,
@@ -79,22 +70,22 @@
           "snowfall": 99,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a low around 11. Wind chill values as low as -3. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. Low around 11, with temperatures rising to around 14 overnight. Wind chill values as low as -3. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1765623600000,
+          "temp": 16,
+          "snowfall": 74,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 16. Wind chill values as low as -4. West wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1765490400000,
-          "temp": 24,
-          "snowfall": 15,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Mostly sunny. High near 24, with temperatures falling to around 21 in the afternoon. Northwest wind around 5 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1765494000000,
@@ -120,29 +111,38 @@
           "snowfall": 98,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a low around 9. Wind chill values as low as -2. Southwest wind 5 to 15 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. Low around 9, with temperatures rising to around 13 overnight. Wind chill values as low as -2. Southwest wind 5 to 15 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1765623600000,
+          "temp": 14,
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 14. Wind chill values as low as -5. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Thu, Dec 11",
-      "conditions": "Good skating on Hawks, Coyote and Cedar Trace.  Hawks has  a little scrub sticking up.  But the best it has been so far.   All freshly groomed. No tracks.Thank guys."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Dec 10",
       "conditions": "Perfect grooming with the big groomer, trail was excellent on upper red loop. Perfect temperature, fast snow.Have to enter the trail from Valley road."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Thu, Dec 11",
+      "conditions": "Good skating on Hawks, Coyote and Cedar Trace.  Hawks has  a little scrub sticking up.  But the best it has been so far.   All freshly groomed. No tracks.Thank guys."
     }
   },
   "nubsNob": {
