@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-11T06:00:45.505Z",
+  "timestamp": "2025-12-11T07:02:38.887Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765429200000,
+          "timestamp": 1765436400000,
           "temp": 16,
           "snowfall": 9,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 16. West northwest wind around 10 mph, with gusts as high as 20 mph. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Partly cloudy, with a low around 16. West northwest wind around 9 mph."
         },
         {
           "name": "Thursday",
@@ -38,7 +38,7 @@
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 29. West southwest wind around 5 mph."
+          "detailedForecast": "Partly sunny, with a high near 29. West wind around 5 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765432800000,
+          "timestamp": 1765436400000,
           "temp": 15,
           "snowfall": 45,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765432800000,
+          "timestamp": 1765436400000,
           "temp": 10,
           "snowfall": 46,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Dec 10",
-      "conditions": "Perfect grooming with the big groomer, trail was excellent on upper red loop. Perfect temperature, fast snow.Have to enter the trail from Valley road."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Dec 10",
       "conditions": "If you didn't know, you can't groom when it's a above freezing, so if you expected good skating conditions or amazing tracks at Huron Meadows today , you were sorely disappointed ??. But it was awesome to break trail on my waxless classic touring skis with Sarah and Tony around the lake and the contractor's loop! Big smiles just getting out in the woods!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Dec 10",
+      "conditions": "Perfect grooming with the big groomer, trail was excellent on upper red loop. Perfect temperature, fast snow.Have to enter the trail from Valley road."
     }
   },
   "nubsNob": {
