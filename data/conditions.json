@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-12T09:02:40.182Z",
+  "timestamp": "2025-12-12T10:00:45.906Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765530000000,
+          "timestamp": 1765533600000,
           "temp": 18,
           "snowfall": 3,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 18, with temperatures rising to around 21 overnight. West northwest wind around 3 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy. Low around 18, with temperatures rising to around 21 overnight. West wind around 3 mph."
         },
         {
           "name": "Friday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765530000000,
+          "timestamp": 1765533600000,
           "temp": 7,
           "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 7, with temperatures rising to around 19 overnight. West wind around 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 7, with temperatures rising to around 21 overnight. West wind around 5 mph."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765530000000,
+          "timestamp": 1765533600000,
           "temp": 4,
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 4, with temperatures rising to around 12 overnight. Southwest wind around 0 mph."
+          "detailedForecast": "Mostly cloudy. Low around 4, with temperatures rising to around 14 overnight. West wind around 5 mph."
         },
         {
           "name": "Friday",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Thu, Dec 11",
-      "conditions": "Good skating on Hawks, Coyote and Cedar Trace.  Hawks has  a little scrub sticking up.  But the best it has been so far.   All freshly groomed. No tracks.Thank guys."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Thu, Dec 11",
+      "conditions": "Good skating on Hawks, Coyote and Cedar Trace.  Hawks has  a little scrub sticking up.  But the best it has been so far.   All freshly groomed. No tracks.Thank guys."
     }
   },
   "nubsNob": {
