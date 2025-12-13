@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-13T04:04:10.547Z",
+  "timestamp": "2025-12-13T05:00:37.137Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1765598400000,
+          "name": "Overnight",
+          "timestamp": 1765602000000,
           "temp": 14,
           "snowfall": 48,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after 1am. Cloudy. Low around 14, with temperatures rising to around 17 overnight. West southwest wind 6 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow after 1am. Cloudy. Low around 14, with temperatures rising to around 17 overnight. West southwest wind 7 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1765598400000,
+          "name": "Overnight",
+          "timestamp": 1765602000000,
           "temp": 9,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1765598400000,
+          "name": "Overnight",
+          "timestamp": 1765602000000,
           "temp": 7,
           "snowfall": 83,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Snow Showers And Areas Of Blowing Snow",
-          "detailedForecast": "Snow showers and areas of blowing snow. Mostly cloudy. Low around 7, with temperatures rising to around 11 overnight. Wind chill values as low as -5. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "Snow showers and patchy blowing snow. Mostly cloudy. Low around 7, with temperatures rising to around 11 overnight. Wind chill values as low as -5. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Saturday",
@@ -126,20 +126,16 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Dec 11",
-      "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Dec 12",
       "conditions": "Skied Coyote Run with waxless classic skis.  No real tracks to ski in.  Trails were hard packed and slick.  No bare spots.  Skaters seemed to be going well even without nice corduroy.  Overall a great day to be out skiing."
@@ -147,6 +143,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "[ ] groomed[ ] golf course is about as good as it gets[ ] Sheldon trails - fair to  good littered with tree parts, though the usual being trod upon[ ] icy patches under trees where not enough snow made it to the groun)d as it got colder and the rain - wet snow turned to ( oops - repost -- rain >>> snow"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Dec 11",
+      "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
     }
   },
   "nubsNob": {
