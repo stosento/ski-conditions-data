@@ -1,17 +1,26 @@
 {
-  "timestamp": "2025-12-13T01:28:18.309Z",
+  "timestamp": "2025-12-13T02:29:33.651Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
+          "name": "This Afternoon",
+          "timestamp": 1765576800000,
+          "temp": 29,
+          "snowfall": 13,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 29, with temperatures falling to around 26 in the afternoon. Southwest wind around 6 mph."
+        },
+        {
           "name": "Tonight",
-          "timestamp": 1765587600000,
+          "timestamp": 1765580400000,
           "temp": 14,
           "snowfall": 48,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after 1am. Cloudy. Low around 14, with temperatures rising to around 17 overnight. Southwest wind 5 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Mostly Cloudy then Chance Light Snow",
+          "detailedForecast": "A chance of snow after 1am. Mostly cloudy. Low around 14, with temperatures rising to around 17 overnight. Southwest wind 5 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday",
@@ -30,15 +39,6 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 5. Wind chill values as low as -9. West northwest wind 6 to 9 mph, with gusts as high as 20 mph."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1765710000000,
-          "temp": 21,
-          "snowfall": 12,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 21. Wind chill values as low as -10. West northwest wind 9 to 14 mph, with gusts as high as 24 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1765587600000,
+          "timestamp": 1765591200000,
           "temp": 9,
           "snowfall": 91,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1765587600000,
+          "timestamp": 1765591200000,
           "temp": 7,
           "snowfall": 83,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
