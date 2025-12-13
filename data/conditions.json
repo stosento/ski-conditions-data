@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-13T16:00:39.598Z",
+  "timestamp": "2025-12-13T17:00:37.362Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1765641600000,
+          "name": "This Afternoon",
+          "timestamp": 1765645200000,
           "temp": 26,
           "snowfall": 18,
           "snowAmount": "",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1765641600000,
+          "name": "This Afternoon",
+          "timestamp": 1765645200000,
           "temp": 14,
           "snowfall": 52,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1765641600000,
+          "name": "This Afternoon",
+          "timestamp": 1765645200000,
           "temp": 13,
           "snowfall": 71,
           "snowAmount": "New snow accumulation of around one inch possible",
@@ -136,10 +136,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Dec 11",
-      "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Dec 12",
       "conditions": "Skied Coyote Run with waxless classic skis.  No real tracks to ski in.  Trails were hard packed and slick.  No bare spots.  Skaters seemed to be going well even without nice corduroy.  Overall a great day to be out skiing."
@@ -147,6 +143,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "[ ] groomed[ ] golf course is about as good as it gets[ ] Sheldon trails - fair to  good littered with tree parts, though the usual being trod upon[ ] icy patches under trees where not enough snow made it to the groun)d as it got colder and the rain - wet snow turned to ( oops - repost -- rain >>> snow"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Dec 11",
+      "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
     }
   },
   "nubsNob": {
