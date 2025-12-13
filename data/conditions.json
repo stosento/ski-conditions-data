@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-13T21:00:41.191Z",
+  "timestamp": "2025-12-13T22:00:40.888Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765659600000,
+          "timestamp": 1765663200000,
           "temp": 27,
-          "snowfall": 15,
+          "snowfall": 10,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow before 5pm. Cloudy. High near 27, with temperatures falling to around 18 in the afternoon. West wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy. High near 27, with temperatures falling to around 18 in the afternoon. West wind around 12 mph, with gusts as high as 22 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765659600000,
+          "timestamp": 1765663200000,
           "temp": 14,
           "snowfall": 52,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 14, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -8. Northwest wind around 15 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 14, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -7. West wind around 15 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765659600000,
+          "timestamp": 1765663200000,
           "temp": 13,
           "snowfall": 71,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. High near 13, with temperatures falling to around 6 in the afternoon. Wind chill values as low as -10. West wind around 15 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers likely. Mostly cloudy. High near 13, with temperatures falling to around 5 in the afternoon. Wind chill values as low as -12. West wind around 15 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -136,10 +136,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Dec 11",
-      "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Dec 13",
       "conditions": "Good news. Bucks run is up and running with excellent skate and classic. The golf course was also regroomed, but still no classic tracks there. Very windy so there is lots of debris in the tracks. Skaters reported excellent conditions. Note that on Monday and Tuesday Bucks will not be open until 2:00 so more snow can be spread. Please respect this closure so that we do not create conflict with the park staff. There’s still lots of other areas at the park to ski."
@@ -147,6 +143,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "[ ] groomed[ ] golf course is about as good as it gets[ ] Sheldon trails - fair to  good littered with tree parts, though the usual being trod upon[ ] icy patches under trees where not enough snow made it to the groun)d as it got colder and the rain - wet snow turned to ( oops - repost -- rain >>> snow"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Dec 11",
+      "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
     }
   },
   "nubsNob": {
