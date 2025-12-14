@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-14T11:00:36.209Z",
+  "timestamp": "2025-12-14T12:00:42.315Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1765706400000,
-          "temp": 4,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 4, with temperatures rising to around 6 overnight. Wind chill values as low as -9. West northwest wind around 10 mph, with gusts as high as 23 mph."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1765710000000,
+          "name": "Today",
+          "timestamp": 1765713600000,
           "temp": 21,
           "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 21, with temperatures falling to around 18 in the afternoon. Wind chill values as low as -11. West northwest wind 10 to 15 mph, with gusts as high as 28 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 21, with temperatures falling to around 18 in the afternoon. Wind chill values as low as -10. West northwest wind 10 to 15 mph, with gusts as high as 28 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1765753200000,
           "temp": 11,
           "snowfall": 4,
@@ -39,6 +30,15 @@
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
           "detailedForecast": "A chance of snow between 7am and 1pm. Mostly cloudy, with a high near 20. Southwest wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1765839600000,
+          "temp": 13,
+          "snowfall": 10,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 13. West southwest wind 3 to 8 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765710000000,
+          "timestamp": 1765713600000,
           "temp": 23,
-          "snowfall": 65,
-          "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely before 1pm. Mostly cloudy, with a high near 23. Wind chill values as low as -5. North wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+          "snowfall": 22,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers before 1pm. Mostly cloudy, with a high near 23. Wind chill values as low as -5. North wind 5 to 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -61,7 +61,7 @@
           "snowfall": 76,
           "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers after 7pm. Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. West wind 5 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Snow showers after 7pm. Cloudy. Low around 17, with temperatures rising to around 20 overnight. West wind 5 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Monday",
@@ -70,7 +70,7 @@
           "snowfall": 88,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers before 7am, then snow showers and patchy blowing snow. Mostly cloudy, with a high near 23. West wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers before 7am, then snow showers and patchy blowing snow. Cloudy, with a high near 23. West wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Monday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765710000000,
+          "timestamp": 1765713600000,
           "temp": 20,
-          "snowfall": 70,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. High near 20, with temperatures falling to around 18 in the afternoon. Wind chill values as low as -9. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
+          "snowfall": 26,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 20, with temperatures falling to around 18 in the afternoon. Wind chill values as low as -9. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -102,7 +102,7 @@
           "snowfall": 69,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. Low around 12, with temperatures rising to around 14 overnight. Wind chill values as low as -1. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers likely. Cloudy. Low around 12, with temperatures rising to around 14 overnight. Wind chill values as low as -1. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -111,7 +111,7 @@
           "snowfall": 81,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 20. Wind chill values as low as -1. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers. Cloudy, with a high near 20. Wind chill values as low as -1. Southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Monday Night",
@@ -126,20 +126,16 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Dec 11",
-      "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Dec 13",
       "conditions": "Good news. Bucks run is up and running with excellent skate and classic. The golf course was also regroomed, but still no classic tracks there. Very windy so there is lots of debris in the tracks. Skaters reported excellent conditions. Note that on Monday and Tuesday Bucks will not be open until 2:00 so more snow can be spread. Please respect this closure so that we do not create conflict with the park staff. There’s still lots of other areas at the park to ski."
@@ -147,19 +143,23 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "[ ] groomed[ ] golf course is about as good as it gets[ ] Sheldon trails - fair to  good littered with tree parts, though the usual being trod upon[ ] icy patches under trees where not enough snow made it to the groun)d as it got colder and the rain - wet snow turned to ( oops - repost -- rain >>> snow"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Dec 11",
+      "conditions": "Lots of snow ! Yesterday’s big groomer provided a firm flat skate deck . Today nature provided about 2 inches of fluff . Has to push a little bit , but it was very nice - and the sun came out . LF 7"
     }
   },
   "nubsNob": {
-    "date": "12/13/25",
+    "date": "12/14/25",
     "liftsOpen": "6 lifts, Rope Tow and Conveyor",
-    "xcTrails": "All XC trails will be power-tilled and tracked today. Conditions are very good.",
+    "xcTrails": "Groomed and tracked. Conditions are very good.",
     "nightSkiing": "Begins Dec. 26",
-    "comments": "It is a cold and snowy Saturday at Nub's Nob. Conditions feel like the middle of winter. All of the Front and South Side runs are open today with the exception of the big terrain park. NASTAR racing begins today at 12:30 p.m. on Birch Run. The XC trails are being groomed this morning. The soup of the day is corn beef cabbage and there is a meatball sub special. Pintail Peak will open before next weekend! Bundle up and make it a great day at Nub's Nob!",
+    "comments": "It's a cold start to the ski day but the wind is light and the temperature is forecast to rise quickly today with a high around 24 degrees. A few inches of snow fell at Nub's this morning. Expect some light snow sitting on top of the corduroy which should make for great skiing. NASTAR racing today from 12:30 to 2:30 p.m. on Birch Run. Over 40 runs are now open at Nub's! Pintail Peak will open before next weekend! Make it a great day at Nub's Nob!",
     "snowData": {
-      "daily": "4\"",
-      "threeDays": "3 days: 10\"",
-      "sevenDays": "7 days: 10\"",
-      "ytd": "YTD: 37\""
+      "daily": "2\"",
+      "threeDays": "3 days: 8\"",
+      "sevenDays": "7 days: 12\"",
+      "ytd": "YTD: 39\""
     }
   }
 }
