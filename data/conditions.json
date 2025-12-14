@@ -1,14 +1,14 @@
 {
-  "timestamp": "2025-12-13T23:00:40.542Z",
+  "timestamp": "2025-12-14T00:01:05.058Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1765666800000,
+          "timestamp": 1765670400000,
           "temp": 4,
-          "snowfall": 10,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 4. Wind chill values as low as -11. West wind around 12 mph, with gusts as high as 23 mph."
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1765666800000,
+          "timestamp": 1765670400000,
           "temp": 6,
           "snowfall": 69,
-          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. Low around 6, with temperatures rising to around 8 overnight. Wind chill values as low as -8. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers likely. Mostly cloudy. Low around 6, with temperatures rising to around 8 overnight. Wind chill values as low as -8. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Sunday",
@@ -88,9 +88,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1765666800000,
+          "timestamp": 1765670400000,
           "temp": -1,
-          "snowfall": 71,
+          "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers Likely",
           "detailedForecast": "Snow showers likely. Mostly cloudy. Low around -1, with temperatures rising to around 3 overnight. Wind chill values as low as -15. Northwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
