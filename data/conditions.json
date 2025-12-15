@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-15T21:00:43.651Z",
+  "timestamp": "2025-12-15T22:00:39.236Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765832400000,
+          "timestamp": 1765836000000,
           "temp": 19,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 19. Southwest wind around 12 mph, with gusts as high as 22 mph."
+          "detailedForecast": "Mostly sunny, with a high near 19. Southwest wind around 9 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765832400000,
+          "timestamp": 1765836000000,
           "temp": 22,
           "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Patchy Freezing Drizzle",
-          "detailedForecast": "Patchy freezing drizzle and scattered snow showers and a slight chance of snow. Cloudy, with a high near 22. West wind 10 to 15 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Patchy freezing drizzle and scattered snow showers and a slight chance of snow. Cloudy, with a high near 22. West wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1765832400000,
+          "timestamp": 1765836000000,
           "temp": 21,
           "snowfall": 19,
           "snowAmount": "",
@@ -126,16 +126,20 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sun, Dec 14",
+      "conditions": "Seriously great grooming and firm snow depth on Nubs upper Red & Blue loops . I wished I had LF6 instead of my LF7 as the temps were in the low teens : but it was a delightful ski in the sunshine ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Dec 14",
       "conditions": "Bucks run groomed for classic and skate in great condition from building and back.Coyote and Cedar trace groomed this morning for both classic and skate.i did not ski Hawk hills."
@@ -143,10 +147,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "[ ] groomed[ ] golf course is about as good as it gets[ ] Sheldon trails - fair to  good littered with tree parts, though the usual being trod upon[ ] icy patches under trees where not enough snow made it to the groun)d as it got colder and the rain - wet snow turned to ( oops - repost -- rain >>> snow"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sun, Dec 14",
-      "conditions": "Seriously great grooming and firm snow depth on Nubs upper Red & Blue loops . I wished I had LF6 instead of my LF7 as the temps were in the low teens : but it was a delightful ski in the sunshine ."
     }
   },
   "nubsNob": {
