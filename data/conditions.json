@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-16T11:00:45.556Z",
+  "timestamp": "2025-12-16T12:00:53.989Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765882800000,
+          "timestamp": 1765886400000,
           "temp": 33,
           "snowfall": 0,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765882800000,
+          "timestamp": 1765886400000,
           "temp": 35,
           "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Chance Snow Showers then Cloudy",
-          "detailedForecast": "A chance of snow showers before 7am. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 40 mph."
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 40 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765882800000,
+          "timestamp": 1765886400000,
           "temp": 34,
-          "snowfall": 20,
+          "snowfall": 18,
           "snowAmount": "",
-          "shortForecast": "Patchy Freezing Drizzle",
-          "detailedForecast": "Patchy freezing drizzle and a slight chance of snow showers before 3pm, then a slight chance of freezing rain between 3pm and 4pm, then a slight chance of rain showers. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
+          "shortForecast": "Cloudy then Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers between 1pm and 3pm, then a slight chance of freezing rain between 3pm and 4pm, then a slight chance of rain showers. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -136,10 +136,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sun, Dec 14",
-      "conditions": "Seriously great grooming and firm snow depth on Nubs upper Red & Blue loops . I wished I had LF6 instead of my LF7 as the temps were in the low teens : but it was a delightful ski in the sunshine ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Dec 14",
       "conditions": "Bucks run groomed for classic and skate in great condition from building and back.Coyote and Cedar trace groomed this morning for both classic and skate.i did not ski Hawk hills."
@@ -147,19 +143,23 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "[ ] groomed[ ] golf course is about as good as it gets[ ] Sheldon trails - fair to  good littered with tree parts, though the usual being trod upon[ ] icy patches under trees where not enough snow made it to the groun)d as it got colder and the rain - wet snow turned to ( oops - repost -- rain >>> snow"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sun, Dec 14",
+      "conditions": "Seriously great grooming and firm snow depth on Nubs upper Red & Blue loops . I wished I had LF6 instead of my LF7 as the temps were in the low teens : but it was a delightful ski in the sunshine ."
     }
   },
   "nubsNob": {
-    "date": "12/15/25",
+    "date": "12/16/25",
     "liftsOpen": "4 chairlifts and the rope tow.",
-    "xcTrails": "Groomed and tracked. Conditions are very good.",
+    "xcTrails": "All trails will be power-tilled and tracked this morning.",
     "nightSkiing": "Begins Dec. 26",
-    "comments": "Conditions continue to feel like the middle of winter. The snow surface is machine groomed with a dusting of fresh snow. The breeze is up from the West today and scattered snow is predicted this morning. All of the runs on the Front and South Side are open with the exception of the Big Terrain Park. Piles of snow are being pushed on Pintail Peak as we prepare to open this area on Friday, December 19. The soup of the day is shrimp corn chowder. The lifts will spin today from 9 a.m. to 4:30 p.m. Make it a great day at Nub's Nob.",
+    "comments": "Yesterday we experienced a surprise lake effect snowstorm that left over 4 inches of snow on the slopes. That fresh snow has now been groomed into our base and conditions appear to be excellent. The XC trails are being power-tilled and tracked this morning. The soup of the day is roasted tomato with bacon and/or tortellini. Pintail Peak opens on Friday morning. The Big Park opens on Saturday. Lifts will spin from 9:00 a.m. to 4:30 p.m. today. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "2\"",
+      "daily": "4\"",
       "threeDays": "3 days: 8\"",
-      "sevenDays": "7 days: 14\"",
-      "ytd": "YTD: 41\""
+      "sevenDays": "7 days: 18\"",
+      "ytd": "YTD: 45\""
     }
   }
 }
