@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-16T07:02:42.458Z",
+  "timestamp": "2025-12-16T08:00:47.828Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765868400000,
+          "timestamp": 1765872000000,
           "temp": 14,
           "snowfall": 1,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765868400000,
+          "timestamp": 1765872000000,
           "temp": 19,
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 19, with temperatures rising to around 22 overnight. South wind 5 to 10 mph."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 19, with temperatures rising to around 22 overnight. South wind 5 to 10 mph."
         },
         {
           "name": "Tuesday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1765868400000,
+          "timestamp": 1765872000000,
           "temp": 16,
           "snowfall": 2,
           "snowAmount": "",
@@ -126,16 +126,20 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sun, Dec 14",
+      "conditions": "Seriously great grooming and firm snow depth on Nubs upper Red & Blue loops . I wished I had LF6 instead of my LF7 as the temps were in the low teens : but it was a delightful ski in the sunshine ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Dec 14",
       "conditions": "Bucks run groomed for classic and skate in great condition from building and back.Coyote and Cedar trace groomed this morning for both classic and skate.i did not ski Hawk hills."
@@ -143,10 +147,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "[ ] groomed[ ] golf course is about as good as it gets[ ] Sheldon trails - fair to  good littered with tree parts, though the usual being trod upon[ ] icy patches under trees where not enough snow made it to the groun)d as it got colder and the rain - wet snow turned to ( oops - repost -- rain >>> snow"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sun, Dec 14",
-      "conditions": "Seriously great grooming and firm snow depth on Nubs upper Red & Blue loops . I wished I had LF6 instead of my LF7 as the temps were in the low teens : but it was a delightful ski in the sunshine ."
     }
   },
   "nubsNob": {
