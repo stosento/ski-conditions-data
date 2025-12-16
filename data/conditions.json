@@ -1,20 +1,29 @@
 {
-  "timestamp": "2025-12-16T15:01:25.969Z",
+  "timestamp": "2025-12-16T16:00:45.207Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1765897200000,
+          "name": "Overnight",
+          "timestamp": 1765879200000,
+          "temp": 14,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around 14, with temperatures rising to around 16 overnight. South southwest wind around 5 mph."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1765882800000,
           "temp": 33,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 33, with temperatures falling to around 31 in the afternoon. South southwest wind 8 to 12 mph, with gusts as high as 24 mph."
+          "detailedForecast": "Partly sunny. High near 33, with temperatures falling to around 31 in the afternoon. South southwest wind 5 to 12 mph, with gusts as high as 24 mph."
         },
         {
-          "name": "Tonight",
+          "name": "Tuesday Night",
           "timestamp": 1765926000000,
           "temp": 27,
           "snowfall": 4,
@@ -29,16 +38,7 @@
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 40, with temperatures falling to around 34 in the afternoon. West wind 5 to 9 mph, with gusts as high as 20 mph."
-        },
-        {
-          "name": "Wednesday Night",
-          "timestamp": 1766012400000,
-          "temp": 27,
-          "snowfall": 8,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 27. South southwest wind 3 to 12 mph, with gusts as high as 23 mph."
+          "detailedForecast": "Partly sunny, with a high near 40. West wind 5 to 9 mph, with gusts as high as 20 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765897200000,
+          "timestamp": 1765900800000,
           "temp": 34,
           "snowfall": 15,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1765897200000,
+          "timestamp": 1765900800000,
           "temp": 33,
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Patchy Freezing Drizzle",
-          "detailedForecast": "Patchy freezing drizzle before 2pm, then patchy freezing drizzle and isolated snow showers between 2pm and 3pm, then patchy freezing drizzle and patchy drizzle. Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Patchy freezing drizzle before 2pm, then patchy freezing drizzle and isolated snow showers between 2pm and 3pm, then patchy freezing drizzle and patchy drizzle. Mostly cloudy. High near 33, with temperatures falling to around 31 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -136,6 +136,10 @@
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sun, Dec 14",
+      "conditions": "Seriously great grooming and firm snow depth on Nubs upper Red & Blue loops . I wished I had LF6 instead of my LF7 as the temps were in the low teens : but it was a delightful ski in the sunshine ."
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Dec 14",
       "conditions": "Bucks run groomed for classic and skate in great condition from building and back.Coyote and Cedar trace groomed this morning for both classic and skate.i did not ski Hawk hills."
@@ -143,10 +147,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Dec 11",
       "conditions": "[ ] groomed[ ] golf course is about as good as it gets[ ] Sheldon trails - fair to  good littered with tree parts, though the usual being trod upon[ ] icy patches under trees where not enough snow made it to the groun)d as it got colder and the rain - wet snow turned to ( oops - repost -- rain >>> snow"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sun, Dec 14",
-      "conditions": "Seriously great grooming and firm snow depth on Nubs upper Red & Blue loops . I wished I had LF6 instead of my LF7 as the temps were in the low teens : but it was a delightful ski in the sunshine ."
     }
   },
   "nubsNob": {
