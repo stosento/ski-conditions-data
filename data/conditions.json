@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-18T17:03:17.768Z",
+  "timestamp": "2025-12-18T18:00:50.019Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766077200000,
+          "timestamp": 1766080800000,
           "temp": 50,
           "snowfall": 92,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766077200000,
+          "timestamp": 1766080800000,
           "temp": 42,
           "snowfall": 88,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766077200000,
+          "timestamp": 1766080800000,
           "temp": 41,
           "snowfall": 89,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy, with a high near 41. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers. Cloudy, with a high near 41. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Dec 17",
-      "conditions": "Skated Coyote from 8 to 10.Softer and more control than Tuesday. Tracks are good with a lot of leaves."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Dec 16",
       "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Dec 17",
+      "conditions": "Skated Coyote from 8 to 10.Softer and more control than Tuesday. Tracks are good with a lot of leaves."
     }
   },
   "nubsNob": {
