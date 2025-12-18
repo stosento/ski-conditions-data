@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-12-18T22:00:41.496Z",
+  "timestamp": "2025-12-18T23:00:39.566Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1766095200000,
-          "temp": 50,
-          "snowfall": 92,
-          "snowAmount": "",
-          "shortForecast": "Rain",
-          "detailedForecast": "Rain. Cloudy, with a high near 50. South wind around 14 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1766098800000,
@@ -38,22 +29,22 @@
           "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 20. West southwest wind 5 to 13 mph, with gusts as high as 26 mph."
+          "detailedForecast": "Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. West southwest wind 5 to 13 mph, with gusts as high as 26 mph."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1766228400000,
+          "temp": 38,
+          "snowfall": 23,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+          "detailedForecast": "A slight chance of snow after 1pm. Mostly cloudy, with a high near 38. South southwest wind 8 to 12 mph, with gusts as high as 23 mph."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1766095200000,
-          "temp": 45,
-          "snowfall": 88,
-          "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy, with a high near 45. South wind around 15 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1766098800000,
@@ -79,22 +70,22 @@
           "snowfall": 48,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 16. West wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 16, with temperatures rising to around 20 overnight. West wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1766228400000,
+          "temp": 32,
+          "snowfall": 73,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely. Cloudy, with a high near 32. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1766095200000,
-          "temp": 45,
-          "snowfall": 87,
-          "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy, with a high near 45. South wind around 15 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1766098800000,
@@ -120,29 +111,38 @@
           "snowfall": 46,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 13. West wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 13, with temperatures rising to around 18 overnight. West wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1766228400000,
+          "temp": 31,
+          "snowfall": 66,
+          "snowAmount": "New snow accumulation of around one inch possible",
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 31. Southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Dec 17",
-      "conditions": "Skated Coyote from 8 to 10.Softer and more control than Tuesday. Tracks are good with a lot of leaves."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Dec 16",
       "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Dec 17",
+      "conditions": "Skated Coyote from 8 to 10.Softer and more control than Tuesday. Tracks are good with a lot of leaves."
     }
   },
   "nubsNob": {
