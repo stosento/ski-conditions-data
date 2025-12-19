@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-19T21:00:49.113Z",
+  "timestamp": "2025-12-19T22:00:41.819Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766178000000,
+          "timestamp": 1766181600000,
           "temp": 28,
-          "snowfall": 30,
+          "snowfall": 24,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 28, with temperatures falling to around 24 in the afternoon. West wind around 21 mph, with gusts as high as 33 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Isolated Snow Showers",
+          "detailedForecast": "Isolated snow showers. Mostly cloudy. High near 28, with temperatures falling to around 24 in the afternoon. West wind around 20 mph, with gusts as high as 31 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766178000000,
+          "timestamp": 1766181600000,
           "temp": 22,
           "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Cloudy. High near 22, with temperatures falling to around 17 in the afternoon. Northwest wind around 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Isolated snow showers. Cloudy. High near 22, with temperatures falling to around 19 in the afternoon. Northwest wind around 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766178000000,
+          "timestamp": 1766181600000,
           "temp": 21,
           "snowfall": 41,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Dec 16",
-      "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Dec 19",
       "conditions": "Bucks is open. No connector.  It is pretty much how you’d expect.  Fast and a bit icy in a couple spots, but mostly controllable for skating.  There are tracks which looked solid but some parts looked quite icy.  Only one small dirt spot near the top of the “big hill.  There is however quite a bit of small debris blown on to it."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Dec 16",
+      "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
     }
   },
   "nubsNob": {
