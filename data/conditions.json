@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-20T14:00:38.686Z",
+  "timestamp": "2025-12-20T15:00:40.919Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766239200000,
+          "timestamp": 1766242800000,
           "temp": 38,
           "snowfall": 18,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766239200000,
+          "timestamp": 1766242800000,
           "temp": 33,
-          "snowfall": 85,
+          "snowfall": 62,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 3pm, then a chance of snow showers and patchy blowing snow. Cloudy. High near 33, with temperatures falling to around 30 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely before 3pm, then a chance of snow showers and patchy blowing snow. Mostly cloudy. High near 33, with temperatures falling to around 30 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766239200000,
+          "timestamp": 1766242800000,
           "temp": 33,
-          "snowfall": 76,
+          "snowfall": 37,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 4pm. Mostly cloudy. High near 33, with temperatures falling to around 29 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers before 4pm. Mostly cloudy. High near 33, with temperatures falling to around 29 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Dec 16",
-      "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Dec 19",
       "conditions": "There was a tree down blocking most of the trail at around 3:30.  Marv, Vasili and I cleared most of it. Otherwise, the trail in the woods was great, pretty fast. No connector. Had to walk across the golf course"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Dec 16",
+      "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
     }
   },
   "nubsNob": {
