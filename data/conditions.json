@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-21T17:00:42.818Z",
+  "timestamp": "2025-12-21T18:00:41.298Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766336400000,
+          "timestamp": 1766340000000,
           "temp": 28,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 28, with temperatures falling to around 26 in the afternoon. West wind 6 to 10 mph, with gusts as high as 21 mph."
+          "detailedForecast": "Sunny. High near 28, with temperatures falling to around 26 in the afternoon. West wind 6 to 10 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Tonight",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766336400000,
+          "timestamp": 1766340000000,
           "temp": 24,
-          "snowfall": 11,
+          "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Cloudy",
           "detailedForecast": "Cloudy. High near 24, with temperatures falling to around 22 in the afternoon. West wind around 10 mph."
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766336400000,
+          "timestamp": 1766340000000,
           "temp": 21,
-          "snowfall": 17,
+          "snowfall": 4,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers before 1pm. Mostly cloudy. High near 21, with temperatures falling to around 19 in the afternoon. West wind 10 to 15 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 21, with temperatures falling to around 19 in the afternoon. West wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
