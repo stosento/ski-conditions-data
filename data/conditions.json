@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-21T07:01:03.438Z",
+  "timestamp": "2025-12-21T08:00:40.533Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1766300400000,
+          "timestamp": 1766304000000,
           "temp": 17,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. West northwest wind around 16 mph, with gusts as high as 37 mph."
+          "detailedForecast": "Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. West northwest wind around 16 mph, with gusts as high as 33 mph."
         },
         {
           "name": "Sunday",
@@ -20,7 +20,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 28, with temperatures falling to around 26 in the afternoon. West northwest wind 7 to 14 mph, with gusts as high as 26 mph."
+          "detailedForecast": "Mostly sunny. High near 28, with temperatures falling to around 26 in the afternoon. West wind 6 to 14 mph, with gusts as high as 26 mph."
         },
         {
           "name": "Sunday Night",
@@ -29,7 +29,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 18, with temperatures rising to around 20 overnight. West southwest wind 2 to 6 mph."
+          "detailedForecast": "Mostly clear. Low around 18, with temperatures rising to around 20 overnight. Southwest wind around 5 mph."
         },
         {
           "name": "Monday",
@@ -38,7 +38,7 @@
           "snowfall": 48,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow after 7am. Mostly cloudy, with a high near 35. South wind 3 to 7 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow after 7am. Mostly cloudy, with a high near 35. South wind 5 to 8 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1766300400000,
+          "timestamp": 1766304000000,
           "temp": 14,
           "snowfall": 18,
           "snowAmount": "",
-          "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and a slight chance of snow showers before 4am. Mostly cloudy, with a low around 14. Wind chill values as low as -2. West wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
+          "shortForecast": "Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers before 4am. Mostly cloudy, with a low around 14. Wind chill values as low as -3. West wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Sunday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1766300400000,
+          "timestamp": 1766304000000,
           "temp": 11,
           "snowfall": 43,
           "snowAmount": "",
-          "shortForecast": "Chance Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers and patchy blowing snow. Cloudy, with a low around 11. Wind chill values as low as -6. West wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 40%."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Cloudy, with a low around 11. Wind chill values as low as -6. West wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Sunday",
@@ -136,13 +136,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Dec 16",
-      "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Dec 20",
       "conditions": "Buck’s Run Trail is good condition with leaf debris mixed in starting at the woods. Please Please Please stop in the building and pay the super expensive $5 fee for the only trail available within a two hour drive of Southeast Michigan. Thanks to all the staff that makes this trail possible."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Dec 16",
+      "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
     }
   },
   "nubsNob": {
