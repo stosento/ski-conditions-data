@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-21T04:13:03.393Z",
+  "timestamp": "2025-12-21T05:01:54.967Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1766286000000,
+          "name": "Overnight",
+          "timestamp": 1766293200000,
           "temp": 17,
           "snowfall": 2,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 17, with temperatures rising to around 20 overnight. West wind around 16 mph, with gusts as high as 38 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around 17, with temperatures rising to around 20 overnight. West wind around 16 mph, with gusts as high as 38 mph."
         },
         {
           "name": "Sunday",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1766289600000,
-          "temp": 15,
+          "name": "Overnight",
+          "timestamp": 1766293200000,
+          "temp": 14,
           "snowfall": 16,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Patchy Blowing Snow",
-          "detailedForecast": "Patchy blowing snow and a slight chance of snow showers. Mostly cloudy, with a low around 15. Wind chill values as low as -3. West wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Patchy blowing snow and a slight chance of snow showers. Mostly cloudy, with a low around 14. Wind chill values as low as -3. West wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1766289600000,
+          "name": "Overnight",
+          "timestamp": 1766293200000,
           "temp": 11,
           "snowfall": 29,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Dec 20",
-      "conditions": "Buck’s Run Trail is good condition with leaf debris mixed in starting at the woods. Please Please Please stop in the building and pay the super expensive $5 fee for the only trail available within a two hour drive of Southeast Michigan. Thanks to all the staff that makes this trail possible."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Tue, Dec 16",
       "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Dec 20",
+      "conditions": "Buck’s Run Trail is good condition with leaf debris mixed in starting at the woods. Please Please Please stop in the building and pay the super expensive $5 fee for the only trail available within a two hour drive of Southeast Michigan. Thanks to all the staff that makes this trail possible."
     }
   },
   "nubsNob": {
