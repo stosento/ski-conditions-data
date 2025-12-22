@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-22T15:00:39.107Z",
+  "timestamp": "2025-12-22T16:00:39.216Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766415600000,
+          "timestamp": 1766419200000,
           "temp": 35,
           "snowfall": 45,
           "snowAmount": "",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 11am, then a chance of snow and a chance of freezing drizzle and a slight chance of drizzle. Cloudy, with a high near 35. South wind around 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of snow and a chance of freezing drizzle and a slight chance of drizzle. Cloudy, with a high near 35. South wind around 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,21 +47,21 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766415600000,
+          "timestamp": 1766419200000,
           "temp": 35,
-          "snowfall": 35,
+          "snowfall": 32,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before noon, then a chance of rain between noon and 1pm, then a chance of snow between 1pm and 2pm, then a chance of rain and snow. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. Southwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow before 1pm, then a chance of snow and a chance of drizzle between 1pm and 5pm, then a chance of freezing drizzle and a chance of drizzle. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. Southwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1766444400000,
           "temp": 28,
-          "snowfall": 48,
+          "snowfall": 51,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. South wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow. Cloudy. Low around 28, with temperatures rising to around 30 overnight. South wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tuesday",
@@ -88,21 +88,21 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766415600000,
+          "timestamp": 1766419200000,
           "temp": 34,
           "snowfall": 49,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 3pm, then a chance of rain and snow. Cloudy, with a high near 34. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow before 3pm, then a chance of snow and a chance of freezing drizzle and a slight chance of drizzle. Mostly cloudy. High near 34, with temperatures falling to around 32 in the afternoon. Southwest wind 5 to 10 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1766444400000,
           "temp": 27,
-          "snowfall": 57,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowfall": 60,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely. Cloudy. Low around 27, with temperatures rising to around 29 overnight. South wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow likely. Cloudy. Low around 27, with temperatures rising to around 29 overnight. South wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tuesday",
@@ -126,23 +126,23 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Dec 16",
-      "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Dec 21",
       "conditions": "Bucks Run was spectacular today with the beautiful blue sky day! Thanks to the wonderful crew who works so hard on making snow and grooming!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Dec 16",
+      "conditions": "All trails power-tilled flat with a classic track and wide skate deck. Conditions are very good."
     }
   },
   "nubsNob": {
