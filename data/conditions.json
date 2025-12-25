@@ -1,9 +1,18 @@
 {
-  "timestamp": "2025-12-24T23:00:39.817Z",
+  "timestamp": "2025-12-25T00:00:53.245Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
+        {
+          "name": "This Afternoon",
+          "timestamp": 1766613600000,
+          "temp": 37,
+          "snowfall": 4,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 37. South southeast wind around 6 mph."
+        },
         {
           "name": "Tonight",
           "timestamp": 1766617200000,
@@ -30,15 +39,6 @@
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 26. East northeast wind 6 to 9 mph."
-        },
-        {
-          "name": "Friday",
-          "timestamp": 1766746800000,
-          "temp": 34,
-          "snowfall": 91,
-          "snowAmount": "",
-          "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain between 7am and 1pm, then rain. Cloudy, with a high near 34. East southeast wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
         }
       ]
     },
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1766617200000,
+          "timestamp": 1766620800000,
           "temp": 22,
-          "snowfall": 7,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy. Low around 22, with temperatures rising to around 27 overnight. West wind 5 to 10 mph."
@@ -88,9 +88,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1766617200000,
+          "timestamp": 1766620800000,
           "temp": 21,
-          "snowfall": 6,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy. Low around 21, with temperatures rising to around 25 overnight. West wind around 5 mph."
