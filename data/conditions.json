@@ -1,29 +1,20 @@
 {
-  "timestamp": "2025-12-25T14:00:42.059Z",
+  "timestamp": "2025-12-25T15:00:37.437Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1766656800000,
-          "temp": 30,
-          "snowfall": 11,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 30. West northwest wind around 3 mph."
-        },
-        {
           "name": "Christmas Day",
-          "timestamp": 1766660400000,
+          "timestamp": 1766674800000,
           "temp": 40,
-          "snowfall": 11,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 40, with temperatures falling to around 34 in the afternoon. North wind 6 to 12 mph, with gusts as high as 21 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 40, with temperatures falling to around 34 in the afternoon. North northeast wind around 12 mph, with gusts as high as 21 mph."
         },
         {
-          "name": "Thursday Night",
+          "name": "Tonight",
           "timestamp": 1766703600000,
           "temp": 26,
           "snowfall": 14,
@@ -38,7 +29,16 @@
           "snowfall": 92,
           "snowAmount": "",
           "shortForecast": "Freezing Rain",
-          "detailedForecast": "Freezing rain after 7am. Cloudy, with a high near 33. East southeast wind 6 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
+          "detailedForecast": "Freezing rain after 7am. Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. East southeast wind 6 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New ice accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1766790000000,
+          "temp": 27,
+          "snowfall": 76,
+          "snowAmount": "",
+          "shortForecast": "Freezing Rain then Mostly Cloudy",
+          "detailedForecast": "Freezing rain before 7pm. Mostly cloudy, with a low around 27. North wind around 5 mph. Chance of precipitation is 80%. Little or no ice accumulation expected."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Christmas Day",
-          "timestamp": 1766671200000,
+          "timestamp": 1766674800000,
           "temp": 28,
           "snowfall": 10,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Christmas Day",
-          "timestamp": 1766671200000,
+          "timestamp": 1766674800000,
           "temp": 28,
           "snowfall": 10,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
