@@ -1,21 +1,12 @@
 {
-  "timestamp": "2025-12-26T12:00:44.979Z",
+  "timestamp": "2025-12-26T13:10:37.251Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1766743200000,
-          "temp": 27,
-          "snowfall": 27,
-          "snowAmount": "",
-          "shortForecast": "Chance Freezing Rain",
-          "detailedForecast": "A chance of freezing rain. Cloudy. Low around 27, with temperatures rising to around 30 overnight. East southeast wind around 12 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
-        },
-        {
-          "name": "Friday",
-          "timestamp": 1766746800000,
+          "name": "Today",
+          "timestamp": 1766754000000,
           "temp": 35,
           "snowfall": 100,
           "snowAmount": "",
@@ -23,7 +14,7 @@
           "detailedForecast": "Freezing rain before 10am, then freezing rain and a slight chance of thunderstorms between 10am and 11am, then a slight chance of thunderstorms and rain and snow between 11am and 3pm, then a slight chance of rain and snow between 3pm and 4pm. Cloudy, with a high near 35. East wind 5 to 14 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New ice accumulation of less than half an inch possible."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1766790000000,
           "temp": 28,
           "snowfall": 2,
@@ -39,6 +30,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a high near 34. East wind 2 to 6 mph."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1766876400000,
+          "temp": 30,
+          "snowfall": 50,
+          "snowAmount": "",
+          "shortForecast": "Cloudy then Chance Light Rain",
+          "detailedForecast": "A chance of rain after 1am. Cloudy, with a low around 30. Southeast wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766750400000,
+          "timestamp": 1766754000000,
           "temp": 29,
           "snowfall": 94,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow and sleet and freezing rain before 4pm. Mostly cloudy, with a high near 29. East wind 5 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow and sleet before 4pm. Mostly cloudy, with a high near 29. East wind 5 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766750400000,
+          "timestamp": 1766754000000,
           "temp": 29,
           "snowfall": 94,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Sleet and freezing rain before 9am, then snow and sleet and freezing rain between 9am and 1pm. Cloudy, with a high near 29. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Sleet and freezing rain before 9am, then snow and sleet and freezing rain between 9am and 1pm. Cloudy, with a high near 29. Southeast wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -145,8 +145,8 @@
     "date": "12/26/25",
     "liftsOpen": "All 8 chairlifts, Rope Tow and Conveyor.",
     "xcTrails": "Trails are fully open and in good condition with a classic track. Trails will be packed this morning.",
-    "nightSkiing": "Begins Dec. 26",
-    "comments": "Happy Holidays from all of us at Nub's. Overnight we experienced a wintery mix of precipitation and snow is forecast to fall this morning. The snow surface is groomed and in good condition. The wind is up from the East this morning and forecast to calm down as the day progresses. Pintail Peak Lodge is open with many food options and an espresso bar. Pintail area closes at 3:45 p.m. The soup of the day is clam chowder. NASTAR racing today from 12:30 to 2:30 p.m. on Birch Run, sign-up at the front desk. Rob Yates will play the Nub's Pub this afternoon. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break from 4:30 to 5:30 p.m. so we can groom for night skiing. Thanks for choosing to ski and ride with us and make it a great day at Nub's Nob.",
+    "nightSkiing": "5:30 - 9:00 p.m. tonight",
+    "comments": "Happy Holidays from all of us at Nub's Nob. Overnight we experienced a wintery mix of precipitation and snow is forecast to fall this morning. The snow surface is groomed and in good condition. The wind is up from the East this morning and expected to calm down as the day progresses. Pintail Peak Lodge is open with many food options and an espresso bar. Pintail terrain closes at 3:45 p.m. The soup of the day is clam chowder! NASTAR racing today from 12:30 to 2:30 p.m. on Birch Run, sign up at the front desk. Rob Yates will play the Nub's Pub this afternoon. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break from 4:30 to 5:30 p.m. so we can groom for night skiing. Thanks for choosing to ski and ride with us and make it a great day at Nub's Nob.",
     "snowData": {
       "daily": "Trace",
       "threeDays": "3 days: 0\"",
