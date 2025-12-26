@@ -1,18 +1,9 @@
 {
-  "timestamp": "2025-12-26T22:00:34.774Z",
+  "timestamp": "2025-12-26T23:00:41.026Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1766786400000,
-          "temp": 33,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a high near 33. North northwest wind around 5 mph. Little or no ice accumulation expected."
-        },
         {
           "name": "Tonight",
           "timestamp": 1766790000000,
@@ -38,22 +29,22 @@
           "snowfall": 50,
           "snowAmount": "",
           "shortForecast": "Cloudy then Chance Light Rain",
-          "detailedForecast": "A chance of rain after 1am. Cloudy, with a low around 29. Southeast wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain after 1am. Cloudy. Low around 29, with temperatures rising to around 33 overnight. Southeast wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1766919600000,
+          "temp": 51,
+          "snowfall": 95,
+          "snowAmount": "",
+          "shortForecast": "Rain",
+          "detailedForecast": "Rain. Cloudy, with a high near 51. South southeast wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1766786400000,
-          "temp": 30,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 30. East wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1766790000000,
@@ -79,22 +70,22 @@
           "snowfall": 51,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Chance Freezing Rain",
-          "detailedForecast": "A chance of freezing rain after 1am. Mostly cloudy, with a low around 26. Southeast wind around 10 mph. Chance of precipitation is 50%. Little or no ice accumulation expected."
+          "detailedForecast": "A chance of freezing rain after 1am. Mostly cloudy. Low around 26, with temperatures rising to around 29 overnight. Southeast wind around 10 mph. Chance of precipitation is 50%. Little or no ice accumulation expected."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1766919600000,
+          "temp": 36,
+          "snowfall": 81,
+          "snowAmount": "",
+          "shortForecast": "Freezing Rain Likely then Rain Showers",
+          "detailedForecast": "Freezing rain likely before 10am, then rain showers. Cloudy, with a high near 36. East wind around 5 mph. Chance of precipitation is 80%. Little or no ice accumulation expected."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1766786400000,
-          "temp": 29,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 29. Northwest wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1766790000000,
@@ -120,7 +111,16 @@
           "snowfall": 56,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Freezing Rain Likely",
-          "detailedForecast": "Freezing rain likely after 1am. Mostly cloudy, with a low around 25. Southeast wind around 10 mph. Chance of precipitation is 60%. Little or no ice accumulation expected."
+          "detailedForecast": "Freezing rain likely after 1am. Mostly cloudy. Low around 25, with temperatures rising to around 28 overnight. Southeast wind around 10 mph. Chance of precipitation is 60%. Little or no ice accumulation expected."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1766919600000,
+          "temp": 37,
+          "snowfall": 86,
+          "snowAmount": "",
+          "shortForecast": "Freezing Rain then Rain Showers",
+          "detailedForecast": "Freezing rain before 10am, then rain showers. Cloudy, with a high near 37. Southeast wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         }
       ]
     }
