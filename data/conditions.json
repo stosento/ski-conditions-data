@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-12-27T19:00:37.487Z",
+  "timestamp": "2025-12-27T20:00:40.051Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766862000000,
+          "timestamp": 1766865600000,
           "temp": 35,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East southeast wind around 7 mph."
+          "detailedForecast": "Mostly cloudy. High near 35, with temperatures falling to around 33 in the afternoon. Southeast wind around 6 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1766876400000,
-          "temp": 29,
+          "temp": 30,
           "snowfall": 39,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Chance Freezing Rain",
-          "detailedForecast": "A chance of freezing rain between 1am and 2am, then a chance of rain. Mostly cloudy. Low around 29, with temperatures rising to around 33 overnight. Southeast wind around 7 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
+          "shortForecast": "Cloudy then Chance Light Rain",
+          "detailedForecast": "A chance of rain after 1am. Cloudy. Low around 30, with temperatures rising to around 34 overnight. Southeast wind around 6 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday",
           "timestamp": 1766919600000,
-          "temp": 52,
+          "temp": 51,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain. Cloudy. High near 52, with temperatures falling to around 46 in the afternoon. South southeast wind around 9 mph. Chance of precipitation is 100%. Little or no ice accumulation expected."
+          "detailedForecast": "Rain before 10am, then rain and a slight chance of thunderstorms. Cloudy. High near 51, with temperatures falling to around 48 in the afternoon. Southeast wind around 7 mph. Chance of precipitation is 100%. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1766962800000,
           "temp": 26,
           "snowfall": 100,
-          "snowAmount": "",
-          "shortForecast": "Rain",
-          "detailedForecast": "Rain before 4am, then rain and snow likely. Cloudy, with a low around 26. South southwest wind 7 to 18 mph, with gusts as high as 37 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Rain then Light Snow Likely",
+          "detailedForecast": "Rain and a slight chance of thunderstorms before 4am, then snow likely. Cloudy, with a low around 26. South wind 5 to 21 mph, with gusts as high as 48 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766862000000,
+          "timestamp": 1766865600000,
           "temp": 33,
           "snowfall": 0,
           "snowAmount": "",
@@ -57,29 +57,29 @@
         {
           "name": "Tonight",
           "timestamp": 1766876400000,
-          "temp": 26,
-          "snowfall": 27,
+          "temp": 28,
+          "snowfall": 35,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Chance Freezing Rain",
-          "detailedForecast": "A chance of freezing rain after 4am. Mostly cloudy. Low around 26, with temperatures rising to around 29 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 30%. Little or no ice accumulation expected."
+          "shortForecast": "Mostly Cloudy then Areas Of Freezing Drizzle",
+          "detailedForecast": "Areas of freezing drizzle after 4am. Mostly cloudy, with a low around 28. Southeast wind 5 to 10 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday",
           "timestamp": 1766919600000,
-          "temp": 36,
+          "temp": 35,
           "snowfall": 89,
           "snowAmount": "",
           "shortForecast": "Light Rain",
-          "detailedForecast": "A chance of freezing rain before 11am, then rain and a chance of freezing rain. Cloudy, with a high near 36. East wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "detailedForecast": "Areas of freezing drizzle before 9am, then areas of freezing drizzle and patchy fog between 9am and 10am, then a chance of freezing rain between 10am and 11am, then rain and a chance of freezing rain. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1766962800000,
           "temp": 18,
-          "snowfall": 93,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
-          "shortForecast": "Rain Showers then Snow Showers",
-          "detailedForecast": "Rain before 7pm, then rain showers between 7pm and 1am, then snow showers. Cloudy, with a low around 18. Northeast wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "snowfall": 99,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Freezing Rain then Snow Showers",
+          "detailedForecast": "Rain before 7pm, then rain showers between 7pm and 11pm, then freezing rain and rain showers between 11pm and 1am, then snow showers and freezing rain. Cloudy, with a low around 18. Northeast wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766862000000,
+          "timestamp": 1766865600000,
           "temp": 31,
           "snowfall": 0,
           "snowAmount": "",
@@ -98,41 +98,41 @@
         {
           "name": "Tonight",
           "timestamp": 1766876400000,
-          "temp": 25,
-          "snowfall": 44,
+          "temp": 27,
+          "snowfall": 47,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Chance Freezing Rain",
-          "detailedForecast": "A chance of freezing rain after 1am. Mostly cloudy. Low around 25, with temperatures rising to around 28 overnight. Southeast wind around 10 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
+          "shortForecast": "Areas Of Fog",
+          "detailedForecast": "Areas of fog between 8pm and 1am, then patchy freezing drizzle and patchy fog between 1am and 3am, then areas of freezing drizzle and areas of fog. Mostly cloudy, with a low around 27. Southeast wind around 10 mph. Chance of precipitation is 50%. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday",
           "timestamp": 1766919600000,
-          "temp": 37,
+          "temp": 36,
           "snowfall": 88,
           "snowAmount": "",
           "shortForecast": "Light Rain",
-          "detailedForecast": "Freezing rain likely before 10am, then rain and a chance of freezing rain. Cloudy, with a high near 37. Southeast wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "detailedForecast": "Widespread freezing drizzle and areas of fog before 10am, then rain and a chance of freezing rain. Cloudy, with a high near 36. Southeast wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
           "name": "Sunday Night",
           "timestamp": 1766962800000,
           "temp": 18,
-          "snowfall": 96,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowfall": 100,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Rain Showers then Rain And Snow Showers",
-          "detailedForecast": "Rain before 7pm, then rain showers between 7pm and 1am, then rain and snow showers. Cloudy, with a low around 18. Northeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Rain before 7pm, then rain showers between 7pm and 1am, then rain and snow showers. Cloudy, with a low around 18. Northeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
