@@ -1,44 +1,44 @@
 {
-  "timestamp": "2025-12-28T19:00:30.368Z",
+  "timestamp": "2025-12-28T20:00:40.505Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766948400000,
-          "temp": 54,
+          "timestamp": 1766952000000,
+          "temp": 44,
           "snowfall": 100,
           "snowAmount": "",
-          "shortForecast": "Heavy Rain",
-          "detailedForecast": "Rain and widespread fog and a chance of thunderstorms. Some of the storms could produce heavy rain. Cloudy. High near 54, with temperatures falling to around 40 in the afternoon. East southeast wind around 5 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+          "shortForecast": "Widespread Fog",
+          "detailedForecast": "Widespread fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy. High near 44, with temperatures falling to around 39 in the afternoon. East southeast wind around 5 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1766962800000,
-          "temp": 26,
+          "temp": 30,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Heavy Rain then Chance Light Snow",
-          "detailedForecast": "Rain and widespread fog and a chance of thunderstorms before 4am, then a chance of snow. Some of the storms could produce heavy rain. Cloudy. Low around 26, with temperatures rising to around 34 overnight. South southwest wind 3 to 21 mph, with gusts as high as 51 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Widespread Fog then Chance Snow Showers",
+          "detailedForecast": "Widespread fog and showers and thunderstorms before 4am, then a chance of snow showers. Some of the storms could produce heavy rain. Cloudy. Low around 30, with temperatures rising to around 36 overnight. South southwest wind 3 to 21 mph, with gusts as high as 51 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
           "timestamp": 1767006000000,
           "temp": 30,
-          "snowfall": 83,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Chance Light Snow then Snow Showers",
-          "detailedForecast": "A chance of snow before 7am, then snow showers. Cloudy. High near 30, with temperatures falling to around 27 in the afternoon. West wind around 28 mph, with gusts as high as 55 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "snowfall": 90,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Cloudy. High near 30, with temperatures falling to around 26 in the afternoon. West wind around 28 mph, with gusts as high as 55 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1767049200000,
           "temp": 20,
-          "snowfall": 83,
+          "snowfall": 39,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 1am. Mostly cloudy, with a low around 20. West northwest wind 13 to 25 mph, with gusts as high as 54 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 20. West northwest wind 13 to 25 mph, with gusts as high as 54 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766948400000,
+          "timestamp": 1766952000000,
           "temp": 34,
           "snowfall": 93,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1766948400000,
+          "timestamp": 1766952000000,
           "temp": 34,
           "snowfall": 95,
           "snowAmount": "",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
