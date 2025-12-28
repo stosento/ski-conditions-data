@@ -1,20 +1,11 @@
 {
-  "timestamp": "2025-12-28T10:00:35.417Z",
+  "timestamp": "2025-12-28T11:00:36.031Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1766916000000,
-          "temp": 30,
-          "snowfall": 62,
-          "snowAmount": "",
-          "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely and patchy fog. Cloudy. Low around 30, with temperatures rising to around 32 overnight. Southeast wind around 8 mph. Chance of precipitation is 60%. Little or no ice accumulation expected."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1766919600000,
           "temp": 54,
           "snowfall": 100,
@@ -23,7 +14,7 @@
           "detailedForecast": "Rain likely and patchy fog before 7am, then rain and widespread fog and a chance of thunderstorms. Cloudy. High near 54, with temperatures falling to around 44 in the afternoon. Southeast wind 3 to 8 mph. Chance of precipitation is 100%. Little or no ice accumulation expected."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1766962800000,
           "temp": 26,
           "snowfall": 100,
@@ -38,7 +29,16 @@
           "snowfall": 83,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Chance Light Snow then Snow Showers",
-          "detailedForecast": "A chance of snow before 7am, then snow showers. Cloudy, with a high near 30. West wind around 28 mph, with gusts as high as 53 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "A chance of snow before 7am, then snow showers. Cloudy. High near 30, with temperatures falling to around 27 in the afternoon. West wind around 28 mph, with gusts as high as 53 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1767049200000,
+          "temp": 20,
+          "snowfall": 83,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers before 1am. Mostly cloudy, with a low around 20. West northwest wind 14 to 25 mph, with gusts as high as 52 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1766916000000,
-          "temp": 28,
-          "snowfall": 22,
-          "snowAmount": "",
-          "shortForecast": "Chance Freezing Drizzle",
-          "detailedForecast": "A chance of freezing drizzle. Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. East wind around 5 mph. Chance of precipitation is 20%. Little or no ice accumulation expected."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1766919600000,
           "temp": 35,
           "snowfall": 89,
@@ -64,7 +55,7 @@
           "detailedForecast": "A chance of freezing drizzle before 7am, then a chance of freezing rain between 7am and 9am, then a chance of freezing rain and patchy fog between 9am and 11am, then rain showers and a chance of freezing rain. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1766962800000,
           "temp": 18,
           "snowfall": 99,
@@ -79,7 +70,16 @@
           "snowfall": 99,
           "snowAmount": "New snow accumulation of 6 to 10 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a high near 27. North wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 6 to 10 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow showers. Cloudy. High near 27, with temperatures falling to around 20 in the afternoon. North wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 6 to 10 inches possible. Little or no ice accumulation expected."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1767049200000,
+          "temp": 16,
+          "snowfall": 86,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 16. Wind chill values as low as 0. Northwest wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     },
@@ -87,25 +87,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1766916000000,
-          "temp": 26,
-          "snowfall": 29,
-          "snowAmount": "",
-          "shortForecast": "Chance Freezing Drizzle",
-          "detailedForecast": "A chance of freezing drizzle. Cloudy. Low around 26, with temperatures rising to around 28 overnight. South wind around 10 mph. Chance of precipitation is 30%. Little or no ice accumulation expected."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1766919600000,
           "temp": 36,
           "snowfall": 88,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "A chance of freezing drizzle and patchy fog before 7am, then freezing rain likely and areas of fog between 7am and 10am, then rain showers and a chance of freezing rain. Cloudy, with a high near 36. Southeast wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "detailedForecast": "A chance of freezing drizzle and patchy fog before 7am, then freezing rain likely and areas of fog between 7am and 10am, then rain showers and a chance of freezing rain. Cloudy, with a high near 36. Southeast wind around 5 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1766962800000,
           "temp": 18,
           "snowfall": 100,
@@ -120,19 +111,28 @@
           "snowfall": 99,
           "snowAmount": "New snow accumulation of 6 to 10 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a high near 27. Northwest wind around 20 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 6 to 10 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. High near 27, with temperatures falling to around 18 in the afternoon. Northwest wind around 20 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 6 to 10 inches possible."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1767049200000,
+          "temp": 13,
+          "snowfall": 91,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 13. Wind chill values as low as -2. Northwest wind 15 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
