@@ -1,17 +1,17 @@
 {
-  "timestamp": "2025-12-28T14:00:45.514Z",
+  "timestamp": "2025-12-28T15:00:37.400Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766923200000,
+          "timestamp": 1766934000000,
           "temp": 54,
           "snowfall": 100,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain and widespread fog and a chance of thunderstorms. Cloudy. High near 54, with temperatures falling to around 44 in the afternoon. Southeast wind 3 to 8 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+          "detailedForecast": "Rain and widespread fog before 1pm, then rain and widespread fog and a chance of thunderstorms. Some of the storms could produce heavy rain. Cloudy. High near 54, with temperatures falling to around 42 in the afternoon. East southeast wind around 5 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -19,8 +19,8 @@
           "temp": 26,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Rain then Chance Light Snow",
-          "detailedForecast": "Rain and widespread fog and a chance of thunderstorms before 4am, then a chance of snow. Cloudy. Low around 26, with temperatures rising to around 33 overnight. South southwest wind 3 to 21 mph, with gusts as high as 48 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Heavy Rain then Chance Light Snow",
+          "detailedForecast": "Rain and widespread fog and a chance of thunderstorms before 4am, then a chance of snow. Some of the storms could produce heavy rain. Cloudy. Low around 26, with temperatures rising to around 34 overnight. South southwest wind 3 to 21 mph, with gusts as high as 48 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766930400000,
+          "timestamp": 1766934000000,
           "temp": 35,
           "snowfall": 89,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "A chance of freezing rain and patchy fog before 11am, then rain showers and a chance of freezing rain. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "detailedForecast": "A chance of freezing rain before 11am, then rain showers and a chance of freezing rain. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East wind 5 to 10 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1766930400000,
+          "timestamp": 1766934000000,
           "temp": 36,
           "snowfall": 88,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "Freezing rain likely and areas of fog before 10am, then rain showers and a chance of freezing rain. Cloudy, with a high near 36. Southeast wind around 5 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
+          "detailedForecast": "Rain showers and a chance of freezing rain. Cloudy, with a high near 36. Southeast wind around 5 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,13 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
