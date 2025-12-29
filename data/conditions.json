@@ -1,32 +1,32 @@
 {
-  "timestamp": "2025-12-29T18:00:44.380Z",
+  "timestamp": "2025-12-29T19:00:45.791Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767031200000,
+          "timestamp": 1767034800000,
           "temp": 30,
-          "snowfall": 81,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. High near 30, with temperatures falling to around 26 in the afternoon. West northwest wind around 24 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "snowfall": 36,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Cloudy. High near 30, with temperatures falling to around 26 in the afternoon. West northwest wind around 24 mph, with gusts as high as 45 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1767049200000,
-          "temp": 21,
-          "snowfall": 42,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "temp": 20,
+          "snowfall": 23,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a low around 21. West northwest wind 16 to 23 mph, with gusts as high as 43 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a low around 20. West northwest wind 16 to 23 mph, with gusts as high as 43 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tuesday",
           "timestamp": 1767092400000,
           "temp": 27,
-          "snowfall": 27,
+          "snowfall": 26,
           "snowAmount": "",
           "shortForecast": "Scattered Snow Showers then Chance Light Snow",
           "detailedForecast": "Scattered snow showers before 7am, then a chance of snow. Mostly cloudy, with a high near 27. West wind 12 to 16 mph, with gusts as high as 29 mph. Chance of precipitation is 30%."
@@ -35,10 +35,10 @@
           "name": "Tuesday Night",
           "timestamp": 1767135600000,
           "temp": 22,
-          "snowfall": 81,
+          "snowfall": 85,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Cloudy, with a low around 22. West wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow. Cloudy, with a low around 22. West wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767031200000,
+          "timestamp": 1767034800000,
           "temp": 21,
           "snowfall": 71,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767031200000,
+          "timestamp": 1767034800000,
           "temp": 21,
           "snowfall": 90,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -147,11 +147,11 @@
     }
   },
   "nubsNob": {
-    "date": "12/29/25",
+    "date": "12/29/25 - Closed On Temporary Wind Hold",
     "liftsOpen": "At least 5 chairlifts, Rope Tow and Conveyor.",
     "xcTrails": "Trails will be power tilled and tracked this morning.",
     "nightSkiing": "5:30 - 9:00 p.m. tonight",
-    "comments": "It's snowing and blowing at Nub's Nob this morning. Over 6 inches of fresh snow landed at Nub's Nob last night and it's still coming down! The Grooming Crew is putting a second groom on many of the beginner and intermediate trails. Expect to find powder along with blowing and drifting snow. There is a strong wind from the Northwest. The Southside and Pintail Peak will have a delayed opening this morning. A few of the chairlifts may have a delayed opening this morning due to some icing overnight. Pintail Peak lodge is open with food and an espresso bar. Pete Kehoe will play the Nub's Pub this afternoon. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 p.m. to groom for night skiing. Make it a great day at Nub's Nob.",
+    "comments": "Nub's Nob terrain and chairlifts are currently closed on a temporary wind hold. We will reopen as soon as it is safe to do so. At this point we hope to resume operations for the night session, if not earlier. Please stay tuned for updates and we apologize for any inconvenience.",
     "snowData": {
       "daily": "6\" and counting",
       "threeDays": "3 days: 6\"",
