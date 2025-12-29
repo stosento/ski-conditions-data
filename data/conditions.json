@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-29T16:00:41.757Z",
+  "timestamp": "2025-12-29T17:00:56.883Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1767024000000,
+          "name": "This Afternoon",
+          "timestamp": 1767027600000,
           "temp": 30,
           "snowfall": 88,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1767024000000,
+          "name": "This Afternoon",
+          "timestamp": 1767027600000,
           "temp": 21,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 3 to 7 inches possible",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1767024000000,
+          "name": "This Afternoon",
+          "timestamp": 1767027600000,
           "temp": 21,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 3 to 7 inches possible",
           "shortForecast": "Snow Showers And Blowing Snow",
-          "detailedForecast": "Snow showers and blowing snow. Cloudy. High near 21, with temperatures falling to around 16 in the afternoon. Wind chill values as low as -2. Northwest wind 20 to 25 mph, with gusts as high as 55 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
+          "detailedForecast": "Snow showers and blowing snow. Cloudy. High near 21, with temperatures falling to around 16 in the afternoon. Wind chill values as low as -2. Northwest wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,13 +126,18 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "title": "Huron Meadows Metropark"
-    },
     "StonyCreekMetropark": {
       "sections": [],
       "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run is closed due to poor conditions and wind damage.",
+          "content": ""
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
@@ -146,7 +151,7 @@
     "liftsOpen": "At least 5 chairlifts, Rope Tow and Conveyor.",
     "xcTrails": "Trails will be power tilled and tracked this morning.",
     "nightSkiing": "5:30 - 9:00 p.m. tonight",
-    "comments": "***UPDATE*** Due to high wind the Southside and Pintail Peak will not open until the wind speed comes down. \n\nIt's snowing and blowing at Nub's Nob this morning. Over 6 inches of fresh snow landed at Nub's Nob last night and it's still coming down! The Grooming Crew is putting a second groom on many of the beginner and intermediate trails. Expect to find powder along with blowing and drifting snow. There is a strong wind from the Northwest. The Southside and Pintail Peak will have a delayed opening this morning. A few of the chairlifts may have a delayed opening this morning due to some icing overnight. Pintail Peak lodge is open with food and an espresso bar. Pete Kehoe will play the Nub's Pub this afternoon. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 p.m. to groom for night skiing. Make it a great day at Nub's Nob.",
+    "comments": "It's snowing and blowing at Nub's Nob this morning. Over 6 inches of fresh snow landed at Nub's Nob last night and it's still coming down! The Grooming Crew is putting a second groom on many of the beginner and intermediate trails. Expect to find powder along with blowing and drifting snow. There is a strong wind from the Northwest. The Southside and Pintail Peak will have a delayed opening this morning. A few of the chairlifts may have a delayed opening this morning due to some icing overnight. Pintail Peak lodge is open with food and an espresso bar. Pete Kehoe will play the Nub's Pub this afternoon. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 p.m. to groom for night skiing. Make it a great day at Nub's Nob.",
     "snowData": {
       "daily": "6\" and counting",
       "threeDays": "3 days: 6\"",
