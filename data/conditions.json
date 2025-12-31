@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-12-31T19:00:42.490Z",
+  "timestamp": "2025-12-31T20:00:39.502Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767207600000,
+          "timestamp": 1767211200000,
           "temp": 29,
           "snowfall": 84,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -28,8 +28,8 @@
           "temp": 21,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 21. Wind chill values as low as -3. West wind 7 to 10 mph, with gusts as high as 20 mph."
+          "shortForecast": "Mostly Sunny then Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 4pm. Mostly sunny, with a high near 21. Wind chill values as low as -3. West wind 7 to 10 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Thursday Night",
@@ -37,8 +37,8 @@
           "temp": 16,
           "snowfall": 12,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 16. West wind around 7 mph."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 16. West wind around 7 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767207600000,
+          "timestamp": 1767211200000,
           "temp": 21,
           "snowfall": 84,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767207600000,
+          "timestamp": 1767211200000,
           "temp": 20,
           "snowfall": 83,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy. High near 20, with temperatures falling to around 15 in the afternoon. Wind chill values as low as -1. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy. High near 20, with temperatures falling to around 15 in the afternoon. Wind chill values as low as -1. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,12 +134,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Dec 31",
-      "conditions": "Huron Meadows reports that Buck's Run will be open at noon, groomed for both skate and classic."
+      "conditions": "Bucks Run was firm with about an inch of new snow on top of a groomed skate deck that made it controllable while still being fast.   The classic tracks were firm as well and there we a lot of skiers out enjoying the firm trail on the last day of 2025.  Thanks Huron Meadows!"
     }
   },
   "nubsNob": {
