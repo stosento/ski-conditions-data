@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-01T01:29:05.140Z",
+  "timestamp": "2026-01-01T02:42:35.159Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767229200000,
+          "timestamp": 1767232800000,
           "temp": 9,
-          "snowfall": 44,
+          "snowfall": 16,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 1am. Partly cloudy, with a low around 9. Wind chill values as low as -3. West northwest wind 9 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Slight Chance Light Snow",
+          "detailedForecast": "A slight chance of snow before 1am. Partly cloudy, with a low around 9. Wind chill values as low as -3. West northwest wind 9 to 13 mph, with gusts as high as 29 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "New Year's Day",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767229200000,
+          "timestamp": 1767232800000,
           "temp": 9,
           "snowfall": 40,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767229200000,
+          "timestamp": 1767232800000,
           "temp": 6,
           "snowfall": 55,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Dec 31",
-      "conditions": "Lots of lake effect snow !  Firm groom this AM was covered this afternoon with 2 to 3 inches of fairly light snow resulting in a pleasant skiable skate deck . The  classic tracks look great and those skiers were moving fast . The best access is through Valley road dead end as the Lodge side is very busy with the downhill crowd ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Dec 31",
       "conditions": "Bucks Run will be open for skiing tomorrow but will not be groomed. The building will be open for its usual hours. The park says that the next possible groom date is January 2nd. At 3:30 today it's snowing really hard and the trail is filling in nicely. Might be a good classic day as the track is rock solid and once it's skied in a little bit it should be good. Not so sure about skating for tomorrow."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Dec 31",
+      "conditions": "Lots of lake effect snow !  Firm groom this AM was covered this afternoon with 2 to 3 inches of fairly light snow resulting in a pleasant skiable skate deck . The  classic tracks look great and those skiers were moving fast . The best access is through Valley road dead end as the Lodge side is very busy with the downhill crowd ."
     }
   },
   "nubsNob": {
