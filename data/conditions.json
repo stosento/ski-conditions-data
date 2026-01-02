@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-01-02T07:02:47.730Z",
+  "timestamp": "2026-01-02T08:00:38.885Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767337200000,
+          "timestamp": 1767340800000,
           "temp": 16,
-          "snowfall": 36,
+          "snowfall": 29,
           "snowAmount": "",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow and a chance of snow showers. Mostly cloudy. Low around 16, with temperatures rising to around 18 overnight. West southwest wind around 7 mph. Chance of precipitation is 40%."
+          "detailedForecast": "A chance of snow and a chance of snow showers before 4am, then a chance of snow showers and a slight chance of snow. Mostly cloudy. Low around 16, with temperatures rising to around 18 overnight. West wind around 6 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Friday",
           "timestamp": 1767351600000,
-          "temp": 25,
-          "snowfall": 4,
+          "temp": 24,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 1pm. Partly sunny. High near 25, with temperatures falling to around 23 in the afternoon. West wind 7 to 10 mph, with gusts as high as 18 mph."
+          "detailedForecast": "A chance of snow showers before 1pm. Partly sunny. High near 24, with temperatures falling to around 22 in the afternoon. West wind 7 to 10 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Friday Night",
@@ -37,8 +37,8 @@
           "temp": 26,
           "snowfall": 16,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow after 1pm. Mostly cloudy, with a high near 26. West wind around 5 mph. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 26. West wind 2 to 6 mph. New snow accumulation of less than half an inch possible."
         }
       ]
     },
@@ -47,21 +47,21 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767337200000,
+          "timestamp": 1767340800000,
           "temp": 13,
-          "snowfall": 20,
+          "snowfall": 32,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers after 4am. Mostly cloudy, with a low around 13. Wind chill values as low as 0. West wind around 15 mph. Chance of precipitation is 20%."
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers. Mostly cloudy, with a low around 13. Wind chill values as low as -1. West wind around 15 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Friday",
           "timestamp": 1767351600000,
           "temp": 17,
-          "snowfall": 20,
+          "snowfall": 19,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow showers before 7am. Mostly cloudy, with a high near 17. Wind chill values as low as -1. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+          "shortForecast": "Isolated Snow Showers then Mostly Cloudy",
+          "detailedForecast": "Isolated snow showers before 7am. Mostly cloudy, with a high near 17. Wind chill values as low as -1. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Friday Night",
@@ -88,21 +88,21 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767337200000,
+          "timestamp": 1767340800000,
           "temp": 12,
-          "snowfall": 50,
+          "snowfall": 56,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 12. Wind chill values as low as 0. West wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 12. Wind chill values as low as 0. West wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
           "timestamp": 1767351600000,
           "temp": 17,
-          "snowfall": 45,
+          "snowfall": 56,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 4pm. Mostly cloudy, with a high near 17. Wind chill values as low as -1. West wind 10 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers before 4pm. Mostly cloudy, with a high near 17. Wind chill values as low as -1. West wind 10 to 15 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Friday Night",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
