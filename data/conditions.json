@@ -1,11 +1,20 @@
 {
-  "timestamp": "2026-01-03T12:00:43.702Z",
+  "timestamp": "2026-01-03T13:09:02.843Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
+          "name": "Overnight",
+          "timestamp": 1767434400000,
+          "temp": 12,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 12. West wind around 3 mph."
+        },
+        {
+          "name": "Saturday",
           "timestamp": 1767438000000,
           "temp": 26,
           "snowfall": 42,
@@ -14,7 +23,7 @@
           "detailedForecast": "A chance of snow after 10am. Mostly cloudy, with a high near 26. West wind 2 to 6 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
-          "name": "Tonight",
+          "name": "Saturday Night",
           "timestamp": 1767481200000,
           "temp": 18,
           "snowfall": 42,
@@ -29,16 +38,7 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 28, with temperatures falling to around 26 in the afternoon. West northwest wind around 6 mph."
-        },
-        {
-          "name": "Sunday Night",
-          "timestamp": 1767567600000,
-          "temp": 19,
-          "snowfall": 51,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Mostly Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after 1am. Mostly cloudy, with a low around 19. South southwest wind 1 to 5 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Mostly sunny, with a high near 28. West northwest wind around 6 mph."
         }
       ]
     },
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767441600000,
+          "timestamp": 1767445200000,
           "temp": 22,
           "snowfall": 78,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767441600000,
+          "timestamp": 1767445200000,
           "temp": 22,
           "snowfall": 82,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a high near 22. West wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers. Cloudy, with a high near 22. West wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -151,13 +151,13 @@
     }
   },
   "nubsNob": {
-    "date": "1/2/26",
+    "date": "1/3/26",
     "liftsOpen": "All 8 chairlifts, Rope Tow and Conveyor.",
     "xcTrails": "Trails will be power tilled and tracked this morning. Conditions are excellent",
     "nightSkiing": "Tonight from 5:30 to 9:00 p.m.",
-    "comments": "The snow surface continues to be extraordinary. Lake effect bands produced a few inches of snow yesterday which has been masterfully groomed by our expert Crew overnight. The lifts will spin from 9:00 a.m. to 9:00 p.m. today with an hour break at 4:30 to groom for night skiing. Pintail Peak Lodge is open with food and an espresso bar. The soup of the day is Clam Chowder. Make it a great day at Nub's Nob.",
+    "comments": "It's a beautiful Saturday for skiing. The snow surface is extremely good thanks to fresh snow over the last few days and the mercury staying below freezing. Pintail Peak is open with food and an espresso bar. The soup of the day is \"It's in There\" and it is not to be missed. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 to groom for night skiing. Make it a great day at Nub's.",
     "snowData": {
-      "daily": "2\"",
+      "daily": "Dusting",
       "threeDays": "3 days: 7\"",
       "sevenDays": "7 days: 17\"",
       "ytd": "YTD: 65\""
