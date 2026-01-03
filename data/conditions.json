@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-01-03T01:28:32.665Z",
+  "timestamp": "2026-01-03T02:30:26.269Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767402000000,
+          "timestamp": 1767405600000,
           "temp": 14,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 14. West wind around 6 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 14. West northwest wind around 6 mph."
         },
         {
           "name": "Saturday",
           "timestamp": 1767438000000,
           "temp": 27,
-          "snowfall": 26,
+          "snowfall": 38,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow after 1pm. Mostly cloudy, with a high near 27. West wind 2 to 6 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Mostly Cloudy then Chance Light Snow",
+          "detailedForecast": "A chance of snow after 1pm. Mostly cloudy, with a high near 27. West wind 2 to 6 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1767481200000,
           "temp": 18,
-          "snowfall": 26,
+          "snowfall": 38,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow before 7pm. Mostly cloudy. Low around 18, with temperatures rising to around 20 overnight. West wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Light Snow then Mostly Cloudy",
+          "detailedForecast": "A chance of snow before 10pm. Mostly cloudy. Low around 18, with temperatures rising to around 20 overnight. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Sunday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767402000000,
+          "timestamp": 1767405600000,
           "temp": 13,
           "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. Low around 13, with temperatures rising to around 18 overnight. West wind 10 to 15 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. Low around 13, with temperatures rising to around 18 overnight. Northwest wind 10 to 15 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Saturday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767402000000,
+          "timestamp": 1767405600000,
           "temp": 11,
           "snowfall": 18,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Cloudy. Low around 11, with temperatures rising to around 17 overnight. Wind chill values as low as 0. West wind 5 to 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers. Cloudy. Low around 11, with temperatures rising to around 17 overnight. Wind chill values as low as -1. West wind 10 to 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Dec 31",
-      "conditions": "Bucks Run will be open for skiing tomorrow but will not be groomed. The building will be open for its usual hours. The park says that the next possible groom date is January 2nd. At 3:30 today it's snowing really hard and the trail is filling in nicely. Might be a good classic day as the track is rock solid and once it's skied in a little bit it should be good. Not so sure about skating for tomorrow."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Dec 31",
       "conditions": "Lots of lake effect snow !  Firm groom this AM was covered this afternoon with 2 to 3 inches of fairly light snow resulting in a pleasant skiable skate deck . The  classic tracks look great and those skiers were moving fast . The best access is through Valley road dead end as the Lodge side is very busy with the downhill crowd ."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Dec 31",
+      "conditions": "Bucks Run will be open for skiing tomorrow but will not be groomed. The building will be open for its usual hours. The park says that the next possible groom date is January 2nd. At 3:30 today it's snowing really hard and the trail is filling in nicely. Might be a good classic day as the track is rock solid and once it's skied in a little bit it should be good. Not so sure about skating for tomorrow."
     }
   },
   "nubsNob": {
