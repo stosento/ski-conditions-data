@@ -1,20 +1,11 @@
 {
-  "timestamp": "2026-01-03T11:00:40.483Z",
+  "timestamp": "2026-01-03T12:00:43.702Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1767434400000,
-          "temp": 12,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 12. West wind around 3 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1767438000000,
           "temp": 26,
           "snowfall": 42,
@@ -23,7 +14,7 @@
           "detailedForecast": "A chance of snow after 10am. Mostly cloudy, with a high near 26. West wind 2 to 6 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1767481200000,
           "temp": 18,
           "snowfall": 42,
@@ -38,7 +29,16 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 28. West northwest wind around 6 mph."
+          "detailedForecast": "Mostly sunny. High near 28, with temperatures falling to around 26 in the afternoon. West northwest wind around 6 mph."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1767567600000,
+          "temp": 19,
+          "snowfall": 51,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Mostly Cloudy then Chance Light Snow",
+          "detailedForecast": "A chance of snow after 1am. Mostly cloudy, with a low around 19. South southwest wind 1 to 5 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767438000000,
+          "timestamp": 1767441600000,
           "temp": 22,
           "snowfall": 78,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers after 10am. Mostly cloudy, with a high near 22. West wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers after 10am. Cloudy, with a high near 22. West wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767438000000,
+          "timestamp": 1767441600000,
           "temp": 22,
           "snowfall": 82,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a high near 22. West wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers. Cloudy, with a high near 22. West wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
