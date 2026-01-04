@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-04T00:00:53.514Z",
+  "timestamp": "2026-01-04T01:29:07.668Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767484800000,
+          "timestamp": 1767488400000,
           "temp": 18,
           "snowfall": 42,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767484800000,
+          "timestamp": 1767488400000,
           "temp": 17,
           "snowfall": 48,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767484800000,
+          "timestamp": 1767488400000,
           "temp": 16,
           "snowfall": 85,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Light Snow then Snow Showers Likely",
-          "detailedForecast": "Snow before 11pm, then snow showers likely. Cloudy. Low around 16, with temperatures rising to around 18 overnight. Northwest wind around 5 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow before 11pm, then snow showers likely. Cloudy. Low around 16, with temperatures rising to around 18 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Sunday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
