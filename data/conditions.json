@@ -1,20 +1,11 @@
 {
-  "timestamp": "2026-01-04T10:00:35.711Z",
+  "timestamp": "2026-01-04T11:00:36.936Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1767520800000,
-          "temp": 18,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 18. West northwest wind around 3 mph."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1767524400000,
           "temp": 29,
           "snowfall": 1,
@@ -23,7 +14,7 @@
           "detailedForecast": "Mostly sunny. High near 29, with temperatures falling to around 27 in the afternoon. West wind around 6 mph."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1767567600000,
           "temp": 22,
           "snowfall": 75,
@@ -39,6 +30,15 @@
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Slight Chance Snow then Partly Sunny",
           "detailedForecast": "A slight chance of snow before 7am. Partly sunny, with a high near 36. South southwest wind around 7 mph. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1767654000000,
+          "temp": 27,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 27. South wind around 3 mph."
         }
       ]
     },
@@ -46,16 +46,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1767520800000,
-          "temp": 17,
-          "snowfall": 17,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow. Mostly cloudy. Low around 17, with temperatures rising to around 19 overnight. Northwest wind around 5 mph. Chance of precipitation is 20%."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1767524400000,
           "temp": 24,
           "snowfall": 17,
@@ -64,7 +55,7 @@
           "detailedForecast": "A slight chance of snow before 7am. Mostly cloudy, with a high near 24. West wind around 5 mph. Chance of precipitation is 20%."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1767567600000,
           "temp": 20,
           "snowfall": 99,
@@ -80,6 +71,15 @@
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow then Patchy Freezing Drizzle",
           "detailedForecast": "Snow and patchy freezing drizzle before 10am, then patchy freezing drizzle and a slight chance of snow between 10am and 1pm. Mostly cloudy, with a high near 32. South wind around 5 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1767654000000,
+          "temp": 26,
+          "snowfall": 9,
+          "snowAmount": "",
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy, with a low around 26. South wind around 5 mph."
         }
       ]
     },
@@ -87,16 +87,7 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1767520800000,
-          "temp": 16,
-          "snowfall": 34,
-          "snowAmount": "",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy. Low around 16, with temperatures rising to around 18 overnight. West wind around 5 mph. Chance of precipitation is 30%."
-        },
-        {
-          "name": "Sunday",
+          "name": "Today",
           "timestamp": 1767524400000,
           "temp": 23,
           "snowfall": 34,
@@ -105,7 +96,7 @@
           "detailedForecast": "A chance of snow before 7am. Mostly cloudy, with a high near 23. West wind around 5 mph. Chance of precipitation is 30%."
         },
         {
-          "name": "Sunday Night",
+          "name": "Tonight",
           "timestamp": 1767567600000,
           "temp": 19,
           "snowfall": 98,
@@ -121,6 +112,15 @@
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow then Patchy Freezing Drizzle",
           "detailedForecast": "Snow and patchy freezing drizzle before 10am, then patchy freezing drizzle and a slight chance of snow between 10am and 1pm. Mostly cloudy, with a high near 32. Southwest wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1767654000000,
+          "temp": 27,
+          "snowfall": 14,
+          "snowAmount": "",
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy, with a low around 27. South wind 0 to 5 mph."
         }
       ]
     }
