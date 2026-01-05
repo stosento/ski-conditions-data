@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-05T06:03:07.037Z",
+  "timestamp": "2026-01-05T07:05:58.688Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767592800000,
+          "timestamp": 1767596400000,
           "temp": 23,
           "snowfall": 46,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767592800000,
+          "timestamp": 1767596400000,
           "temp": 21,
           "snowfall": 99,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
@@ -61,16 +61,16 @@
           "snowfall": 60,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Widespread Freezing Drizzle",
-          "detailedForecast": "Widespread freezing drizzle and snow likely before 1pm. Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. South wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Widespread freezing drizzle and snow likely before 1pm. Cloudy, with a high near 33. South wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Monday Night",
           "timestamp": 1767654000000,
           "temp": 27,
-          "snowfall": 5,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a low around 27. South wind 0 to 5 mph."
+          "detailedForecast": "Cloudy. Low around 27, with temperatures rising to around 29 overnight. South wind 0 to 5 mph."
         },
         {
           "name": "Tuesday",
@@ -78,8 +78,8 @@
           "temp": 34,
           "snowfall": 54,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Freezing Rain",
-          "detailedForecast": "A chance of freezing rain between 7am and 10am, then a chance of freezing rain and a chance of rain and snow. Cloudy, with a high near 34. South wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of freezing rain between 7am and 11am, then a chance of snow showers. Cloudy, with a high near 34. South wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767592800000,
+          "timestamp": 1767596400000,
           "temp": 20,
           "snowfall": 97,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
@@ -102,42 +102,37 @@
           "snowfall": 57,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Widespread Freezing Drizzle",
-          "detailedForecast": "Widespread freezing drizzle and snow likely before 1pm. Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Widespread freezing drizzle and snow likely before 1pm. Cloudy, with a high near 33. Southwest wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Monday Night",
           "timestamp": 1767654000000,
           "temp": 27,
-          "snowfall": 10,
+          "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy. Low around 27, with temperatures rising to around 29 overnight. South wind 0 to 5 mph."
+          "detailedForecast": "Cloudy, with a low around 27. South wind 0 to 5 mph."
         },
         {
           "name": "Tuesday",
           "timestamp": 1767697200000,
           "temp": 34,
-          "snowfall": 67,
+          "snowfall": 66,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Freezing Rain Likely",
-          "detailedForecast": "Freezing rain likely between 7am and 10am, then freezing rain likely and rain and snow likely. Cloudy, with a high near 34. South wind around 5 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Freezing rain likely between 7am and 11am, then snow showers likely. Cloudy, with a high near 34. South wind around 5 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         }
       ]
     }
   },
   "metroparkConditions": {
     "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": ""
-        }
-      ],
-      "title": "Huron Meadows Metropark"
+      "sections": [],
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
     },
     "StonyCreekMetropark": {
       "sections": [],
-      "title": "Stony Creek Metropark"
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
     }
   },
   "nordicConditions": {
