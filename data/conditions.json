@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-05T05:10:55.526Z",
+  "timestamp": "2026-01-05T06:03:07.037Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1767585600000,
+          "name": "Overnight",
+          "timestamp": 1767592800000,
           "temp": 23,
           "snowfall": 46,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after midnight. Cloudy. Low around 23, with temperatures rising to around 27 overnight. South southeast wind 3 to 8 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow. Cloudy. Low around 23, with temperatures rising to around 27 overnight. South southeast wind 5 to 8 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767589200000,
+          "timestamp": 1767592800000,
           "temp": 21,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 5 to 9 inches possible",
+          "snowfall": 99,
+          "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Heavy Snow",
-          "detailedForecast": "Snow before 5am, then widespread freezing drizzle and snow likely. Cloudy. Low around 21, with temperatures rising to around 25 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 5 to 9 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow before 5am, then widespread freezing drizzle and snow likely. Cloudy. Low around 21, with temperatures rising to around 25 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Monday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767589200000,
+          "timestamp": 1767592800000,
           "temp": 20,
-          "snowfall": 100,
-          "snowAmount": "New snow accumulation of 4 to 8 inches possible",
+          "snowfall": 97,
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Heavy Snow",
-          "detailedForecast": "Snow before 4am, then widespread freezing drizzle and snow likely. Cloudy. Low around 20, with temperatures rising to around 24 overnight. South wind 10 to 15 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow before 4am, then widespread freezing drizzle and snow likely. Cloudy. Low around 20, with temperatures rising to around 24 overnight. South wind around 15 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected."
         },
         {
           "name": "Monday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
