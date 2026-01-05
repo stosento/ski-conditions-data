@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T04:22:45.090Z",
+  "timestamp": "2026-01-05T05:10:55.526Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1767585600000,
+          "name": "Overnight",
+          "timestamp": 1767589200000,
           "temp": 21,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 5 to 9 inches possible",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1767585600000,
+          "name": "Overnight",
+          "timestamp": 1767589200000,
           "temp": 20,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 4 to 8 inches possible",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Dec 31",
-      "conditions": "Lots of lake effect snow !  Firm groom this AM was covered this afternoon with 2 to 3 inches of fairly light snow resulting in a pleasant skiable skate deck . The  classic tracks look great and those skiers were moving fast . The best access is through Valley road dead end as the Lodge side is very busy with the downhill crowd ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Dec 31",
       "conditions": "Bucks Run will be open for skiing tomorrow but will not be groomed. The building will be open for its usual hours. The park says that the next possible groom date is January 2nd. At 3:30 today it's snowing really hard and the trail is filling in nicely. Might be a good classic day as the track is rock solid and once it's skied in a little bit it should be good. Not so sure about skating for tomorrow."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Dec 31",
+      "conditions": "Lots of lake effect snow !  Firm groom this AM was covered this afternoon with 2 to 3 inches of fairly light snow resulting in a pleasant skiable skate deck . The  classic tracks look great and those skiers were moving fast . The best access is through Valley road dead end as the Lodge side is very busy with the downhill crowd ."
     }
   },
   "nubsNob": {
