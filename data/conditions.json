@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-05T07:05:58.688Z",
+  "timestamp": "2026-01-05T08:00:42.166Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767596400000,
+          "timestamp": 1767600000000,
           "temp": 23,
-          "snowfall": 46,
+          "snowfall": 39,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Cloudy. Low around 23, with temperatures rising to around 27 overnight. South southeast wind 5 to 8 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow. Cloudy. Low around 23, with temperatures rising to around 27 overnight. South southeast wind around 8 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767596400000,
+          "timestamp": 1767600000000,
           "temp": 21,
           "snowfall": 99,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767596400000,
+          "timestamp": 1767600000000,
           "temp": 20,
           "snowfall": 97,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
@@ -126,13 +126,18 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "sections": [],
-      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
-    },
     "StonyCreekMetropark": {
       "sections": [],
-      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+      "title": "Stony Creek Metropark"
+    },
+    "HuronMeadowsMetropark": {
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": ""
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     }
   },
   "nordicConditions": {
