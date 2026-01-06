@@ -1,21 +1,12 @@
 {
-  "timestamp": "2026-01-06T11:00:44.938Z",
+  "timestamp": "2026-01-06T12:00:48.862Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1767693600000,
-          "temp": 29,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Chance Freezing Rain",
-          "detailedForecast": "A chance of freezing rain and a chance of rain showers. Cloudy. Low around 29, with temperatures rising to around 32 overnight. East southeast wind around 3 mph. Chance of precipitation is 30%."
-        },
-        {
-          "name": "Tuesday",
-          "timestamp": 1767697200000,
+          "name": "Today",
+          "timestamp": 1767700800000,
           "temp": 39,
           "snowfall": 99,
           "snowAmount": "",
@@ -23,7 +14,7 @@
           "detailedForecast": "A chance of freezing rain and a chance of rain showers before 9am, then rain showers and areas of fog. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. East southeast wind 3 to 7 mph. Chance of precipitation is 100%. Little or no ice accumulation expected."
         },
         {
-          "name": "Tuesday Night",
+          "name": "Tonight",
           "timestamp": 1767740400000,
           "temp": 34,
           "snowfall": 42,
@@ -38,7 +29,16 @@
           "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Cloudy",
-          "detailedForecast": "Patchy fog and a slight chance of rain showers before noon. Mostly cloudy, with a high near 40. West wind around 7 mph."
+          "detailedForecast": "Patchy fog and a slight chance of rain showers before noon. Mostly cloudy. High near 40, with temperatures falling to around 38 in the afternoon. West wind around 7 mph."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1767826800000,
+          "temp": 31,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 31. Southwest wind around 5 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767697200000,
+          "timestamp": 1767700800000,
           "temp": 34,
           "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Slight Chance Freezing Rain then Cloudy",
-          "detailedForecast": "Patchy fog before 7am, then a slight chance of freezing rain between 7am and 10am. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. Northeast wind around 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of freezing rain before 10am. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. East wind around 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767697200000,
+          "timestamp": 1767700800000,
           "temp": 34,
           "snowfall": 37,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers then Chance Freezing Rain",
-          "detailedForecast": "Areas of fog before 7am, then a chance of freezing rain between 7am and 11am, then a chance of snow showers between 11am and noon, then a chance of freezing rain between noon and 1pm, then a chance of rain showers. Cloudy, with a high near 34. Northeast wind around 5 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
+          "detailedForecast": "A chance of freezing rain before 11am, then a chance of snow showers between 11am and noon, then a chance of freezing rain between noon and 1pm, then a chance of rain showers. Cloudy, with a high near 34. Northeast wind around 5 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
