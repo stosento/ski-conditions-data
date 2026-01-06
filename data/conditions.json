@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-06T18:00:42.064Z",
+  "timestamp": "2026-01-06T19:00:50.833Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767722400000,
+          "timestamp": 1767726000000,
           "temp": 39,
           "snowfall": 99,
           "snowAmount": "",
           "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers and areas of fog. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. Southeast wind around 6 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain showers and areas of fog. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. South wind around 5 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767722400000,
+          "timestamp": 1767726000000,
           "temp": 34,
           "snowfall": 10,
           "snowAmount": "",
@@ -69,8 +69,8 @@
           "temp": 34,
           "snowfall": 6,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a high near 34. West wind 5 to 10 mph. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 34. West wind 5 to 10 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday Night",
@@ -79,7 +79,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 27. Southwest wind around 10 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 27. Southwest wind 5 to 10 mph."
         }
       ]
     },
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767722400000,
+          "timestamp": 1767726000000,
           "temp": 34,
           "snowfall": 14,
           "snowAmount": "",
@@ -110,14 +110,14 @@
           "temp": 33,
           "snowfall": 10,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Patchy Freezing Fog then Cloudy",
-          "detailedForecast": "Patchy freezing fog before 8am, then patchy fog between 8am and 9am. Cloudy, with a high near 33. West wind 5 to 10 mph. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Patchy Freezing Fog then Mostly Cloudy",
+          "detailedForecast": "Patchy freezing fog before 8am, then patchy fog between 8am and 9am. Mostly cloudy, with a high near 33. West wind 5 to 10 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1767826800000,
           "temp": 27,
-          "snowfall": 0,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 27. Southwest wind 5 to 10 mph."
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
