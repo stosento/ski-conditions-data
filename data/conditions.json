@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-06T09:02:52.045Z",
+  "timestamp": "2026-01-06T10:00:42.750Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767690000000,
+          "timestamp": 1767693600000,
           "temp": 29,
           "snowfall": 30,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767690000000,
+          "timestamp": 1767693600000,
           "temp": 23,
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy. Low around 23, with temperatures rising to around 28 overnight. Southeast wind around 5 mph."
+          "detailedForecast": "Cloudy. Low around 23, with temperatures rising to around 29 overnight. Southeast wind around 5 mph."
         },
         {
           "name": "Tuesday",
@@ -61,7 +61,7 @@
           "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Slight Chance Freezing Rain then Cloudy",
-          "detailedForecast": "Patchy fog before 7am, then a slight chance of freezing rain between 7am and 10am. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. East wind around 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Patchy fog before 7am, then a slight chance of freezing rain between 7am and 10am. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. Northeast wind around 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday Night",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767690000000,
+          "timestamp": 1767693600000,
           "temp": 24,
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog. Cloudy. Low around 24, with temperatures rising to around 29 overnight. South wind around 5 mph."
+          "detailedForecast": "Areas of fog. Cloudy. Low around 24, with temperatures rising to around 29 overnight. Southeast wind around 5 mph."
         },
         {
           "name": "Tuesday",
@@ -102,7 +102,7 @@
           "snowfall": 37,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers then Chance Freezing Rain",
-          "detailedForecast": "Areas of fog before 7am, then a chance of freezing rain between 7am and 11am, then a chance of snow showers between 11am and noon, then a chance of freezing rain between noon and 1pm, then a chance of rain showers. Cloudy, with a high near 34. East wind around 5 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
+          "detailedForecast": "Areas of fog before 7am, then a chance of freezing rain between 7am and 11am, then a chance of snow showers between 11am and noon, then a chance of freezing rain between noon and 1pm, then a chance of rain showers. Cloudy, with a high near 34. Northeast wind around 5 mph. Chance of precipitation is 40%. Little or no ice accumulation expected."
         },
         {
           "name": "Tuesday Night",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
