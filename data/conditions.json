@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-01-06T05:03:20.451Z",
+  "timestamp": "2026-01-06T06:00:43.544Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767675600000,
+          "timestamp": 1767679200000,
           "temp": 29,
-          "snowfall": 8,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Cloudy",
           "detailedForecast": "Cloudy. Low around 29, with temperatures rising to around 32 overnight. South southeast wind around 3 mph."
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767675600000,
+          "timestamp": 1767679200000,
           "temp": 23,
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog after 2am. Cloudy. Low around 23, with temperatures rising to around 29 overnight. South wind 0 to 5 mph."
+          "detailedForecast": "Patchy fog after 2am. Cloudy. Low around 23, with temperatures rising to around 29 overnight. Southeast wind 0 to 5 mph."
         },
         {
           "name": "Tuesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767675600000,
+          "timestamp": 1767679200000,
           "temp": 24,
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog after 1am. Cloudy. Low around 24, with temperatures rising to around 28 overnight. South wind around 5 mph."
+          "detailedForecast": "Patchy fog. Cloudy. Low around 24, with temperatures rising to around 28 overnight. South wind around 5 mph."
         },
         {
           "name": "Tuesday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,20 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Dec 31",
-      "conditions": "Lots of lake effect snow !  Firm groom this AM was covered this afternoon with 2 to 3 inches of fairly light snow resulting in a pleasant skiable skate deck . The  classic tracks look great and those skiers were moving fast . The best access is through Valley road dead end as the Lodge side is very busy with the downhill crowd ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Dec 31",
       "conditions": "Bucks Run will be open for skiing tomorrow but will not be groomed. The building will be open for its usual hours. The park says that the next possible groom date is January 2nd. At 3:30 today it's snowing really hard and the trail is filling in nicely. Might be a good classic day as the track is rock solid and once it's skied in a little bit it should be good. Not so sure about skating for tomorrow."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Dec 31",
+      "conditions": "Lots of lake effect snow !  Firm groom this AM was covered this afternoon with 2 to 3 inches of fairly light snow resulting in a pleasant skiable skate deck . The  classic tracks look great and those skiers were moving fast . The best access is through Valley road dead end as the Lodge side is very busy with the downhill crowd ."
     }
   },
   "nubsNob": {
