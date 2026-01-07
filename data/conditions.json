@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-07T15:01:17.921Z",
+  "timestamp": "2026-01-07T16:01:34.206Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767798000000,
+          "timestamp": 1767801600000,
           "temp": 40,
           "snowfall": 18,
           "snowAmount": "",
@@ -47,39 +47,39 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767798000000,
+          "timestamp": 1767801600000,
           "temp": 34,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy, with a high near 34. Southwest wind 5 to 10 mph."
+          "shortForecast": "Cloudy then Patchy Fog",
+          "detailedForecast": "Patchy fog after noon. Cloudy, with a high near 34. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1767826800000,
           "temp": 27,
-          "snowfall": 0,
+          "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 30 overnight. Southwest wind 5 to 10 mph."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog. Mostly cloudy. Low around 27, with temperatures rising to around 31 overnight. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Thursday",
           "timestamp": 1767870000000,
-          "temp": 39,
-          "snowfall": 17,
+          "temp": 41,
+          "snowfall": 10,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 1pm. Mostly cloudy, with a high near 39. South wind around 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. High near 41, with temperatures falling to around 37 in the afternoon. South wind around 5 mph."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1767913200000,
           "temp": 35,
-          "snowfall": 94,
+          "snowfall": 100,
           "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy, with a low around 35. East wind 5 to 10 mph. Chance of precipitation is 90%."
+          "shortForecast": "Rain",
+          "detailedForecast": "Rain after 7pm. Cloudy, with a low around 35. Southeast wind 5 to 10 mph. Chance of precipitation is 100%."
         }
       ]
     },
@@ -88,48 +88,44 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767798000000,
-          "temp": 33,
+          "timestamp": 1767801600000,
+          "temp": 34,
           "snowfall": 9,
           "snowAmount": "",
-          "shortForecast": "Patchy Drizzle then Cloudy",
-          "detailedForecast": "Patchy drizzle and patchy fog before noon. Cloudy, with a high near 33. Southwest wind 5 to 10 mph."
+          "shortForecast": "Patchy Drizzle",
+          "detailedForecast": "Patchy drizzle and patchy fog. Cloudy, with a high near 34. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1767826800000,
           "temp": 27,
-          "snowfall": 0,
+          "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 27, with temperatures rising to around 30 overnight. Southwest wind around 10 mph."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog before 1am. Mostly cloudy. Low around 27, with temperatures rising to around 31 overnight. Southwest wind around 10 mph."
         },
         {
           "name": "Thursday",
           "timestamp": 1767870000000,
-          "temp": 39,
-          "snowfall": 22,
+          "temp": 41,
+          "snowfall": 11,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 1pm. Mostly cloudy, with a high near 39. South wind around 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Patchy Fog then Mostly Cloudy",
+          "detailedForecast": "Patchy fog before 9am. Mostly cloudy. High near 41, with temperatures falling to around 38 in the afternoon. South wind around 10 mph."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1767913200000,
-          "temp": 34,
-          "snowfall": 97,
+          "temp": 38,
+          "snowfall": 100,
           "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy, with a low around 34. Southeast wind 5 to 10 mph. Chance of precipitation is 100%."
+          "shortForecast": "Rain",
+          "detailedForecast": "Rain after 7pm. Cloudy, with a low around 38. South wind 10 to 15 mph. Chance of precipitation is 100%."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,20 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Jan 5",
       "conditions": "New snow! Yay! Thank you groomers for making the tough decision to put down snow well in advance of the races this coming weekend’s. It’s a tough balancing act.Tracks are deep and the dirt from yesterday is buried under the new snow. But new snow means soft snow and with the warm up tonight and rain tomorrow that means that how we leave Bucks Run today is how it will be tomorrow."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 5",
+      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
