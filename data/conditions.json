@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-07T17:03:59.043Z",
+  "timestamp": "2026-01-07T18:00:49.434Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767794400000,
+          "timestamp": 1767798000000,
           "temp": 40,
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Patchy Drizzle",
-          "detailedForecast": "Patchy drizzle and patchy fog before 2pm. Cloudy, with a high near 40. West wind around 7 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Patchy drizzle and patchy fog before 2pm. Cloudy, with a high near 40. West southwest wind around 7 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -47,9 +47,9 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767805200000,
+          "timestamp": 1767808800000,
           "temp": 34,
-          "snowfall": 1,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
           "detailedForecast": "Patchy fog. Cloudy, with a high near 34. Southwest wind around 10 mph."
@@ -58,7 +58,7 @@
           "name": "Tonight",
           "timestamp": 1767826800000,
           "temp": 27,
-          "snowfall": 1,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
           "detailedForecast": "Patchy fog. Mostly cloudy. Low around 27, with temperatures rising to around 31 overnight. Southwest wind 5 to 10 mph."
@@ -88,18 +88,18 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767805200000,
+          "timestamp": 1767808800000,
           "temp": 34,
-          "snowfall": 1,
+          "snowfall": 10,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Cloudy, with a high near 34. Southwest wind around 10 mph."
+          "shortForecast": "Patchy Drizzle",
+          "detailedForecast": "Patchy drizzle and patchy fog. Cloudy, with a high near 34. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1767826800000,
           "temp": 27,
-          "snowfall": 1,
+          "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
           "detailedForecast": "Patchy fog before 1am. Mostly cloudy. Low around 27, with temperatures rising to around 31 overnight. Southwest wind around 10 mph."
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
