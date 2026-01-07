@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-07T05:04:34.576Z",
+  "timestamp": "2026-01-07T06:00:41.266Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1767740400000,
+          "name": "Overnight",
+          "timestamp": 1767765600000,
           "temp": 34,
-          "snowfall": 42,
+          "snowfall": 17,
           "snowAmount": "",
-          "shortForecast": "Widespread Fog",
-          "detailedForecast": "Widespread fog and a chance of rain before 7pm, then widespread fog and a chance of rain and snow between 7pm and 10pm, then a slight chance of drizzle between 10pm and 11pm, then patchy fog and a slight chance of drizzle between 11pm and 1am, then patchy fog and a slight chance of rain. Cloudy, with a low around 34. West northwest wind around 8 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog and a slight chance of rain. Cloudy, with a low around 34. West northwest wind around 7 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Wednesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767762000000,
+          "timestamp": 1767765600000,
           "temp": 30,
           "snowfall": 25,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog and a slight chance of snow showers before 1am, then a chance of snow showers and patchy fog between 1am and 4am. Cloudy, with a low around 30. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers and patchy fog before 4am. Cloudy, with a low around 30. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767762000000,
+          "timestamp": 1767765600000,
           "temp": 30,
           "snowfall": 27,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog and a slight chance of snow showers before 1am, then a chance of snow showers and patchy freezing fog between 1am and 2am, then a chance of snow showers and patchy fog. Cloudy, with a low around 30. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers and patchy freezing fog before 2am, then a chance of snow showers and patchy fog. Cloudy, with a low around 30. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
