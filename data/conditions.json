@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-07T07:03:20.720Z",
+  "timestamp": "2026-01-07T08:00:40.226Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767765600000,
+          "timestamp": 1767772800000,
           "temp": 34,
           "snowfall": 17,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767769200000,
+          "timestamp": 1767772800000,
           "temp": 30,
           "snowfall": 25,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog and a chance of snow showers before 4am. Cloudy, with a low around 30. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers before 4am. Cloudy, with a low around 30. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767769200000,
+          "timestamp": 1767772800000,
           "temp": 30,
           "snowfall": 27,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Areas Of Freezing Fog",
-          "detailedForecast": "Areas of freezing fog and a chance of snow showers before 3am, then areas of fog and a chance of snow showers between 3am and 4am, then areas of freezing fog. Cloudy, with a low around 30. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Areas Of Fog",
+          "detailedForecast": "Areas of fog and a chance of snow showers before 4am, then areas of freezing fog. Cloudy, with a low around 30. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Jan 5",
       "conditions": "New snow! Yay! Thank you groomers for making the tough decision to put down snow well in advance of the races this coming weekend’s. It’s a tough balancing act.Tracks are deep and the dirt from yesterday is buried under the new snow. But new snow means soft snow and with the warm up tonight and rain tomorrow that means that how we leave Bucks Run today is how it will be tomorrow."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 5",
+      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
