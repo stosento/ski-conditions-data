@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-07T21:00:44.655Z",
+  "timestamp": "2026-01-07T22:00:35.447Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767819600000,
+          "timestamp": 1767823200000,
           "temp": 40,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy. High near 40, with temperatures falling to around 38 in the afternoon. West southwest wind around 7 mph."
+          "detailedForecast": "Cloudy. High near 40, with temperatures falling to around 38 in the afternoon. West southwest wind around 6 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767819600000,
+          "timestamp": 1767823200000,
           "temp": 34,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Cloudy, with a high near 34. Southwest wind around 10 mph."
+          "detailedForecast": "Patchy fog. Mostly cloudy, with a high near 34. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767819600000,
+          "timestamp": 1767823200000,
           "temp": 34,
           "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. Southwest wind around 10 mph."
+          "detailedForecast": "Patchy fog. Mostly cloudy, with a high near 34. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,20 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Jan 7",
       "conditions": "Had a good hour ski - including a couple intervals - on Buck's Run. Classic track is moderately deep and firm...and a little moist in places. The skate lane was very firm but got a little less so as we skied in the trail. Fulll snow coverage. Conditions were much better than I expected since Huron Meadows did not groom this morning. Get out and ski!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 5",
+      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
