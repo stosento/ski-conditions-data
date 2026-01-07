@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-07T16:01:34.206Z",
+  "timestamp": "2026-01-07T17:03:59.043Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767801600000,
+          "timestamp": 1767794400000,
           "temp": 40,
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Patchy Drizzle",
-          "detailedForecast": "Patchy drizzle and patchy fog before 2pm. Cloudy, with a high near 40. West southwest wind around 7 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Patchy drizzle and patchy fog before 2pm. Cloudy, with a high near 40. West wind around 7 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1767801600000,
+          "name": "This Afternoon",
+          "timestamp": 1767805200000,
           "temp": 34,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Cloudy then Patchy Fog",
-          "detailedForecast": "Patchy fog after noon. Cloudy, with a high near 34. Southwest wind 5 to 10 mph."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog. Cloudy, with a high near 34. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1767801600000,
+          "name": "This Afternoon",
+          "timestamp": 1767805200000,
           "temp": 34,
-          "snowfall": 9,
+          "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Patchy Drizzle",
-          "detailedForecast": "Patchy drizzle and patchy fog. Cloudy, with a high near 34. Southwest wind 5 to 10 mph."
+          "shortForecast": "Patchy Fog",
+          "detailedForecast": "Patchy fog. Cloudy, with a high near 34. Southwest wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
