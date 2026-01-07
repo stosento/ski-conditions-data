@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-06T23:00:42.944Z",
+  "timestamp": "2026-01-07T00:00:56.688Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767740400000,
+          "timestamp": 1767744000000,
           "temp": 34,
-          "snowfall": 42,
+          "snowfall": 30,
           "snowAmount": "",
           "shortForecast": "Widespread Fog",
-          "detailedForecast": "Widespread fog and a chance of rain before 7pm, then widespread fog and a chance of rain and snow between 7pm and 10pm, then a slight chance of drizzle between 10pm and 11pm, then patchy fog and a slight chance of drizzle between 11pm and 1am, then patchy fog and a slight chance of rain. Cloudy, with a low around 34. West northwest wind around 8 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Widespread fog and a chance of rain and snow before 10pm, then a slight chance of drizzle between 10pm and 11pm, then patchy fog and a slight chance of drizzle between 11pm and 1am, then patchy fog and a slight chance of rain. Cloudy, with a low around 34. West northwest wind around 8 mph, with gusts as high as 18 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767740400000,
+          "timestamp": 1767744000000,
           "temp": 30,
           "snowfall": 25,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Isolated Snow Showers then Patchy Fog",
-          "detailedForecast": "Isolated snow showers between 10pm and 11pm, then patchy fog and scattered snow showers between 11pm and 4am. Cloudy, with a low around 30. Northwest wind 0 to 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Isolated snow showers between 10pm and 11pm, then patchy fog and scattered snow showers between 11pm and 4am. Cloudy, with a low around 30. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767740400000,
+          "timestamp": 1767744000000,
           "temp": 30,
           "snowfall": 27,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Dec 31",
-      "conditions": "Bucks Run will be open for skiing tomorrow but will not be groomed. The building will be open for its usual hours. The park says that the next possible groom date is January 2nd. At 3:30 today it's snowing really hard and the trail is filling in nicely. Might be a good classic day as the track is rock solid and once it's skied in a little bit it should be good. Not so sure about skating for tomorrow."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Dec 31",
       "conditions": "Lots of lake effect snow !  Firm groom this AM was covered this afternoon with 2 to 3 inches of fairly light snow resulting in a pleasant skiable skate deck . The  classic tracks look great and those skiers were moving fast . The best access is through Valley road dead end as the Lodge side is very busy with the downhill crowd ."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Dec 31",
+      "conditions": "Bucks Run will be open for skiing tomorrow but will not be groomed. The building will be open for its usual hours. The park says that the next possible groom date is January 2nd. At 3:30 today it's snowing really hard and the trail is filling in nicely. Might be a good classic day as the track is rock solid and once it's skied in a little bit it should be good. Not so sure about skating for tomorrow."
     }
   },
   "nubsNob": {
