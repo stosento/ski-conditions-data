@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T12:00:46.323Z",
+  "timestamp": "2026-01-08T13:13:21.658Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767873600000,
+          "timestamp": 1767877200000,
           "temp": 41,
           "snowfall": 8,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 41. South wind around 5 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 41. South wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767873600000,
+          "timestamp": 1767877200000,
           "temp": 41,
           "snowfall": 8,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog before 2pm. Partly sunny, with a high near 41. South wind around 10 mph."
+          "detailedForecast": "Patchy fog before 2pm. Mostly cloudy, with a high near 41. South wind 10 to 15 mph."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,28 +134,32 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Jan 7",
       "conditions": "Frosty Freestyle and Krazy Klassic races this coming weekend??????As David Glasgow Farragut said in the battle of 1864 Battle of Mobile Bay: \"Damn the torpedoes ... full speed ahead.\" Yes, we running our races! We fully expect the Buck's Run to survive the weather. The trail has a solid ice base and the could ground is keeping it frozen. There are also piles of man-made snow ready for action. The course WILL, however, start in the woods on Buck's Run. The loop will be one mile. The longer race will be 6 laps (I can't count any higher), and the short race will be 3 laps, both days. Are we Krazy? Of course we are! But the race must go on.Chip timing.Prizes from Hammer Nutrition and Dough Mom's for everyone. Special awards for age group and overall winners. Four Toko bags and two cooler bags/backpacks for door prizes. Lunch for everyone!Be Krazy! Talk about this weekend for years to come!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 5",
+      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
-    "date": "1/7/26",
-    "liftsOpen": "5 chairlifts, Rope Tow and Conveyor.",
-    "xcTrails": "Trails are in great shape with a classic track. We will not groom today or tomorrow with the warm temperature.",
+    "date": "1/8/26",
+    "liftsOpen": "5 chairlifts and the rope tow",
+    "xcTrails": "Trails are in great shape with a classic track. We will not groom today with the warm temperature.",
     "nightSkiing": "Tuesday thru Saturday from 5:30 to 9:00 p.m.",
-    "comments": "Despite the temperature, there is snow in the air this morning, but stranger things have happened before. All of our runs are open today and conditions and coverage are very good. The soup of the day breaks conformity by adding blue cheese to tomato bacon soup. The lifts spin 9:00 a.m. to 9:00 p.m. today. The gate to Pintail Peak Lodge is open with food and an espresso bar. Grab your best friends and make it a great day at Nub's Nob.",
+    "comments": "It looks like a comfortable day to ski at Nub's Nob with the temperature in the upper 30's. Expect a firm snow this morning, but not icy. This firm snow should become soft by the afternoon. Some rain is forecast for late this evening. Coverage on all of our runs continues to be very good. Harbor Springs High School will host a ski meet on Smokey and Valley late this afternoon. The soup of the day is beef barley. Pintail Peak Lodge is open with food and an espresso bar. The lifts will spin from 9 a.m. to 9 p.m. with an hour break starting at 4:30 p.m. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "Trace",
-      "threeDays": "3 days: 7\"",
-      "sevenDays": "7 days: 18\"",
+      "daily": "0\"",
+      "threeDays": "3 days: 5\"",
+      "sevenDays": "7 days: 13\"",
       "ytd": "YTD: 72\""
     }
   }
