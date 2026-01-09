@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-09T05:03:26.342Z",
+  "timestamp": "2026-01-09T06:00:38.696Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767934800000,
+          "timestamp": 1767938400000,
           "temp": 44,
           "snowfall": 94,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767934800000,
+          "timestamp": 1767938400000,
           "temp": 39,
-          "snowfall": 69,
+          "snowfall": 48,
           "snowAmount": "",
-          "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely and patchy fog. Cloudy. Low around 39, with temperatures rising to around 43 overnight. Southeast wind 10 to 15 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible."
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers and patchy fog. Cloudy. Low around 39, with temperatures rising to around 43 overnight. South wind 10 to 15 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1767934800000,
+          "timestamp": 1767938400000,
           "temp": 39,
-          "snowfall": 61,
+          "snowfall": 54,
           "snowAmount": "",
-          "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely and patchy fog. Cloudy. Low around 39, with temperatures rising to around 44 overnight. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers and patchy fog. Cloudy. Low around 39, with temperatures rising to around 44 overnight. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Jan 7",
       "conditions": "Frosty Freestyle and Krazy Klassic races this coming weekend??????As David Glasgow Farragut said in the battle of 1864 Battle of Mobile Bay: \"Damn the torpedoes ... full speed ahead.\" Yes, we running our races! We fully expect the Buck's Run to survive the weather. The trail has a solid ice base and the could ground is keeping it frozen. There are also piles of man-made snow ready for action. The course WILL, however, start in the woods on Buck's Run. The loop will be one mile. The longer race will be 6 laps (I can't count any higher), and the short race will be 3 laps, both days. Are we Krazy? Of course we are! But the race must go on.Chip timing.Prizes from Hammer Nutrition and Dough Mom's for everyone. Special awards for age group and overall winners. Four Toko bags and two cooler bags/backpacks for door prizes. Lunch for everyone!Be Krazy! Talk about this weekend for years to come!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 5",
+      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
