@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-09T12:00:47.800Z",
+  "timestamp": "2026-01-09T13:12:57.074Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767960000000,
+          "timestamp": 1767963600000,
           "temp": 44,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Rain And Snow Showers",
-          "detailedForecast": "Rain showers and patchy fog before 10am, then patchy fog and rain and snow showers between 10am and 11am, then rain and snow showers between 11am and 1pm. Mostly cloudy. High near 44, with temperatures falling to around 33 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers and patchy fog before 10am, then patchy fog and rain and snow showers between 10am and 11am, then rain and snow showers between 11am and 1pm. Mostly cloudy. High near 44, with temperatures falling to around 33 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767960000000,
+          "timestamp": 1767963600000,
           "temp": 45,
           "snowfall": 86,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain Showers then Rain And Snow Showers",
-          "detailedForecast": "Rain showers and patchy fog before noon, then rain and snow showers between noon and 4pm. Cloudy. High near 45, with temperatures falling to around 32 in the afternoon. West wind 15 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain showers and patchy fog before noon, then rain and snow showers between noon and 4pm. Mostly cloudy. High near 45, with temperatures falling to around 32 in the afternoon. West wind 10 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,28 +134,32 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Jan 7",
       "conditions": "Frosty Freestyle and Krazy Klassic races this coming weekend??????As David Glasgow Farragut said in the battle of 1864 Battle of Mobile Bay: \"Damn the torpedoes ... full speed ahead.\" Yes, we running our races! We fully expect the Buck's Run to survive the weather. The trail has a solid ice base and the could ground is keeping it frozen. There are also piles of man-made snow ready for action. The course WILL, however, start in the woods on Buck's Run. The loop will be one mile. The longer race will be 6 laps (I can't count any higher), and the short race will be 3 laps, both days. Are we Krazy? Of course we are! But the race must go on.Chip timing.Prizes from Hammer Nutrition and Dough Mom's for everyone. Special awards for age group and overall winners. Four Toko bags and two cooler bags/backpacks for door prizes. Lunch for everyone!Be Krazy! Talk about this weekend for years to come!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 5",
+      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
-    "date": "1/8/26",
-    "liftsOpen": "5 chairlifts and the rope tow",
-    "xcTrails": "Trails are in great shape with a classic track. We will not groom today with the warm temperature.",
+    "date": "1/9/26",
+    "liftsOpen": "5 chairlifts and the rope tow.",
+    "xcTrails": "Trails are open, but will not be groomed until the temperature goes below freezing.",
     "nightSkiing": "Tuesday thru Saturday from 5:30 to 9:00 p.m.",
-    "comments": "It looks like a comfortable day to ski at Nub's Nob with the temperature in the upper 30's. Expect a firm snow this morning, but not icy. This firm snow should become soft by the afternoon. Some rain is forecast for late this evening. Coverage on all of our runs continues to be very good. Harbor Springs High School will host a ski meet on Smokey and Valley late this afternoon. The soup of the day is beef barley. Pintail Peak Lodge is open with food and an espresso bar. The lifts will spin from 9 a.m. to 9 p.m. with an hour break starting at 4:30 p.m. Make it a great day at Nub's Nob.",
+    "comments": "Some days it rains in the winter and this is one of those days. It's a sloppy start with wet snow. The rain is forecast to move out this morning and may even turn to light snow. Expect variable conditions today. The wet snow may begin to set-up in some areas if the temperature drops and will create an inconsistent snow surface. The soup of the day is Clam Chowder. The lifts will spin from 9:00 a.m. to 9:00 p.m. today. Despite the small break from winter weather, make it a great day at Nub's Nob.",
     "snowData": {
       "daily": "0\"",
-      "threeDays": "3 days: 5\"",
-      "sevenDays": "7 days: 13\"",
+      "threeDays": "3 days: 0\"",
+      "sevenDays": "7 days: 7\"",
       "ytd": "YTD: 72\""
     }
   }
