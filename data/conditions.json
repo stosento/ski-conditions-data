@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-09T13:12:57.074Z",
+  "timestamp": "2026-01-09T14:01:22.126Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767960000000,
+          "timestamp": 1767967200000,
           "temp": 57,
           "snowfall": 47,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767963600000,
-          "temp": 44,
+          "timestamp": 1767967200000,
+          "temp": 45,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Rain And Snow Showers",
-          "detailedForecast": "Rain showers and patchy fog before 10am, then patchy fog and rain and snow showers between 10am and 11am, then rain and snow showers between 11am and 1pm. Mostly cloudy. High near 44, with temperatures falling to around 33 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers and patchy fog before 10am, then patchy fog and rain and snow showers between 10am and 11am, then rain and snow showers between 11am and 1pm. Mostly cloudy. High near 45, with temperatures falling to around 33 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1767963600000,
-          "temp": 45,
+          "timestamp": 1767967200000,
+          "temp": 47,
           "snowfall": 86,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain Showers then Rain And Snow Showers",
-          "detailedForecast": "Rain showers and patchy fog before noon, then rain and snow showers between noon and 4pm. Mostly cloudy. High near 45, with temperatures falling to around 32 in the afternoon. West wind 10 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain showers and patchy fog before noon, then rain and snow showers between noon and 4pm. Mostly cloudy. High near 47, with temperatures falling to around 32 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
