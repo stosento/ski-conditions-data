@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-09T20:00:48.777Z",
+  "timestamp": "2026-01-09T21:00:41.310Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767988800000,
+          "timestamp": 1767992400000,
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 43 in the afternoon. West northwest wind 13 to 21 mph, with gusts as high as 37 mph."
+          "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 43 in the afternoon. West northwest wind around 15 mph, with gusts as high as 32 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767988800000,
+          "timestamp": 1767992400000,
           "temp": 45,
-          "snowfall": 2,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 32 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Mostly cloudy. High near 45, with temperatures falling to around 32 in the afternoon. Northwest wind around 15 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1767988800000,
+          "timestamp": 1767992400000,
           "temp": 47,
-          "snowfall": 20,
+          "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers before 4pm. Cloudy. High near 47, with temperatures falling to around 31 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
+          "shortForecast": "Cloudy",
+          "detailedForecast": "Cloudy. High near 47, with temperatures falling to around 30 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -141,13 +141,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Jan 9",
       "conditions": "The Frosty Freestyle and Krazy Klassic are ON! We just finished course inspection at 10:46am - the course is currently a wide, thick layer of hardpack and ice. Once the Power Tiller runs over it, we'll have a nice surface for racing! Registration ends at 1:00pm today for the Frosty Freestyle and 1:00pm Saturday for the Krazy Klassic."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 5",
+      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
