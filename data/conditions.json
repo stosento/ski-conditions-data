@@ -1,20 +1,11 @@
 {
-  "timestamp": "2026-01-09T10:00:43.939Z",
+  "timestamp": "2026-01-09T11:00:44.553Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1767952800000,
-          "temp": 40,
-          "snowfall": 83,
-          "snowAmount": "",
-          "shortForecast": "Rain",
-          "detailedForecast": "Rain. Cloudy. Low around 40, with temperatures rising to around 51 overnight. South wind around 14 mph, with gusts as high as 29 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
-        },
-        {
-          "name": "Friday",
+          "name": "Today",
           "timestamp": 1767956400000,
           "temp": 57,
           "snowfall": 61,
@@ -23,7 +14,7 @@
           "detailedForecast": "Rain likely before 11am. Mostly cloudy. High near 57, with temperatures falling to around 43 in the afternoon. West southwest wind 13 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1767999600000,
           "temp": 29,
           "snowfall": 0,
@@ -38,7 +29,16 @@
           "snowfall": 77,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Mostly Cloudy then Light Snow",
-          "detailedForecast": "Snow between 1pm and 2pm, then rain and snow. Mostly cloudy, with a high near 39. Southeast wind 2 to 7 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow between 1pm and 2pm, then rain and snow. Mostly cloudy. High near 39, with temperatures falling to around 35 in the afternoon. Southeast wind 2 to 7 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1768086000000,
+          "temp": 27,
+          "snowfall": 77,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Rain And Snow",
+          "detailedForecast": "Rain and snow. Mostly cloudy, with a low around 27. West southwest wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -46,25 +46,16 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1767952800000,
-          "temp": 39,
-          "snowfall": 48,
-          "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers and patchy fog. Cloudy. Low around 39, with temperatures rising to around 47 overnight. South wind around 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
-          "name": "Friday",
+          "name": "Today",
           "timestamp": 1767956400000,
           "temp": 44,
           "snowfall": 80,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Rain And Snow Showers",
-          "detailedForecast": "Rain showers and patchy fog before 10am, then patchy fog and rain and snow showers between 10am and 11am, then rain and snow showers between 11am and 1pm. Mostly cloudy. High near 44, with temperatures falling to around 33 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Rain showers and patchy fog before 10am, then patchy fog and rain and snow showers between 10am and 11am, then rain and snow showers between 11am and 1pm. Mostly cloudy. High near 44, with temperatures falling to around 33 in the afternoon. West wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1767999600000,
           "temp": 24,
           "snowfall": 5,
@@ -79,7 +70,16 @@
           "snowfall": 79,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Cloudy then Snow Showers",
-          "detailedForecast": "Snow showers after 1pm. Cloudy, with a high near 30. East wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers after 1pm. Cloudy. High near 30, with temperatures falling to around 28 in the afternoon. East wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1768086000000,
+          "temp": 19,
+          "snowfall": 87,
+          "snowAmount": "New snow accumulation of 3 to 7 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Cloudy, with a low around 19. Northeast wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 3 to 7 inches possible."
         }
       ]
     },
@@ -87,16 +87,7 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1767952800000,
-          "temp": 39,
-          "snowfall": 40,
-          "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers and patchy fog. Mostly cloudy. Low around 39, with temperatures rising to around 45 overnight. South wind around 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-        },
-        {
-          "name": "Friday",
+          "name": "Today",
           "timestamp": 1767956400000,
           "temp": 45,
           "snowfall": 86,
@@ -105,7 +96,7 @@
           "detailedForecast": "Rain showers and patchy fog before noon, then rain and snow showers between noon and 4pm. Cloudy. High near 45, with temperatures falling to around 32 in the afternoon. West wind 15 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1767999600000,
           "temp": 22,
           "snowfall": 4,
@@ -121,6 +112,15 @@
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
           "detailedForecast": "Snow showers after 7am. Mostly cloudy, with a high near 30. Southeast wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1768086000000,
+          "temp": 18,
+          "snowfall": 95,
+          "snowAmount": "New snow accumulation of 4 to 8 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Cloudy, with a low around 18. North wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible."
         }
       ]
     }
@@ -141,13 +141,13 @@
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Jan 7",
-      "conditions": "Frosty Freestyle and Krazy Klassic races this coming weekend??????As David Glasgow Farragut said in the battle of 1864 Battle of Mobile Bay: \"Damn the torpedoes ... full speed ahead.\" Yes, we running our races! We fully expect the Buck's Run to survive the weather. The trail has a solid ice base and the could ground is keeping it frozen. There are also piles of man-made snow ready for action. The course WILL, however, start in the woods on Buck's Run. The loop will be one mile. The longer race will be 6 laps (I can't count any higher), and the short race will be 3 laps, both days. Are we Krazy? Of course we are! But the race must go on.Chip timing.Prizes from Hammer Nutrition and Dough Mom's for everyone. Special awards for age group and overall winners. Four Toko bags and two cooler bags/backpacks for door prizes. Lunch for everyone!Be Krazy! Talk about this weekend for years to come!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Jan 5",
       "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Jan 7",
+      "conditions": "Frosty Freestyle and Krazy Klassic races this coming weekend??????As David Glasgow Farragut said in the battle of 1864 Battle of Mobile Bay: \"Damn the torpedoes ... full speed ahead.\" Yes, we running our races! We fully expect the Buck's Run to survive the weather. The trail has a solid ice base and the could ground is keeping it frozen. There are also piles of man-made snow ready for action. The course WILL, however, start in the woods on Buck's Run. The loop will be one mile. The longer race will be 6 laps (I can't count any higher), and the short race will be 3 laps, both days. Are we Krazy? Of course we are! But the race must go on.Chip timing.Prizes from Hammer Nutrition and Dough Mom's for everyone. Special awards for age group and overall winners. Four Toko bags and two cooler bags/backpacks for door prizes. Lunch for everyone!Be Krazy! Talk about this weekend for years to come!"
     }
   },
   "nubsNob": {
