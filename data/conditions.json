@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-08T23:00:41.822Z",
+  "timestamp": "2026-01-09T00:00:51.055Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767913200000,
+          "timestamp": 1767916800000,
           "temp": 44,
           "snowfall": 94,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain after 7pm. Cloudy. Low around 44, with temperatures rising to around 53 overnight. South southeast wind 10 to 16 mph, with gusts as high as 32 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Rain. Cloudy. Low around 44, with temperatures rising to around 53 overnight. South southeast wind 10 to 16 mph, with gusts as high as 32 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Friday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767913200000,
+          "timestamp": 1767916800000,
           "temp": 39,
           "snowfall": 98,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain between 7pm and 9pm, then rain and patchy fog between 9pm and 1am, then rain showers likely and patchy fog. Cloudy. Low around 39, with temperatures rising to around 43 overnight. Southeast wind 10 to 15 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+          "detailedForecast": "Rain before 9pm, then rain and patchy fog between 9pm and 1am, then rain showers likely and patchy fog. Cloudy. Low around 39, with temperatures rising to around 43 overnight. Southeast wind 5 to 15 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1767913200000,
+          "timestamp": 1767916800000,
           "temp": 39,
           "snowfall": 95,
           "snowAmount": "",
           "shortForecast": "Rain",
-          "detailedForecast": "Rain between 7pm and 9pm, then rain and patchy fog between 9pm and 1am, then rain showers likely and patchy fog. Cloudy. Low around 39, with temperatures rising to around 44 overnight. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Rain before 9pm, then rain and patchy fog between 9pm and 1am, then rain showers likely and patchy fog. Cloudy. Low around 39, with temperatures rising to around 44 overnight. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Friday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
