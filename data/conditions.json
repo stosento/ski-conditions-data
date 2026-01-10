@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-10T05:01:41.020Z",
+  "timestamp": "2026-01-10T06:00:40.308Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1768021200000,
+          "name": "Tonight",
+          "timestamp": 1768014000000,
           "temp": 29,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 29. North northeast wind around 2 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 29. North wind around 3 mph."
         },
         {
           "name": "Saturday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768021200000,
+          "timestamp": 1768024800000,
           "temp": 25,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 25. East wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 25. Northeast wind around 5 mph."
         },
         {
           "name": "Saturday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768021200000,
+          "timestamp": 1768024800000,
           "temp": 23,
           "snowfall": 0,
           "snowAmount": "",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,20 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Jan 9",
       "conditions": "The Frosty Freestyle race course will not be open until at least 9:00am on Saturday so the groomers have time to do their magic!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 5",
+      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
