@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-10T20:00:35.374Z",
+  "timestamp": "2026-01-10T21:00:36.978Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768075200000,
+          "timestamp": 1768078800000,
           "temp": 39,
-          "snowfall": 85,
+          "snowfall": 84,
           "snowAmount": "",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain and snow. Cloudy. High near 39, with temperatures falling to around 37 in the afternoon. South wind around 6 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain and snow. Cloudy. High near 39, with temperatures falling to around 37 in the afternoon. South wind around 6 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768075200000,
+          "timestamp": 1768078800000,
           "temp": 32,
           "snowfall": 93,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a high near 32. East wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. East wind around 5 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768075200000,
+          "timestamp": 1768078800000,
           "temp": 32,
           "snowfall": 96,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -127,27 +127,22 @@
   },
   "metroparkConditions": {
     "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": ""
-        }
-      ],
-      "title": "Huron Meadows Metropark"
+      "sections": [],
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
     },
     "StonyCreekMetropark": {
       "sections": [],
-      "title": "Stony Creek Metropark"
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Fri, Jan 9",
-      "conditions": "The Frosty Freestyle race course will not be open until at least 9:00am on Saturday so the groomers have time to do their magic!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Jan 5",
       "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Fri, Jan 9",
+      "conditions": "The Frosty Freestyle race course will not be open until at least 9:00am on Saturday so the groomers have time to do their magic!"
     }
   },
   "nubsNob": {
