@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-10T12:00:43.777Z",
+  "timestamp": "2026-01-10T13:09:15.976Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1768046400000,
+          "timestamp": 1768050000000,
           "temp": 39,
           "snowfall": 85,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Mostly Cloudy then Rain And Snow",
-          "detailedForecast": "Rain and snow after 1pm. Mostly cloudy. High near 39, with temperatures falling to around 36 in the afternoon. South southeast wind 3 to 7 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain and snow after 1pm. Mostly cloudy. High near 39, with temperatures falling to around 36 in the afternoon. South southeast wind around 7 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1768046400000,
+          "timestamp": 1768050000000,
           "temp": 31,
           "snowfall": 93,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1768046400000,
+          "timestamp": 1768050000000,
           "temp": 31,
           "snowfall": 96,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -151,11 +151,11 @@
     }
   },
   "nubsNob": {
-    "date": "1/9/26",
-    "liftsOpen": "5 chairlifts and the rope tow.",
-    "xcTrails": "Trails are open, but will not be groomed until the temperature goes below freezing.",
+    "date": "1/10/26",
+    "liftsOpen": "All 8 chairlifts, conveyor, and the rope tow.",
+    "xcTrails": "Trails will be power-tilled and tracked this morning.",
     "nightSkiing": "Tuesday thru Saturday from 5:30 to 9:00 p.m.",
-    "comments": "Some days it rains in the winter and this is one of those days. It's a sloppy start with wet snow. The rain is forecast to move out this morning and may even turn to light snow. Expect variable conditions today. The wet snow may begin to set-up in some areas if the temperature drops and will create an inconsistent snow surface. The soup of the day is Clam Chowder. The lifts will spin from 9:00 a.m. to 9:00 p.m. today. Despite the small break from winter weather, make it a great day at Nub's Nob.",
+    "comments": "The wet snow from yesterday set-up over night and has been expertly groomed slowly to create the best snow surface possible given the thaw to freeze event. Expect granular snow on the groomed surface this morning. Conditions should improve dramatically with new snow scheduled to arrive around lunchtime today. Nastar racing is at 12:30 today on Birch Run. Pintail Peak Lodge is open with food service and an espresso bar. The soup of the day is kielbasa and cabbage. Lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 p.m. so we can groom for night skiing. Make it a great day at Nub's Nob!",
     "snowData": {
       "daily": "0\"",
       "threeDays": "3 days: 0\"",
