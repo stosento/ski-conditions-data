@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-10T17:00:28.486Z",
+  "timestamp": "2026-01-10T18:00:45.337Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768064400000,
+          "timestamp": 1768068000000,
           "temp": 39,
           "snowfall": 85,
           "snowAmount": "",
           "shortForecast": "Rain And Snow",
-          "detailedForecast": "Rain between 1pm and 4pm, then rain and snow. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. South southeast wind around 7 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain before 4pm, then rain and snow. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. South southeast wind around 7 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768064400000,
+          "timestamp": 1768068000000,
           "temp": 32,
           "snowfall": 93,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768064400000,
+          "timestamp": 1768068000000,
           "temp": 32,
           "snowfall": 96,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow. Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Southeast wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow. Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Southeast wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
