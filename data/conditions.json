@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-11T16:00:42.775Z",
+  "timestamp": "2026-01-11T17:00:22.964Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1768147200000,
+          "name": "This Afternoon",
+          "timestamp": 1768150800000,
           "temp": 33,
-          "snowfall": 22,
+          "snowfall": 4,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Slight Chance Snow Showers then Partly Sunny",
-          "detailedForecast": "A slight chance of snow showers before noon. Partly sunny. High near 33, with temperatures falling to around 30 in the afternoon. Northwest wind around 16 mph, with gusts as high as 29 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 33, with temperatures falling to around 30 in the afternoon. Northwest wind around 16 mph, with gusts as high as 29 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1768147200000,
+          "name": "This Afternoon",
+          "timestamp": 1768150800000,
           "temp": 28,
           "snowfall": 5,
           "snowAmount": "",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1768147200000,
+          "name": "This Afternoon",
+          "timestamp": 1768150800000,
           "temp": 26,
           "snowfall": 10,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 26, with temperatures falling to around 24 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Mostly cloudy. High near 26, with temperatures falling to around 24 in the afternoon. Northwest wind 10 to 15 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,20 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Fri, Jan 9",
-      "conditions": "The Frosty Freestyle race course will not be open until at least 9:00am on Saturday so the groomers have time to do their magic!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Jan 5",
       "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Fri, Jan 9",
+      "conditions": "The Frosty Freestyle race course will not be open until at least 9:00am on Saturday so the groomers have time to do their magic!"
     }
   },
   "nubsNob": {
