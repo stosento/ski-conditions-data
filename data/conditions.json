@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-01-12T20:00:40.064Z",
+  "timestamp": "2026-01-12T21:00:43.232Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768248000000,
+          "timestamp": 1768251600000,
           "temp": 38,
-          "snowfall": 5,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 38, with temperatures falling to around 36 in the afternoon. West southwest wind around 13 mph, with gusts as high as 24 mph."
+          "detailedForecast": "Sunny. High near 38, with temperatures falling to around 36 in the afternoon. West southwest wind around 12 mph, with gusts as high as 23 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1768258800000,
           "temp": 29,
-          "snowfall": 5,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 29. Southwest wind 6 to 9 mph, with gusts as high as 18 mph."
@@ -26,19 +26,19 @@
           "name": "Tuesday",
           "timestamp": 1768302000000,
           "temp": 43,
-          "snowfall": 44,
+          "snowfall": 27,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Light Snow then Chance Light Rain",
-          "detailedForecast": "A slight chance of snow between 7am and 9am, then a chance of rain. Mostly cloudy, with a high near 43. South southwest wind 6 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Snow Showers then Chance Rain Showers",
+          "detailedForecast": "A slight chance of snow showers between 7am and 10am, then a chance of rain showers. Mostly cloudy, with a high near 43. South southwest wind 6 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday Night",
           "timestamp": 1768345200000,
           "temp": 29,
-          "snowfall": 44,
+          "snowfall": 26,
           "snowAmount": "",
-          "shortForecast": "Chance Light Rain",
-          "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 29. West southwest wind 6 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Slight Chance Light Rain then Slight Chance Rain And Snow",
+          "detailedForecast": "A chance of rain showers before 7pm, then a slight chance of rain between 7pm and 4am, then a slight chance of rain and snow. Mostly cloudy, with a low around 29. West southwest wind 6 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768248000000,
-          "temp": 32,
-          "snowfall": 5,
+          "timestamp": 1768251600000,
+          "temp": 33,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 32. West wind 10 to 15 mph."
+          "detailedForecast": "Mostly sunny, with a high near 33. West wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768248000000,
-          "temp": 31,
-          "snowfall": 8,
+          "timestamp": 1768251600000,
+          "temp": 34,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 31. West wind around 15 mph."
+          "detailedForecast": "Mostly sunny. High near 34, with temperatures falling to around 32 in the afternoon. West wind around 15 mph."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
