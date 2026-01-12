@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-01-12T22:00:36.878Z",
+  "timestamp": "2026-01-12T23:00:42.079Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1768255200000,
-          "temp": 38,
-          "snowfall": 3,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 38, with temperatures falling to around 36 in the afternoon. West southwest wind around 10 mph, with gusts as high as 22 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1768258800000,
@@ -38,22 +29,22 @@
           "snowfall": 26,
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Rain then Slight Chance Rain And Snow",
-          "detailedForecast": "A chance of rain showers before 7pm, then a slight chance of rain between 7pm and 4am, then a slight chance of rain and snow. Mostly cloudy, with a low around 29. West southwest wind 6 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 7pm, then a slight chance of rain between 7pm and 4am, then a slight chance of rain and snow. Mostly cloudy. Low around 29, with temperatures rising to around 34 overnight. West southwest wind 6 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1768388400000,
+          "temp": 37,
+          "snowfall": 75,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Rain And Snow",
+          "detailedForecast": "Rain and snow. Mostly cloudy, with a high near 37. West northwest wind 6 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1768255200000,
-          "temp": 33,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 33. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1768258800000,
@@ -79,22 +70,22 @@
           "snowfall": 75,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Rain And Snow then Rain And Snow Showers Likely",
-          "detailedForecast": "Rain and snow before 7pm, then rain and snow showers likely. Cloudy, with a low around 12. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Rain and snow before 7pm, then rain and snow showers likely. Cloudy. Low around 12, with temperatures rising to around 18 overnight. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1768388400000,
+          "temp": 17,
+          "snowfall": 55,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 17. Wind chill values as low as -6. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1768255200000,
-          "temp": 36,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 36, with temperatures falling to around 33 in the afternoon. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1768258800000,
@@ -120,12 +111,25 @@
           "snowfall": 86,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Rain And Snow then Rain And Snow Showers",
-          "detailedForecast": "Rain and snow before 7pm, then rain and snow showers. Cloudy, with a low around 12. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Rain and snow before 7pm, then rain and snow showers. Cloudy. Low around 12, with temperatures rising to around 20 overnight. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1768388400000,
+          "temp": 18,
+          "snowfall": 79,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 18. Wind chill values as low as -7. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         }
       ]
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,16 +138,12 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Jan 12",
-      "conditions": "Effortless skating on Bucks today, fast and easily controllable. Classic tracks were a combination of ice, ice with granular snow covering, or just granular snow. Klister or no wax skis would be the only solution for striding today. You can still ski out to the trailhead, but put your skis on after you’ve crossed the gravel road."
+      "conditions": "Post race skate. Trail was in perfect condition!Even enough snow to ski from club house to the woods"
     }
   },
   "nubsNob": {
