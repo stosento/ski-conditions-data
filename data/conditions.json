@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-12T04:19:36.841Z",
+  "timestamp": "2026-01-12T05:07:16.841Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1768190400000,
+          "name": "Overnight",
+          "timestamp": 1768194000000,
           "temp": 26,
           "snowfall": 7,
           "snowAmount": "",
@@ -46,8 +46,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1768190400000,
+          "name": "Overnight",
+          "timestamp": 1768194000000,
           "temp": 23,
           "snowfall": 63,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -87,8 +87,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1768190400000,
+          "name": "Overnight",
+          "timestamp": 1768194000000,
           "temp": 21,
           "snowfall": 59,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Jan 11",
       "conditions": "Post race skate. Trail was in perfect condition!Even enough snow to ski from club house to the woods"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 5",
-      "conditions": "All loops are far better than they need to be for Wonderful Skiing !"
     }
   },
   "nubsNob": {
