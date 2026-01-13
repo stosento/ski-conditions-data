@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-13T18:00:49.485Z",
+  "timestamp": "2026-01-13T19:02:19.844Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768327200000,
+          "timestamp": 1768330800000,
           "temp": 43,
           "snowfall": 49,
           "snowAmount": "",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768327200000,
+          "timestamp": 1768330800000,
           "temp": 36,
           "snowfall": 88,
           "snowAmount": "",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768327200000,
+          "timestamp": 1768330800000,
           "temp": 36,
           "snowfall": 90,
           "snowAmount": "",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
