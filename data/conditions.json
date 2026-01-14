@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-14T05:03:23.711Z",
+  "timestamp": "2026-01-14T06:00:40.513Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768366800000,
+          "timestamp": 1768370400000,
           "temp": 29,
           "snowfall": 27,
           "snowAmount": "",
           "shortForecast": "Chance Rain And Snow",
-          "detailedForecast": "A chance of rain before 5am, then a chance of rain and snow. Mostly cloudy. Low around 29, with temperatures rising to around 36 overnight. West southwest wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain before 5am, then a chance of rain and snow. Mostly cloudy. Low around 29, with temperatures rising to around 36 overnight. West southwest wind around 9 mph, with gusts as high as 20 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Wednesday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768366800000,
+          "timestamp": 1768370400000,
           "temp": 10,
-          "snowfall": 38,
+          "snowfall": 29,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow And Patchy Blowing Snow",
-          "detailedForecast": "A chance of rain and snow before 1am, then a chance of snow and patchy blowing snow. Mostly cloudy. Low around 10, with temperatures rising to around 19 overnight. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow and patchy blowing snow. Mostly cloudy. Low around 10, with temperatures rising to around 19 overnight. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768366800000,
+          "timestamp": 1768370400000,
           "temp": 9,
-          "snowfall": 83,
+          "snowfall": 62,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Light Snow Likely And Patchy Blowing Snow",
-          "detailedForecast": "Rain and snow before 1am, then snow likely and patchy blowing snow. Cloudy. Low around 9, with temperatures rising to around 19 overnight. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow likely and patchy blowing snow. Mostly cloudy. Low around 9, with temperatures rising to around 19 overnight. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
