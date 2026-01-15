@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-15T19:05:41.772Z",
+  "timestamp": "2026-01-15T20:00:47.647Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1768492800000,
+          "name": "This Afternoon",
+          "timestamp": 1768507200000,
           "temp": 20,
-          "snowfall": 35,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers before 1pm. Mostly sunny. High near 20, with temperatures falling to around 16 in the afternoon. Wind chill values as low as -3. Northwest wind 8 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "snowfall": 11,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 20, with temperatures falling to around 16 in the afternoon. Northwest wind 8 to 13 mph, with gusts as high as 20 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768503600000,
+          "timestamp": 1768507200000,
           "temp": 14,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 14, with temperatures falling to around 12 in the afternoon. Wind chill values as low as 0. West wind around 5 mph."
+          "detailedForecast": "Partly sunny. High near 14, with temperatures falling to around 12 in the afternoon. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768503600000,
+          "timestamp": 1768507200000,
           "temp": 12,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 12. Wind chill values as low as 0. West wind around 5 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 12. Wind chill values as low as -1. West wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -141,13 +141,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Jan 15",
-      "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Jan 14",
       "conditions": "8:00pm: the Kids Learn to Ski class just ended. Kids were treated to several inches of fresh snow! Me? I took me forever to get to the park as cars were driving a conservative 20-25 mph on the highway. But it was fun skiing in classic tracks! Adam Haberkorn is now out on the trail packing everything down for tomorrow."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Jan 15",
+      "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
     }
   },
   "nubsNob": {
