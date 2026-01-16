@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T20:00:43.682Z",
+  "timestamp": "2026-01-16T21:00:41.239Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768590000000,
+          "timestamp": 1768593600000,
           "temp": 26,
           "snowfall": 86,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -58,10 +58,10 @@
           "name": "Tonight",
           "timestamp": 1768604400000,
           "temp": 21,
-          "snowfall": 75,
+          "snowfall": 70,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. Low around 21, with temperatures rising to around 24 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 21, with temperatures rising to around 24 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Saturday",
@@ -70,16 +70,16 @@
           "snowfall": 52,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 28, with temperatures falling to around 26 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 28, with temperatures falling to around 25 in the afternoon. West wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1768690800000,
           "temp": 15,
           "snowfall": 52,
-          "snowAmount": "New snow accumulation of around one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 1am. Mostly cloudy, with a low around 15. Northwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of around one inch possible."
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Scattered Snow Showers",
+          "detailedForecast": "Scattered snow showers before 1am. Mostly cloudy, with a low around 15. Northwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         }
       ]
     },
@@ -88,18 +88,18 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768590000000,
+          "timestamp": 1768593600000,
           "temp": 25,
-          "snowfall": 88,
+          "snowfall": 92,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a high near 25. South wind around 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers. Cloudy, with a high near 25. South wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1768604400000,
           "temp": 21,
-          "snowfall": 66,
+          "snowfall": 65,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of snow showers. Cloudy. Low around 21, with temperatures rising to around 23 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,20 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Jan 15",
-      "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 15",
       "conditions": "Thursday 4-5pm report. Bucks connector trail has man made and fresh with plenty to glide out to trail with tracks set. New snow also added on north/south section in woods along driving range on Bucks. Fast and hard pack with still some dirty snow and debris in sections. Classic tracks were deep and wide. Friday should be great if they do a nice groom in the morning. 2-3” expected Friday, let’s hope forecasters are accurate this time. Hoping park crew can roll or groom the other trails for Saturday. Thanks HM crew, your hard work is appreciated!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Jan 15",
+      "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
     }
   },
   "nubsNob": {
