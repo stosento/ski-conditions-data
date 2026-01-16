@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-16T00:00:53.202Z",
+  "timestamp": "2026-01-16T01:28:49.852Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1768521600000,
-          "temp": 11,
+          "timestamp": 1768525200000,
+          "temp": 10,
           "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 11, with temperatures rising to around 18 overnight. Southwest wind 2 to 6 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around 10, with temperatures rising to around 18 overnight. Southwest wind 2 to 6 mph."
         },
         {
           "name": "Friday",
@@ -20,7 +20,7 @@
           "snowfall": 87,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow between 7am and 5pm. Cloudy. High near 33, with temperatures falling to around 30 in the afternoon. South southwest wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow between 7am and 5pm. Cloudy, with a high near 33. South southwest wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Friday Night",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1768521600000,
+          "timestamp": 1768525200000,
           "temp": 11,
           "snowfall": 42,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers after 10pm. Cloudy. Low around 11, with temperatures rising to around 20 overnight. South wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers after 10pm. Cloudy. Low around 11, with temperatures rising to around 20 overnight. Southeast wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Friday",
@@ -88,7 +88,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1768521600000,
+          "timestamp": 1768525200000,
           "temp": 7,
           "snowfall": 51,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Jan 14",
-      "conditions": "8:00pm: the Kids Learn to Ski class just ended. Kids were treated to several inches of fresh snow! Me? I took me forever to get to the park as cars were driving a conservative 20-25 mph on the highway. But it was fun skiing in classic tracks! Adam Haberkorn is now out on the trail packing everything down for tomorrow."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Thu, Jan 15",
       "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Jan 14",
+      "conditions": "8:00pm: the Kids Learn to Ski class just ended. Kids were treated to several inches of fresh snow! Me? I took me forever to get to the park as cars were driving a conservative 20-25 mph on the highway. But it was fun skiing in classic tracks! Adam Haberkorn is now out on the trail packing everything down for tomorrow."
     }
   },
   "nubsNob": {
