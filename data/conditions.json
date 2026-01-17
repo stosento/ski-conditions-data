@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-01-17T22:00:30.883Z",
+  "timestamp": "2026-01-17T23:00:35.941Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1768687200000,
-          "temp": 32,
-          "snowfall": 7,
-          "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Partly sunny. High near 32, with temperatures falling to around 22 in the afternoon. West southwest wind around 12 mph, with gusts as high as 24 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1768690800000,
@@ -38,22 +29,22 @@
           "snowfall": 79,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a low around 15. Southwest wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. Low around 15, with temperatures rising to around 18 overnight. Southwest wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+        },
+        {
+          "name": "M.L. King Jr. Day",
+          "timestamp": 1768820400000,
+          "temp": 20,
+          "snowfall": 79,
+          "snowAmount": "New snow accumulation of around one inch possible",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 20. Wind chill values as low as 0. West southwest wind 9 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1768687200000,
-          "temp": 29,
-          "snowfall": 42,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. High near 29, with temperatures falling to around 26 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1768690800000,
@@ -79,22 +70,22 @@
           "snowfall": 95,
           "snowAmount": "New snow accumulation of 3 to 5 inches possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy, with a low around 10. Wind chill values as low as 0. Southwest wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
+          "detailedForecast": "Snow. Cloudy. Low around 10, with temperatures rising to around 13 overnight. Wind chill values as low as 0. Southwest wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
+        },
+        {
+          "name": "M.L. King Jr. Day",
+          "timestamp": 1768820400000,
+          "temp": 15,
+          "snowfall": 87,
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "shortForecast": "Light Snow Likely And Areas Of Blowing Snow",
+          "detailedForecast": "Snow before 7am, then snow likely and areas of blowing snow. Mostly cloudy, with a high near 15. Wind chill values as low as -10. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1768687200000,
-          "temp": 27,
-          "snowfall": 67,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy, with a high near 27. West wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1768690800000,
@@ -120,7 +111,16 @@
           "snowfall": 98,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Cloudy, with a low around 9. Wind chill values as low as -1. Southwest wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow. Cloudy. Low around 9, with temperatures rising to around 12 overnight. Wind chill values as low as -1. Southwest wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+        },
+        {
+          "name": "M.L. King Jr. Day",
+          "timestamp": 1768820400000,
+          "temp": 14,
+          "snowfall": 98,
+          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "shortForecast": "Light Snow",
+          "detailedForecast": "Snow. Mostly cloudy, with a high near 14. Wind chill values as low as -9. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
         }
       ]
     }
@@ -141,13 +141,13 @@
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Jan 17",
-      "conditions": "Buck’s Run is groomed for skate and classic with great coverage. Contractor’s Loop was in OK shape with full coverage but had not been groomed today. The trails on the course were wind blown and not groomed today."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Thu, Jan 15",
       "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Jan 17",
+      "conditions": "Buck’s Run is groomed for skate and classic with great coverage. Contractor’s Loop was in OK shape with full coverage but had not been groomed today. The trails on the course were wind blown and not groomed today."
     }
   },
   "nubsNob": {
