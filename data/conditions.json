@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-17T02:30:32.166Z",
+  "timestamp": "2026-01-17T03:26:47.308Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1768615200000,
+          "timestamp": 1768618800000,
           "temp": 27,
-          "snowfall": 25,
+          "snowfall": 22,
           "snowAmount": "",
-          "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy. Low around 27, with temperatures rising to around 29 overnight. South southwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Freezing Drizzle",
+          "detailedForecast": "A chance of freezing drizzle and a slight chance of snow. Mostly cloudy. Low around 27, with temperatures rising to around 29 overnight. South southwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Saturday",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1768615200000,
+          "timestamp": 1768618800000,
           "temp": 21,
-          "snowfall": 51,
+          "snowfall": 36,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Areas Of Freezing Drizzle",
-          "detailedForecast": "Areas of freezing drizzle and a chance of snow showers. Cloudy. Low around 21, with temperatures rising to around 24 overnight. Southwest wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Areas of freezing drizzle and a chance of snow showers. Cloudy. Low around 21, with temperatures rising to around 24 overnight. Southwest wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Saturday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1768615200000,
+          "timestamp": 1768618800000,
           "temp": 21,
-          "snowfall": 52,
+          "snowfall": 38,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Areas Of Freezing Drizzle",
-          "detailedForecast": "Areas of freezing drizzle and a chance of snow showers. Cloudy. Low around 21, with temperatures rising to around 23 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Areas of freezing drizzle and a chance of snow showers. Cloudy. Low around 21, with temperatures rising to around 23 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Saturday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,20 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Thu, Jan 15",
-      "conditions": "Thursday 4-5pm report. Bucks connector trail has man made and fresh with plenty to glide out to trail with tracks set. New snow also added on north/south section in woods along driving range on Bucks. Fast and hard pack with still some dirty snow and debris in sections. Classic tracks were deep and wide. Friday should be great if they do a nice groom in the morning. 2-3” expected Friday, let’s hope forecasters are accurate this time. Hoping park crew can roll or groom the other trails for Saturday. Thanks HM crew, your hard work is appreciated!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Thu, Jan 15",
       "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Thu, Jan 15",
+      "conditions": "Thursday 4-5pm report. Bucks connector trail has man made and fresh with plenty to glide out to trail with tracks set. New snow also added on north/south section in woods along driving range on Bucks. Fast and hard pack with still some dirty snow and debris in sections. Classic tracks were deep and wide. Friday should be great if they do a nice groom in the morning. 2-3” expected Friday, let’s hope forecasters are accurate this time. Hoping park crew can roll or groom the other trails for Saturday. Thanks HM crew, your hard work is appreciated!"
     }
   },
   "nubsNob": {
