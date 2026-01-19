@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-19T12:00:50.746Z",
+  "timestamp": "2026-01-19T13:15:22.524Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "M.L. King Jr. Day",
-          "timestamp": 1768824000000,
+          "timestamp": 1768820400000,
           "temp": 20,
           "snowfall": 80,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Mostly cloudy. High near 20, with temperatures falling to around 17 in the afternoon. West southwest wind 10 to 16 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow. Mostly cloudy. High near 20, with temperatures falling to around 17 in the afternoon. West southwest wind 9 to 16 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "M.L. King Jr. Day",
-          "timestamp": 1768824000000,
+          "timestamp": 1768827600000,
           "temp": 15,
           "snowfall": 84,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Snow Showers Likely And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers before 10am, then snow showers likely and patchy blowing snow. Mostly cloudy. High near 15, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -9. Northwest wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers before 10am, then snow showers likely and patchy blowing snow. Mostly cloudy. High near 15, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -9. Northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "M.L. King Jr. Day",
-          "timestamp": 1768824000000,
+          "timestamp": 1768827600000,
           "temp": 14,
           "snowfall": 92,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy. High near 14, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -8. West wind 10 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy. High near 14, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -8. West wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -151,16 +151,16 @@
     }
   },
   "nubsNob": {
-    "date": "1/18/26",
-    "liftsOpen": "All 8 chairlifts, conveyor and the rope tow.",
-    "xcTrails": "Trails will be power-tilled and tracked this morning. There is a classic race on the upper Red at 10 a.m. this morning.",
-    "nightSkiing": "Special night skiing session this Sunday from 5:30 to 9:00 p.m.",
-    "comments": "The skiers paradise continues at Nub's Nob. A bit of fresh snow overnight and continued snowfall today should make for excellent conditions. NASTAR racing is open to the public at 12:30 on Birch Run. Pintail Peak Lodge is open with food and an espresso bar. The soup of the day is polish sausage with sauerkraut. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 to groom for night skiing. Make it a great day at Nub's Nob.",
+    "date": "1/19/26",
+    "liftsOpen": "6 chairlifts, conveyor and the rope tow.",
+    "xcTrails": "Trails will be power-tilled and tracked later this morning.",
+    "nightSkiing": "Tuesday thru Saturday from 5:30 to 9:00 p.m.",
+    "comments": "It's nuking snow at Nub's this morning. Lake effect bands are dropping snow rapidly and the slopes are covered in a powder blanket. The majority of snow fell after grooming this morning. The grooming crew is going out a second time to put lines down on the beginner terrain and less steep runs. Expect powder on the expert terrain and much of the intermediate runs. If you prefer groomers head to Pintail Peak as that will be groomed last. The soup of the day is sweet and sour sweet potato with ham. Pintail Peak Lodge is open with food service and the espresso bar. Lifts will turn from 9:00 a.m. to 4:30 p.m. Grab the wide skis and enjoy an epic MLK jr. Holiday at Nub's Nob.",
     "snowData": {
-      "daily": "1\"",
-      "threeDays": "3 days: 8\"",
-      "sevenDays": "7 days: 9\"",
-      "ytd": "YTD: 88\""
+      "daily": "6\"",
+      "threeDays": "3 days: 11\"",
+      "sevenDays": "7 days: 15\"",
+      "ytd": "YTD: 94\""
     }
   }
 }
