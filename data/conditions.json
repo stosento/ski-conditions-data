@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-19T08:00:47.056Z",
+  "timestamp": "2026-01-19T09:04:33.814Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768809600000,
+          "timestamp": 1768813200000,
           "temp": 16,
           "snowfall": 58,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768809600000,
+          "timestamp": 1768813200000,
           "temp": 11,
           "snowfall": 75,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy. Low around 11, with temperatures rising to around 14 overnight. West wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy, with a low around 11. Wind chill values as low as -1. West wind around 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "M.L. King Jr. Day",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768809600000,
+          "timestamp": 1768813200000,
           "temp": 11,
           "snowfall": 57,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy, with a low around 11. Wind chill values as low as -2. Southwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow showers likely. Cloudy, with a low around 11. Wind chill values as low as -3. Southwest wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "M.L. King Jr. Day",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Jan 15",
-      "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Jan 18",
       "conditions": "Bucks Run was firm and fast this afternoon as there had been a lot of skiers on the course.  When I arrived around 4 pm the parking lot was jammed and there were a lot of skiers on the trail.  Conditions should remain very good with the potential snow later tonight and colder temps in the forecast.    Great job by the Huron Meadows crew!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Jan 15",
+      "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
     }
   },
   "nubsNob": {
