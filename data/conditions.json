@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-19T18:00:40.840Z",
+  "timestamp": "2026-01-19T19:02:44.636Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "M.L. King Jr. Day",
-          "timestamp": 1768845600000,
+          "timestamp": 1768849200000,
           "temp": 20,
           "snowfall": 46,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow. Mostly cloudy. High near 20, with temperatures falling to around 17 in the afternoon. West wind around 16 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow. Mostly cloudy. High near 20, with temperatures falling to around 17 in the afternoon. West wind around 16 mph, with gusts as high as 39 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,21 +47,21 @@
       "forecast": [
         {
           "name": "M.L. King Jr. Day",
-          "timestamp": 1768845600000,
-          "temp": 15,
-          "snowfall": 66,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Snow Showers Likely And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers likely and patchy blowing snow. Mostly cloudy. High near 15, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -9. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+          "timestamp": 1768849200000,
+          "temp": 14,
+          "snowfall": 65,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Cloudy. High near 14, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -8. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1768863600000,
           "temp": 3,
-          "snowfall": 66,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -14. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "snowfall": 65,
+          "snowAmount": "New snow accumulation of around one inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -14. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tuesday",
@@ -88,21 +88,21 @@
       "forecast": [
         {
           "name": "M.L. King Jr. Day",
-          "timestamp": 1768845600000,
-          "temp": 14,
-          "snowfall": 87,
+          "timestamp": 1768849200000,
+          "temp": 13,
+          "snowfall": 91,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy. High near 14, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -8. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "detailedForecast": "Snow showers. Cloudy. High near 13, with temperatures falling to around 8 in the afternoon. Wind chill values as low as -9. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1768863600000,
           "temp": 1,
-          "snowfall": 87,
+          "snowfall": 91,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy. Low around 1, with temperatures rising to around 3 overnight. Wind chill values as low as -14. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers. Mostly cloudy. Low around 1, with temperatures rising to around 3 overnight. Wind chill values as low as -14. West wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Tuesday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
