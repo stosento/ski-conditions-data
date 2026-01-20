@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-20T14:06:10.168Z",
+  "timestamp": "2026-01-20T15:04:16.713Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1768917600000,
+          "timestamp": 1768921200000,
           "temp": 17,
           "snowfall": 22,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of snow before 1pm. Mostly cloudy, with a high near 17. Wind chill values as low as -7. West southwest wind around 12 mph, with gusts as high as 21 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow before 1pm. Mostly cloudy, with a high near 17. Wind chill values as low as -5. West southwest wind around 12 mph, with gusts as high as 21 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1768917600000,
+          "timestamp": 1768921200000,
           "temp": 15,
           "snowfall": 23,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 15, with temperatures falling to around 12 in the afternoon. Wind chill values as low as -11. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 15, with temperatures falling to around 12 in the afternoon. Wind chill values as low as -10. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1768917600000,
+          "timestamp": 1768921200000,
           "temp": 11,
           "snowfall": 29,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 11, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -12. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 11, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -14. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,16 +134,20 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sun, Jan 18",
-      "conditions": "Bucks Run was firm and fast this afternoon as there had been a lot of skiers on the course.  When I arrived around 4 pm the parking lot was jammed and there were a lot of skiers on the trail.  Conditions should remain very good with the potential snow later tonight and colder temps in the forecast.    Great job by the Huron Meadows crew!"
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Thu, Jan 15",
       "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sun, Jan 18",
+      "conditions": "Bucks Run was firm and fast this afternoon as there had been a lot of skiers on the course.  When I arrived around 4 pm the parking lot was jammed and there were a lot of skiers on the trail.  Conditions should remain very good with the potential snow later tonight and colder temps in the forecast.    Great job by the Huron Meadows crew!"
     }
   },
   "nubsNob": {
