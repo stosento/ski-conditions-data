@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-20T09:05:18.578Z",
+  "timestamp": "2026-01-20T10:01:55.351Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768899600000,
+          "timestamp": 1768903200000,
           "temp": 4,
           "snowfall": 29,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -47,7 +47,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768899600000,
+          "timestamp": 1768903200000,
           "temp": 4,
           "snowfall": 24,
           "snowAmount": "",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1768899600000,
+          "timestamp": 1768903200000,
           "temp": 2,
           "snowfall": 50,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 2. Wind chill values as low as -15. West wind 10 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 2. Wind chill values as low as -15. West wind around 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tuesday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Jan 15",
-      "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Jan 18",
       "conditions": "Bucks Run was firm and fast this afternoon as there had been a lot of skiers on the course.  When I arrived around 4 pm the parking lot was jammed and there were a lot of skiers on the trail.  Conditions should remain very good with the potential snow later tonight and colder temps in the forecast.    Great job by the Huron Meadows crew!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Thu, Jan 15",
+      "conditions": "Skiing is awesome with a 24\" base of natural snow and daily power tilling.  All trails are open.  Save $20 on race registration by registering online at SKIREG.com by 10 pm tonight!"
     }
   },
   "nubsNob": {
