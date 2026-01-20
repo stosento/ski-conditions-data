@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-20T21:02:10.425Z",
+  "timestamp": "2026-01-20T22:00:41.405Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768942800000,
+          "timestamp": 1768946400000,
           "temp": 17,
           "snowfall": 13,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 17. West southwest wind around 10 mph, with gusts as high as 20 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 17. West southwest wind around 9 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768942800000,
+          "timestamp": 1768946400000,
           "temp": 15,
           "snowfall": 48,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. High near 15, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -7. West wind around 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. High near 15, with temperatures falling to around 12 in the afternoon. Wind chill values as low as -4. West wind around 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1768942800000,
+          "timestamp": 1768946400000,
           "temp": 11,
           "snowfall": 21,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 11, with temperatures falling to around 7 in the afternoon. Wind chill values as low as -10. Southwest wind around 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. High near 11, with temperatures falling to around 6 in the afternoon. Wind chill values as low as -12. Southwest wind around 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -102,7 +102,7 @@
           "snowfall": 47,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 7, with temperatures rising to around 11 overnight. Wind chill values as low as -10. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 7, with temperatures rising to around 11 overnight. Wind chill values as low as -11. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
