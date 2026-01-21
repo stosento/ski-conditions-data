@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-21T04:16:21.080Z",
+  "timestamp": "2026-01-21T05:05:49.863Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1768964400000,
+          "name": "Overnight",
+          "timestamp": 1768971600000,
           "temp": 10,
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
-          "shortForecast": "Mostly Cloudy then Light Snow",
-          "detailedForecast": "Snow after 4am. Mostly cloudy. Low around 10, with temperatures rising to around 15 overnight. Wind chill values as low as 0. South southwest wind around 7 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+          "shortForecast": "Light Snow",
+          "detailedForecast": "Snow after 4am. Mostly cloudy. Low around 10, with temperatures rising to around 15 overnight. South wind around 7 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Wednesday",
@@ -46,13 +46,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1768964400000,
+          "name": "Overnight",
+          "timestamp": 1768971600000,
           "temp": 10,
           "snowfall": 49,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 10, with temperatures rising to around 15 overnight. Wind chill values as low as -4. Southwest wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 10, with temperatures rising to around 15 overnight. Wind chill values as low as 0. Southwest wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Wednesday",
@@ -87,13 +87,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1768964400000,
+          "name": "Overnight",
+          "timestamp": 1768971600000,
           "temp": 6,
           "snowfall": 47,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 6, with temperatures rising to around 11 overnight. Wind chill values as low as -8. Southwest wind 5 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 6, with temperatures rising to around 11 overnight. Wind chill values as low as -6. Southwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,20 +138,16 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Tue, Jan 20",
-      "conditions": "The woods south of Hammel road were very beautiful this morning.  Coverage is good, there are some fallen sticks (especially under the big pines) but easy to avoid.  Tracks are just skier made and pretty washed out, but all in all it's a nice ski with fresh light snow on top (and knock on wood, saw very little foot traffic)."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Jan 19",
       "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Tue, Jan 20",
+      "conditions": "The woods south of Hammel road were very beautiful this morning.  Coverage is good, there are some fallen sticks (especially under the big pines) but easy to avoid.  Tracks are just skier made and pretty washed out, but all in all it's a nice ski with fresh light snow on top (and knock on wood, saw very little foot traffic)."
     }
   },
   "nubsNob": {
