@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-22T13:15:43.649Z",
+  "timestamp": "2026-01-22T15:04:02.026Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769086800000,
+          "timestamp": 1769094000000,
           "temp": 23,
           "snowfall": 17,
           "snowAmount": "",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769086800000,
+          "timestamp": 1769094000000,
           "temp": 13,
           "snowfall": 80,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Snow Showers then Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers before noon, then patchy blowing snow and scattered snow showers between noon and 1pm, then snow showers and patchy blowing snow. Cloudy. High near 13, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -9. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Scattered Snow Showers then Patchy Blowing Snow",
+          "detailedForecast": "Scattered snow showers before noon, then patchy blowing snow and scattered snow showers between noon and 1pm, then snow showers and patchy blowing snow. Cloudy. High near 13, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -9. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769086800000,
+          "timestamp": 1769094000000,
           "temp": 13,
-          "snowfall": 93,
+          "snowfall": 91,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 1pm, then snow showers and patchy blowing snow. Cloudy. High near 13, with temperatures falling to around 8 in the afternoon. Wind chill values as low as -9. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+          "shortForecast": "Snow Showers And Patchy Blowing Snow",
+          "detailedForecast": "A chance of snow showers before 1pm, then snow showers and patchy blowing snow. Cloudy. High near 13, with temperatures falling to around 8 in the afternoon. Wind chill values as low as -9. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,6 +134,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
