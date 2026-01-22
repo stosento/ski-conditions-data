@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-22T12:00:43.614Z",
+  "timestamp": "2026-01-22T13:15:43.649Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769079600000,
+          "timestamp": 1769086800000,
           "temp": 23,
           "snowfall": 17,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers after 3pm. Mostly cloudy. High near 23, with temperatures falling to around 20 in the afternoon. West wind 10 to 17 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers after 3pm. Mostly cloudy. High near 23, with temperatures falling to around 20 in the afternoon. West southwest wind 13 to 17 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -47,21 +47,21 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769079600000,
+          "timestamp": 1769086800000,
           "temp": 13,
-          "snowfall": 71,
+          "snowfall": 80,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers Likely And Patchy Blowing Snow",
-          "detailedForecast": "A chance of snow showers before noon, then snow showers likely and patchy blowing snow. Mostly cloudy. High near 13, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -9. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Chance Snow Showers then Patchy Blowing Snow",
+          "detailedForecast": "A chance of snow showers before noon, then patchy blowing snow and scattered snow showers between noon and 1pm, then snow showers and patchy blowing snow. Cloudy. High near 13, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -9. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1769122800000,
           "temp": -5,
-          "snowfall": 71,
+          "snowfall": 80,
           "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. Low around -5, with temperatures rising to around -2 overnight. Wind chill values as low as -23. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Mostly cloudy. Low around -5, with temperatures rising to around -2 overnight. Wind chill values as low as -23. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Friday",
@@ -88,18 +88,18 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769079600000,
+          "timestamp": 1769086800000,
           "temp": 13,
-          "snowfall": 78,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "snowfall": 93,
+          "snowAmount": "New snow accumulation of 1 to 3 inches possible",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers before 1pm, then snow showers and patchy blowing snow. Cloudy. High near 13, with temperatures falling to around 8 in the afternoon. Wind chill values as low as -9. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow showers before 1pm, then snow showers and patchy blowing snow. Cloudy. High near 13, with temperatures falling to around 8 in the afternoon. Wind chill values as low as -9. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1769122800000,
           "temp": -5,
-          "snowfall": 85,
+          "snowfall": 92,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow Showers",
           "detailedForecast": "Snow showers. Mostly cloudy. Low around -5, with temperatures rising to around -3 overnight. Wind chill values as low as -22. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of 2 to 4 inches possible."
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,10 +138,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
@@ -151,16 +151,16 @@
     }
   },
   "nubsNob": {
-    "date": "1/21/26",
-    "liftsOpen": "At least 5 chairlifts and the rope tow.",
-    "xcTrails": "Trails were power-tilled and tracked Tuesday morning. Conditions are excellent.",
+    "date": "1/22/26",
+    "liftsOpen": "5 chairlifts and the rope tow.",
+    "xcTrails": "Trails will be power-tilled and tracked this morning.",
     "nightSkiing": "Tuesday thru Saturday from 5:30 to 9:00 p.m.",
-    "comments": "It looks like a fantastic day to ski. The temperature is forecast to go above 20 degrees today and we are supposed to receive a few inches of snow during the day. The snow surface is machine groomed and the snow quality is excellent thanks to the fresh snow and sustained cold. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 p.m. Pintail Peak Lodge is open with food service and an espresso bar. We are proud to welcome the 70 plus ski club for their 40th annual gathering. Make it a great day at Nub's Nob.",
+    "comments": "It just keeps snowing. Yesterday the accumulation happened in waves throughout the day and then all at once during night skiing. These lake effect bands are highly localized and Nub's has been getting the goods all week long. The majority of all of this snow is now groomed in and will make for excellent conditions today. The soup of the day is kielbasa and cabbage. Pintail Peak Lodge is open with food service and espresso bar. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 p.m. Bundle up and make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "1\"",
+      "daily": "7\"",
       "threeDays": "3 days: 11\"",
-      "sevenDays": "7 days: 18\"",
-      "ytd": "YTD: 97\""
+      "sevenDays": "7 days: 24\"",
+      "ytd": "YTD: 105\""
     }
   }
 }
