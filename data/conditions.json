@@ -1,44 +1,44 @@
 {
-  "timestamp": "2026-01-23T08:00:37.751Z",
+  "timestamp": "2026-01-23T09:03:29.703Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1769137200000,
+          "name": "Overnight",
+          "timestamp": 1769158800000,
           "temp": -2,
-          "snowfall": 46,
+          "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 4am. Mostly cloudy. Low around -2, with temperatures rising to around 4 overnight. Wind chill values as low as -13. West wind around 13 mph, with gusts as high as 29 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers. Mostly cloudy. Low around -2, with temperatures rising to around 3 overnight. Wind chill values as low as -12. West wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
           "timestamp": 1769166000000,
-          "temp": 4,
-          "snowfall": 10,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 4, with temperatures falling to around 2 in the afternoon. Wind chill values as low as -19. West northwest wind 12 to 15 mph, with gusts as high as 26 mph."
+          "temp": 5,
+          "snowfall": 20,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Slight Chance Snow Showers then Partly Sunny",
+          "detailedForecast": "A slight chance of snow showers before 7am. Partly sunny. High near 5, with temperatures falling to around 2 in the afternoon. Wind chill values as low as -18. West northwest wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday Night",
           "timestamp": 1769209200000,
-          "temp": -10,
+          "temp": -8,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around -10, with temperatures rising to around -8 overnight. Wind chill values as low as -21. West northwest wind 5 to 9 mph."
+          "detailedForecast": "Mostly clear. Low around -8, with temperatures rising to around -6 overnight. Wind chill values as low as -17. West northwest wind 3 to 7 mph."
         },
         {
           "name": "Saturday",
           "timestamp": 1769252400000,
           "temp": 9,
-          "snowfall": 7,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 9. Wind chill values as low as -8. Southwest wind around 3 mph."
+          "detailedForecast": "Partly sunny, with a high near 9. Wind chill values as low as -8. West southwest wind around 3 mph."
         }
       ]
     },
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769155200000,
+          "timestamp": 1769158800000,
           "temp": -4,
           "snowfall": 59,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Blowing Snow",
-          "detailedForecast": "Blowing snow and snow showers likely. Partly cloudy, with a low around -4. Wind chill values as low as -25. Northwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Blowing snow and snow showers likely. Partly cloudy, with a low around -4. Wind chill values as low as -26. Northwest wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769155200000,
+          "timestamp": 1769158800000,
           "temp": -5,
-          "snowfall": 90,
+          "snowfall": 83,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers And Blowing Snow",
-          "detailedForecast": "Snow showers and blowing snow. Mostly cloudy, with a low around -5. Wind chill values as low as -24. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers and blowing snow. Mostly cloudy, with a low around -5. Wind chill values as low as -25. Northwest wind around 15 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Friday",
@@ -126,10 +126,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -138,13 +134,13 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 19",
-      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
-    },
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Plenty of snow in woods and on golf course, woods was nicer, less wind. Trail was soft, easy climbing but not much speed on downhills. Only classic tracks were skier produced; it would be nice if the foot traffic would stop walking in the ski tracks."
@@ -152,6 +148,10 @@
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Once the crew at Huron Meadows rolled the trails, it was a little on the soft side but much better than the half a foot of fresh snow that Mike made me ski in on the contractors loop.  Conditions should firm up and be quite good the next few days if you can brave the cold!  Thanks HM crew!"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 19",
+      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
     }
   },
   "nubsNob": {
