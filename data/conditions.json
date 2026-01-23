@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-23T15:02:09.028Z",
+  "timestamp": "2026-01-23T16:01:56.044Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769180400000,
+          "timestamp": 1769184000000,
           "temp": 5,
           "snowfall": 6,
           "snowAmount": "",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers before 1pm. Partly sunny. High near 5, with temperatures falling to around 2 in the afternoon. Wind chill values as low as -16. West northwest wind 9 to 13 mph, with gusts as high as 23 mph."
+          "detailedForecast": "Scattered snow showers before 1pm. Partly sunny. High near 5, with temperatures falling to around 2 in the afternoon. Wind chill values as low as -15. West northwest wind 9 to 13 mph, with gusts as high as 23 mph."
         },
         {
           "name": "Tonight",
@@ -47,12 +47,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769180400000,
+          "timestamp": 1769184000000,
           "temp": 2,
           "snowfall": 52,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Blowing Snow",
-          "detailedForecast": "Blowing snow and a chance of snow showers before 1pm, then a chance of snow showers and patchy blowing snow. Partly sunny, with a high near 2. Wind chill values as low as -23. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Areas Of Blowing Snow",
+          "detailedForecast": "Areas of blowing snow and a chance of snow showers before 1pm, then a chance of snow showers and patchy blowing snow. Partly sunny, with a high near 2. Wind chill values as low as -23. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -88,12 +88,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769180400000,
+          "timestamp": 1769184000000,
           "temp": 0,
           "snowfall": 75,
           "snowAmount": "New snow accumulation of around one inch possible",
           "shortForecast": "Snow Showers And Patchy Blowing Snow",
-          "detailedForecast": "Snow showers and patchy blowing snow. Partly sunny, with a high near 0. Wind chill values as low as -21. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Snow showers and patchy blowing snow. Partly sunny, with a high near 0. Wind chill values as low as -22. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible."
         },
         {
           "name": "Tonight",
@@ -126,6 +126,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -134,13 +138,13 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 19",
+      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
+    },
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Plenty of snow in woods and on golf course, woods was nicer, less wind. Trail was soft, easy climbing but not much speed on downhills. Only classic tracks were skier produced; it would be nice if the foot traffic would stop walking in the ski tracks."
@@ -148,10 +152,6 @@
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Once the crew at Huron Meadows rolled the trails, it was a little on the soft side but much better than the half a foot of fresh snow that Mike made me ski in on the contractors loop.  Conditions should firm up and be quite good the next few days if you can brave the cold!  Thanks HM crew!"
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 19",
-      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
     }
   },
   "nubsNob": {
