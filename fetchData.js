@@ -117,37 +117,37 @@ async function getWeatherData() {
         ),
       ]);
 
-      // Process the regular forecast periods
-      const processedForecasts = forecastResponse.data.properties.periods
-        .slice(0, 4)
-        .map((period) => {
-          // Get the time range for this period
-          const startTime = new Date(period.startTime);
+			// Process the regular forecast periods
+			const processedForecasts = forecastResponse.data.properties.periods
+				.slice(0, 20)
+				.map((period) => {
+					// Get the time range for this period
+					const startTime = new Date(period.startTime);
 
-          const snowString = "New snow accumulation";
-          // Check if the detailedForecast incluses snowString. If so, take the final sentence from the detailedForcast and store it within snowAmount
-          let snowAccumulation = "";
+					const snowString = "New snow accumulation";
+					// Check if the detailedForecast includes snowString. If so, take the final sentence from the detailedForecast and store it within snowAmount
+					let snowAccumulation = "";
 
-          // If detailed forecast mentions snow accumulation, extract that information
-          if (period.detailedForecast.includes(snowString)) {
-            const sentences = period.detailedForecast.split(".");
-            const snowSentence = sentences.find((s) => s.includes(snowString));
-            if (snowSentence) {
-              snowAccumulation = snowSentence.trim();
-            }
-          }
+					// If detailed forecast mentions snow accumulation, extract that information
+					if (period.detailedForecast.includes(snowString)) {
+						const sentences = period.detailedForecast.split(".");
+						const snowSentence = sentences.find((s) => s.includes(snowString));
+						if (snowSentence) {
+							snowAccumulation = snowSentence.trim();
+						}
+					}
 
-          // Return the processed forecast data
-          return {
-            name: period.name,
-            timestamp: startTime.getTime(),
-            temp: period.temperature,
-            snowfall: period.probabilityOfPrecipitation.value || 0,
-            snowAmount: snowAccumulation,
-            shortForecast: period.shortForecast,
-            detailedForecast: period.detailedForecast,
-          };
-        });
+					// Return the processed forecast data
+					return {
+						name: period.name,
+						timestamp: startTime.getTime(),
+						temp: period.temperature,
+						snowfall: period.probabilityOfPrecipitation.value || 0,
+						snowAmount: snowAccumulation,
+						shortForecast: period.shortForecast,
+						detailedForecast: period.detailedForecast,
+					};
+				});
 
       weatherData[locationKey] = {
         name: location.name,
