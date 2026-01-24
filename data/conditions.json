@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-24T18:00:37.030Z",
+  "timestamp": "2026-01-24T19:00:52.239Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769277600000,
+          "timestamp": 1769281200000,
           "temp": 8,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 8. Wind chill values as low as -2. South wind around 3 mph."
+          "detailedForecast": "Partly sunny, with a high near 8. South southeast wind around 2 mph."
         },
         {
           "name": "Tonight",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769277600000,
+          "timestamp": 1769281200000,
           "temp": 8,
           "snowfall": 42,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 8, with temperatures falling to around 6 in the afternoon. Wind chill values as low as -3. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Scattered snow showers. Mostly cloudy. High near 8, with temperatures falling to around 6 in the afternoon. Wind chill values as low as -5. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769277600000,
-          "temp": 7,
+          "timestamp": 1769281200000,
+          "temp": 8,
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers. Partly sunny. High near 7, with temperatures falling to around 4 in the afternoon. Wind chill values as low as -7. Southwest wind 0 to 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers. Partly sunny. High near 8, with temperatures falling to around 4 in the afternoon. Wind chill values as low as -5. Southwest wind 0 to 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -396,6 +396,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -404,17 +408,9 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 19",
-      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Jan 23",
       "conditions": "Great classic skiing on bucks today. Classic tracks were firm and fast.Tracks on connector were all blown in."
@@ -422,6 +418,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Plenty of snow in woods and on golf course, woods was nicer, less wind. Trail was soft, easy climbing but not much speed on downhills. Only classic tracks were skier produced; it would be nice if the foot traffic would stop walking in the ski tracks."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 19",
+      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
     }
   },
   "nubsNob": {
