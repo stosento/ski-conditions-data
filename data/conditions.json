@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-25T09:00:40.922Z",
+  "timestamp": "2026-01-25T10:00:36.547Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769331600000,
+          "timestamp": 1769335200000,
           "temp": 3,
           "snowfall": 95,
           "snowAmount": "",
@@ -20,7 +20,7 @@
           "snowfall": 100,
           "snowAmount": "New snow accumulation of 2 to 4 inches possible",
           "shortForecast": "Snow",
-          "detailedForecast": "Snow. Cloudy, with a high near 17. Wind chill values as low as -3. Northeast wind 6 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "Snow. Cloudy, with a high near 17. Wind chill values as low as -4. Northeast wind 6 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
         },
         {
           "name": "Sunday Night",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769331600000,
+          "timestamp": 1769335200000,
           "temp": -3,
           "snowfall": 5,
           "snowAmount": "",
@@ -169,7 +169,7 @@
           "snowfall": 21,
           "snowAmount": "",
           "shortForecast": "Partly Sunny then Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers after 1pm. Partly sunny, with a high near 11. Wind chill values as low as -10. West wind 5 to 15 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow showers after 1pm. Partly sunny, with a high near 11. Wind chill values as low as -11. West wind 5 to 15 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday Night",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769331600000,
+          "timestamp": 1769335200000,
           "temp": -9,
           "snowfall": 0,
           "snowAmount": "",
@@ -291,7 +291,7 @@
           "snowfall": 12,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 0, with temperatures rising to around 2 overnight. Wind chill values as low as -10. North wind around 5 mph."
+          "detailedForecast": "Mostly cloudy. Low around 0, with temperatures rising to around 2 overnight. Wind chill values as low as -11. North wind around 5 mph."
         },
         {
           "name": "Monday",
@@ -396,10 +396,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -408,13 +404,13 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 19",
-      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Jan 24",
       "conditions": "Sat 1:30-2:30 4° to 6° Full Cedar Trace and Coyote loops skating. Cedar Trace (contractors) was good and fast enough, Coyote west side plenty of snow east side sketchy but doable. Coyote loop behind Bucks had the best fast snow. 1 lap on Bucks and it was squeaky slow, classic looked fast. Fresh Toko Performance Blue ironed in and scraped and brushed well really helped."
@@ -422,6 +418,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Plenty of snow in woods and on golf course, woods was nicer, less wind. Trail was soft, easy climbing but not much speed on downhills. Only classic tracks were skier produced; it would be nice if the foot traffic would stop walking in the ski tracks."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 19",
+      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
     }
   },
   "nubsNob": {
