@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-24T23:00:43.072Z",
+  "timestamp": "2026-01-25T00:00:57.385Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769295600000,
+          "timestamp": 1769299200000,
           "temp": 3,
           "snowfall": 53,
           "snowAmount": "",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769295600000,
+          "timestamp": 1769299200000,
           "temp": -3,
-          "snowfall": 39,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
-          "detailedForecast": "Scattered snow showers before 7pm. Mostly cloudy, with a low around -3. Wind chill values as low as -14. South wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around -3. Wind chill values as low as -14. South wind around 5 mph."
         },
         {
           "name": "Sunday",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769295600000,
+          "timestamp": 1769299200000,
           "temp": -9,
-          "snowfall": 18,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers then Mostly Cloudy",
-          "detailedForecast": "Isolated snow showers before 7pm. Mostly cloudy. Low around -9, with temperatures rising to around -6 overnight. Wind chill values as low as -16. South wind 0 to 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around -9, with temperatures rising to around -6 overnight. Wind chill values as low as -16. South wind 0 to 5 mph."
         },
         {
           "name": "Sunday",
@@ -411,6 +411,10 @@
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 19",
+      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Jan 24",
       "conditions": "Sat 1:30-2:30 4° to 6° Full Cedar Trace and Coyote loops skating. Cedar Trace (contractors) was good and fast enough, Coyote west side plenty of snow east side sketchy but doable. Coyote loop behind Bucks had the best fast snow. 1 lap on Bucks and it was squeaky slow, classic looked fast. Fresh Toko Performance Blue ironed in and scraped and brushed well really helped."
@@ -418,10 +422,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Plenty of snow in woods and on golf course, woods was nicer, less wind. Trail was soft, easy climbing but not much speed on downhills. Only classic tracks were skier produced; it would be nice if the foot traffic would stop walking in the ski tracks."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 19",
-      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
     }
   },
   "nubsNob": {
