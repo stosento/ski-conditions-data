@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-26T05:09:23.283Z",
+  "timestamp": "2026-01-26T06:01:33.114Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1769396400000,
+          "name": "Overnight",
+          "timestamp": 1769407200000,
           "temp": 8,
-          "snowfall": 61,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 8, with temperatures rising to around 12 overnight. Wind chill values as low as -1. Northwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "snowfall": 22,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Isolated Snow Showers",
+          "detailedForecast": "Isolated snow showers. Cloudy. Low around 8, with temperatures rising to around 12 overnight. Wind chill values as low as -1. Northwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769403600000,
+          "timestamp": 1769407200000,
           "temp": 0,
           "snowfall": 3,
           "snowAmount": "",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769403600000,
+          "timestamp": 1769407200000,
           "temp": -1,
           "snowfall": 8,
           "snowAmount": "",
@@ -397,12 +397,17 @@
   },
   "metroparkConditions": {
     "HuronMeadowsMetropark": {
-      "sections": [],
-      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+      "sections": [
+        {
+          "header": "Bucks Run-",
+          "content": ""
+        }
+      ],
+      "title": "Huron Meadows Metropark"
     },
     "StonyCreekMetropark": {
       "sections": [],
-      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
