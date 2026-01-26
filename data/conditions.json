@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-25T23:00:38.472Z",
+  "timestamp": "2026-01-26T00:00:54.728Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769382000000,
+          "timestamp": 1769385600000,
           "temp": 8,
-          "snowfall": 71,
-          "snowAmount": "New snow accumulation of 2 to 4 inches possible",
+          "snowfall": 61,
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 8, with temperatures rising to around 12 overnight. Wind chill values as low as -1. North northwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 70%. New snow accumulation of 2 to 4 inches possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 8, with temperatures rising to around 12 overnight. Wind chill values as low as -1. North northwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769382000000,
+          "timestamp": 1769385600000,
           "temp": 0,
           "snowfall": 11,
           "snowAmount": "",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769382000000,
+          "timestamp": 1769385600000,
           "temp": 1,
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers between 7pm and 1am. Mostly cloudy, with a low around 1. Wind chill values as low as -8. North wind 5 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers before 1am. Mostly cloudy, with a low around 1. Wind chill values as low as -8. North wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday",
@@ -396,10 +396,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -408,6 +404,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
