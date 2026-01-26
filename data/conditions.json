@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-26T04:22:50.796Z",
+  "timestamp": "2026-01-26T05:09:23.283Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769400000000,
+          "timestamp": 1769396400000,
           "temp": 8,
           "snowfall": 61,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -136,10 +136,10 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1769400000000,
+          "name": "Overnight",
+          "timestamp": 1769403600000,
           "temp": 0,
-          "snowfall": 11,
+          "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy. Low around 0, with temperatures rising to around 4 overnight. Wind chill values as low as -9. Northwest wind around 5 mph."
@@ -267,13 +267,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1769400000000,
+          "name": "Overnight",
+          "timestamp": 1769403600000,
           "temp": -1,
-          "snowfall": 18,
+          "snowfall": 8,
           "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers before 1am. Mostly cloudy. Low around -1, with temperatures rising to around 1 overnight. Wind chill values as low as -10. Northwest wind around 5 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy. Low around -1, with temperatures rising to around 1 overnight. Wind chill values as low as -10. Northwest wind around 5 mph."
         },
         {
           "name": "Monday",
@@ -396,18 +396,13 @@
     }
   },
   "metroparkConditions": {
+    "HuronMeadowsMetropark": {
+      "sections": [],
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    },
     "StonyCreekMetropark": {
       "sections": [],
-      "title": "Stony Creek Metropark"
-    },
-    "HuronMeadowsMetropark": {
-      "sections": [
-        {
-          "header": "Bucks Run-",
-          "content": ""
-        }
-      ],
-      "title": "Huron Meadows Metropark"
+      "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
     }
   },
   "nordicConditions": {
@@ -418,10 +413,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Plenty of snow in woods and on golf course, woods was nicer, less wind. Trail was soft, easy climbing but not much speed on downhills. Only classic tracks were skier produced; it would be nice if the foot traffic would stop walking in the ski tracks."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 19",
-      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
     }
   },
   "nubsNob": {
