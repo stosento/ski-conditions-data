@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-26T01:29:04.274Z",
+  "timestamp": "2026-01-26T02:43:47.221Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769389200000,
+          "timestamp": 1769392800000,
           "temp": 8,
           "snowfall": 61,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 8, with temperatures rising to around 12 overnight. Wind chill values as low as -1. North northwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 8, with temperatures rising to around 12 overnight. Wind chill values as low as -1. Northwest wind around 9 mph, with gusts as high as 18 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Monday",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769389200000,
+          "timestamp": 1769392800000,
           "temp": 0,
           "snowfall": 11,
           "snowAmount": "",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769389200000,
+          "timestamp": 1769392800000,
           "temp": 1,
           "snowfall": 18,
           "snowAmount": "",
@@ -396,10 +396,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -408,9 +404,17 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 19",
+      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Jan 24",
       "conditions": "Sat 1:30-2:30 4° to 6° Full Cedar Trace and Coyote loops skating. Cedar Trace (contractors) was good and fast enough, Coyote west side plenty of snow east side sketchy but doable. Coyote loop behind Bucks had the best fast snow. 1 lap on Bucks and it was squeaky slow, classic looked fast. Fresh Toko Performance Blue ironed in and scraped and brushed well really helped."
@@ -418,10 +422,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Plenty of snow in woods and on golf course, woods was nicer, less wind. Trail was soft, easy climbing but not much speed on downhills. Only classic tracks were skier produced; it would be nice if the foot traffic would stop walking in the ski tracks."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 19",
-      "conditions": "Nubs Nob red and blue loop has 18” of hard packed base . Looks like we will be skiing late into the Spring!"
     }
   },
   "nubsNob": {
