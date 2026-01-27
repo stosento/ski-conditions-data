@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-27T09:04:52.228Z",
+  "timestamp": "2026-01-27T10:02:08.929Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769504400000,
+          "timestamp": 1769508000000,
           "temp": 4,
           "snowfall": 63,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy. Low around 4, with temperatures rising to around 6 overnight. Wind chill values as low as -12. South southwest wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow showers likely. Cloudy. Low around 4, with temperatures rising to around 6 overnight. Wind chill values as low as -11. South southwest wind around 14 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tuesday",
@@ -29,7 +29,7 @@
           "snowfall": 17,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers then Mostly Clear",
-          "detailedForecast": "A slight chance of snow showers before 7pm. Mostly clear, with a low around 2. Wind chill values as low as -9. West wind 6 to 13 mph, with gusts as high as 22 mph. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers before 7pm. Mostly clear, with a low around 2. Wind chill values as low as -8. West wind 6 to 13 mph, with gusts as high as 22 mph. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769504400000,
+          "timestamp": 1769508000000,
           "temp": 7,
           "snowfall": 64,
           "snowAmount": "New snow accumulation of 1 to 3 inches possible",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769504400000,
+          "timestamp": 1769508000000,
           "temp": 2,
           "snowfall": 72,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -396,6 +396,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -404,17 +408,9 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 26",
-      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Jan 26",
       "conditions": "Devastating news: They didn’t roll the golf course. The guys in the clubhouse (shout out the lovely guys in the clubhouse!!) didn’t know why. The good news is, there’s a ton of snow and very cold temps in the extended forecast. Bucks is in great shape."
@@ -422,6 +418,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Thu, Jan 22",
       "conditions": "Plenty of snow in woods and on golf course, woods was nicer, less wind. Trail was soft, easy climbing but not much speed on downhills. Only classic tracks were skier produced; it would be nice if the foot traffic would stop walking in the ski tracks."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 26",
+      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
     }
   },
   "nubsNob": {
