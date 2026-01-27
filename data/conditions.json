@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-27T21:00:40.521Z",
+  "timestamp": "2026-01-27T22:00:37.493Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769547600000,
+          "timestamp": 1769551200000,
           "temp": 19,
           "snowfall": 29,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Partly sunny. High near 19, with temperatures falling to around 14 in the afternoon. Wind chill values as low as 0. West wind around 13 mph, with gusts as high as 29 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly sunny. High near 19, with temperatures falling to around 14 in the afternoon. Wind chill values as low as 0. West wind around 13 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -29,7 +29,7 @@
           "snowfall": 37,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 7am. Mostly cloudy. High near 17, with temperatures falling to around 15 in the afternoon. Wind chill values as low as -8. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers after 7am. Mostly cloudy. High near 17, with temperatures falling to around 15 in the afternoon. Wind chill values as low as -7. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Wednesday Night",
@@ -38,7 +38,7 @@
           "snowfall": 37,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of snow showers before 7pm. Mostly cloudy, with a low around 1. Wind chill values as low as -7. West wind 5 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers before 7pm. Mostly cloudy, with a low around 1. Wind chill values as low as -8. West wind 5 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thursday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769547600000,
+          "timestamp": 1769551200000,
           "temp": 13,
           "snowfall": 20,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers. Partly sunny. High near 13, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -6. Northwest wind around 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers. Partly sunny. High near 13, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -5. West wind around 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769547600000,
+          "timestamp": 1769551200000,
           "temp": 11,
           "snowfall": 58,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. High near 11, with temperatures falling to around 8 in the afternoon. Wind chill values as low as -8. Northwest wind around 15 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 11. Wind chill values as low as -5. Northwest wind around 15 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -396,6 +396,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -404,10 +408,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
