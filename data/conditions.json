@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-28T20:01:37.944Z",
+  "timestamp": "2026-01-28T21:04:36.088Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769630400000,
+          "timestamp": 1769634000000,
           "temp": 16,
           "snowfall": 42,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy, with a high near 16. West wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Cloudy, with a high near 16. West wind around 10 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -20,7 +20,7 @@
           "snowfall": 42,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of snow showers before 7pm. Mostly cloudy. Low around 1, with temperatures rising to around 3 overnight. Wind chill values as low as -7. West wind 5 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers before 11pm. Mostly cloudy. Low around 1, with temperatures rising to around 3 overnight. Wind chill values as low as -7. West wind 5 to 9 mph, with gusts as high as 18 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thursday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769630400000,
+          "timestamp": 1769634000000,
           "temp": 14,
-          "snowfall": 74,
+          "snowfall": 45,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 14, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -3. Northwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 14, with temperatures falling to around 12 in the afternoon. Wind chill values as low as -2. Northwest wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769630400000,
-          "temp": 12,
+          "timestamp": 1769634000000,
+          "temp": 13,
           "snowfall": 69,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -5. West wind 10 to 15 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers likely. Cloudy. High near 13, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -3. West wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -396,10 +396,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -408,6 +404,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
