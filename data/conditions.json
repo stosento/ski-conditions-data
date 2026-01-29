@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-01-29T20:02:27.197Z",
+  "timestamp": "2026-01-29T21:02:46.449Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769716800000,
+          "timestamp": 1769720400000,
           "temp": 14,
           "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Partly sunny, with a high near 14. Northwest wind around 7 mph."
+          "detailedForecast": "Scattered snow showers. Partly sunny, with a high near 14. Northwest wind around 6 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1769727600000,
-          "temp": -2,
+          "temp": -3,
           "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers before 1am. Mostly cloudy, with a low around -2. Wind chill values as low as -1. North wind around 3 mph."
+          "detailedForecast": "Scattered snow showers before 1am. Mostly cloudy, with a low around -3. Wind chill values as low as -10. North wind around 3 mph."
         },
         {
           "name": "Friday",
@@ -28,8 +28,8 @@
           "temp": 13,
           "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 13, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -9. North northwest wind 3 to 8 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 13, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -13. North northwest wind 5 to 8 mph."
         },
         {
           "name": "Friday Night",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769716800000,
+          "timestamp": 1769720400000,
           "temp": 7,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 7, with temperatures falling to around 4 in the afternoon. Wind chill values as low as -6. Northeast wind around 5 mph."
+          "detailedForecast": "Partly sunny. High near 7, with temperatures falling to around 3 in the afternoon. Northeast wind around 0 mph."
         },
         {
           "name": "Tonight",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769716800000,
+          "timestamp": 1769720400000,
           "temp": 8,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 8, with temperatures falling to around 5 in the afternoon. Wind chill values as low as -3. North wind around 5 mph."
+          "detailedForecast": "Partly sunny. High near 8, with temperatures falling to around 5 in the afternoon. Northeast wind around 0 mph."
         },
         {
           "name": "Tonight",
@@ -396,10 +396,6 @@
     }
   },
   "metroparkConditions": {
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
-    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -408,6 +404,10 @@
         }
       ],
       "title": "Huron Meadows Metropark"
+    },
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
