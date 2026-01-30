@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-30T16:05:36.352Z",
+  "timestamp": "2026-01-30T17:08:57.441Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1769788800000,
+          "name": "This Afternoon",
+          "timestamp": 1769792400000,
           "temp": 14,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 14, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -2. Northwest wind 6 to 9 mph."
+          "detailedForecast": "Sunny. High near 14, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -1. Northwest wind around 9 mph."
         },
         {
           "name": "Tonight",
@@ -136,13 +136,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1769788800000,
+          "name": "This Afternoon",
+          "timestamp": 1769792400000,
           "temp": 11,
           "snowfall": 43,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 11, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -11. Northwest wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 11, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -12. Northwest wind around 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -267,13 +267,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1769788800000,
+          "name": "This Afternoon",
+          "timestamp": 1769792400000,
           "temp": 8,
           "snowfall": 37,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 1pm. Mostly cloudy, with a high near 8. Wind chill values as low as -14. Northwest wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 8. Wind chill values as low as -12. Northwest wind around 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -396,6 +396,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -404,17 +408,9 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 26",
-      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Thu, Jan 29",
       "conditions": "Echoing Local L here. Skated at 6pm last night. Contractors and the north golf course are in good shape and should set up nicely in the coming days. Wanted to call out for the classic skiers that there ARE tracks on both Contractors and the golf course. Contractors seemed better, golf course had some (easily avoidable) leaves here and there."
@@ -422,6 +418,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 28",
       "conditions": "Almost all trails have fresh park set tracks, but exposed areas were sometimes drifted over. There are some oak leave patches in the woods where deer have been digging for acorns. Despite these issues skiing was the best I've seen at Stoney in a long time,"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 26",
+      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
     }
   },
   "nubsNob": {
