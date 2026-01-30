@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-30T09:08:45.360Z",
+  "timestamp": "2026-01-30T10:05:25.630Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769763600000,
+          "timestamp": 1769767200000,
           "temp": -3,
           "snowfall": 5,
           "snowAmount": "",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769763600000,
+          "timestamp": 1769767200000,
           "temp": -16,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around -16, with temperatures rising to around -14 overnight. Wind chill values as low as -24. North wind around 5 mph."
+          "detailedForecast": "Partly cloudy. Low around -16, with temperatures rising to around -10 overnight. Wind chill values as low as -19. North wind around 5 mph."
         },
         {
           "name": "Friday",
@@ -151,7 +151,7 @@
           "snowfall": 23,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Partly Sunny then Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers after 1pm. Partly sunny. High near 11, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -25. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers after 1pm. Partly sunny. High near 11, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -24. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday Night",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1769763600000,
+          "timestamp": 1769767200000,
           "temp": -20,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around -20, with temperatures rising to around -15 overnight. Wind chill values as low as -15. Northwest wind around 0 mph."
+          "detailedForecast": "Partly cloudy. Low around -20, with temperatures rising to around -14 overnight. Wind chill values as low as -14. North wind around 0 mph."
         },
         {
           "name": "Friday",
@@ -282,7 +282,7 @@
           "snowfall": 25,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Partly Sunny then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 1pm. Partly sunny, with a high near 8. Wind chill values as low as -26. North wind 0 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers after 1pm. Partly sunny, with a high near 8. Wind chill values as low as -26. North wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday Night",
@@ -396,6 +396,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -404,10 +408,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
