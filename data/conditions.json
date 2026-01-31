@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-31T01:29:12.340Z",
+  "timestamp": "2026-01-31T02:47:45.580Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769821200000,
+          "timestamp": 1769824800000,
           "temp": 3,
           "snowfall": 24,
           "snowAmount": "",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769821200000,
+          "timestamp": 1769824800000,
           "temp": -1,
           "snowfall": 35,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of snow showers before 10pm. Mostly cloudy, with a low around -1. Wind chill values as low as -14. North wind 10 to 15 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers before 10pm. Mostly cloudy, with a low around -1. Wind chill values as low as -14. North wind around 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Saturday",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1769821200000,
+          "timestamp": 1769824800000,
           "temp": -2,
           "snowfall": 34,
           "snowAmount": "",
@@ -396,6 +396,10 @@
     }
   },
   "metroparkConditions": {
+    "StonyCreekMetropark": {
+      "sections": [],
+      "title": "Stony Creek Metropark"
+    },
     "HuronMeadowsMetropark": {
       "sections": [
         {
@@ -404,10 +408,6 @@
         }
       ],
       "title": "Huron Meadows Metropark"
-    },
-    "StonyCreekMetropark": {
-      "sections": [],
-      "title": "Stony Creek Metropark"
     }
   },
   "nordicConditions": {
