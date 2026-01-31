@@ -185,72 +185,81 @@ async function getWeatherData() {
 async function getMetroparkConditions() {
   const baseUrl = "https://www.metroparks.com/park-closures/";
 
-  // Build a map with key (ID) and value (array of <p><strong> elements to pull)
-  const parkMap = new Map();
-  parkMap.set("HuronMeadowsMetropark", [
-    "Bucks Run",
-    "Natural Snow Classic and Skate Ski Trails",
-  ]);
-  parkMap.set("StonyCreekMetropark", ["Stony Creek Cross Country"]);
-
   const conditions = {};
 
-  // Process each park separately
-  await Promise.all(
-    Array.from(parkMap.entries()).map(async ([parkId, searchTerms]) => {
-      try {
-        const parkUrl = `${baseUrl}#${parkId}`;
-        console.log(`Fetching conditions for ${parkId} from ${parkUrl}`);
+  try {
+    const response = await fetchWithRetry(() =>
+      axios.get(baseUrl, {
+        headers: {
+          "User-Agent": "(ski-conditions-app, stephen.osentoski@gmail.com)",
+        },
+      }),
+    );
 
-        const response = await fetchWithRetry(() =>
-          axios.get(parkUrl, {
-            headers: {
-              "User-Agent": "(ski-conditions-app, stephen.osentoski@gmail.com)",
-            },
-          }),
-        );
+    const $ = cheerio.load(response.data);
 
-        const $ = cheerio.load(response.data);
-        conditions[parkId] = {
-          sections: [],
-        };
+    // HURON MEADOWS
+    const huronPanel = $(`.vc_tta-panel[id="HuronMeadowsMetropark"]`);
+    if (huronPanel.length) {
+      conditions.HuronMeadowsMetropark = {
+        title: huronPanel.find(".vc_tta-title-text").text().trim(),
+        sections: [],
+      };
 
-        // Find the park's panel using the ID
-        const parkPanel = $(`.vc_tta-panel[id="${parkId}"]`);
-
-        if (parkPanel.length) {
-          const title = parkPanel.find(".vc_tta-title-text");
-          conditions[parkId].title = title.text().trim();
-
-          // Get all strong elements and their surrounding content
-          parkPanel.find("strong").each((_, element) => {
-            const strongText = $(element).text().trim();
-
-            // Check if this strong text matches any of our search terms
-            if (searchTerms.some((term) => strongText.includes(term))) {
-              // Get the parent paragraph text
-              const fullText = $(element).parent("p").text().trim();
-
-              conditions[parkId].sections.push({
-                header: strongText,
-                content: fullText.substring(strongText.length).trim(),
-              });
-            }
+      // Find the "Cross Country Ski Trail Conditions" paragraph
+      huronPanel.find("p").each((_, el) => {
+        const text = $(el).text().trim();
+        if (text.includes("Cross Country Ski Trail Conditions")) {
+          conditions.HuronMeadowsMetropark.sections.push({
+            header: "Cross Country Ski Trail Conditions",
+            content: text,
           });
-        } else {
-          console.log(`No panel found for ${parkId}`);
         }
-      } catch (error) {
-        console.error(`Error fetching conditions for ${parkId}:`, error);
-        conditions[parkId] = {
-          sections: [],
-          error: `Failed to fetch conditions: ${error.message}`,
-        };
-      }
-    }),
-  );
+      });
 
-  console.log("Parsed Metropark conditions:", conditions);
+      // Get the bullet list items that follow
+      huronPanel.find("ul li").each((_, el) => {
+        const liText = $(el).text().trim();
+        const strongText = $(el).find("strong").first().text().trim();
+
+        if (strongText) {
+          conditions.HuronMeadowsMetropark.sections.push({
+            header: strongText,
+            content: liText.substring(strongText.length).trim(),
+          });
+        }
+      });
+    }
+
+    // STONY CREEK
+    const stonyPanel = $(`.vc_tta-panel[id="StonyCreekMetropark"]`);
+    if (stonyPanel.length) {
+      conditions.StonyCreekMetropark = {
+        title: stonyPanel.find(".vc_tta-title-text").text().trim(),
+        sections: [],
+      };
+
+      // Find paragraphs with ski information
+      stonyPanel.find("p").each((_, el) => {
+        const strongText = $(el).find("strong").first().text().trim();
+        const fullText = $(el).text().trim();
+
+        if (strongText.toLowerCase().includes("ski")) {
+          conditions.StonyCreekMetropark.sections.push({
+            header: strongText,
+            content: fullText.substring(strongText.length).trim(),
+          });
+        }
+      });
+    }
+  } catch (error) {
+    console.error("Error fetching metropark conditions:", error);
+    return {
+      error: `Failed to fetch conditions: ${error.message}`,
+    };
+  }
+
+  console.log("Parsed Metropark conditions:", JSON.stringify(conditions, null, 2));
   return conditions;
 }
 
