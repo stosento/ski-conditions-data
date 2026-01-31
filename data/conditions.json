@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-01-31T12:00:44.590Z",
+  "timestamp": "2026-01-31T13:14:27.612Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769860800000,
+          "timestamp": 1769864400000,
           "temp": 19,
           "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Isolated Snow Showers",
-          "detailedForecast": "Isolated snow showers before 1pm. Mostly cloudy. High near 19, with temperatures falling to around 17 in the afternoon. Wind chill values as low as 0. North northwest wind 6 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated snow showers before 1pm. Mostly cloudy. High near 19, with temperatures falling to around 17 in the afternoon. North northwest wind 6 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769860800000,
+          "timestamp": 1769864400000,
           "temp": 16,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 16, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -12. North wind around 5 mph."
+          "detailedForecast": "Sunny. High near 16, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -10. North wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1769860800000,
+          "timestamp": 1769864400000,
           "temp": 15,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 15, with temperatures falling to around 12 in the afternoon. Wind chill values as low as -12. North wind around 5 mph."
+          "detailedForecast": "Sunny. High near 15, with temperatures falling to around 12 in the afternoon. Wind chill values as low as -9. North wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -411,10 +411,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 26",
-      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Jan 30",
       "conditions": "Friday 4:15pm beautiful sunshine but deceiving at 10° F. Skated contractors back meadows loop and Hawk Hills (south golf course). Plenty of snow and more firm with buttery soft pole plants compared to Bucks which was nice. Hoping HM crew can get a full groom in tomorrow morning which will make a great Saturday. Cheers!"
@@ -422,19 +418,23 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 28",
       "conditions": "Almost all trails have fresh park set tracks, but exposed areas were sometimes drifted over. There are some oak leave patches in the woods where deer have been digging for acorns. Despite these issues skiing was the best I've seen at Stoney in a long time,"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 26",
+      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
     }
   },
   "nubsNob": {
-    "date": "1/30/26",
-    "liftsOpen": "7 chairlifts, rope tow and conveyor",
-    "xcTrails": "Trails are groomed and tracked.",
+    "date": "1/31/26",
+    "liftsOpen": "All 8 chairlifts, rope tow and conveyor",
+    "xcTrails": "Trails will be power-tilled and tracked this morning. Conditions are fantastic.",
     "nightSkiing": "Tuesday thru Saturday from 5:30 to 9:00 p.m.",
-    "comments": "It's another cold and beautiful start to the day at Nub's Nob with some sunshine forecast. The snow is machine groomed and in excellent shape. Speed Series is at 7:00 p.m. tonight on Valley. The soup of the day is clam chowder. Pintail Peak Lodge is open with food and an espresso bar. The lifts will spin from 9:00 a.m to 9:00 p.m. with an hour break at 4:30 p.m. Make it a great day at Nub's Nob.",
+    "comments": "Bring your sunglasses and get ready for an awesome day on the slopes. The snow surface is machine groomed with high quality snow thanks to sustained cold and frequent snowfall over the past few days. The temperature is forecast to nearly reach 20 degrees, which should feel like a heatwave compared to the last few days. NASTAR racing today at 12:30 p.m. on Birch Run. Pintail Peak Lodge is open with food service and an espresso bar. The soup of the day is vegetable with Italian Sausage. The lifts will spin from 9:00 a.m. to 9:00 p.m. with an hour break at 4:30 p.m. to groom for night skiing. Make it a great day at Nub's Nob.",
     "snowData": {
-      "daily": "Trace",
-      "threeDays": "3 days: 5\"",
-      "sevenDays": "7 days: 12\"",
-      "ytd": "YTD: 117\""
+      "daily": "1\"",
+      "threeDays": "3 days: 6\"",
+      "sevenDays": "7 days: 11\"",
+      "ytd": "YTD: 118\""
     }
   }
 }
