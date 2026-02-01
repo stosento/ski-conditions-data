@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-01T19:05:15.068Z",
+  "timestamp": "2026-02-01T20:00:42.362Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769965200000,
+          "timestamp": 1769976000000,
           "temp": 25,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 25, with temperatures falling to around 22 in the afternoon. West northwest wind around 5 mph."
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny. High near 25, with temperatures falling to around 22 in the afternoon. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -137,45 +137,176 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1769972400000,
-          "temp": 25,
-          "snowfall": 1,
+          "timestamp": 1769976000000,
+          "temp": 26,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 25, with temperatures falling to around 23 in the afternoon. South wind around 5 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 26, with temperatures falling to around 24 in the afternoon. Southwest wind around 5 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1769986800000,
-          "temp": 12,
-          "snowfall": 36,
+          "temp": 16,
+          "snowfall": 48,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Mostly Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after 1am. Mostly cloudy. Low around 12, with temperatures rising to around 18 overnight. South wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow after 1am. Mostly cloudy. Low around 16, with temperatures rising to around 20 overnight. South wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
           "timestamp": 1770030000000,
-          "temp": 26,
-          "snowfall": 63,
-          "snowAmount": "New snow accumulation of around one inch possible",
+          "temp": 25,
+          "snowfall": 70,
+          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely. Cloudy. High near 26, with temperatures falling to around 23 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Snow likely. Cloudy. High near 25, with temperatures falling to around 23 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
         },
         {
           "name": "Monday Night",
           "timestamp": 1770073200000,
           "temp": 5,
-          "snowfall": 51,
+          "snowfall": 26,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow then Mostly Cloudy",
-          "detailedForecast": "A chance of snow before 7pm. Mostly cloudy, with a low around 5. Wind chill values as low as -3. Northwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow before 7pm. Mostly cloudy, with a low around 5. Wind chill values as low as -4. Northwest wind around 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tuesday",
           "timestamp": 1770116400000,
           "temp": 15,
-          "snowfall": 6,
+          "snowfall": 11,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 15. Northwest wind 5 to 10 mph."
+        },
+        {
+          "name": "Tuesday Night",
+          "timestamp": 1770159600000,
+          "temp": 1,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 1."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1770202800000,
+          "temp": 20,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 20."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1770246000000,
+          "temp": 5,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 5."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1770289200000,
+          "temp": 26,
+          "snowfall": 41,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 1pm. Mostly cloudy, with a high near 26."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1770332400000,
+          "temp": 12,
+          "snowfall": 79,
+          "snowAmount": "",
+          "shortForecast": "Snow Showers",
+          "detailedForecast": "Snow showers. Cloudy, with a low around 12."
+        },
+        {
+          "name": "Friday",
+          "timestamp": 1770375600000,
+          "temp": 20,
+          "snowfall": 47,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers before 1pm. Mostly cloudy, with a high near 20."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1770418800000,
+          "temp": -8,
+          "snowfall": 14,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around -8."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1770462000000,
+          "temp": 10,
+          "snowfall": 28,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 7am. Partly sunny, with a high near 10."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1770505200000,
+          "temp": -2,
+          "snowfall": 35,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around -2."
+        }
+      ]
+    },
+    "otsegoResort": {
+      "name": "Otsego Resort",
+      "forecast": [
+        {
+          "name": "This Afternoon",
+          "timestamp": 1769976000000,
+          "temp": 26,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 26, with temperatures falling to around 23 in the afternoon. Southwest wind around 5 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1769986800000,
+          "temp": 15,
+          "snowfall": 32,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy then Chance Light Snow",
+          "detailedForecast": "A chance of snow after 4am. Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. South wind 5 to 10 mph. Chance of precipitation is 30%."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1770030000000,
+          "temp": 25,
+          "snowfall": 69,
+          "snowAmount": "New snow accumulation of less than one inch possible",
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely. Cloudy. High near 25, with temperatures falling to around 23 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1770073200000,
+          "temp": 5,
+          "snowfall": 30,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Light Snow then Slight Chance Snow Showers",
+          "detailedForecast": "A chance of snow before 7pm, then a slight chance of snow showers between 7pm and 1am. Mostly cloudy, with a low around 5. Wind chill values as low as -5. Northwest wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+        },
+        {
+          "name": "Tuesday",
+          "timestamp": 1770116400000,
+          "temp": 15,
+          "snowfall": 13,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
           "detailedForecast": "Partly sunny, with a high near 15. Northwest wind 5 to 10 mph."
@@ -193,204 +324,73 @@
           "name": "Wednesday",
           "timestamp": 1770202800000,
           "temp": 20,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 20."
-        },
-        {
-          "name": "Wednesday Night",
-          "timestamp": 1770246000000,
-          "temp": 7,
           "snowfall": 3,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 7."
-        },
-        {
-          "name": "Thursday",
-          "timestamp": 1770289200000,
-          "temp": 26,
-          "snowfall": 49,
-          "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 7am. Mostly cloudy, with a high near 26."
-        },
-        {
-          "name": "Thursday Night",
-          "timestamp": 1770332400000,
-          "temp": 15,
-          "snowfall": 73,
-          "snowAmount": "",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy, with a low around 15."
-        },
-        {
-          "name": "Friday",
-          "timestamp": 1770375600000,
-          "temp": 22,
-          "snowfall": 67,
-          "snowAmount": "",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 22."
-        },
-        {
-          "name": "Friday Night",
-          "timestamp": 1770418800000,
-          "temp": -8,
-          "snowfall": 20,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers before 1am. Mostly cloudy, with a low around -8."
-        },
-        {
-          "name": "Saturday",
-          "timestamp": 1770462000000,
-          "temp": 7,
-          "snowfall": 27,
-          "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 7am. Partly sunny, with a high near 7."
-        },
-        {
-          "name": "Saturday Night",
-          "timestamp": 1770505200000,
-          "temp": -5,
-          "snowfall": 31,
-          "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around -5."
-        }
-      ]
-    },
-    "otsegoResort": {
-      "name": "Otsego Resort",
-      "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1769972400000,
-          "temp": 25,
-          "snowfall": 0,
-          "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 25, with temperatures falling to around 22 in the afternoon. South wind around 5 mph."
-        },
-        {
-          "name": "Tonight",
-          "timestamp": 1769986800000,
-          "temp": 10,
-          "snowfall": 28,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Chance Light Snow",
-          "detailedForecast": "A chance of snow after 1am. Mostly cloudy. Low around 10, with temperatures rising to around 15 overnight. South wind around 5 mph. Chance of precipitation is 30%."
-        },
-        {
-          "name": "Monday",
-          "timestamp": 1770030000000,
-          "temp": 25,
-          "snowfall": 65,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely. Mostly cloudy. High near 25, with temperatures falling to around 23 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
-        },
-        {
-          "name": "Monday Night",
-          "timestamp": 1770073200000,
-          "temp": 6,
-          "snowfall": 63,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely before 1am. Mostly cloudy, with a low around 6. Wind chill values as low as -3. Northwest wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
-        },
-        {
-          "name": "Tuesday",
-          "timestamp": 1770116400000,
-          "temp": 16,
-          "snowfall": 11,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 16. Northwest wind 5 to 10 mph."
-        },
-        {
-          "name": "Tuesday Night",
-          "timestamp": 1770159600000,
-          "temp": 0,
-          "snowfall": 11,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 0."
-        },
-        {
-          "name": "Wednesday",
-          "timestamp": 1770202800000,
-          "temp": 19,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 19."
+          "detailedForecast": "Partly sunny, with a high near 20."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1770246000000,
-          "temp": 6,
+          "temp": 4,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 6."
+          "detailedForecast": "Mostly cloudy, with a low around 4."
         },
         {
           "name": "Thursday",
           "timestamp": 1770289200000,
-          "temp": 24,
-          "snowfall": 48,
+          "temp": 25,
+          "snowfall": 42,
           "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 7am. Mostly cloudy, with a high near 24."
+          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 1pm. Mostly cloudy, with a high near 25."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1770332400000,
-          "temp": 15,
-          "snowfall": 82,
+          "temp": 13,
+          "snowfall": 86,
           "snowAmount": "",
           "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Cloudy, with a low around 15."
+          "detailedForecast": "Snow showers. Cloudy, with a low around 13."
         },
         {
           "name": "Friday",
           "timestamp": 1770375600000,
-          "temp": 22,
-          "snowfall": 79,
+          "temp": 21,
+          "snowfall": 70,
           "snowAmount": "",
-          "shortForecast": "Snow Showers",
-          "detailedForecast": "Snow showers. Mostly cloudy, with a high near 22."
+          "shortForecast": "Snow Showers Likely",
+          "detailedForecast": "Snow showers likely. Mostly cloudy, with a high near 21."
         },
         {
           "name": "Friday Night",
           "timestamp": 1770418800000,
           "temp": -9,
-          "snowfall": 28,
+          "snowfall": 19,
           "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around -9."
+          "shortForecast": "Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers. Partly cloudy, with a low around -9."
         },
         {
           "name": "Saturday",
           "timestamp": 1770462000000,
-          "temp": 7,
-          "snowfall": 30,
+          "temp": 10,
+          "snowfall": 31,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Partly sunny, with a high near 7."
+          "detailedForecast": "A chance of snow showers. Partly sunny, with a high near 10."
         },
         {
           "name": "Saturday Night",
           "timestamp": 1770505200000,
-          "temp": -6,
-          "snowfall": 40,
+          "temp": -3,
+          "snowfall": 42,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around -6."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around -3."
         }
       ]
     }
@@ -420,10 +420,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 26",
-      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Jan 31",
       "conditions": "Simple as that. Skated entire golf course. Can’t be any better. Some thin spots on the taller grass areas. Thank you to the team. Winter is rocking it!"
@@ -431,6 +427,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Wed, Jan 28",
       "conditions": "Almost all trails have fresh park set tracks, but exposed areas were sometimes drifted over. There are some oak leave patches in the woods where deer have been digging for acorns. Despite these issues skiing was the best I've seen at Stoney in a long time,"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Mon, Jan 26",
+      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
     }
   },
   "nubsNob": {
