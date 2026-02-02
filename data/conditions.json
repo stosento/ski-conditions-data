@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-02T04:37:09.891Z",
+  "timestamp": "2026-02-02T05:26:58.850Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1770004800000,
+          "name": "Overnight",
+          "timestamp": 1770008400000,
           "temp": 4,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 4, with temperatures rising to around 8 overnight. Wind chill values as low as -1. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Partly cloudy. Low around 4, with temperatures rising to around 8 overnight. Wind chill values as low as -1. Southwest wind 1 to 5 mph."
         },
         {
           "name": "Monday",
@@ -136,13 +136,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1770004800000,
+          "name": "Overnight",
+          "timestamp": 1770008400000,
           "temp": 5,
           "snowfall": 48,
           "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 1am. Mostly cloudy. Low around 5, with temperatures rising to around 19 overnight. Wind chill values as low as -3. South wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 1am. Mostly cloudy. Low around 5, with temperatures rising to around 19 overnight. South wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -267,13 +267,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1770004800000,
+          "name": "Overnight",
+          "timestamp": 1770008400000,
           "temp": 9,
           "snowfall": 32,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers after 4am. Mostly cloudy. Low around 9, with temperatures rising to around 16 overnight. Wind chill values as low as 0. South wind 5 to 10 mph. Chance of precipitation is 30%."
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers after 4am. Mostly cloudy. Low around 9, with temperatures rising to around 16 overnight. Wind chill values as low as 0. South wind around 10 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Monday",
@@ -396,13 +396,30 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Cross Country Ski Trail Conditions",
+          "content": "Cross Country Ski Trail Conditions as of February 1, 2026 –"
+        },
+        {
+          "header": "Bucks Run-",
+          "content": "Bucks Run is groomed for skate and classic skiing. The connector trail between the ski center and Bucks Run is open. For your safety and the safety of our staff please adhere to Bucks Run hours.  Bucks Run is open Monday – Friday 12 pm – 7:45 pm and Saturday – Sunday 9 am – 7:45 pm, weather and conditions permitting."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": [
+        {
+          "header": "Stony Creek Ski Center",
+          "content": "– Trails are groomed. Open January 31st & February 1st."
+        }
+      ]
+    }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Mon, Jan 26",
-      "conditions": "Nubs has an 18 inch groomed in hardpack  base . Today a fresh groom of new snow made for hero skiing . It was cold : but LF 6 made it work . And the wind was light . Excellent !"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Feb 1",
       "conditions": "Bucks run in great condition for classic or skate from building and back.  Nice deep fast tracks and skate lane getting a little faster with some warmer temps.Skating was also great on the whole golf course and Cedar Trace even without it being groomed today.Thanks everyone at HM."
