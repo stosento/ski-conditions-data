@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-04T15:11:19.316Z",
+  "timestamp": "2026-02-04T16:11:27.215Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1770217200000,
+          "timestamp": 1770220800000,
           "temp": 23,
           "snowfall": 3,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers then Partly Sunny",
-          "detailedForecast": "A slight chance of snow showers before 11am. Partly sunny. High near 23, with temperatures falling to around 21 in the afternoon. North northwest wind around 6 mph."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny. High near 23, with temperatures falling to around 21 in the afternoon. North northwest wind around 6 mph."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1770217200000,
+          "timestamp": 1770220800000,
           "temp": 20,
           "snowfall": 7,
           "snowAmount": "",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1770217200000,
+          "timestamp": 1770220800000,
           "temp": 20,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 20, with temperatures falling to around 18 in the afternoon. Wind chill values as low as -1. Northwest wind 5 to 10 mph."
+          "detailedForecast": "Mostly cloudy. High near 20, with temperatures falling to around 18 in the afternoon. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
@@ -413,8 +413,12 @@
       "title": "Stony Creek Metropark",
       "sections": [
         {
-          "header": "Stony Creek Ski Center",
-          "content": "– Will be open February 7th & February 8th. Trails are groomed."
+          "header": "Stony Creek Ski Center:",
+          "content": "Will be open February 7th & February 8th. Trails are groomed."
+        },
+        {
+          "header": "Ski rentals are required to be purchased in advance online.",
+          "content": "Click here to rent ski equipment. If you’re having difficulty with our online rental process, click here for a quick reference guide on how to rent ski equipment online."
         }
       ]
     }
