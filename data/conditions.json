@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-02-06T04:30:15.112Z",
+  "timestamp": "2026-02-06T05:21:17.187Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1770343200000,
+          "name": "Overnight",
+          "timestamp": 1770354000000,
           "temp": 19,
-          "snowfall": 82,
+          "snowfall": 78,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Light Snow",
           "detailedForecast": "Snow and a chance of freezing drizzle. Cloudy, with a low around 19. South southwest wind around 6 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
@@ -136,8 +136,8 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1770350400000,
+          "name": "Overnight",
+          "timestamp": 1770354000000,
           "temp": 24,
           "snowfall": 59,
           "snowAmount": "New snow accumulation of 1 to 2 inches possible",
@@ -267,8 +267,8 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1770350400000,
+          "name": "Overnight",
+          "timestamp": 1770354000000,
           "temp": 23,
           "snowfall": 60,
           "snowAmount": "New snow accumulation of less than one inch possible",
@@ -396,32 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Cross Country Ski Trail Conditions",
-          "content": "Cross Country Ski Trail Conditions as of February 5, 2026 –"
-        },
-        {
-          "header": "Bucks Run-",
-          "content": "Bucks Run is groomed for skate and classic skiing. The connector trail between the ski center and Bucks Run is open. For your safety and the safety of our staff please adhere to Bucks Run hours.  Bucks Run is open Monday – Friday 12 pm – 7:45 pm and Saturday – Sunday 9 am – 7:45 pm, weather and conditions permitting."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": [
-        {
-          "header": "Stony Creek Ski Center:",
-          "content": "Will be open February 7th & February 8th. Trails are groomed."
-        },
-        {
-          "header": "Ski rentals are required to be purchased in advance online.",
-          "content": "Click here to rent ski equipment. If you’re having difficulty with our online rental process, click here for a quick reference guide on how to rent ski equipment online."
-        }
-      ]
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
