@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-06T05:21:17.187Z",
+  "timestamp": "2026-02-06T06:12:08.564Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1770354000000,
+          "timestamp": 1770357600000,
           "temp": 19,
           "snowfall": 78,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow and a chance of freezing drizzle. Cloudy, with a low around 19. South southwest wind around 6 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. Little or no ice accumulation expected."
+          "detailedForecast": "Snow and a chance of freezing drizzle. Cloudy, with a low around 19. South southwest wind around 6 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected."
         },
         {
           "name": "Friday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1770354000000,
+          "timestamp": 1770357600000,
           "temp": 24,
-          "snowfall": 59,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowfall": 57,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely and a slight chance of freezing drizzle. Cloudy. Low around 24, with temperatures rising to around 26 overnight. West wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow showers likely and a slight chance of freezing drizzle. Cloudy. Low around 24, with temperatures rising to around 26 overnight. West wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1770354000000,
+          "timestamp": 1770357600000,
           "temp": 23,
-          "snowfall": 60,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowfall": 58,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely and a slight chance of freezing drizzle. Cloudy. Low around 23, with temperatures rising to around 25 overnight. West wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow showers likely and a slight chance of freezing drizzle. Cloudy. Low around 23, with temperatures rising to around 25 overnight. West wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Friday",
@@ -396,16 +396,41 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Cross Country Ski Trail Conditions",
+          "content": "Cross Country Ski Trail Conditions as of February 5, 2026 –"
+        },
+        {
+          "header": "Bucks Run-",
+          "content": "Bucks Run is groomed for skate and classic skiing. The connector trail between the ski center and Bucks Run is open. For your safety and the safety of our staff please adhere to Bucks Run hours.  Bucks Run is open Monday – Friday 12 pm – 7:45 pm and Saturday – Sunday 9 am – 7:45 pm, weather and conditions permitting."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": [
+        {
+          "header": "Stony Creek Ski Center:",
+          "content": "Will be open February 7th & February 8th. Trails are groomed."
+        },
+        {
+          "header": "Ski rentals are required to be purchased in advance online.",
+          "content": "Click here to rent ski equipment. If you’re having difficulty with our online rental process, click here for a quick reference guide on how to rent ski equipment online."
+        }
+      ]
+    }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Wed, Feb 4",
-      "conditions": "Classic skied bucks, coyote and cedar trace.  Bucks is in great condition for skate or classic.  A little soft today since they added snow.Coyote has grass and dirt in some tracks but can be avoided.  Cedar trace doesn't have tracks till you get out there.  But the loop is good.Thanks again evryone at HMNoteced most of the snow piles are gone.  Any chance one of the guns can be turned back on.  We usually get to ski till the first week of March.Thanks again."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Feb 4",
       "conditions": "Mother Nature’s snow - Nubs groom : it doesn’t any better - LF 7 works .Understand there is a 28 inch hard pack base beneath that groom !  See you in April at Nub’s ."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Wed, Feb 4",
+      "conditions": "Classic skied bucks, coyote and cedar trace.  Bucks is in great condition for skate or classic.  A little soft today since they added snow.Coyote has grass and dirt in some tracks but can be avoided.  Cedar trace doesn't have tracks till you get out there.  But the loop is good.Thanks again evryone at HMNoteced most of the snow piles are gone.  Any chance one of the guns can be turned back on.  We usually get to ski till the first week of March.Thanks again."
     }
   },
   "nubsNob": {
