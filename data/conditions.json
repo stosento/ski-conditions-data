@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-10T07:21:04.660Z",
+  "timestamp": "2026-02-10T08:09:38.042Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1770706800000,
+          "timestamp": 1770710400000,
           "temp": 19,
-          "snowfall": 19,
+          "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Slight Chance Light Snow",
-          "detailedForecast": "A slight chance of freezing rain before 3am, then a slight chance of snow. Mostly cloudy. Low around 19, with temperatures rising to around 24 overnight. South wind around 7 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow. Mostly cloudy. Low around 19, with temperatures rising to around 24 overnight. South wind around 6 mph."
         },
         {
           "name": "Tuesday",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1770706800000,
+          "timestamp": 1770710400000,
           "temp": 26,
           "snowfall": 32,
           "snowAmount": "New snow accumulation of less than half an inch possible",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1770706800000,
+          "timestamp": 1770710400000,
           "temp": 24,
           "snowfall": 21,
           "snowAmount": "",
@@ -396,16 +396,41 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: getaddrinfo EAI_AGAIN www.metroparks.com"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Cross Country Ski Trail Conditions",
+          "content": "Cross Country Ski Trail Conditions as of February 9, 2026 –"
+        },
+        {
+          "header": "Bucks Run-",
+          "content": "Bucks Run is groomed for skate and classic skiing. The connector trail between the ski center and Bucks Run is open. For your safety and the safety of our staff please adhere to Bucks Run hours.  Bucks Run is open Monday – Friday 12 pm – 7:45 pm and Saturday – Sunday 9 am – 7:45 pm, weather and conditions permitting."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": [
+        {
+          "header": "Stony Creek Ski Center:",
+          "content": "Will be open February 7th & February 8th. Trails are groomed."
+        },
+        {
+          "header": "Ski rentals are required to be purchased in advance online.",
+          "content": "Click here to rent ski equipment. If you’re having difficulty with our online rental process, click here for a quick reference guide on how to rent ski equipment online."
+        }
+      ]
+    }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 4",
-      "conditions": "Mother Nature’s snow - Nubs groom : it doesn’t any better - LF 7 works .Understand there is a 28 inch hard pack base beneath that groom !  See you in April at Nub’s ."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sun, Feb 8",
       "conditions": "20° and no wind at noon. Clear blue sky and fresh groom on Coyote Run and Hawk Hills. Most of trail had clean, deep packed powder track, short stretches of grass or blown in oak leaves, mostly avoidable in open areas. I used Rode super blue 1st, later Swix purple as bright sun warmed the track. Still by 4 PM, 24°, the snow remained dry and fast. Warm shop with helpful ppl, clean bathrooms, large seating area for resting, eating; I bought a year pass! 12.5miles/20.1km"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 4",
+      "conditions": "Mother Nature’s snow - Nubs groom : it doesn’t any better - LF 7 works .Understand there is a 28 inch hard pack base beneath that groom !  See you in April at Nub’s ."
     }
   },
   "nubsNob": {
