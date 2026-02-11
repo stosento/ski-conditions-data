@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-11T13:27:08.624Z",
+  "timestamp": "2026-02-11T14:19:57.812Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1770814800000,
+          "timestamp": 1770818400000,
           "temp": 30,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a high near 30. West northwest wind 10 to 15 mph, with gusts as high as 26 mph."
+          "detailedForecast": "Mostly cloudy, with a high near 30. West northwest wind around 15 mph, with gusts as high as 26 mph."
         },
         {
           "name": "Tonight",
@@ -137,9 +137,9 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1770814800000,
+          "timestamp": 1770818400000,
           "temp": 27,
-          "snowfall": 31,
+          "snowfall": 27,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers",
           "detailedForecast": "Scattered snow showers. Cloudy, with a high near 27. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
@@ -148,7 +148,7 @@
           "name": "Tonight",
           "timestamp": 1770850800000,
           "temp": 11,
-          "snowfall": 29,
+          "snowfall": 27,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
           "detailedForecast": "Scattered snow showers before 10pm. Mostly cloudy. Low around 11, with temperatures rising to around 15 overnight. Northwest wind 5 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
@@ -268,18 +268,18 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1770814800000,
+          "timestamp": 1770818400000,
           "temp": 25,
-          "snowfall": 48,
+          "snowfall": 54,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers",
-          "detailedForecast": "Scattered snow showers. Cloudy, with a high near 25. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Scattered snow showers. Cloudy. High near 25, with temperatures falling to around 23 in the afternoon. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
           "timestamp": 1770850800000,
           "temp": 12,
-          "snowfall": 48,
+          "snowfall": 54,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Scattered Snow Showers then Mostly Cloudy",
           "detailedForecast": "Scattered snow showers before 10pm. Mostly cloudy. Low around 12, with temperatures rising to around 14 overnight. Northwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
@@ -424,13 +424,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Feb 10",
-      "conditions": "Fresh groom this morning for the skate deck & classic tracks. Exceptional conditions!!!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Wed, Feb 11",
       "conditions": "Any update on conditions at Huron Meadows for a late afternoon or early evening skate today would be much appreciated"
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Feb 10",
+      "conditions": "Fresh groom this morning for the skate deck & classic tracks. Exceptional conditions!!!"
     }
   },
   "nubsNob": {
