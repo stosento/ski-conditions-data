@@ -1,20 +1,11 @@
 {
-  "timestamp": "2026-02-13T11:09:53.679Z",
+  "timestamp": "2026-02-13T12:03:03.019Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1770976800000,
-          "temp": 12,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy. Low around 12, with temperatures rising to around 17 overnight. Southwest wind around 2 mph."
-        },
-        {
-          "name": "Friday",
+          "name": "Today",
           "timestamp": 1770980400000,
           "temp": 37,
           "snowfall": 3,
@@ -23,7 +14,7 @@
           "detailedForecast": "Sunny, with a high near 37. Southwest wind 2 to 9 mph, with gusts as high as 18 mph."
         },
         {
-          "name": "Friday Night",
+          "name": "Tonight",
           "timestamp": 1771023600000,
           "temp": 25,
           "snowfall": 3,
@@ -38,7 +29,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 38. West southwest wind around 3 mph."
+          "detailedForecast": "Mostly sunny. High near 38, with temperatures falling to around 36 in the afternoon. West southwest wind around 3 mph."
         },
         {
           "name": "Saturday Night",
@@ -56,7 +47,7 @@
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 42."
+          "detailedForecast": "Mostly sunny, with a high near 42. South wind 2 to 6 mph."
         },
         {
           "name": "Sunday Night",
@@ -129,6 +120,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Light Rain",
           "detailedForecast": "A chance of rain. Mostly cloudy, with a high near 42."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1771542000000,
+          "temp": 27,
+          "snowfall": 36,
+          "snowAmount": "",
+          "shortForecast": "Chance Light Rain then Chance Rain And Snow",
+          "detailedForecast": "A chance of rain before 1am, then a chance of rain and snow. Mostly cloudy, with a low around 27."
         }
       ]
     },
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1770980400000,
+          "timestamp": 1770984000000,
           "temp": 34,
           "snowfall": 17,
           "snowAmount": "",
