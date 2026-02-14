@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-14T03:43:10.495Z",
+  "timestamp": "2026-02-14T04:28:50.474Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1771038000000,
+          "timestamp": 1771041600000,
           "temp": 24,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 24, with temperatures rising to around 27 overnight. West northwest wind 2 to 7 mph."
+          "detailedForecast": "Mostly clear. Low around 24, with temperatures rising to around 27 overnight. West northwest wind 2 to 6 mph."
         },
         {
           "name": "Saturday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1771038000000,
+          "timestamp": 1771041600000,
           "temp": 20,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Freezing Fog",
-          "detailedForecast": "Patchy freezing fog. Mostly cloudy. Low around 20, with temperatures rising to around 23 overnight. Northwest wind 0 to 5 mph."
+          "detailedForecast": "Patchy freezing fog. Mostly cloudy. Low around 20, with temperatures rising to around 23 overnight. Northwest wind 0 to 10 mph."
         },
         {
           "name": "Saturday",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1771038000000,
+          "timestamp": 1771041600000,
           "temp": 19,
           "snowfall": 0,
           "snowAmount": "",
@@ -424,6 +424,10 @@
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Feb 10",
+      "conditions": "Fresh groom this morning for the skate deck & classic tracks. Exceptional conditions!!!"
+    },
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Fri, Feb 13",
       "conditions": "Skied in the afternoon and found snow cover on golf course was much better than anticipated and most of the groomed tracks were still usable. Sunny areas were soft while shady areas were still moderately icy. Stayed out of the woods assuming trails would be an icy chopped up mess because of all the walkers. Golf course skiing should be reasonable for at least one more day."
@@ -431,10 +435,6 @@
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Fri, Feb 13",
       "conditions": "The snow is a bit packed compared to two days ago when they added new stuff. A bit bumpy but fast. One or two slick spots, but good skiing overall. I was there in the late afternoon."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Feb 10",
-      "conditions": "Fresh groom this morning for the skate deck & classic tracks. Exceptional conditions!!!"
     }
   },
   "nubsNob": {
