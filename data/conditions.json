@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-14T17:03:41.902Z",
+  "timestamp": "2026-02-14T18:01:20.930Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1771088400000,
+          "timestamp": 1771092000000,
           "temp": 40,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 40, with temperatures falling to around 38 in the afternoon. East southeast wind around 3 mph."
+          "detailedForecast": "Mostly sunny. High near 40, with temperatures falling to around 38 in the afternoon. Southeast wind around 3 mph."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1771088400000,
+          "timestamp": 1771092000000,
           "temp": 36,
           "snowfall": 0,
           "snowAmount": "",
@@ -157,10 +157,10 @@
           "name": "Sunday",
           "timestamp": 1771153200000,
           "temp": 37,
-          "snowfall": 3,
+          "snowfall": 19,
           "snowAmount": "",
           "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. Southwest wind 0 to 5 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Sunday Night",
@@ -169,7 +169,7 @@
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 24. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 24. West wind 0 to 5 mph."
         },
         {
           "name": "Washington's Birthday",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1771088400000,
+          "timestamp": 1771092000000,
           "temp": 38,
           "snowfall": 0,
           "snowAmount": "",
@@ -288,7 +288,7 @@
           "name": "Sunday",
           "timestamp": 1771153200000,
           "temp": 40,
-          "snowfall": 3,
+          "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy. High near 40, with temperatures falling to around 38 in the afternoon. West wind around 5 mph."
@@ -300,7 +300,7 @@
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 24. Southwest wind 0 to 5 mph."
+          "detailedForecast": "Mostly cloudy, with a low around 24. West wind 0 to 5 mph."
         },
         {
           "name": "Washington's Birthday",
@@ -424,6 +424,10 @@
     }
   },
   "nordicConditions": {
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Tue, Feb 10",
+      "conditions": "Fresh groom this morning for the skate deck & classic tracks. Exceptional conditions!!!"
+    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Feb 14",
       "conditions": "Love the Valentine's Day Buck's Snow and the track to the parking. Like a sweet marshmallow.  Definitely worth five bucks. Winter returns next week."
@@ -431,10 +435,6 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Fri, Feb 13",
       "conditions": "Skied in the afternoon and found snow cover on golf course was much better than anticipated and most of the groomed tracks were still usable. Sunny areas were soft while shady areas were still moderately icy. Stayed out of the woods assuming trails would be an icy chopped up mess because of all the walkers. Golf course skiing should be reasonable for at least one more day."
-    },
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Tue, Feb 10",
-      "conditions": "Fresh groom this morning for the skate deck & classic tracks. Exceptional conditions!!!"
     }
   },
   "nubsNob": {
