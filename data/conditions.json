@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-19T01:29:33.228Z",
+  "timestamp": "2026-02-19T02:54:54.965Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1771462800000,
+          "timestamp": 1771466400000,
           "temp": 36,
-          "snowfall": 30,
+          "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Chance Light Rain then Areas Of Fog",
-          "detailedForecast": "A chance of rain before 9pm, then areas of fog and a chance of rain. Mostly cloudy, with a low around 36. Southeast wind around 6 mph. Chance of precipitation is 30%."
+          "shortForecast": "Widespread Fog",
+          "detailedForecast": "Widespread fog. Mostly cloudy, with a low around 36. Southeast wind around 6 mph."
         },
         {
           "name": "Thursday",
@@ -19,8 +19,8 @@
           "temp": 48,
           "snowfall": 15,
           "snowAmount": "",
-          "shortForecast": "Areas Of Fog then Slight Chance Light Rain",
-          "detailedForecast": "Areas of fog before 9am, then a slight chance of rain between 4pm and 5pm. Mostly cloudy. High near 48, with temperatures falling to around 46 in the afternoon. Southeast wind 6 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Widespread Fog then Slight Chance Light Rain",
+          "detailedForecast": "Widespread fog before 9am, then a slight chance of rain between 4pm and 5pm. Mostly cloudy. High near 48, with temperatures falling to around 46 in the afternoon. Southeast wind 6 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday Night",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1771462800000,
+          "timestamp": 1771466400000,
           "temp": 30,
           "snowfall": 21,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Freezing Rain",
-          "detailedForecast": "A slight chance of freezing rain before 1am. Mostly cloudy, with a low around 30. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. Little or no ice accumulation expected."
+          "shortForecast": "Areas Of Fog",
+          "detailedForecast": "Areas of fog and a slight chance of freezing rain. Mostly cloudy, with a low around 30. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. Little or no ice accumulation expected."
         },
         {
           "name": "Thursday",
@@ -150,8 +150,8 @@
           "temp": 44,
           "snowfall": 9,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 44, with temperatures falling to around 40 in the afternoon. Southeast wind 10 to 15 mph."
+          "shortForecast": "Patchy Fog then Partly Sunny",
+          "detailedForecast": "Patchy fog before 10am. Partly sunny. High near 44, with temperatures falling to around 40 in the afternoon. Southeast wind 10 to 15 mph."
         },
         {
           "name": "Thursday Night",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1771462800000,
+          "timestamp": 1771466400000,
           "temp": 31,
           "snowfall": 18,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Snow Showers then Slight Chance Freezing Drizzle",
-          "detailedForecast": "A slight chance of freezing drizzle and a slight chance of drizzle before 11pm, then a slight chance of snow showers between 11pm and midnight, then a slight chance of freezing drizzle between midnight and 1am. Mostly cloudy, with a low around 31. Southeast wind around 10 mph. Chance of precipitation is 20%. Little or no ice accumulation expected."
+          "shortForecast": "Areas Of Fog",
+          "detailedForecast": "Areas of fog and a slight chance of freezing drizzle before 11pm, then areas of fog and a slight chance of snow showers between 11pm and midnight, then areas of fog and a slight chance of freezing drizzle between midnight and 1am, then areas of freezing fog between 1am and 3am, then areas of fog. Mostly cloudy, with a low around 31. Southeast wind around 10 mph. Chance of precipitation is 20%. Little or no ice accumulation expected."
         },
         {
           "name": "Thursday",
@@ -281,8 +281,8 @@
           "temp": 45,
           "snowfall": 7,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 45, with temperatures falling to around 40 in the afternoon. Southeast wind around 10 mph."
+          "shortForecast": "Patchy Fog then Partly Sunny",
+          "detailedForecast": "Patchy fog before 10am. Partly sunny. High near 45, with temperatures falling to around 40 in the afternoon. Southeast wind around 10 mph."
         },
         {
           "name": "Thursday Night",
@@ -424,10 +424,6 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 18",
-      "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Mon, Feb 16",
       "conditions": "Classic skied from 12 to 2.  Decent donditions with good tracks.  Areas in shade were really good and sunny spots were slower.  Still nice to get out and do somethng.  Connector still there for now.Hopefully traiil in the woods makes it through the next few warm days.  Maybe we get another week or so iin woods with no connector if all goes well.Thanks for doing what you guys do to keep us going in trying weather conditios."
@@ -435,6 +431,10 @@
     "Stoney Creek Metropark (Shelby Township)": {
       "lastUpdated": "Fri, Feb 13",
       "conditions": "Skied in the afternoon and found snow cover on golf course was much better than anticipated and most of the groomed tracks were still usable. Sunny areas were soft while shady areas were still moderately icy. Stayed out of the woods assuming trails would be an icy chopped up mess because of all the walkers. Golf course skiing should be reasonable for at least one more day."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 18",
+      "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
     }
   },
   "nubsNob": {
