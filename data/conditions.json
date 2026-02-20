@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-20T07:17:06.009Z",
+  "timestamp": "2026-02-20T08:07:04.631Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1771570800000,
+          "timestamp": 1771574400000,
           "temp": 37,
-          "snowfall": 65,
+          "snowfall": 64,
           "snowAmount": "",
           "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely and areas of fog. Mostly cloudy. Low around 37, with temperatures rising to around 39 overnight. East southeast wind 6 to 9 mph, with gusts as high as 22 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain likely and patchy fog. Mostly cloudy. Low around 37, with temperatures rising to around 39 overnight. East southeast wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1771570800000,
+          "timestamp": 1771574400000,
           "temp": 32,
           "snowfall": 64,
           "snowAmount": "",
           "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Scattered rain showers before 3am, then patchy fog and scattered rain showers between 3am and 4am, then rain likely and patchy fog. Cloudy. Low around 32, with temperatures rising to around 34 overnight. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Patchy fog and scattered rain showers before 4am, then rain likely and patchy fog. Cloudy. Low around 32, with temperatures rising to around 34 overnight. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1771570800000,
+          "timestamp": 1771574400000,
           "temp": 32,
           "snowfall": 82,
           "snowAmount": "",
@@ -396,7 +396,28 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Cross Country Ski Trail Conditions",
+          "content": "Cross Country Ski Trail Conditions as of February 19, 2026 –"
+        },
+        {
+          "header": "Bucks Run-",
+          "content": "Due to the conditions of the trail there will be no grooming until further notice.  The trail is still open for skiing with current trail conditions being extremely slushy.  The connector trail from the ski center to Bucks Run is no longer available.  Please know that you will have to walk to the start of the trail.  For your safety and the safety of our staff please adhere to Bucks Run hours.  Bucks Run is open Monday – Friday 12 pm – 7:45 pm and Saturday – Sunday 9 am – 7:45 pm, weather and conditions permitting."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": [
+        {
+          "header": "Stony Creek Ski Center:",
+          "content": "CLOSED FOR THE SEASON"
+        }
+      ]
+    }
   },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
