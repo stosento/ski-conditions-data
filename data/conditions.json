@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-22T17:03:34.285Z",
+  "timestamp": "2026-02-22T18:01:11.953Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1771765200000,
+          "name": "This Afternoon",
+          "timestamp": 1771783200000,
           "temp": 35,
-          "snowfall": 78,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Mostly cloudy, with a high near 35. Northwest wind 5 to 9 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
+          "snowfall": 61,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Light Snow Likely",
+          "detailedForecast": "Snow likely. Mostly cloudy, with a high near 35. Northwest wind around 9 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1771779600000,
+          "timestamp": 1771783200000,
           "temp": 30,
           "snowfall": 24,
           "snowAmount": "",
@@ -160,7 +160,7 @@
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -9. North wind 10 to 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Partly sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -9. North wind 10 to 15 mph."
         },
         {
           "name": "Monday Night",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1771779600000,
+          "timestamp": 1771783200000,
           "temp": 27,
           "snowfall": 49,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 27, with temperatures falling to around 24 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 27, with temperatures falling to around 24 in the afternoon. Northwest wind around 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -291,7 +291,7 @@
           "snowfall": 24,
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow showers before 7am. Mostly cloudy. High near 13, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -11. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of snow showers before 7am. Mostly cloudy. High near 13, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -11. North wind 10 to 15 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday Night",
@@ -420,13 +420,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 18",
-      "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Feb 21",
       "conditions": "Saturday late afternoon - Mile circuit intact, skate deck fast, tracks mostly intact but icy. Great double pole conditions. Fairly clean groom, little spotty."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 18",
+      "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
     }
   },
   "nubsNob": {
