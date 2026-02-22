@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-22T11:02:06.015Z",
+  "timestamp": "2026-02-22T12:00:42.918Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1771758000000,
+          "timestamp": 1771761600000,
           "temp": 35,
-          "snowfall": 83,
-          "snowAmount": "New snow accumulation of 1 to 2 inches possible",
+          "snowfall": 78,
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Light Snow",
-          "detailedForecast": "Snow. Mostly cloudy, with a high near 35. Northwest wind 3 to 9 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+          "detailedForecast": "Snow. Mostly cloudy, with a high near 35. Northwest wind 3 to 9 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1771758000000,
+          "timestamp": 1771761600000,
           "temp": 29,
-          "snowfall": 55,
-          "snowAmount": "New snow accumulation of less than one inch possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Mostly cloudy. High near 29, with temperatures falling to around 26 in the afternoon. North wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "snowfall": 20,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. High near 29, with temperatures falling to around 26 in the afternoon. North wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Tonight",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1771758000000,
+          "timestamp": 1771761600000,
           "temp": 29,
-          "snowfall": 72,
-          "snowAmount": "New snow accumulation of around one inch possible",
+          "snowfall": 64,
+          "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy. High near 29, with temperatures falling to around 26 in the afternoon. Northwest wind 5 to 15 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+          "detailedForecast": "Snow showers likely. Cloudy. High near 29, with temperatures falling to around 26 in the afternoon. Northwest wind 5 to 15 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Tonight",
@@ -420,13 +420,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 18",
-      "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Feb 21",
       "conditions": "Bucks Run: no connector; groomed for skate and classic. Classic tracks are 50% ice luge runs - especially in the corners. If skate traffic is light it may be better to classic ski on the skateDeck."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 18",
+      "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
     }
   },
   "nubsNob": {
