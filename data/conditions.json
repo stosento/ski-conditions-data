@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-02-23T22:10:00.690Z",
+  "timestamp": "2026-02-23T23:09:40.088Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1771880400000,
-          "temp": 27,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 27, with temperatures falling to around 23 in the afternoon. North northwest wind around 13 mph, with gusts as high as 22 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1771887600000,
@@ -38,7 +29,7 @@
           "snowfall": 63,
           "snowAmount": "New snow accumulation of less than one inch possible",
           "shortForecast": "Light Snow Likely",
-          "detailedForecast": "Snow likely before 1am. Mostly cloudy, with a low around 28. Southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "Snow likely before 1am. Mostly cloudy. Low around 28, with temperatures rising to around 31 overnight. Southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
         },
         {
           "name": "Wednesday",
@@ -56,7 +47,7 @@
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 18."
+          "detailedForecast": "Partly cloudy, with a low around 18. West northwest wind 2 to 9 mph."
         },
         {
           "name": "Thursday",
@@ -129,21 +120,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Light Snow",
           "detailedForecast": "A chance of snow. Mostly cloudy, with a low around 15."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1772449200000,
+          "temp": 28,
+          "snowfall": 42,
+          "snowAmount": "",
+          "shortForecast": "Chance Light Snow",
+          "detailedForecast": "A chance of snow. Partly sunny, with a high near 28."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1771880400000,
-          "temp": 15,
-          "snowfall": 5,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 15, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -4. North wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1771887600000,
@@ -187,7 +178,7 @@
           "snowfall": 22,
           "snowAmount": "",
           "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of snow showers before 7pm. Mostly cloudy, with a low around 6."
+          "detailedForecast": "A slight chance of snow showers before 7pm. Mostly cloudy, with a low around 6. West wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Thursday",
@@ -260,21 +251,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 3."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1772449200000,
+          "temp": 21,
+          "snowfall": 30,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 21."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1771880400000,
-          "temp": 15,
-          "snowfall": 14,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 15, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -3. North wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1771887600000,
@@ -318,7 +309,7 @@
           "snowfall": 34,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of snow showers before 7pm. Mostly cloudy, with a low around 5. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of snow showers before 7pm. Mostly cloudy, with a low around 5. West wind 0 to 10 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Thursday",
@@ -391,6 +382,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
           "detailedForecast": "A chance of snow showers. Mostly cloudy, with a low around 2."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1772449200000,
+          "temp": 21,
+          "snowfall": 35,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 21."
         }
       ]
     }
@@ -420,13 +420,13 @@
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Feb 21",
-      "conditions": "Saturday late afternoon - Mile circuit intact, skate deck fast, tracks mostly intact but icy. Great double pole conditions. Fairly clean groom, little spotty."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Wed, Feb 18",
       "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Feb 21",
+      "conditions": "Saturday late afternoon - Mile circuit intact, skate deck fast, tracks mostly intact but icy. Great double pole conditions. Fairly clean groom, little spotty."
     }
   },
   "nubsNob": {
