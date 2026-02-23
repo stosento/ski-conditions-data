@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-02-23T05:27:19.543Z",
+  "timestamp": "2026-02-23T06:16:58.137Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1771822800000,
+          "timestamp": 1771826400000,
           "temp": 22,
-          "snowfall": 43,
-          "snowAmount": "New snow accumulation of less than one inch possible",
+          "snowfall": 40,
+          "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Light Snow",
-          "detailedForecast": "A chance of snow before 5am. Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. North northwest wind 10 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
+          "detailedForecast": "A chance of snow before 5am. Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. North northwest wind 10 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Monday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1771822800000,
+          "timestamp": 1771826400000,
           "temp": 9,
-          "snowfall": 26,
+          "snowfall": 15,
           "snowAmount": "",
-          "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers before 4am. Mostly cloudy. Low around 9, with temperatures rising to around 11 overnight. Wind chill values as low as -5. North wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+          "shortForecast": "Slight Chance Snow Showers",
+          "detailedForecast": "A slight chance of snow showers before 4am. Mostly cloudy. Low around 9, with temperatures rising to around 11 overnight. Wind chill values as low as -5. North wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1771822800000,
+          "timestamp": 1771826400000,
           "temp": 8,
-          "snowfall": 57,
-          "snowAmount": "New snow accumulation of less than half an inch possible",
-          "shortForecast": "Snow Showers Likely",
-          "detailedForecast": "Snow showers likely. Cloudy. Low around 8, with temperatures rising to around 11 overnight. Wind chill values as low as -4. North wind around 15 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+          "snowfall": 28,
+          "snowAmount": "",
+          "shortForecast": "Chance Snow Showers",
+          "detailedForecast": "A chance of snow showers. Cloudy. Low around 8, with temperatures rising to around 11 overnight. Wind chill values as low as -4. North wind around 15 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Monday",
@@ -420,13 +420,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Wed, Feb 18",
-      "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Feb 21",
       "conditions": "Saturday late afternoon - Mile circuit intact, skate deck fast, tracks mostly intact but icy. Great double pole conditions. Fairly clean groom, little spotty."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Wed, Feb 18",
+      "conditions": "Outstanding today - perfect groom over 28” hardpack , blue sky , sweet spot timing between 10:30 and 12:30 - simply wonderful!"
     }
   },
   "nubsNob": {
