@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-01T19:03:25.442Z",
+  "timestamp": "2026-03-01T20:00:40.172Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -396,23 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Cross Country Ski Trail Conditions",
-          "content": "Cross Country Ski Trail Conditions as of February 28, 2026 –"
-        },
-        {
-          "header": "Bucks Run-",
-          "content": "The trail will be groomed today for classic and skate skiing. The connector trail from the ski center to Bucks Run is no longer available.  Please know that you will have to walk to the start of the trail.  For your safety and the safety of our staff please adhere to Bucks Run hours.  Bucks Run is open Monday – Friday 12 pm – 7:45 pm and Saturday – Sunday 9 am – 7:45 pm, weather and conditions permitting."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
