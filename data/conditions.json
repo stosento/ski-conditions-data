@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-01T16:00:48.413Z",
+  "timestamp": "2026-03-01T17:02:02.525Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1772380800000,
+          "name": "This Afternoon",
+          "timestamp": 1772384400000,
           "temp": 29,
           "snowfall": 1,
           "snowAmount": "",
@@ -136,13 +136,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1772380800000,
+          "name": "This Afternoon",
+          "timestamp": 1772384400000,
           "temp": 17,
           "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 17. Northwest wind around 5 mph."
+          "detailedForecast": "Partly sunny, with a high near 17. West wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -150,14 +150,14 @@
           "temp": 5,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 5. Wind chill values as low as -3. Southwest wind 0 to 5 mph."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 5. Wind chill values as low as -3. Southwest wind 0 to 5 mph."
         },
         {
           "name": "Monday",
           "timestamp": 1772449200000,
           "temp": 32,
-          "snowfall": 1,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 32. Wind chill values as low as -4. South wind 5 to 10 mph."
@@ -267,13 +267,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1772380800000,
+          "name": "This Afternoon",
+          "timestamp": 1772384400000,
           "temp": 18,
           "snowfall": 11,
           "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 18. Northwest wind around 5 mph."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a high near 18. Northwest wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -288,7 +288,7 @@
           "name": "Monday",
           "timestamp": 1772449200000,
           "temp": 32,
-          "snowfall": 0,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 32. Wind chill values as low as -8. South wind 5 to 10 mph."
@@ -299,8 +299,8 @@
           "temp": 21,
           "snowfall": 16,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers after 1am. Mostly cloudy, with a low around 21. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 21. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tuesday",
@@ -309,7 +309,7 @@
           "snowfall": 37,
           "snowAmount": "",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Mostly cloudy, with a high near 37. South wind around 5 mph. Chance of precipitation is 40%."
+          "detailedForecast": "A chance of snow showers after 7am. Mostly cloudy, with a high near 37. South wind around 5 mph. Chance of precipitation is 40%."
         },
         {
           "name": "Tuesday Night",
@@ -415,13 +415,13 @@
     }
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Sat, Feb 28",
-      "conditions": "Saturday 9:30am surprisingly firm for skate after yesterday’s 57°. Starting to soften up my last few laps. Very firm block ice along north/south section along driving range. Classic tracks looked good in most sections. Hope it makes it until next weekend."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Sat, Feb 28",
       "conditions": "Skating was spectacular. Firm but NOT icy."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Sat, Feb 28",
+      "conditions": "Saturday 9:30am surprisingly firm for skate after yesterday’s 57°. Starting to soften up my last few laps. Very firm block ice along north/south section along driving range. Classic tracks looked good in most sections. Hope it makes it until next weekend."
     }
   },
   "nubsNob": {
