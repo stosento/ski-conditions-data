@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-01T15:00:47.568Z",
+  "timestamp": "2026-03-01T16:00:48.413Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1772370000000,
+          "timestamp": 1772380800000,
           "temp": 29,
-          "snowfall": 0,
+          "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 29, with temperatures falling to around 27 in the afternoon. North wind around 6 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 29, with temperatures falling to around 27 in the afternoon. North wind around 6 mph."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1772377200000,
+          "timestamp": 1772380800000,
           "temp": 17,
           "snowfall": 11,
           "snowAmount": "",
@@ -148,10 +148,10 @@
           "name": "Tonight",
           "timestamp": 1772406000000,
           "temp": 5,
-          "snowfall": 9,
+          "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 5. Wind chill values as low as -3. Southwest wind 0 to 5 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 5. Wind chill values as low as -3. Southwest wind 0 to 5 mph."
         },
         {
           "name": "Monday",
@@ -268,9 +268,9 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1772377200000,
+          "timestamp": 1772380800000,
           "temp": 18,
-          "snowfall": 13,
+          "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
           "detailedForecast": "Partly sunny, with a high near 18. Northwest wind around 5 mph."
@@ -279,7 +279,7 @@
           "name": "Tonight",
           "timestamp": 1772406000000,
           "temp": 3,
-          "snowfall": 11,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 3. Wind chill values as low as -5. Southwest wind 0 to 5 mph."
@@ -415,13 +415,13 @@
     }
   },
   "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Sat, Feb 28",
-      "conditions": "Skating was spectacular. Firm but NOT icy."
-    },
     "Huron Meadows Metropark (Brighton)": {
       "lastUpdated": "Sat, Feb 28",
       "conditions": "Saturday 9:30am surprisingly firm for skate after yesterday’s 57°. Starting to soften up my last few laps. Very firm block ice along north/south section along driving range. Classic tracks looked good in most sections. Hope it makes it until next weekend."
+    },
+    "Nubs Nob (Harbor Springs)": {
+      "lastUpdated": "Sat, Feb 28",
+      "conditions": "Skating was spectacular. Firm but NOT icy."
     }
   },
   "nubsNob": {
