@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-01T23:01:13.749Z",
+  "timestamp": "2026-03-02T00:01:21.346Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1772406000000,
+          "timestamp": 1772409600000,
           "temp": 14,
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 14. East wind 0 to 7 mph."
+          "detailedForecast": "Mostly clear, with a low around 14. East wind 0 to 6 mph."
         },
         {
           "name": "Monday",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1772406000000,
+          "timestamp": 1772409600000,
           "temp": 2,
           "snowfall": 0,
           "snowAmount": "",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1772406000000,
+          "timestamp": 1772409600000,
           "temp": -1,
           "snowfall": 0,
           "snowAmount": "",
@@ -396,23 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Cross Country Ski Trail Conditions",
-          "content": "Cross Country Ski Trail Conditions as of February 28, 2026 –"
-        },
-        {
-          "header": "Bucks Run-",
-          "content": "The trail will be groomed today for classic and skate skiing. The connector trail from the ski center to Bucks Run is no longer available.  Please know that you will have to walk to the start of the trail.  For your safety and the safety of our staff please adhere to Bucks Run hours.  Bucks Run is open Monday – Friday 12 pm – 7:45 pm and Saturday – Sunday 9 am – 7:45 pm, weather and conditions permitting."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {
     "Huron Meadows Metropark (Brighton)": {
