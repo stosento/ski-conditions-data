@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-04T13:21:16.367Z",
+  "timestamp": "2026-03-04T14:10:55.385Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -396,32 +396,16 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Cross Country Ski Trail Conditions",
-          "content": "Cross Country Ski Trail Conditions as of March 4, 2026 –"
-        },
-        {
-          "header": "Bucks Run-",
-          "content": "Our official last day of skiing will be Sunday, March 8, 2026, weather and conditions permitting.  The trail will be groomed today for classic and skate skiing. The connector trail from the ski center to Bucks Run is no longer available.  Please know that you will have to walk to the start of the trail.  For your safety and the safety of our staff please adhere to Bucks Run hours.  Bucks Run is open Monday – Friday 12 pm – 7:45 pm and Saturday – Sunday 9 am – 7:45 pm, weather and conditions permitting."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {
-    "Huron Meadows Metropark (Brighton)": {
-      "lastUpdated": "Tue, Mar 3",
-      "conditions": "Excellent again. Fresh groom/till this AM held up well…fast and hard. Probably another day left tomorrow since it will freeze again tonight."
-    },
     "Nubs Nob (Harbor Springs)": {
       "lastUpdated": "Mon, Mar 2",
       "conditions": "Today , Monday , was a pinnacle day for Nubs Knob Nordic .  The  groomers have the packed base they have wished for.  And they are using it !  The temperature swings this week will provide a late AM sweet spot that should not be missed ."
+    },
+    "Huron Meadows Metropark (Brighton)": {
+      "lastUpdated": "Tue, Mar 3",
+      "conditions": "Excellent again. Fresh groom/till this AM held up well…fast and hard. Probably another day left tomorrow since it will freeze again tonight."
     }
   },
   "nubsNob": {
