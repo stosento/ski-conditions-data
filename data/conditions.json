@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-12T03:44:05.567Z",
+  "timestamp": "2026-03-12T04:30:03.872Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1773284400000,
+          "name": "Overnight",
+          "timestamp": 1773288000000,
           "temp": 28,
-          "snowfall": 15,
+          "snowfall": 7,
           "snowAmount": "",
-          "shortForecast": "Isolated Snow Showers then Mostly Cloudy",
-          "detailedForecast": "Isolated snow showers before midnight. Mostly cloudy, with a low around 28. West northwest wind 13 to 16 mph, with gusts as high as 29 mph. Chance of precipitation is 20%."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 28. West northwest wind 13 to 16 mph, with gusts as high as 29 mph."
         },
         {
           "name": "Thursday",
@@ -136,13 +136,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1773284400000,
+          "name": "Overnight",
+          "timestamp": 1773288000000,
           "temp": 20,
           "snowfall": 21,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Slight Chance Snow Showers",
-          "detailedForecast": "A slight chance of snow showers before 2am. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. Northwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A slight chance of snow showers before 2am. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thursday",
@@ -267,13 +267,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Tonight",
-          "timestamp": 1773284400000,
+          "name": "Overnight",
+          "timestamp": 1773288000000,
           "temp": 20,
           "snowfall": 30,
           "snowAmount": "New snow accumulation of less than half an inch possible",
           "shortForecast": "Chance Snow Showers",
-          "detailedForecast": "A chance of snow showers. Cloudy. Low around 20, with temperatures rising to around 22 overnight. Northwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+          "detailedForecast": "A chance of snow showers. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. Northwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
         },
         {
           "name": "Thursday",
@@ -414,12 +414,7 @@
       "sections": []
     }
   },
-  "nordicConditions": {
-    "Nubs Nob (Harbor Springs)": {
-      "lastUpdated": "Thu, Mar 5",
-      "conditions": "The morning sweet spot for the last 3 days has been awesome . The groomers are taking full advantage of the 20 inch hardpack base ."
-    }
-  },
+  "nordicConditions": {},
   "nubsNob": {
     "date": "3/11/26- Closed Due To Icing",
     "liftsOpen": "0",
