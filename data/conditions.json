@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-13T08:35:21.237Z",
+  "timestamp": "2026-04-13T09:29:36.783Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1776067200000,
+          "timestamp": 1776070800000,
           "temp": 60,
-          "snowfall": 80,
+          "snowfall": 47,
           "snowAmount": "",
-          "shortForecast": "Rain Showers",
-          "detailedForecast": "Rain showers. Cloudy. Low around 60, with temperatures rising to around 62 overnight. Southwest wind around 15 mph, with gusts as high as 28 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Cloudy. Low around 60, with temperatures rising to around 62 overnight. Southwest wind around 15 mph, with gusts as high as 28 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1776067200000,
+          "timestamp": 1776070800000,
           "temp": 49,
-          "snowfall": 61,
+          "snowfall": 43,
           "snowAmount": "",
-          "shortForecast": "Light Rain Likely",
-          "detailedForecast": "Rain likely and patchy fog. Mostly cloudy. Low around 49, with temperatures rising to around 56 overnight. Southwest wind around 15 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A chance of rain and patchy fog. Mostly cloudy. Low around 49, with temperatures rising to around 56 overnight. Southwest wind around 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1776067200000,
+          "timestamp": 1776070800000,
           "temp": 54,
-          "snowfall": 94,
+          "snowfall": 51,
           "snowAmount": "",
-          "shortForecast": "Light Rain",
-          "detailedForecast": "Rain and patchy fog. Mostly cloudy. Low around 54, with temperatures rising to around 58 overnight. Southwest wind around 15 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A chance of rain and patchy fog. Cloudy. Low around 54, with temperatures rising to around 56 overnight. Southwest wind around 15 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Monday",
@@ -396,14 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": []
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
