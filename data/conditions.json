@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-14T20:15:46.973Z",
+  "timestamp": "2026-04-14T21:12:50.770Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1776193200000,
+          "timestamp": 1776200400000,
           "temp": 80,
-          "snowfall": 24,
+          "snowfall": 8,
           "snowAmount": "",
-          "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 4pm. Mostly sunny. High near 80, with temperatures falling to around 78 in the afternoon. West wind around 14 mph, with gusts as high as 24 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny. High near 80, with temperatures falling to around 78 in the afternoon. West wind around 13 mph, with gusts as high as 22 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1776193200000,
+          "timestamp": 1776200400000,
           "temp": 63,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. South wind around 5 mph."
+          "detailedForecast": "Mostly sunny. High near 63, with temperatures falling to around 60 in the afternoon. South wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1776193200000,
+          "timestamp": 1776200400000,
           "temp": 68,
           "snowfall": 3,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 68. Southwest wind 5 to 10 mph."
+          "detailedForecast": "Mostly sunny. High near 68, with temperatures falling to around 66 in the afternoon. South wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -396,7 +396,14 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": []
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": []
+    }
   },
   "nordicConditions": {},
   "nubsNob": {
