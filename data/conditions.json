@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-16T16:26:46.689Z",
+  "timestamp": "2026-04-16T17:25:39.479Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1776333600000,
+          "name": "This Afternoon",
+          "timestamp": 1776358800000,
           "temp": 72,
-          "snowfall": 93,
+          "snowfall": 66,
           "snowAmount": "",
-          "shortForecast": "Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms before 2pm, then a chance of showers and thunderstorms between 2pm and 3pm, then showers and thunderstorms likely between 3pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind 7 to 12 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms before 2pm, then a chance of showers and thunderstorms between 2pm and 3pm, then showers and thunderstorms likely between 3pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 72, with temperatures falling to around 70 in the afternoon. West southwest wind around 12 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Tonight",
@@ -136,13 +136,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1776351600000,
+          "name": "This Afternoon",
+          "timestamp": 1776358800000,
           "temp": 56,
           "snowfall": 16,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog and isolated rain showers before 2pm. Partly sunny, with a high near 56. North wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Isolated Rain Showers",
+          "detailedForecast": "Isolated rain showers before 2pm. Partly sunny, with a high near 56. Northwest wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -267,13 +267,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Today",
-          "timestamp": 1776351600000,
+          "name": "This Afternoon",
+          "timestamp": 1776358800000,
           "temp": 59,
           "snowfall": 20,
           "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog and isolated rain showers before 5pm. Mostly cloudy, with a high near 59. North wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Isolated Rain Showers",
+          "detailedForecast": "Isolated rain showers before 5pm. Mostly cloudy, with a high near 59. North wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -396,7 +396,14 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: Request failed with status code 403"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": []
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": []
+    }
   },
   "nordicConditions": {},
   "nubsNob": {
