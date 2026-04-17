@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-16T23:11:06.654Z",
+  "timestamp": "2026-04-17T00:09:33.263Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1776380400000,
+          "timestamp": 1776384000000,
           "temp": 49,
-          "snowfall": 42,
+          "snowfall": 23,
           "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
-          "detailedForecast": "A chance of showers and thunderstorms before 10pm. Mostly cloudy, with a low around 49. North northwest wind 2 to 7 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible."
+          "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+          "detailedForecast": "A slight chance of rain showers before 10pm. Mostly cloudy, with a low around 49. North wind 2 to 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Friday",
@@ -137,9 +137,9 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1776380400000,
+          "timestamp": 1776384000000,
           "temp": 39,
-          "snowfall": 4,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Widespread Fog",
           "detailedForecast": "Widespread fog after 9pm. Partly cloudy, with a low around 39. Northeast wind around 0 mph."
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1776380400000,
+          "timestamp": 1776384000000,
           "temp": 40,
-          "snowfall": 9,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Widespread Fog",
-          "detailedForecast": "Widespread fog after 11pm. Mostly clear, with a low around 40. North wind 0 to 5 mph."
+          "detailedForecast": "Widespread fog after 11pm. Mostly clear, with a low around 40. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Friday",
@@ -396,14 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": []
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
