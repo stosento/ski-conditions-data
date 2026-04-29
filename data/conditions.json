@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-04-29T21:19:31.834Z",
+  "timestamp": "2026-04-29T22:15:15.095Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1777496400000,
-          "temp": 57,
-          "snowfall": 14,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 53 in the afternoon. North wind around 10 mph, with gusts as high as 18 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1777500000000,
@@ -29,7 +20,7 @@
           "snowfall": 24,
           "snowAmount": "",
           "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers between 3pm and 5pm. Partly sunny. High near 54, with temperatures falling to around 52 in the afternoon. Northwest wind 6 to 9 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of rain showers between 3pm and 5pm. Partly sunny. High near 54, with temperatures falling to around 52 in the afternoon. Northwest wind 6 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Thursday Night",
@@ -56,7 +47,7 @@
           "snowfall": 15,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 33."
+          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 33. North northwest wind 3 to 9 mph."
         },
         {
           "name": "Saturday",
@@ -129,6 +120,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 45."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1778061600000,
+          "temp": 67,
+          "snowfall": 51,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 67."
         }
       ]
     },
@@ -136,22 +136,13 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1777496400000,
-          "temp": 49,
-          "snowfall": 8,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. High near 49, with temperatures falling to around 47 in the afternoon. North wind around 5 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1777500000000,
           "temp": 30,
           "snowfall": 10,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Widespread Frost",
-          "detailedForecast": "Widespread frost after 2am. Partly cloudy, with a low around 30. North wind 5 to 10 mph."
+          "detailedForecast": "Widespread frost after 2am. Partly cloudy, with a low around 30. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Thursday",
@@ -169,7 +160,7 @@
           "snowfall": 13,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy then Widespread Frost",
-          "detailedForecast": "Widespread frost after 2am. Partly cloudy, with a low around 29. Northwest wind 5 to 10 mph."
+          "detailedForecast": "Widespread frost after 2am. Partly cloudy. Low around 29, with temperatures rising to around 31 overnight. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Friday",
@@ -187,7 +178,7 @@
           "snowfall": 8,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 28."
+          "detailedForecast": "Partly cloudy, with a low around 28. Northwest wind 5 to 10 mph."
         },
         {
           "name": "Saturday",
@@ -260,6 +251,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 37."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1778061600000,
+          "temp": 52,
+          "snowfall": 36,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 52."
         }
       ]
     },
@@ -267,19 +267,10 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1777496400000,
-          "temp": 49,
-          "snowfall": 15,
-          "snowAmount": "",
-          "shortForecast": "Isolated Rain Showers",
-          "detailedForecast": "Isolated rain showers. Mostly cloudy, with a high near 49. North wind around 10 mph. Chance of precipitation is 20%."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1777500000000,
           "temp": 29,
-          "snowfall": 16,
+          "snowfall": 19,
           "snowAmount": "",
           "shortForecast": "Isolated Rain Showers then Widespread Frost",
           "detailedForecast": "Isolated rain showers before 8pm, then widespread frost. Mostly cloudy, with a low around 29. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
@@ -300,7 +291,7 @@
           "snowfall": 18,
           "snowAmount": "",
           "shortForecast": "Isolated Rain And Snow Showers then Widespread Frost",
-          "detailedForecast": "Isolated rain and snow showers before 8pm, then widespread frost. Partly cloudy, with a low around 26. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
+          "detailedForecast": "Isolated rain and snow showers before 8pm, then widespread frost. Partly cloudy. Low around 26, with temperatures rising to around 28 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Friday",
@@ -318,7 +309,7 @@
           "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Isolated Rain Showers then Partly Cloudy",
-          "detailedForecast": "Isolated rain showers before 8pm. Partly cloudy, with a low around 24."
+          "detailedForecast": "Isolated rain showers before 8pm. Partly cloudy, with a low around 24. Northwest wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Saturday",
@@ -391,6 +382,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 37."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1778061600000,
+          "temp": 54,
+          "snowfall": 41,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 54."
         }
       ]
     }
