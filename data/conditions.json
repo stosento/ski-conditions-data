@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T21:16:37.958Z",
+  "timestamp": "2026-05-07T22:18:08.402Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -136,15 +136,6 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1778187600000,
-          "temp": 46,
-          "snowfall": 3,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 46. West wind around 10 mph."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1778191200000,
           "temp": 32,
@@ -187,7 +178,7 @@
           "snowfall": 34,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Mostly Clear",
-          "detailedForecast": "A chance of rain showers before 8pm. Mostly clear, with a low around 34. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain showers before 8pm. Mostly clear, with a low around 34. Northwest wind 5 to 15 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Sunday",
@@ -260,21 +251,21 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 39."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1778752800000,
+          "temp": 64,
+          "snowfall": 13,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 64."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1778187600000,
-          "temp": 49,
-          "snowfall": 7,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 49, with temperatures falling to around 45 in the afternoon. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1778191200000,
@@ -318,7 +309,7 @@
           "snowfall": 26,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Mostly Clear",
-          "detailedForecast": "A chance of rain showers before 8pm. Mostly clear, with a low around 31. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain showers before 8pm. Mostly clear, with a low around 31. Northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Sunday",
@@ -391,6 +382,15 @@
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 38."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1778752800000,
+          "temp": 66,
+          "snowfall": 13,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 66."
         }
       ]
     }
