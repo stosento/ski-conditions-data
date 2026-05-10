@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T13:27:17.456Z",
+  "timestamp": "2026-05-10T14:21:52.490Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -396,14 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": []
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
