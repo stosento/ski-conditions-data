@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-05-18T21:22:53.717Z",
+  "timestamp": "2026-05-18T22:16:09.121Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1779138000000,
-          "temp": 91,
-          "snowfall": 50,
-          "snowAmount": "",
-          "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Partly sunny. High near 91, with temperatures falling to around 88 in the afternoon. South southwest wind around 16 mph, with gusts as high as 28 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1779141600000,
@@ -38,7 +29,7 @@
           "snowfall": 73,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely then Chance Showers And Thunderstorms",
-          "detailedForecast": "Showers and thunderstorms likely before 7pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 52. West northwest wind 9 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Showers and thunderstorms likely before 7pm, then a chance of showers and thunderstorms. Mostly cloudy. Low around 52, with temperatures rising to around 55 overnight. West northwest wind 9 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Wednesday",
@@ -56,7 +47,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 39."
+          "detailedForecast": "Partly cloudy, with a low around 39. North northeast wind 5 to 10 mph, with gusts as high as 18 mph."
         },
         {
           "name": "Thursday",
@@ -129,21 +120,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
           "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 56."
+        },
+        {
+          "name": "Memorial Day",
+          "timestamp": 1779703200000,
+          "temp": 78,
+          "snowfall": 23,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers then Slight Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of rain showers before 2pm, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 78."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1779138000000,
-          "temp": 79,
-          "snowfall": 30,
-          "snowAmount": "",
-          "shortForecast": "Scattered Rain Showers",
-          "detailedForecast": "Scattered rain showers. Partly sunny. High near 79, with temperatures falling to around 75 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-        },
         {
           "name": "Tonight",
           "timestamp": 1779141600000,
@@ -160,7 +151,7 @@
           "snowfall": 58,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy. High near 73, with temperatures falling to around 62 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%."
+          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy. High near 73, with temperatures falling to around 62 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday Night",
@@ -169,7 +160,7 @@
           "snowfall": 52,
           "snowAmount": "",
           "shortForecast": "Scattered Rain Showers then Mostly Cloudy",
-          "detailedForecast": "Scattered rain showers before 8pm. Mostly cloudy, with a low around 36. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%."
+          "detailedForecast": "Scattered rain showers before 8pm. Mostly cloudy. Low around 36, with temperatures rising to around 38 overnight. Northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%."
         },
         {
           "name": "Wednesday",
@@ -187,7 +178,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 33."
+          "detailedForecast": "Mostly clear, with a low around 33. North wind 0 to 10 mph."
         },
         {
           "name": "Thursday",
@@ -260,6 +251,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 46."
+        },
+        {
+          "name": "Memorial Day",
+          "timestamp": 1779703200000,
+          "temp": 72,
+          "snowfall": 14,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 72."
         }
       ]
     },
@@ -267,22 +267,13 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "This Afternoon",
-          "timestamp": 1779138000000,
-          "temp": 84,
-          "snowfall": 37,
-          "snowAmount": "",
-          "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms. Some of the storms could be severe. Partly sunny. High near 84, with temperatures falling to around 80 in the afternoon. Southwest wind around 15 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
-        },
-        {
           "name": "Tonight",
           "timestamp": 1779141600000,
           "temp": 61,
           "snowfall": 37,
           "snowAmount": "",
           "shortForecast": "Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered showers and thunderstorms. Some of the storms could be severe. Mostly cloudy, with a low around 61. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Scattered showers and thunderstorms. Mostly cloudy, with a low around 61. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tuesday",
@@ -291,7 +282,7 @@
           "snowfall": 67,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Partly sunny. High near 77, with temperatures falling to around 69 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%."
+          "detailedForecast": "A chance of showers and thunderstorms. Partly sunny. High near 77, with temperatures falling to around 69 in the afternoon. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday Night",
@@ -300,7 +291,7 @@
           "snowfall": 67,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-          "detailedForecast": "A chance of rain showers before 8pm. Mostly cloudy, with a low around 35. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%."
+          "detailedForecast": "A chance of rain showers before 8pm. Mostly cloudy. Low around 35, with temperatures rising to around 37 overnight. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%."
         },
         {
           "name": "Wednesday",
@@ -318,7 +309,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 30."
+          "detailedForecast": "Mostly clear, with a low around 30. North wind 0 to 10 mph."
         },
         {
           "name": "Thursday",
@@ -391,6 +382,15 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
           "detailedForecast": "A slight chance of rain showers before 8pm. Mostly cloudy, with a low around 48."
+        },
+        {
+          "name": "Memorial Day",
+          "timestamp": 1779703200000,
+          "temp": 75,
+          "snowfall": 16,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 8am. Partly sunny, with a high near 75."
         }
       ]
     }
