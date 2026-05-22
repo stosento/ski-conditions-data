@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-22T17:30:41.767Z",
+  "timestamp": "2026-05-22T18:29:45.492Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1779469200000,
+          "timestamp": 1779472800000,
           "temp": 68,
           "snowfall": 2,
           "snowAmount": "",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1779469200000,
-          "temp": 63,
-          "snowfall": 1,
+          "timestamp": 1779472800000,
+          "temp": 64,
+          "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 63. East wind around 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Mostly sunny, with a high near 64. East wind around 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tonight",
@@ -204,23 +204,23 @@
           "temp": 50,
           "snowfall": 7,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 50."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 50."
         },
         {
           "name": "Tuesday",
           "timestamp": 1779789600000,
-          "temp": 75,
+          "temp": 73,
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 75."
+          "detailedForecast": "Sunny, with a high near 73."
         },
         {
           "name": "Tuesday Night",
           "timestamp": 1779832800000,
           "temp": 49,
-          "snowfall": 3,
+          "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
           "detailedForecast": "Mostly clear, with a low around 49."
@@ -228,11 +228,11 @@
         {
           "name": "Wednesday",
           "timestamp": 1779876000000,
-          "temp": 75,
+          "temp": 74,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 75."
+          "detailedForecast": "Mostly sunny, with a high near 74."
         },
         {
           "name": "Wednesday Night",
@@ -246,11 +246,11 @@
         {
           "name": "Thursday",
           "timestamp": 1779962400000,
-          "temp": 74,
+          "temp": 73,
           "snowfall": 4,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 74."
+          "detailedForecast": "Sunny, with a high near 73."
         },
         {
           "name": "Thursday Night",
@@ -268,9 +268,9 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1779469200000,
+          "timestamp": 1779472800000,
           "temp": 62,
-          "snowfall": 2,
+          "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 62. East wind around 15 mph, with gusts as high as 30 mph."
@@ -341,29 +341,29 @@
         {
           "name": "Tuesday",
           "timestamp": 1779789600000,
-          "temp": 81,
-          "snowfall": 12,
+          "temp": 80,
+          "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 81."
+          "detailedForecast": "Sunny, with a high near 80."
         },
         {
           "name": "Tuesday Night",
           "timestamp": 1779832800000,
-          "temp": 51,
-          "snowfall": 12,
+          "temp": 52,
+          "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 51."
+          "detailedForecast": "Mostly clear, with a low around 52."
         },
         {
           "name": "Wednesday",
           "timestamp": 1779876000000,
-          "temp": 79,
+          "temp": 77,
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 79."
+          "detailedForecast": "Sunny, with a high near 77."
         },
         {
           "name": "Wednesday Night",
@@ -377,11 +377,11 @@
         {
           "name": "Thursday",
           "timestamp": 1779962400000,
-          "temp": 76,
+          "temp": 75,
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 76."
+          "detailedForecast": "Sunny, with a high near 75."
         },
         {
           "name": "Thursday Night",
@@ -396,14 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": []
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
