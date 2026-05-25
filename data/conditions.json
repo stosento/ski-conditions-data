@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-05-25T08:26:02.433Z",
+  "timestamp": "2026-05-25T10:26:10.051Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "Overnight",
-          "timestamp": 1779696000000,
-          "temp": 53,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 53. North northwest wind around 2 mph."
-        },
         {
           "name": "Memorial Day",
           "timestamp": 1779703200000,
@@ -23,7 +14,7 @@
           "detailedForecast": "Patchy fog before 8am. Mostly sunny. High near 80, with temperatures falling to around 78 in the afternoon. East northeast wind 0 to 6 mph."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1779746400000,
           "temp": 57,
           "snowfall": 1,
@@ -38,7 +29,7 @@
           "snowfall": 1,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 86. Southwest wind 2 to 8 mph."
+          "detailedForecast": "Sunny. High near 86, with temperatures falling to around 84 in the afternoon. Southwest wind 2 to 8 mph."
         },
         {
           "name": "Tuesday Night",
@@ -56,7 +47,7 @@
           "snowfall": 22,
           "snowAmount": "",
           "shortForecast": "Partly Sunny then Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms after 2pm. Partly sunny, with a high near 85."
+          "detailedForecast": "A slight chance of showers and thunderstorms after 2pm. Partly sunny, with a high near 85. North northwest wind 1 to 9 mph."
         },
         {
           "name": "Wednesday Night",
@@ -129,21 +120,21 @@
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 74."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1780264800000,
+          "temp": 53,
+          "snowfall": 5,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 53."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "Overnight",
-          "timestamp": 1779696000000,
-          "temp": 47,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog. Mostly cloudy, with a low around 47. Southwest wind around 5 mph."
-        },
         {
           "name": "Memorial Day",
           "timestamp": 1779703200000,
@@ -154,13 +145,13 @@
           "detailedForecast": "Patchy fog before 8am, then a slight chance of rain showers. Mostly sunny, with a high near 74. Southwest wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1779746400000,
           "temp": 58,
           "snowfall": 17,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
-          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 58. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 58. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tuesday",
@@ -187,7 +178,7 @@
           "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 74."
+          "detailedForecast": "Sunny, with a high near 74. North wind 0 to 10 mph."
         },
         {
           "name": "Wednesday Night",
@@ -260,21 +251,21 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 72."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1780264800000,
+          "temp": 49,
+          "snowfall": 4,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 49."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "Overnight",
-          "timestamp": 1779696000000,
-          "temp": 46,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Partly cloudy, with a low around 46. Southwest wind around 5 mph."
-        },
         {
           "name": "Memorial Day",
           "timestamp": 1779703200000,
@@ -285,7 +276,7 @@
           "detailedForecast": "Patchy fog before 8am, then a slight chance of showers and thunderstorms. Mostly sunny. High near 80, with temperatures falling to around 78 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "timestamp": 1779746400000,
           "temp": 59,
           "snowfall": 16,
@@ -318,7 +309,7 @@
           "snowfall": 9,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 78."
+          "detailedForecast": "Sunny, with a high near 78. North wind 0 to 10 mph."
         },
         {
           "name": "Wednesday Night",
@@ -391,6 +382,15 @@
           "snowAmount": "",
           "shortForecast": "Sunny",
           "detailedForecast": "Sunny, with a high near 73."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1780264800000,
+          "temp": 47,
+          "snowfall": 2,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 47."
         }
       ]
     }
