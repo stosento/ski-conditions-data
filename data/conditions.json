@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-05T20:32:23.335Z",
+  "timestamp": "2026-06-05T21:27:27.854Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1780689600000,
+          "timestamp": 1780693200000,
           "temp": 90,
           "snowfall": 7,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 90, with temperatures falling to around 85 in the afternoon. Southwest wind around 12 mph, with gusts as high as 22 mph. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Partly sunny. High near 90, with temperatures falling to around 85 in the afternoon. Southwest wind around 12 mph, with gusts as high as 21 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1780689600000,
+          "timestamp": 1780693200000,
           "temp": 74,
           "snowfall": 18,
           "snowAmount": "",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1780689600000,
+          "timestamp": 1780693200000,
           "temp": 79,
-          "snowfall": 26,
+          "snowfall": 25,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Cloudy. High near 79, with temperatures falling to around 73 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms. Cloudy. High near 79, with temperatures falling to around 74 in the afternoon. Southwest wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -396,7 +396,14 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": []
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": []
+    }
   },
   "nordicConditions": {},
   "nubsNob": {
