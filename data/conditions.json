@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-06-18T21:36:49.013Z",
+  "timestamp": "2026-06-18T22:34:07.833Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1781812800000,
-          "temp": 71,
-          "snowfall": 9,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 71. West wind around 18 mph, with gusts as high as 30 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1781820000000,
@@ -56,7 +47,7 @@
           "snowfall": 51,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms then Mostly Clear",
-          "detailedForecast": "A chance of showers and thunderstorms before 8pm. Mostly clear, with a low around 54. Chance of precipitation is 50%."
+          "detailedForecast": "A chance of showers and thunderstorms before 8pm. Mostly clear, with a low around 54. Northwest wind 2 to 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Sunday",
@@ -129,21 +120,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
           "detailedForecast": "A chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms. Partly cloudy, with a low around 56."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1782381600000,
+          "temp": 76,
+          "snowfall": 41,
+          "snowAmount": "",
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A slight chance of rain showers before 2pm, then a chance of showers and thunderstorms. Mostly sunny, with a high near 76."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1781812800000,
-          "temp": 64,
-          "snowfall": 13,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 64, with temperatures falling to around 61 in the afternoon. West wind around 10 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1781820000000,
@@ -187,7 +178,7 @@
           "snowfall": 14,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 49."
+          "detailedForecast": "Partly cloudy, with a low around 49. Northwest wind 0 to 5 mph."
         },
         {
           "name": "Sunday",
@@ -260,21 +251,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 51."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1782381600000,
+          "temp": 72,
+          "snowfall": 22,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers. Partly sunny, with a high near 72."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1781812800000,
-          "temp": 64,
-          "snowfall": 19,
-          "snowAmount": "",
-          "shortForecast": "Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers before 5pm. Mostly sunny. High near 64, with temperatures falling to around 61 in the afternoon. West wind around 15 mph. Chance of precipitation is 20%."
-        },
         {
           "name": "Tonight",
           "timestamp": 1781820000000,
@@ -318,7 +309,7 @@
           "snowfall": 33,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Mostly Clear",
-          "detailedForecast": "A chance of rain showers before 8pm. Mostly clear, with a low around 45. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of rain showers before 8pm. Mostly clear, with a low around 45. Northwest wind 0 to 5 mph. Chance of precipitation is 30%."
         },
         {
           "name": "Sunday",
@@ -391,12 +382,45 @@
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
           "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 48."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1782381600000,
+          "temp": 73,
+          "snowfall": 43,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 73."
         }
       ]
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Start Date:",
+          "content": "Monday, June 15, 2026"
+        },
+        {
+          "header": "End Date:",
+          "content": "Thursday, September 3, 2026"
+        },
+        {
+          "header": "Work Being Completed:",
+          "content": "Roundabout Construction"
+        },
+        {
+          "header": "Traffic Impact: The intersection will be closed to all through traffic",
+          "content": ". Please follow the posted detour route during construction."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": []
+    }
   },
   "nordicConditions": {},
   "nubsNob": {
