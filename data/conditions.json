@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-18T12:05:42.630Z",
+  "timestamp": "2026-06-18T13:59:34.093Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1781784000000,
+          "timestamp": 1781776800000,
           "temp": 71,
           "snowfall": 12,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny. High near 71, with temperatures falling to around 69 in the afternoon. West wind 15 to 18 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Partly sunny. High near 71, with temperatures falling to around 69 in the afternoon. West wind 14 to 18 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1781784000000,
+          "timestamp": 1781787600000,
           "temp": 64,
           "snowfall": 62,
           "snowAmount": "",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1781784000000,
+          "timestamp": 1781787600000,
           "temp": 64,
           "snowfall": 65,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely before 9am, then rain showers likely and patchy fog between 9am and 2pm. Partly sunny, with a high near 64. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "Rain showers likely and patchy fog before 2pm. Partly sunny, with a high near 64. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
