@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-24T12:36:28.994Z",
+  "timestamp": "2026-06-24T13:39:41.022Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1782298800000,
+          "timestamp": 1782306000000,
           "temp": 78,
           "snowfall": 21,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-          "detailedForecast": "A slight chance of rain showers after 4pm. Mostly sunny. High near 78, with temperatures falling to around 75 in the afternoon. South southwest wind 0 to 7 mph. Chance of precipitation is 20%."
+          "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers after 4pm. Partly sunny. High near 78, with temperatures falling to around 75 in the afternoon. South wind 1 to 7 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1782298800000,
+          "timestamp": 1782306000000,
           "temp": 69,
           "snowfall": 46,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers after 8am. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. Southwest wind 0 to 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. Southwest wind 0 to 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1782298800000,
+          "timestamp": 1782306000000,
           "temp": 69,
           "snowfall": 51,
           "snowAmount": "",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
