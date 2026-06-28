@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-28T14:30:09.466Z",
+  "timestamp": "2026-06-28T15:24:20.041Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1782655200000,
+          "timestamp": 1782651600000,
           "temp": 85,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 85. East wind around 6 mph."
+          "detailedForecast": "Mostly sunny, with a high near 85. East wind 2 to 6 mph."
         },
         {
           "name": "Tonight",
@@ -137,21 +137,21 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1782655200000,
+          "timestamp": 1782658800000,
           "temp": 81,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 81. Southeast wind 5 to 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 81. Southeast wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1782684000000,
           "temp": 63,
-          "snowfall": 30,
+          "snowfall": 23,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms after 5am. Mostly cloudy, with a low around 63. Southeast wind 5 to 10 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of showers and thunderstorms after 5am. Mostly cloudy, with a low around 63. Southeast wind 5 to 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday",
@@ -268,18 +268,18 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1782655200000,
+          "timestamp": 1782658800000,
           "temp": 81,
           "snowfall": 1,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 81. Southeast wind 5 to 10 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 81. Southeast wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1782684000000,
           "temp": 59,
-          "snowfall": 21,
+          "snowfall": 19,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
           "detailedForecast": "A slight chance of showers and thunderstorms after 5am. Mostly cloudy, with a low around 59. Southeast wind 5 to 10 mph. Chance of precipitation is 20%."
@@ -396,7 +396,31 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Start Date:",
+          "content": "Monday, June 15, 2026"
+        },
+        {
+          "header": "End Date:",
+          "content": "Thursday, September 3, 2026"
+        },
+        {
+          "header": "Work Being Completed:",
+          "content": "Roundabout Construction"
+        },
+        {
+          "header": "Traffic Impact: The intersection will be closed to all through traffic",
+          "content": ". Please follow the posted detour route during construction."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": []
+    }
   },
   "nordicConditions": {},
   "nubsNob": {
