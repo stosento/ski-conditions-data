@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-04T16:17:32.681Z",
+  "timestamp": "2026-07-04T17:20:02.783Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Independence Day",
-          "timestamp": 1783180800000,
+          "timestamp": 1783184400000,
           "temp": 87,
           "snowfall": 62,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely",
-          "detailedForecast": "A chance of rain showers before 1pm, then showers and thunderstorms likely. Partly sunny. High near 87, with temperatures falling to around 84 in the afternoon. West wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Showers and thunderstorms likely. Partly sunny. High near 87, with temperatures falling to around 84 in the afternoon. West wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Independence Day",
-          "timestamp": 1783180800000,
+          "timestamp": 1783184400000,
           "temp": 79,
           "snowfall": 16,
           "snowAmount": "",
@@ -168,8 +168,8 @@
           "temp": 58,
           "snowfall": 5,
           "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 58. East wind 0 to 10 mph."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 58. East wind 0 to 10 mph."
         },
         {
           "name": "Monday",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Independence Day",
-          "timestamp": 1783180800000,
+          "timestamp": 1783184400000,
           "temp": 78,
           "snowfall": 27,
           "snowAmount": "",
-          "shortForecast": "Chance Rain Showers",
-          "detailedForecast": "A chance of rain showers. Partly sunny, with a high near 78. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "shortForecast": "Chance Showers And Thunderstorms",
+          "detailedForecast": "A chance of showers and thunderstorms. Partly sunny, with a high near 78. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
