@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-05T11:28:23.312Z",
+  "timestamp": "2026-07-05T12:22:48.199Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1783249200000,
+          "timestamp": 1783252800000,
           "temp": 79,
           "snowfall": 81,
           "snowAmount": "",
@@ -137,9 +137,9 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1783249200000,
+          "timestamp": 1783252800000,
           "temp": 79,
-          "snowfall": 6,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny. High near 79, with temperatures falling to around 77 in the afternoon. East wind around 10 mph."
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1783249200000,
+          "timestamp": 1783252800000,
           "temp": 79,
           "snowfall": 6,
           "snowAmount": "",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: getaddrinfo ENOTFOUND www.metroparks.com"
   },
   "nordicConditions": {},
   "nubsNob": {
