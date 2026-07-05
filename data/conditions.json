@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-05T18:18:11.317Z",
+  "timestamp": "2026-07-05T19:26:51.984Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1783274400000,
+          "timestamp": 1783278000000,
           "temp": 76,
-          "snowfall": 74,
+          "snowfall": 72,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 76. East northeast wind around 9 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 76. Northeast wind around 9 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Tonight",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1783274400000,
+          "timestamp": 1783278000000,
           "temp": 79,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 79. East wind around 10 mph."
+          "detailedForecast": "Mostly sunny, with a high near 79. Northeast wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -202,7 +202,7 @@
           "name": "Wednesday Night",
           "timestamp": 1783548000000,
           "temp": 61,
-          "snowfall": 74,
+          "snowfall": 70,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
           "detailedForecast": "Rain showers likely before 2am, then showers and thunderstorms likely. Mostly cloudy, with a low around 61."
@@ -211,7 +211,7 @@
           "name": "Thursday",
           "timestamp": 1783591200000,
           "temp": 76,
-          "snowfall": 74,
+          "snowfall": 70,
           "snowAmount": "",
           "shortForecast": "Showers And Thunderstorms Likely",
           "detailedForecast": "Showers and thunderstorms likely before 2pm, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 76."
@@ -220,7 +220,7 @@
           "name": "Thursday Night",
           "timestamp": 1783634400000,
           "temp": 57,
-          "snowfall": 21,
+          "snowfall": 22,
           "snowAmount": "",
           "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
           "detailedForecast": "A slight chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 57."
@@ -238,7 +238,7 @@
           "name": "Friday Night",
           "timestamp": 1783720800000,
           "temp": 57,
-          "snowfall": 4,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 57."
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1783274400000,
+          "timestamp": 1783278000000,
           "temp": 79,
           "snowfall": 2,
           "snowAmount": "",
@@ -345,13 +345,13 @@
           "snowfall": 63,
           "snowAmount": "",
           "shortForecast": "Rain Showers Likely",
-          "detailedForecast": "Rain showers likely before 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 77."
+          "detailedForecast": "Rain showers likely before 2pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 77."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1783634400000,
           "temp": 54,
-          "snowfall": 36,
+          "snowfall": 38,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
           "detailedForecast": "A chance of showers and thunderstorms before 2am. Partly cloudy, with a low around 54."
@@ -387,7 +387,7 @@
           "name": "Saturday Night",
           "timestamp": 1783807200000,
           "temp": 55,
-          "snowfall": 9,
+          "snowfall": 8,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
           "detailedForecast": "Partly cloudy, with a low around 55."
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
