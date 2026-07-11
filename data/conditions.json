@@ -1,20 +1,11 @@
 {
-  "timestamp": "2026-07-11T09:28:08.414Z",
+  "timestamp": "2026-07-11T10:23:00.602Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1783760400000,
-          "temp": 62,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 62, with temperatures rising to around 64 overnight. North northeast wind around 3 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1783764000000,
           "temp": 85,
           "snowfall": 0,
@@ -23,7 +14,7 @@
           "detailedForecast": "Mostly sunny. High near 85, with temperatures falling to around 83 in the afternoon. Northeast wind 3 to 10 mph, with gusts as high as 18 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1783807200000,
           "temp": 61,
           "snowfall": 0,
@@ -56,7 +47,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 92."
+          "detailedForecast": "Sunny, with a high near 92. West southwest wind 0 to 5 mph."
         },
         {
           "name": "Monday Night",
@@ -129,6 +120,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 87."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1784325600000,
+          "temp": 64,
+          "snowfall": 29,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers after 8pm. Mostly clear, with a low around 64."
         }
       ]
     },
@@ -136,16 +136,7 @@
       "name": "Nubs Nob",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1783760400000,
-          "temp": 60,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Partly cloudy, with a low around 60. Northeast wind around 0 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1783764000000,
           "temp": 84,
           "snowfall": 2,
@@ -154,7 +145,7 @@
           "detailedForecast": "Patchy fog before 8am. Sunny, with a high near 84. East wind 0 to 5 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1783807200000,
           "temp": 62,
           "snowfall": 0,
@@ -187,7 +178,7 @@
           "snowfall": 23,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Sunny",
-          "detailedForecast": "A slight chance of rain showers before 8am. Sunny, with a high near 84."
+          "detailedForecast": "A slight chance of rain showers before 8am. Sunny, with a high near 84. Southwest wind around 10 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Monday Night",
@@ -260,6 +251,15 @@
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
           "detailedForecast": "Mostly sunny, with a high near 79."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1784325600000,
+          "temp": 60,
+          "snowfall": 28,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers after 8pm. Partly cloudy, with a low around 60."
         }
       ]
     },
@@ -267,25 +267,16 @@
       "name": "Otsego Resort",
       "forecast": [
         {
-          "name": "Overnight",
-          "timestamp": 1783760400000,
-          "temp": 57,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog. Mostly clear, with a low around 57. Wind around 0 mph."
-        },
-        {
-          "name": "Saturday",
+          "name": "Today",
           "timestamp": 1783764000000,
           "temp": 83,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Fog then Sunny",
-          "detailedForecast": "Areas of fog before 8am. Sunny, with a high near 83. East wind 0 to 5 mph."
+          "detailedForecast": "Areas of fog before 8am. Sunny, with a high near 83. Northeast wind 0 to 5 mph."
         },
         {
-          "name": "Saturday Night",
+          "name": "Tonight",
           "timestamp": 1783807200000,
           "temp": 57,
           "snowfall": 1,
@@ -318,7 +309,7 @@
           "snowfall": 11,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 88."
+          "detailedForecast": "Sunny, with a high near 88. West wind around 10 mph."
         },
         {
           "name": "Monday Night",
@@ -391,6 +382,15 @@
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers",
           "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 81."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1784325600000,
+          "temp": 56,
+          "snowfall": 27,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Partly cloudy, with a low around 56."
         }
       ]
     }
