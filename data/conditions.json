@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-11T08:30:37.516Z",
+  "timestamp": "2026-07-11T09:28:08.414Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1783756800000,
+          "timestamp": 1783760400000,
           "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1783756800000,
+          "timestamp": 1783760400000,
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1783756800000,
+          "timestamp": 1783760400000,
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog. Mostly clear, with a low around 57. South wind around 0 mph."
+          "detailedForecast": "Areas of fog. Mostly clear, with a low around 57. Wind around 0 mph."
         },
         {
           "name": "Saturday",
@@ -396,7 +396,31 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: Request failed with status code 403"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Start Date:",
+          "content": "Monday, June 15, 2026"
+        },
+        {
+          "header": "End Date:",
+          "content": "Thursday, September 3, 2026"
+        },
+        {
+          "header": "Work Being Completed:",
+          "content": "Roundabout Construction"
+        },
+        {
+          "header": "Traffic Impact: The intersection will be closed to all through traffic",
+          "content": ". Please follow the posted detour route during construction."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": []
+    }
   },
   "nordicConditions": {},
   "nubsNob": {
