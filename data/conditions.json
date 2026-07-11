@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-11T07:30:03.312Z",
+  "timestamp": "2026-07-11T08:30:37.516Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1783753200000,
+          "timestamp": 1783756800000,
           "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy. Low around 62, with temperatures rising to around 64 overnight. North wind around 3 mph."
+          "detailedForecast": "Mostly cloudy. Low around 62, with temperatures rising to around 64 overnight. North northeast wind around 3 mph."
         },
         {
           "name": "Saturday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1783753200000,
+          "timestamp": 1783756800000,
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog. Mostly clear, with a low around 60. Wind around 0 mph."
+          "detailedForecast": "Patchy fog. Partly cloudy, with a low around 60. Northeast wind around 0 mph."
         },
         {
           "name": "Saturday",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1783753200000,
+          "timestamp": 1783756800000,
           "temp": 57,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Fog",
-          "detailedForecast": "Areas of fog. Mostly clear, with a low around 57. Wind around 0 mph."
+          "detailedForecast": "Areas of fog. Mostly clear, with a low around 57. South wind around 0 mph."
         },
         {
           "name": "Saturday",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: Request failed with status code 403"
   },
   "nordicConditions": {},
   "nubsNob": {
