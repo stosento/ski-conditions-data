@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-18T20:12:45.295Z",
+  "timestamp": "2026-07-18T21:13:42.122Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1784404800000,
+          "timestamp": 1784408400000,
           "temp": 90,
-          "snowfall": 38,
+          "snowfall": 8,
           "snowAmount": "",
           "shortForecast": "Patchy Smoke",
-          "detailedForecast": "Patchy smoke and a chance of showers and thunderstorms. Some of the storms could be severe. Mostly sunny. High near 90, with temperatures falling to around 84 in the afternoon. Northwest wind around 17 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
+          "detailedForecast": "Patchy smoke. Sunny. High near 90, with temperatures falling to around 84 in the afternoon. Northwest wind around 16 mph, with gusts as high as 25 mph. New rainfall amounts between a tenth and quarter of an inch possible."
         },
         {
           "name": "Tonight",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1784404800000,
+          "timestamp": 1784408400000,
           "temp": 71,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Areas Of Smoke",
-          "detailedForecast": "Areas of smoke. Mostly sunny, with a high near 71. Northwest wind around 15 mph."
+          "detailedForecast": "Areas of smoke. Mostly sunny. High near 71, with temperatures falling to around 69 in the afternoon. Northwest wind around 15 mph."
         },
         {
           "name": "Tonight",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1784404800000,
+          "timestamp": 1784408400000,
           "temp": 71,
           "snowfall": 0,
           "snowAmount": "",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
