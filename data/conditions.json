@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-28T12:29:52.132Z",
+  "timestamp": "2026-07-28T13:29:52.924Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1785240000000,
+          "timestamp": 1785243600000,
           "temp": 79,
           "snowfall": 16,
           "snowAmount": "",
           "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
-          "detailedForecast": "A slight chance of rain showers before noon. Mostly cloudy, with a high near 79. North wind 10 to 16 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of rain showers before noon. Mostly cloudy, with a high near 79. North wind 12 to 16 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
         },
         {
           "name": "Tonight",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1785240000000,
+          "timestamp": 1785243600000,
           "temp": 75,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 75. North wind 10 to 15 mph."
+          "detailedForecast": "Sunny, with a high near 75. North wind around 10 mph."
         },
         {
           "name": "Tonight",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1785240000000,
+          "timestamp": 1785243600000,
           "temp": 75,
           "snowfall": 0,
           "snowAmount": "",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
