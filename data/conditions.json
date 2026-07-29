@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-29T10:49:08.775Z",
+  "timestamp": "2026-07-29T11:41:03.112Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1785319200000,
+          "timestamp": 1785322800000,
           "temp": 80,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 80, with temperatures falling to around 78 in the afternoon. North northwest wind 7 to 13 mph, with gusts as high as 23 mph."
+          "detailedForecast": "Sunny. High near 80, with temperatures falling to around 78 in the afternoon. North wind 8 to 13 mph, with gusts as high as 23 mph."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1785319200000,
+          "timestamp": 1785322800000,
           "temp": 76,
           "snowfall": 1,
           "snowAmount": "",
@@ -268,7 +268,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1785319200000,
+          "timestamp": 1785322800000,
           "temp": 77,
           "snowfall": 0,
           "snowAmount": "",
@@ -396,7 +396,31 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Start Date:",
+          "content": "Monday, June 15, 2026"
+        },
+        {
+          "header": "End Date:",
+          "content": "Thursday, September 3, 2026"
+        },
+        {
+          "header": "Work Being Completed:",
+          "content": "Roundabout Construction"
+        },
+        {
+          "header": "Traffic Impact: The intersection will be closed to all through traffic",
+          "content": ". Please follow the posted detour route during construction."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": []
+    }
   },
   "nordicConditions": {},
   "nubsNob": {
