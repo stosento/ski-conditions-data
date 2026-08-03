@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-08-03T04:14:02.907Z",
+  "timestamp": "2026-08-03T06:00:21.289Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1785729600000,
+          "timestamp": 1785736800000,
           "temp": 58,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear. Low around 58, with temperatures rising to around 60 overnight. North wind around 9 mph, with gusts as high as 18 mph."
+          "detailedForecast": "Mostly clear. Low around 58, with temperatures rising to around 60 overnight. North northwest wind around 7 mph."
         },
         {
           "name": "Monday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1785729600000,
+          "timestamp": 1785736800000,
           "temp": 54,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear. Low around 54, with temperatures rising to around 56 overnight. North wind 0 to 5 mph."
+          "detailedForecast": "Clear. Low around 54, with temperatures rising to around 56 overnight. Northeast wind 0 to 5 mph."
         },
         {
           "name": "Monday",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Overnight",
-          "timestamp": 1785729600000,
+          "timestamp": 1785736800000,
           "temp": 50,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog after 2am. Mostly clear, with a low around 50. North wind around 0 mph."
+          "detailedForecast": "Patchy fog. Mostly clear, with a low around 50. North wind around 0 mph."
         },
         {
           "name": "Monday",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
