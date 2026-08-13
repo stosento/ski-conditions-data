@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T14:24:43.787Z",
+  "timestamp": "2026-08-13T15:17:44.443Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: getaddrinfo EAI_AGAIN www.metroparks.com"
   },
   "nordicConditions": {},
   "nubsNob": {
