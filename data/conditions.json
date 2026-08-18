@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-08-18T14:09:09.917Z",
+  "timestamp": "2026-08-18T15:05:50.939Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1787061600000,
+          "timestamp": 1787065200000,
           "temp": 86,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 86, with temperatures falling to around 84 in the afternoon. West wind 3 to 8 mph."
+          "detailedForecast": "Mostly sunny. High near 86, with temperatures falling to around 84 in the afternoon. West wind around 8 mph."
         },
         {
           "name": "Tonight",
@@ -137,7 +137,7 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1787061600000,
+          "timestamp": 1787065200000,
           "temp": 75,
           "snowfall": 48,
           "snowAmount": "",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Today",
-          "timestamp": 1787061600000,
+          "timestamp": 1787065200000,
           "temp": 78,
           "snowfall": 56,
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers then Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms between 2pm and 3pm, then showers and thunderstorms likely between 3pm and 4pm, then a chance of showers and thunderstorms. Partly sunny. High near 78, with temperatures falling to around 76 in the afternoon. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms between 2pm and 3pm, then showers and thunderstorms likely between 3pm and 4pm, then a chance of showers and thunderstorms. Partly sunny. High near 78, with temperatures falling to around 76 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Tonight",
@@ -396,31 +396,7 @@
     }
   },
   "metroparkConditions": {
-    "HuronMeadowsMetropark": {
-      "title": "Huron Meadows Metropark",
-      "sections": [
-        {
-          "header": "Start Date:",
-          "content": "Monday, June 15, 2026"
-        },
-        {
-          "header": "End Date:",
-          "content": "Thursday, September 3, 2026"
-        },
-        {
-          "header": "Work Being Completed:",
-          "content": "Roundabout Construction"
-        },
-        {
-          "header": "Traffic Impact: The intersection will be closed to all through traffic",
-          "content": ". Please follow the posted detour route during construction."
-        }
-      ]
-    },
-    "StonyCreekMetropark": {
-      "title": "Stony Creek Metropark",
-      "sections": []
-    }
+    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
   },
   "nordicConditions": {},
   "nubsNob": {
