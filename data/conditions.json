@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-08-31T02:01:03.218Z",
+  "timestamp": "2026-08-31T03:00:32.239Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1788141600000,
+          "timestamp": 1788145200000,
           "temp": 68,
           "snowfall": 47,
           "snowAmount": "",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms. Cloudy, with a low around 68. South southwest wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms. Cloudy, with a low around 68. South southwest wind around 3 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "name": "Monday",
@@ -137,12 +137,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1788141600000,
+          "timestamp": 1788145200000,
           "temp": 65,
           "snowfall": 62,
           "snowAmount": "",
-          "shortForecast": "Scattered Rain Showers then Scattered Showers And Thunderstorms",
-          "detailedForecast": "Scattered rain showers before 2am, then scattered showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 65. East wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between three quarters and one inch possible."
+          "shortForecast": "Isolated Rain Showers then Scattered Showers And Thunderstorms",
+          "detailedForecast": "Isolated rain showers before 2am, then scattered showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 65. East wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between three quarters and one inch possible."
         },
         {
           "name": "Monday",
@@ -268,12 +268,12 @@
       "forecast": [
         {
           "name": "Tonight",
-          "timestamp": 1788141600000,
+          "timestamp": 1788145200000,
           "temp": 65,
           "snowfall": 60,
           "snowAmount": "",
           "shortForecast": "Patchy Fog",
-          "detailedForecast": "Patchy fog and scattered rain showers before 2am, then patchy fog and scattered showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Cloudy, with a low around 65. Southeast wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
+          "detailedForecast": "Patchy fog and scattered rain showers before 2am, then patchy fog and scattered showers and thunderstorms between 2am and 5am, then a chance of showers and thunderstorms. Cloudy, with a low around 65. Southeast wind 0 to 5 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
         },
         {
           "name": "Monday",
@@ -396,7 +396,31 @@
     }
   },
   "metroparkConditions": {
-    "error": "Failed to fetch conditions: connect ETIMEDOUT 69.167.186.18:443"
+    "HuronMeadowsMetropark": {
+      "title": "Huron Meadows Metropark",
+      "sections": [
+        {
+          "header": "Start Date:",
+          "content": "Monday, June 15, 2026"
+        },
+        {
+          "header": "End Date:",
+          "content": "Thursday, September 3, 2026"
+        },
+        {
+          "header": "Work Being Completed:",
+          "content": "Roundabout Construction"
+        },
+        {
+          "header": "Traffic Impact: The intersection will be closed to all through traffic",
+          "content": ". Please follow the posted detour route during construction."
+        }
+      ]
+    },
+    "StonyCreekMetropark": {
+      "title": "Stony Creek Metropark",
+      "sections": []
+    }
   },
   "nordicConditions": {},
   "nubsNob": {
