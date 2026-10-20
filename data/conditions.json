@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-20T16:00:35.039Z",
+  "timestamp": "2026-10-20T17:00:35.187Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1792512000000,
+          "timestamp": 1792515600000,
           "temp": 67,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 67. East northeast wind around 5 mph."
+          "detailedForecast": "Sunny, with a high near 67. East wind around 5 mph."
         },
         {
           "name": "Tonight",
@@ -137,39 +137,170 @@
       "forecast": [
         {
           "name": "This Afternoon",
-          "timestamp": 1792512000000,
+          "timestamp": 1792515600000,
           "temp": 65,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 65, with temperatures falling to around 63 in the afternoon. Southeast wind 5 to 10 mph."
+          "detailedForecast": "Sunny, with a high near 65. Southeast wind 5 to 10 mph."
         },
         {
           "name": "Tonight",
           "timestamp": 1792533600000,
-          "temp": 42,
+          "temp": 44,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 42. Southeast wind around 5 mph."
+          "detailedForecast": "Mostly clear, with a low around 44. Southeast wind around 5 mph."
         },
         {
           "name": "Wednesday",
           "timestamp": 1792576800000,
-          "temp": 63,
+          "temp": 62,
           "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Patchy Fog then Mostly Sunny",
-          "detailedForecast": "Patchy fog between 7am and 8am. Mostly sunny. High near 63, with temperatures falling to around 61 in the afternoon. Southwest wind 5 to 10 mph."
+          "detailedForecast": "Patchy fog between 7am and 8am. Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. Southwest wind 5 to 10 mph."
         },
         {
           "name": "Wednesday Night",
           "timestamp": 1792620000000,
-          "temp": 41,
-          "snowfall": 3,
+          "temp": 43,
+          "snowfall": 2,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 41. Northwest wind 0 to 5 mph."
+          "detailedForecast": "Partly cloudy, with a low around 43. Northwest wind 0 to 5 mph."
+        },
+        {
+          "name": "Thursday",
+          "timestamp": 1792663200000,
+          "temp": 59,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 59. Northeast wind 0 to 5 mph."
+        },
+        {
+          "name": "Thursday Night",
+          "timestamp": 1792706400000,
+          "temp": 37,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Clear",
+          "detailedForecast": "Clear, with a low around 37."
+        },
+        {
+          "name": "Friday",
+          "timestamp": 1792749600000,
+          "temp": 62,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 62."
+        },
+        {
+          "name": "Friday Night",
+          "timestamp": 1792792800000,
+          "temp": 44,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 44."
+        },
+        {
+          "name": "Saturday",
+          "timestamp": 1792836000000,
+          "temp": 64,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 64."
+        },
+        {
+          "name": "Saturday Night",
+          "timestamp": 1792879200000,
+          "temp": 51,
+          "snowfall": 9,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 51."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1792922400000,
+          "temp": 62,
+          "snowfall": 16,
+          "snowAmount": "",
+          "shortForecast": "Slight Chance Rain Showers",
+          "detailedForecast": "A slight chance of rain showers between 8am and 2pm. Partly sunny, with a high near 62."
+        },
+        {
+          "name": "Sunday Night",
+          "timestamp": 1792965600000,
+          "temp": 44,
+          "snowfall": 9,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 44."
+        },
+        {
+          "name": "Monday",
+          "timestamp": 1793008800000,
+          "temp": 53,
+          "snowfall": 9,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 53."
+        },
+        {
+          "name": "Monday Night",
+          "timestamp": 1793052000000,
+          "temp": 38,
+          "snowfall": 12,
+          "snowAmount": "",
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 38."
+        }
+      ]
+    },
+    "otsegoResort": {
+      "name": "Otsego Resort",
+      "forecast": [
+        {
+          "name": "This Afternoon",
+          "timestamp": 1792515600000,
+          "temp": 65,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Sunny",
+          "detailedForecast": "Sunny, with a high near 65. Southeast wind around 5 mph."
+        },
+        {
+          "name": "Tonight",
+          "timestamp": 1792533600000,
+          "temp": 40,
+          "snowfall": 0,
+          "snowAmount": "",
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear. Low around 40, with temperatures rising to around 42 overnight. South wind around 5 mph."
+        },
+        {
+          "name": "Wednesday",
+          "timestamp": 1792576800000,
+          "temp": 64,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 64. Southwest wind 5 to 10 mph."
+        },
+        {
+          "name": "Wednesday Night",
+          "timestamp": 1792620000000,
+          "temp": 42,
+          "snowfall": 1,
+          "snowAmount": "",
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 42. Northwest wind 0 to 5 mph."
         },
         {
           "name": "Thursday",
@@ -177,35 +308,35 @@
           "temp": 60,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 60. Northeast wind around 5 mph."
+          "shortForecast": "Mostly Sunny",
+          "detailedForecast": "Mostly sunny, with a high near 60. North wind 0 to 5 mph."
         },
         {
           "name": "Thursday Night",
           "timestamp": 1792706400000,
-          "temp": 35,
+          "temp": 36,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 35."
+          "detailedForecast": "Mostly clear, with a low around 36."
         },
         {
           "name": "Friday",
           "timestamp": 1792749600000,
-          "temp": 60,
+          "temp": 62,
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 60."
+          "detailedForecast": "Sunny, with a high near 62."
         },
         {
           "name": "Friday Night",
           "timestamp": 1792792800000,
-          "temp": 40,
+          "temp": 41,
           "snowfall": 0,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 40."
+          "shortForecast": "Mostly Clear",
+          "detailedForecast": "Mostly clear, with a low around 41."
         },
         {
           "name": "Saturday",
@@ -220,7 +351,7 @@
           "name": "Saturday Night",
           "timestamp": 1792879200000,
           "temp": 49,
-          "snowfall": 3,
+          "snowfall": 5,
           "snowAmount": "",
           "shortForecast": "Mostly Cloudy",
           "detailedForecast": "Mostly cloudy, with a low around 49."
@@ -228,139 +359,8 @@
         {
           "name": "Sunday",
           "timestamp": 1792922400000,
-          "temp": 63,
-          "snowfall": 10,
-          "snowAmount": "",
-          "shortForecast": "Partly Sunny",
-          "detailedForecast": "Partly sunny, with a high near 63."
-        },
-        {
-          "name": "Sunday Night",
-          "timestamp": 1792965600000,
-          "temp": 45,
-          "snowfall": 11,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 45."
-        },
-        {
-          "name": "Monday",
-          "timestamp": 1793008800000,
-          "temp": 55,
-          "snowfall": 10,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 55."
-        },
-        {
-          "name": "Monday Night",
-          "timestamp": 1793052000000,
-          "temp": 36,
-          "snowfall": 8,
-          "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 36."
-        }
-      ]
-    },
-    "otsegoResort": {
-      "name": "Otsego Resort",
-      "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1792512000000,
-          "temp": 65,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 65, with temperatures falling to around 62 in the afternoon. Southeast wind around 5 mph."
-        },
-        {
-          "name": "Tonight",
-          "timestamp": 1792533600000,
-          "temp": 39,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 39. South wind around 5 mph."
-        },
-        {
-          "name": "Wednesday",
-          "timestamp": 1792576800000,
-          "temp": 65,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 65, with temperatures falling to around 63 in the afternoon. Southwest wind 5 to 10 mph."
-        },
-        {
-          "name": "Wednesday Night",
-          "timestamp": 1792620000000,
-          "temp": 41,
-          "snowfall": 2,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 41. Northwest wind 0 to 5 mph."
-        },
-        {
-          "name": "Thursday",
-          "timestamp": 1792663200000,
-          "temp": 61,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 61. North wind 0 to 5 mph."
-        },
-        {
-          "name": "Thursday Night",
-          "timestamp": 1792706400000,
-          "temp": 34,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 34."
-        },
-        {
-          "name": "Friday",
-          "timestamp": 1792749600000,
-          "temp": 59,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 59."
-        },
-        {
-          "name": "Friday Night",
-          "timestamp": 1792792800000,
-          "temp": 37,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 37."
-        },
-        {
-          "name": "Saturday",
-          "timestamp": 1792836000000,
-          "temp": 62,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 62."
-        },
-        {
-          "name": "Saturday Night",
-          "timestamp": 1792879200000,
-          "temp": 45,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 45."
-        },
-        {
-          "name": "Sunday",
-          "timestamp": 1792922400000,
           "temp": 64,
-          "snowfall": 6,
+          "snowfall": 8,
           "snowAmount": "",
           "shortForecast": "Partly Sunny",
           "detailedForecast": "Partly sunny, with a high near 64."
@@ -368,29 +368,29 @@
         {
           "name": "Sunday Night",
           "timestamp": 1792965600000,
-          "temp": 43,
-          "snowfall": 8,
+          "temp": 42,
+          "snowfall": 9,
           "snowAmount": "",
-          "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 43."
+          "shortForecast": "Mostly Cloudy",
+          "detailedForecast": "Mostly cloudy, with a low around 42."
         },
         {
           "name": "Monday",
           "timestamp": 1793008800000,
-          "temp": 56,
-          "snowfall": 10,
+          "temp": 54,
+          "snowfall": 11,
           "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny, with a high near 56."
+          "shortForecast": "Partly Sunny",
+          "detailedForecast": "Partly sunny, with a high near 54."
         },
         {
           "name": "Monday Night",
           "timestamp": 1793052000000,
-          "temp": 34,
-          "snowfall": 8,
+          "temp": 36,
+          "snowfall": 14,
           "snowAmount": "",
-          "shortForecast": "Mostly Cloudy",
-          "detailedForecast": "Mostly cloudy, with a low around 34."
+          "shortForecast": "Partly Cloudy",
+          "detailedForecast": "Partly cloudy, with a low around 36."
         }
       ]
     }
