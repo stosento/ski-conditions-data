@@ -1,18 +1,9 @@
 {
-  "timestamp": "2026-11-15T22:00:23.934Z",
+  "timestamp": "2026-11-15T23:00:29.732Z",
   "weather": {
     "shelbyTownship": {
       "name": "Shelby Township",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1794776400000,
-          "temp": 47,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Cloudy",
-          "detailedForecast": "Cloudy. High near 47, with temperatures falling to around 44 in the afternoon. North northwest wind around 7 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1794783600000,
@@ -56,7 +47,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 36."
+          "detailedForecast": "Mostly clear, with a low around 36. Southwest wind around 6 mph."
         },
         {
           "name": "Wednesday",
@@ -129,21 +120,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Light Rain",
           "detailedForecast": "A chance of rain after 7pm. Partly cloudy, with a low around 46."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1795345200000,
+          "temp": 56,
+          "snowfall": 29,
+          "snowAmount": "",
+          "shortForecast": "Chance Light Rain",
+          "detailedForecast": "A chance of rain. Partly sunny, with a high near 56."
         }
       ]
     },
     "nubsNob": {
       "name": "Nubs Nob",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1794776400000,
-          "temp": 45,
-          "snowfall": 1,
-          "snowAmount": "",
-          "shortForecast": "Sunny",
-          "detailedForecast": "Sunny. High near 45, with temperatures falling to around 41 in the afternoon. Northwest wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1794783600000,
@@ -169,7 +160,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 42. Southwest wind around 15 mph, with gusts as high as 30 mph."
+          "detailedForecast": "Partly cloudy. Low around 42, with temperatures rising to around 44 overnight. Southwest wind around 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Tuesday",
@@ -187,7 +178,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 43."
+          "detailedForecast": "Partly cloudy, with a low around 43. Southwest wind around 15 mph, with gusts as high as 30 mph."
         },
         {
           "name": "Wednesday",
@@ -260,21 +251,21 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 41."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1795345200000,
+          "temp": 46,
+          "snowfall": 36,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 46."
         }
       ]
     },
     "otsegoResort": {
       "name": "Otsego Resort",
       "forecast": [
-        {
-          "name": "This Afternoon",
-          "timestamp": 1794776400000,
-          "temp": 45,
-          "snowfall": 0,
-          "snowAmount": "",
-          "shortForecast": "Mostly Sunny",
-          "detailedForecast": "Mostly sunny. High near 45, with temperatures falling to around 42 in the afternoon. Northwest wind around 5 mph."
-        },
         {
           "name": "Tonight",
           "timestamp": 1794783600000,
@@ -318,7 +309,7 @@
           "snowfall": 0,
           "snowAmount": "",
           "shortForecast": "Partly Cloudy",
-          "detailedForecast": "Partly cloudy, with a low around 40."
+          "detailedForecast": "Partly cloudy, with a low around 40. Southwest wind 10 to 15 mph, with gusts as high as 25 mph."
         },
         {
           "name": "Wednesday",
@@ -391,6 +382,15 @@
           "snowAmount": "",
           "shortForecast": "Chance Rain Showers",
           "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 41."
+        },
+        {
+          "name": "Sunday",
+          "timestamp": 1795345200000,
+          "temp": 46,
+          "snowfall": 38,
+          "snowAmount": "",
+          "shortForecast": "Chance Rain Showers",
+          "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 46."
         }
       ]
     }
